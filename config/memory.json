@@ -1,0 +1,65 @@
+{
+    "develop and optimize rag retrievalaugmented generation systems for aipowered applications": {
+        "answer": "Yes, i have developed and built and also optimized RAG based systems for AI-powered applications",
+        "category": "generic",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-05-23T15:59:29.746017"
+    },
+    "integrate and work with large language models llms for enterprise use cases": {
+        "answer": "Yes, i have developed and built and also optimized RAG based systems for AI-powered applications",
+        "category": "generic",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-05-23T15:59:45.901574"
+    },
+    "how soon can you join us": {
+        "answer": "15 days",
+        "category": "generic",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-05-23T16:01:04.588426"
+    },
+    "whats your jee advance air required for data saving and tracking purposes only": {
+        "answer": "19126",
+        "category": "generic",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-05-23T17:53:54.491022"
+    },
+    "python experience": {
+        "answer": "2 years",
+        "category": "experience",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-05-27T01:14:48.728601"
+    },
+    "react experience": {
+        "answer": "1 year",
+        "category": "experience",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-05-27T01:14:48.730141"
+    },
+    "ml experience": {
+        "answer": "1.5 years",
+        "category": "experience",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-05-27T01:14:48.730664"
+    },
+    "c experience": {
+        "answer": "1",
+        "category": "experience",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-05-27T14:14:23.373124"
+    },
+    "self rating in oops problem solving": {
+        "answer": "8",
+        "category": "generic",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-05-27T14:13:58.833049"
+    }
+}

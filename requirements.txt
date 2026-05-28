@@ -1,0 +1,21 @@
+# Browser automation
+selenium==4.25.0
+undetected-chromedriver==3.5.5
+webdriver-manager==4.0.2
+
+# Data exports and storage
+pandas==2.2.3
+openpyxl==3.1.5
+
+# Parsing, HTTP helpers, and user-agent generation
+beautifulsoup4==4.12.3
+requests==2.32.3
+fake-useragent==1.5.1
+
+# Existing project integrations
+pyautogui==0.9.54
+setuptools==75.1.0
+openai==1.51.2
+flask==3.0.3
+flask-cors==5.0.0
+google-generativeai==0.8.3

@@ -1,0 +1,20 @@
+Manvendra Singh - Cover Letter
+Manvendra Singh
+manvendra9830@gmail.com | +91-9662789830
+Dear Hiring Manager,
+I am a B.Tech Computer Science student at IIIT Raichur (2026) with hands-on experience in
+building real-world AI/ML systems, particularly in LLM-based applications, Retrieval-Augmented
+Generation (RAG), and scalable ML pipelines. Currently, as an AI Intern at Darwix AI, I am
+developing LLM-driven applications and automation workflows using AI agents, focusing on
+integrating embeddings, vector search, and prompt engineering for production-ready systems.
+Previously, at IIT Madras (WSDSAI), I built a scalable Visual Place Recognition pipeline using deep
+learning and FAISS for efficient large-scale retrieval, along with optimization techniques like pruning
+and quantization. My projects further demonstrate strong practical exposure—developing an AI
+agent system (Empathy Engine) using RAG, building LLM-based persona generation systems, and
+applying LSTM models for time-series forecasting in environmental analysis.
+My core strengths include Python, PyTorch, ML system design, vector search, and end-to-end
+pipeline development. I am particularly interested in building scalable AI systems that bridge
+research and real-world deployment. I am eager to contribute to impactful AI/ML projects while
+continuing to grow as an engineer.
+Sincerely,
+Manvendra Singh

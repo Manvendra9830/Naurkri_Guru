@@ -1,0 +1,47 @@
+Manvendra Singh
+Email: manvendra9830@gmail.com|Phone: +91 9662789830|PortFolio: https://my-portfolio-puce-gamma-77.vercel.app/
+GitHub: github.com/Manvendra9830|LinkedIn: linkedin.com/in/manvendra-singh-837874290/
+Education
+Indian Institute of Information Technology Raichur -B.Tech in CSE,CGPA: 8.41/10 2022 – Present
+Green Valley High School -Intermediate:92% 2021 – 2022
+Skills and Tools
+Programming & Frameworks:Python, C++, JavaScript, Flask, Django, React.js
+Machine Learning & Deep Learning:Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation,
+Cross-Validation, Time Series Forecasting, PyTorch, TensorFlow
+NLP & LLMs:Transformers, Embeddings, Prompt Engineering, RAG, N8N, LangChain, LLM Application
+Development
+ML Engineering & MLOps:Data Pipelines, Experiment Tracking, Model Optimization (Quantization, Pruning),
+FAISS (Vector Search), Model Deployment (APIs)
+Data & Visualization:Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Google Earth Engine
+Tools & Platforms:Git, GitHub, VS Code, Ollama
+Work Experience
+AI Intern March 2026 – Present
+Darwix AI
+•Developing LLM-based applications using RAG and vector search.
+•Building AI-driven automation workflows using agents for task optimization and scalability.
+Research Intern May 2025 - Nov 2025
+Wadhwani School of Data Science and AI, IIT Madras[certificate]
+•Designed a scalable visual place recognition pipeline using PyTorch and deep learning feature extraction.
+•Implemented FAISS-based vector search enabling efficient large-scale image retrieval.
+Head of Corporate Relations in T&P CellJan 2025 – Present
+IIIT Raichur
+•Led corporate outreach and built partnerships to enhance placement and internship opportunities.
+•Coordinated hiring drives, hackathons, and institute–industry events ensuring smooth execution.
+Projects
+Empathy Engine (AI Agent System)|LLMs, RAG, AutomationMarch 2026
+•Built an AI agent system leveraging LLMs and Retrieval-Augmented Generation (RAG) for context-aware
+responses.
+•Designed pipelines integrating embeddings, vector search, and prompt engineering for improved response quality.
+•Developed automation workflows to handle dynamic tasks using AI agents and scalable backend logic.
+Visual Place Recognition Pipeline|PyTorch, FAISS, Deep LearningMay–Nov 2025
+•Designed a scalable visual place recognition pipeline using deep learning feature extraction techniques.
+•Integrated FAISS-based vector search for efficient large-scale image retrieval.
+•Optimized inference performance using model pruning and quantization techniques.
+Reddit Persona Generator|Application|Python, LLMs, OllamaAug–Oct 2025
+•Built a data pipeline to scrape and structure Reddit user activity using PRAW.
+•Developed LLM-based persona generation using embeddings and prompt engineering techniques.
+•Deployed an application to generate evidence-backed persona profiles from user-generated content.
+Certifications & Achievements
+•Kaggle’s 5-Day Generative AI Intensive Course with Google.[certificate] [Blog]Apr 2025
+•First Runner-up in Luminous Techno-X hackathon 2024[certificate]Dec 2024
+•Teaching Assistant – Software Engineering, Mathematics[SE] [Maths]Jun-Dec 2024
