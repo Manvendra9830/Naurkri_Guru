@@ -21,6 +21,10 @@ logs/
 config/personals.py
 config/secrets.py
 config/email/
+.env
+*.env
+**/.env
+**/*.env
 
 # Databases
 *.sqlite3
