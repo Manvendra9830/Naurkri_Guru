@@ -1,0 +1,39 @@
+About the job
+Forward Deployed Engineer
+
+About The Role
+
+As a Junior Forward Deployed Engineer, you will make an impact by building and deploying real-world Generative AI and agentic solutions directly within client environments. You will be a valued member of the AI engineering team and work collaboratively with client stakeholders, engineers, and architects to turn complex problems into working software—fast.
+
+In This Role, You Will
+
+Embed directly at client sites to prototype and deploy agentic AI workflows using frameworks such as LangGraph, CrewAI, AutoGen, or AWS Bedrock Agents — shipping working code, not slide decks
+Build and deploy agentic AI workflows and applications within client environments using modern AI frameworks
+Develop end-to-end RAG pipelines, including retrieval optimization, vector databases, and response evaluation
+Instrument AI applications with observability and monitoring tools to ensure production readiness
+Collaborate closely with client teams through stand-ups, design reviews, and feedback loops
+Rapidly prototype and iterate solutions, delivering working demos and production-ready code in short cycles
+
+Work model
+
+At Cognizant, we strive to provide flexibility wherever possible, and we are here to support a healthy work-life balance through our various wellbeing programs. Based on this role’s business requirements, this is a Work from Office (In Office) position requiring presence in a client or Cognizant office.
+
+The working arrangements for this role are accurate as of the date of posting. This may change based on the project you’re engaged in, as well as business and client requirements. Rest assured; we will always be clear about role expectations.
+
+What You Need To Have To Be Considered
+
+Strong programming skills in Python with working knowledge of JavaScript/TypeScript
+Experience with REST APIs, Git, CI/CD basics, and containerization (Docker)
+Familiarity with SQL and at least one cloud platform (AWS, Azure, or GCP)
+Hands-on experience building Generative AI solutions (RAG or agent-based applications)
+Understanding of prompt engineering, LLM evaluation, and agentic workflows
+
+These will help you stand out
+
+Experience building and shipping real AI projects (GitHub, hackathons, or production work)
+Familiarity with agent frameworks and orchestration concepts (tools, memory, planning loops)
+Exposure to LLM observability and evaluation tools
+Strong problem-solving mindset with the ability to work in ambiguous, fast-paced environments
+Confidence to collaborate with clients and adapt quickly based on feedback
+
+We’re excited to meet people who share our mission and can make an impact in a variety of ways. Don’t hesitate to apply, even if you only meet the minimum requirements listed. Think about your transferable experiences and unique skills that make you stand out as someone who can bring new and exciting perspectives to this role.

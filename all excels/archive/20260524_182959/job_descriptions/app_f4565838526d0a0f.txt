@@ -1,0 +1,140 @@
+About the job
+AI-Native Software Developer / Full Stack Developer
+
+About TALENSER
+
+(www.talenser.com) is building a proof-based hiring intelligence platform for the AI era.
+
+We are not another traditional job portal.
+
+Our mission is to help companies identify genuinely skilled talent through:
+
+- AI-powered assessments
+- GitHub/project validation
+- AI-assisted interviews
+- skill intelligence
+- and proof-based hiring workflows
+
+We’re currently expanding our early verified technical talent ecosystem.
+
+---
+
+Role Overview
+
+We are looking for passionate and adaptable AI-native developers who:
+
+- love building products,
+- work with modern technologies,
+- understand AI-assisted workflows,
+- and enjoy solving real-world problems.
+
+This role is ideal for:
+
+- Full Stack Developers
+- Frontend Developers
+- Backend Developers
+- AI/ML Enthusiasts
+- Startup-minded Engineers
+- Modern Software Developers
+
+---
+
+Skills We’re Looking For
+
+Developers experienced with one or more of the following:
+
+Frontend
+
+- React.js
+- Next.js
+- Vue.js
+- Angular
+- TypeScript
+- JavaScript
+
+Backend
+
+- Node.js
+- Python
+- Java
+- Go
+- Express.js
+- APIs
+
+Cloud & Infrastructure
+
+- Cloudflare
+- AWS
+- Docker
+- CI/CD
+
+Databases
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+
+AI & Modern Development
+
+- AI integrations
+- OpenAI APIs
+- AI-assisted workflows
+- GitHub projects
+- Modern development tools
+
+---
+
+What We Value Most
+
+We care more about:
+
+- projects,
+- GitHub activity,
+- execution ability,
+- adaptability,
+- and problem-solving
+
+than traditional resume filtering alone.
+
+Strong builders, self-learners, and underrated talent are highly encouraged to apply.
+
+---
+
+Why Join
+
+- Work on AI-native systems
+- Startup environment with ownership
+- Modern tech ecosystem exposure
+- Opportunity to work with futuristic hiring infrastructure
+- Skill-focused ecosystem
+- High-growth learning opportunity
+
+---
+
+Important Application Step
+
+To complete your application, candidates are strongly encouraged to register on our platform and submit their profile for verification.
+
+Platform: www.talenser.com
+
+Please include:
+
+- Resume
+- GitHub profile
+- Portfolio/projects
+- LinkedIn (optional)
+
+---
+
+Location
+
+Remote / Hybrid
+
+Experience
+
+Open to skilled freshers, students, freelancers, and experienced developers.
+
+Employment Type
+
+Full-Time / Internship / Contract

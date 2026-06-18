@@ -1,0 +1,108 @@
+About the job
+Please find the detailed job description below for your reference. We believe this opportunity would be an excellent fit for talented students.
+
+Job Title: AI-Native Engineer
+
+Company: Onelab Ventures
+
+Location: Hinjewadi Phase 1, Pune(Hybrid)
+
+Education: B.Tech / M.Tech (CS, IT, ECE, or related disciplines)
+
+About Us
+
+Onelab Ventures is a fast-growing, product-driven company building AI-first solutions across industries. We leverage Generative AI, LLMs, and automation to create scalable, high-impact products. Our culture is centred around innovation, ownership, and fast execution.
+
+Role Overview
+
+We are looking for an AI-Native Engineer who can design and build AI-first applications where AI is the core foundation, not just a feature.
+
+You will work on LLM-powered systems, AI agents, and intelligent workflows, collaborating closely with product and engineering teams to deliver scalable AI solutions.
+
+Key Responsibilities
+
+AI Application Development
+
+Build and deploy AI-native applications using LLMs and GenAI tools
+Develop features like chatbots, copilots, and AI assistants
+Integrate AI capabilities into production systems
+
+LLM Integration & Prompt Engineering
+
+Work with Open AI / Anthropic / Hugging Face APIs
+Design and optimize prompts, system instructions, and workflows
+Implement function calling and tool usage
+
+RAG & Data Pipelines
+
+Build Retrieval-Augmented Generation (RAG) systems
+Work with embeddings and vector databases
+Handle data ingestion, chunking, and semantic search
+
+Backend & System Design
+
+Develop scalable backend systems using Python / Node.js
+Build APIs and microservices for AI applications
+Ensure performance, scalability, and reliability
+
+AI Agents & Automation
+
+Develop AI agents and multi-step workflows
+Work with frameworks like LangChain, LlamaIndex, AutoGen, CrewAI
+Automate complex tasks using AI
+
+Evaluation & Optimization
+
+Evaluate model outputs and improve accuracy
+Reduce hallucinations and optimize prompts
+Optimize latency and token cost
+
+Required Skills & Qualifications
+
+Core Technical Skills
+
+Strong proficiency in Python (mandatory)
+Experience with APIs and backend development
+Good understanding of data structures and system design
+
+AI / GenAI Skills (Must-Have)
+
+Hands-on experience with:
+LLMs (GPT, Claude, etc.)
+Prompt Engineering
+RAG pipelines
+Understanding of:
+Embeddings
+Semantic search
+NLP basics
+Tools & Frameworks
+
+Experience with:
+LangChain / LlamaIndex
+Vector DBs (Pinecone, FAISS, Weaviate, Chroma)
+Familiarity with Hugging Face ecosystem
+Cloud & Deployment
+
+Experience with AWS / GCP / Azure
+Knowledge of Docker and CI/CD pipelines
+
+Preferred Qualifications
+
+Experience building AI SaaS products
+Exposure to AI agents / autonomous systems
+Start-up or fast-paced environment experience
+Basic frontend knowledge (React) is a plus
+
+What We’re Looking For
+
+Strong problem-solving mindset
+Ability to work in fast execution cycles
+High ownership and accountability
+Passion for building AI-first products
+
+Why Join Onelab Ventures
+
+Work on cutting-edge AI-native systems
+High ownership and real product impact
+Fast learning and growth environment
+Opportunity to build next-gen AI products

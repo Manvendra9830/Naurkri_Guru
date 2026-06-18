@@ -1,0 +1,39 @@
+About the job
+Role Description
+
+We are looking for a Java Technical Architect to design, build, and govern scalable, high-performance microservices-based solutions. The role requires deep technical expertise along with the ability to guide teams on architecture and best practices.
+
+Mandatory Skills
+
+Strong expertise in Java
+Extensive experience with Spring / Spring Boot
+Proven hands-on experience in Microservices architecture
+Experience with Apache Kafka (event-driven systems, messaging, streaming)
+Strong knowledge of PostgreSQL (data modeling, performance tuning)
+Experience designing scalable, resilient, and high-availability systems
+Strong understanding of REST APIs, distributed systems, and design patterns
+Ability to perform architecture reviews, code reviews, and technical design walkthroughs
+Experience working in Agile / DevOps environments
+
+Nice to Have
+
+Experience with cloud platforms (AWS / Azure / GCP)
+Exposure to Docker & Kubernetes
+Knowledge of CI/CD pipelines
+Experience in domain-driven design (DDD)
+Prior experience mentoring or leading development teams
+
+Key Responsibilities
+
+Define and own end-to-end technical architecture
+Translate business requirements into scalable technical solutions
+Guide development teams on architecture, standards, and best practices
+Ensure performance, security, reliability, and maintainability of systems
+Collaborate with stakeholders, engineers, and leadership teams
+
+Skills
+
+java,spring boot,kafka development,api development,gitlab,cicd
+
+Desired Skills and Experience
+java,spring boot,kafka development,api development,gitlab,cicd

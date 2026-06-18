@@ -1,0 +1,56 @@
+About the job
+Home / Current Openings / AI Software Engineer-1
+
+AI Software Engineer-1
+
+ Job Type : Full-Time
+ Location : Chennai (WFO)
+
+Job Description: 
+
+As an AI Software Engineer – 1, you will be a key contributor to the design, development, and deployment of AI-driven solutions across both Computer Vision and Large Language Model (LLM) domains. You will be responsible for building deep learning models, writing scalable and maintainable code, and integrating these models into production-grade systems. The role demands a strong foundation in AI/ML theory, proficiency in practical deep learning, and a hands-on approach to software development. 
+You will work closely with cross-functional teams to translate business requirements into working AI solutions—ranging from real-time vision systems to NLP pipelines and user-facing interfaces that interact with AI services. 
+We are looking for candidates who can thrive in a technically diverse environment and are enthusiastic about pushing the boundaries of applied AI. 
+
+ 
+
+Responsibilities: 
+
+Software Engineering & System Integration 
+
+Write clean, modular, production-ready code for inference pipelines and AI systems. 
+Develop andmaintaininterfaces and user-facing components for AI tools and services. 
+Collaborate with backend and platform teams to integrate models into scalable systems. 
+Contribute to CI/CD pipelines, code reviews, testing strategies, and performance monitoring. 
+
+ 
+
+Deep Learning & AI Model Development
+
+Design, train, and evaluate deep learning models for CV and NLP use cases.
+Develop end-to-end solutions for:  Computer Vision tasks (object detection, segmentation, OCR, activity recognition).
+Language-related tasks (document parsing, question answering, summarization, RAG pipelines, Building LLM Agents to solve tasks).
+Optimize model performance using benchmarking and validation against real-world datasets. 
+
+Data Management & Curation 
+
+Plan, collect, and preprocess data across modalities (images, video, text). 
+Coordinate with internal teams and vendors for annotation and validation tasks. 
+Define data versioning, quality control, and reproducibility standards. 
+
+Research & Innovation
+
+ Keep up with the latest in deep learning, computer vision, and LLM advancements. 
+Prototype and evaluate new architectures (e.g.,ViTs, SAM, LVMs, LLMs likeLLaMA, GPT, Mistral). 
+Publish internal documentation and contribute to tech blogs or open-source codebases whereappropriate. 
+
+ 
+
+Requirements: 
+
+Strong programming skills in Python with hands-on experience using deep learning frameworks (PyTorch/TensorFlow), LLM’s frameworks (Autogen/SmolAgents/Langchain) &   VLM’s .
+1+years of experience building AI models in at least one domain (CV or NLP). 
+Proficiency in modellifecycle: training, validation, deployment, and monitoring. 
+Experience working with Git, Docker, and Linux-based environments. 
+Good understanding of ML fundamentals: CNNs, Transformers, LLMs, optimization techniques. 
+Ability to build simple UI components that interface with backend AI services. 

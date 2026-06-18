@@ -1,0 +1,29 @@
+About the job
+Company Description
+Stage-X Space is innovating the way businesses operate by revolutionizing enterprise data with cutting-edge advancements in Artificial Intelligence. Focused on driving efficiency, productivity, and growth, Stage-X Space delivers transformative AI solutions tailored for diverse industries. By leveraging powerful AI technologies, the company empowers organizations to make data-driven decisions and solve complex challenges.
+Role Description
+We are looking for an Applied AI / ML Engineer to build intelligent orchestration systems powering next-generation AI agents.
+This role focuses on semantic intent routing, LLM workflows, and agentic AI infrastructure rather than traditional model research.
+You will work on:
+AI agent orchestration
+semantic routing systems
+tool selection pipelines
+LangGraph workflows
+structured reasoning systems
+lightweight LLM optimization
+production AI execution architectures
+The ideal candidate understands how to transform fuzzy human requests into reliable, structured execution pipelines while optimizing latency, accuracy, and cost.
+You will collaborate closely with backend and frontend engineering teams to build scalable AI systems for enterprise automation.
+
+Qualifications
+Strong Python programming skills
+Experience with LLMs and AI agent frameworks
+Familiarity with LangGraph, LangChain, or similar orchestration systems
+Experience building production AI systems
+Understanding of semantic routing and tool-calling architectures
+Knowledge of vector databases and embeddings
+Experience with FastAPI or backend API development
+Strong problem-solving and system design skills
+Familiarity with cloud platforms such as AWS, GCP, or Azure
+How to Apply
+Ready to shape the future of AI? Please send your resume and a brief cover letter to: 📧 hrconnect@stage-x.space

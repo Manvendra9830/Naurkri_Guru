@@ -1,0 +1,60 @@
+About the job
+Job Description
+
+Are you excited to work with innovative security products?
+
+Do you relish the prospect of working with cutting-edge network security systems?
+
+Join our world-class Enterprise Security Team
+
+Our team builds and delivers zero trust security solutions for enterprise customers. Our mission is to provide Segmentation and threat protection solutions to enterprises. Powered by Akamai's global Intelligent Edge Platform, Enterprise Threat Protector proactively identifies, blocks, and mitigates targeted threats. It mitigates ransomware, phishing, DNS data exfiltration and advanced zero-day attacks and helps segment the network.
+
+Partner with the best
+
+As a Software Engineer, you'll help to build Akamai's Zero Trust platform into a worldwide leader. You'll be crucial to the development of best-in-class security features. Leveraging your knowledge in Networking/multi-cloud/distributed environments, you'll make a global impact on Enterprises/applications, users and their workloads.
+
+As a Software Engineer, You Will Be Responsible For
+
+Building & enhance products/services for Akamai Edge and VM based products that gets deployed within Enterprise perimeter
+Taking ownership for technical and product innovation, implementing proof of concepts, analyzing systems, and proposing solutions
+Collaborating with software engineering teams in an Agile environment on code review, design process and product development
+Working closely with product management to enhance new releases
+Coordinating deployment strategy and system changes, participating in timeline planning and release schedules
+
+Do What You Love
+
+To be successful in this role you will:
+
+Have experience in software development and Bachelor's degree in Computer Science or it's equivalent
+Have experience in coding with Python on Linux
+Have knowledge about Golang & C/C++
+Have basic knowledge on computer networks including TCP/IP, HTTP, SSL, DNS
+Be comfortable with working in a Linux/Unix environment
+
+About Us
+
+At Akamai, we make life better for billions of people, trillions of times a day.
+
+Whether you're streaming live events, scrolling social media, watching your favorite series, or managing your savings, we're the engine behind the scenes. We provide the world's most distributed platform from Cloud to Edge to help the giants of the digital world work faster and stay more secure, making the internet a better experience for everyone.
+
+Our Focus Is Simple
+
+Cloud and Edge: Running apps closer to users for instant performance.
+
+Security: Neutralizing threats before they ever reach your data.
+
+Content Delivery: Scaling the world's biggest moments without a glitch.
+
+AI: Enabling our customers to build, secure, and scale AI apps on the world's most distributed cloud platform.
+
+At Akamai, we don't just support the internet; we power and protect it, because behind every great digital experience is a massive hidden challenge. And we're the ones who solve it. When millions of people hit play or pay, Akamai ensures it just works.
+
+Benefits at Akamai: We support your health, well-being, finances, and life beyond work. See our benefits.
+
+FlexBase adapts to your job's needs
+
+Akamai's FlexBase program is yet another way we show our commitment to providing employees with an exceptional workplace experience. It's not about telling employees where to work; it's about supporting employees to do their best work.
+
+We trust our incredible employees to work in ways that suit them best: at home, in an office, or a combination of both.
+
+Connect with us on social and see what life at Akamai is like!

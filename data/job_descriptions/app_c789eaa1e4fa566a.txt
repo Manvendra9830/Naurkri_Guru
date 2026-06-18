@@ -1,0 +1,49 @@
+About the job
+We are building an early-stage AI team and looking for a Junior AI Engineer to help design and ship AI/ML solutions for business workflows. You will work in a team, combining hands-on coding, model development, and experimentation with local LLMs (via Ollama) to automate and optimize operations.
+
+Mandatory Skills
+
+ AI/ML models, Python, Core ML concepts, ML framework (Scikit‑learn/TensorFlow/PyTorch), MLOps, SQL/NoSQL, Messaging/queue systems
+
+Key Responsibilities
+
+ Build and maintain AI/ML solutions focused on business workflows.
+ Implement end‑to‑end pipelines: data collection, preprocessing, feature engineering, model training, evaluation, and deployment.
+ Work with local LLMs (via Ollama) and traditional ML models to solve practical automation problems.
+ Set up initial MLOps practices from scratch (basic experiment tracking, versioning, simple CI/CD and monitoring for models).
+ Collaborate with senior engineers on solution design while spending most of your time writing and improving code.
+ Integrate models into applications and services through APIs or microservices.
+ Prepare clear documentation of data flows, model behavior, assumptions, and limitations.
+ Participate in client demos and discussions to showcase AI solutions and understand requirements.
+ Contribute to AI governance activities such as documenting risks, bias considerations, and approval workflows for new AI features.
+
+Required Qualifications
+
+ 0–1 year of experience as an AI/ML Engineer, Data Scientist, or similar role, or strong academic/personal projects in AI/ML.
+ Bachelor’s degree in Computer Science, Engineering, Data Science, Mathematics, or equivalent practical experience.
+ Solid Python skills for data processing and model development.
+ Understanding of core ML concepts: supervised/unsupervised learning, evaluation metrics, overfitting, etc.
+ Experience with at least one ML framework (e.g., scikit‑learn, TensorFlow, or PyTorch).
+ Ability to work with databases (SQL/NoSQL) and basic messaging/queue systems to move data in and out of models.
+ Strong problem‑solving mindset, eagerness to learn, and comfort working in a fast‑moving environment.
+ Good communication skills and willingness to collaborate in a team and with non‑technical stakeholders.
+
+Nice To Have
+
+ Experience running or fine‑tuning local LLMs (e.g., via Ollama) or other open‑source models.
+ Exposure to workflow automation, or operations-heavy domains.
+ Familiarity with basic MLOps tools (MLflow, DVC, Weights & Biases) and containerization (Docker).
+ Basic knowledge of any cloud platform (AWS, Azure, GCP) for deploying services.
+ Experience integrating ML models into web backends (REST APIs, microservices, Node.js/Next.js).
+ Understanding of vector databases or simple retrieval/RAG systems for LLM-based solutions.
+ Awareness of ethical AI, bias, and privacy considerations.
+
+Why Join Us
+
+ Be part of a 0→1 AI team, helping to set up AI/ML infrastructure and practices from the ground up.
+ Work on real-world automation problems with direct business impact, across multiple domains and products.
+ Grow your skills quickly under the guidance of experienced engineers and exposure to modern AI tooling and local LLMs.
+
+Location:
+
+ Trivandrum (WFO)

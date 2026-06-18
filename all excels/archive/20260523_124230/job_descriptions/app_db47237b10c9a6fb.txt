@@ -1,0 +1,63 @@
+About the job
+Overview
+
+ JOB DESCRIPTION 
+
+At Peloton, we don't just implement technology. We transform the way organizations work, compete, and grow. Recognized on the Inc. 5000 list of fastest-growing companies in the US, Peloton is one of the most respected and fastest-growing global Oracle consulting firms, delivering Advisory, Consulting, and Managed Services to leading organizations across many industries, including Retail, Financial Services, Manufacturing, Consumer Packaged Goods, and more.
+
+Peloton Consulting Group has the vision and connected global capabilities to help organizations envision, implement, and realize the benefits of digital transformation. Our team has the best practices, knowledge, industry expertise, and know-how. We make digital transformation a reality by leveraging AI, Enterprise Performance Management (EPM), Enterprise Resource Planning (ERP), Supply Chain Management (SCM), Human Capital Management (HCM), Customer Experience (CX), Analytics, and Data Management for the cloud. Through connected capabilities, we bring people, processes, and technology together. We help organizations go further faster. That is the Peloton way!
+
+What truly sets us apart is our people. We are team players. We are energetic and entrepreneurial. We are problem solvers and innovative thinkers who believe the best outcomes are built together. We believe in quality, appreciate creativity, recognize individual contributions, and place trust in every member of our team. If you bring strong business or technical expertise and want to do meaningful work alongside people who are equally passionate about getting it right, we think you'll feel right at home here.
+
+We are seeking an AI Engineer to support the design, development, and deployment of AI-driven solutions for our clients. This role is ideal for a technically strong early-career professional who is passionate about applied AI, enjoys problem-solving, and wants exposure to real world enterprise use cases across industries.
+
+Key Responsibilities
+
+As an AI Engineer, you will be responsible for:
+
+ Design, develop, and maintain machine learning and AI models under guidance from senior team members. 
+ Assist in building data pipelines for model training, validation, and deployment. 
+ Develop and integrate AI/ML models into applications and client systems. 
+ Support generative AI and LMM-based use cases (e.g., chatbots, summarization, recommendation engines) 
+ Perform model evaluation, tuning, and optimization to improve performance and accuracy. 
+ Document models, code, and technical processes clearly for internal and client use. 
+ Collaborate with cross-functional teams including consultants, data engineers, and product owners. 
+ Stay current with emerging AI tools, frameworks, and best practices. 
+ Contributing to continuous improvement and development of Peloton processes and intellectual property 
+
+Required Experience & Skills
+
+ Qualified candidates must have a Bachelor’s degree in Computer Science, Engineering, Data Science, or a related field 
+ 1 to 3 years of hands-on experience in AI/ML development 
+ Strong programming skills in Python with an ability to write clean modular code, manage virtual environments, work with APIs and JSON data 
+ Experience in ML frameworks such as TensorFlow, PyTorch, or scikit-learn 
+ Solid understanding of machine learning concepts (supervised, unsupervised learning, NLP basics, model evaluation) 
+ Basic knowledge of LLM application development or prompt engineering. 
+ Familiarity with logging, exception handling, and diagnostics to support traceability and observability of agentic workflows 
+ Exposure to cloud infrastructure (preferably Oracle Cloud Infrastructure) 
+ Comfortable with Git-based workflows and agile development practices 
+ Familiarity with APIs, REST services, and basic software engineering practices 
+ Strong analytical and problem-solving skills with an ability to learn quickly 
+ Detail-oriented, disciplined, and capable of working within structured architectural patterns 
+ Comfortable working with emerging AI frameworks and evolving specifications 
+
+Additional Desired Skills
+
+ Experience with LangChain or another LLM application framework. 
+ Exposure to LangGraph, agentic architectures, or workflow graph orchestration systems. 
+ Experience deploying AI or microservices on Kubernetes, especially on OCI OKE. 
+ Understanding of vector databases, embedding pipelines, and RAG design patterns. 
+ Knowledge of observability (logging, tracing, metrics) for LLM-based systems. 
+ Prior experience in a consulting environment 
+
+Compensation
+
+Peloton provides a reasonable range of compensation for roles. Actual compensation is influenced by a variety of factors including but not limited to skills, experience, qualifications, business needs, and geographic location. Peloton also offers bonus opportunities and a comprehensive benefits package including:
+
+ Competitive base salary with performance-based bonus 
+ Vacation, Leave, and Holiday pay 
+ Group Medical Insurance 
+ Group Term Accident & Life Insurance 
+ Paid holidays and PTO 
+
+ Peloton Group is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.

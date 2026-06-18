@@ -1,0 +1,23 @@
+About the job
+We are looking for a curious, hands-on individual interested in AI, robotics, automation, and emerging technologies.
+This role is ideal for someone who enjoys learning quickly, experimenting with new technologies, and solving practical problems in fast-moving environments.
+
+What You’ll Be Doing:
+Research emerging AI and robotics technologies
+Assist with setup, testing, operation, and experimentation across hardware and software systems
+Explore AI-driven automation workflows
+Coordinate technical experiments and prototypes
+Work with modern AI platforms and rapidly evolving technologies
+
+Who You Are:
+6 months to 2 ears of hands-on experience in at least one area: AI tools, robotics, automation, Raspberry Pi, Arduino, coding projects, computer vision, drones, or related technologies
+Familiarity with tools such as ChatGPT, Claude, Cursor, GitHub, or similar platforms
+Built, experimented with, or contributed to personal, academic, freelance, or side projects
+Ability to independently learn and solve problems with limited guidance
+Builder mindset and curiosity are valued more than formal degrees
+
+Nice to have:
+Experience with Python, APIs, AI agents, ROS, Raspberry Pi, or hardware integrations
+Portfolio, GitHub, LinkedIn, or project demonstrations (Share at hr@altagic.com)
+
+Important: We are practising what we preach. If your profile/resume hits the right notes, you will be shortlisted for an initial screening conducted by LinkedIn’s AI.

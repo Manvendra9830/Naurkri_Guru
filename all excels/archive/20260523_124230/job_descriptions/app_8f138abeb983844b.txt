@@ -1,0 +1,22 @@
+About the job
+Come join our collaborative and creative group of AI scientists and machine learning engineers as an AI Scientist! You'll get to design and build AI systems that directly impact our customers. In this role, you'll be designing, building, and deploying machine learning models in AI-native apps, using everything from analytical algorithms to deep learning and generative AI. We're excited for you to join us and do some seriously amazing work.
+
+
+Responsibilities
+* Perform hands-on data analysis and modeling with huge data sets. Apply data mining, and machine learning (both supervised and unsupervised) to improve relevance and personalization algorithms
+
+ * Work side-by-side with product managers, software engineers, and designers in designing experiments and minimum viable products
+
+ * Create and refine features from the underlying data. You’ll enjoy developing just enough subject matter expertise to have an intuition about what features might make your model perform better, and then you’ll lather, rinse and repeat
+
+ * Run regular A/B tests, gather data, perform statistical analysis, draw conclusions on the impact of your optimizations and communicate results to peers and leaders
+
+
+Qualification
+
+* MS or PhD in Mathematics, Statistics, Theoretical/Computational Physics, or related field
+ * 1+ years of proven experience in building AI systems using ML algorithms such as clustering, classification, regression, neural networks, reinforcement learning systems and natural language processing.
+ * Software engineering fundamentals: version control systems (i.e. Git, Github) and workflows, and ability to write production-ready code with strong coding proficiency in Python
+ * Strong communication skills and proven experience as an influencer at executive level
+ * Experienced in the use of distributed computing and/or distributed databases (Hadoop, NoSQL, etc.)
+ * Demonstrable ability to quickly understand new concepts---all the way down to the theorems—and to come out with original solutions to mathematical issues

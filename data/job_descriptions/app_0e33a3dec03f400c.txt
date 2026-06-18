@@ -1,0 +1,13 @@
+About the job
+Role Description
+This is a full-time, on-site Data Scientist role based in Coimbatore. The Data Scientist will be responsible for collecting, analyzing, and interpreting large datasets to uncover trends, patterns, and actionable insights. Day-to-day tasks include developing predictive models, building data visualizations, and implementing data-driven solutions to solve complex business problems. Collaboration with cross-functional teams to support decision-making processes is an essential aspect of this role.
+
+Qualifications
+Proficiency in Data Science and Data Analytics to build and optimize sophisticated models.
+Strong expertise in Statistics and Data Analysis for interpreting complex datasets and delivering actionable insights.
+Experience in Data Visualization tools and techniques to communicate findings effectively.
+Proficiency in programming languages such as Python is highly desirable.
+Knowledge of machine learning frameworks and data processing systems is advantageous.
+Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, or a related field.
+Excellent problem-solving skills and the ability to work collaboratively in a team-oriented environment.
+Strong communication skills to present data-driven recommendations to both technical and non-technical stakeholders.

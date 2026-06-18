@@ -1,0 +1,16 @@
+About the job
+Job Summary:
+ 1. Assist in the design, development, and implementation of AI and machine learning models under the supervision of senior team members.
+ 2. Help collect, clean, preprocess, and analyze large datasets to prepare them for model training.
+ 3. Participate in training, testing, and evaluating AI models, using appropriate metrics to assess performance.
+ 4. Conduct research on current AI trends, techniques, and tools to help the team stay updated.
+ 5. Collaborate with the team to identify business problems that can be solved using AI and contribute ideas for optimization.
+ 6. Support the integration of AI models into existing systems and applications.
+ 7. Document AI experiments, development processes, and results clearly and concisely.
+ 8. Communicate progress and any technical issues to the team in a timely manner.
+ 9. Willing to align with US-hours overlap, with overnights if needed few times a year, flexible for releases over weekends
+ Technical skills Programming:
+Strong proficiency in Python is required, along with experience in languages like Java or C++, and familiarity with other languages like R is a plus. AI/ML Concepts: Solid understanding of fundamental AI and machine learning concepts, including algorithms for classification, regression, and clustering. AI Specialization: Proven experience in one or more areas, including: Natural Language Processing (NLP): Experience with transformers, LLMs, LangChain, and RAG techniques. Computer Vision (CV): Experience with CNNs and tools like OpenCV. Reinforcement Learning (RL): Experience with algorithms like Q-learning and Policy Gradients. Generative AI: Experience in developing and fine-tuning generative models and implementing agentic AI systems. Frameworks & Libraries: Experience with deep learning frameworks such as TensorFlow or PyTorch, and a working knowledge of Python libraries like scikit-learn, NumPy, and pandas. MLOps: Solid understanding and practical experience with MLOps concepts, including CI/CD pipelines, Docker, and Kubernetes. Cloud Platforms: Experience with cloud computing services like AWS, Google Cloud Platform, or Microsoft Azure for deploying and scaling AI models. Data and Databases: Experience with data processing libraries like PySpark and big data technologies such as Hadoop. Knowledge of SQL and NoSQL databases. APIs: Experience designing and developing APIs (e.g., using Flask or FastAPI) to serve AI models. Data Handling: Hands-on experience with data manipulation and analysis is essential. Specialization (Nice-to-have): Familiarity with specific AI domains like Natural Language Processing (NLP), Computer Vision (CV), or Generative AI is a plus. Cloud (Nice-to-have): Exposure to cloud platforms like AWS, Google Cloud Platform, or Azure is beneficial.
+
+Non-technical (soft) skills
+ Problem-Solving: Strong analytical and critical thinking skills with a detail-oriented approach. Communication: Good verbal and written communication skills to effectively collaborate with team members. Teamwork: Ability to work effectively in a collaborative environment and contribute meaningfully to team projects. Proactiveness: A curious, self-motivated attitude with a passion for continuous learning in a fast-paced environment. Adaptability: Eagerness to learn new technologies and apply them to novel problems.

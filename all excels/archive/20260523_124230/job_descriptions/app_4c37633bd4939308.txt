@@ -1,0 +1,22 @@
+About the job
+Mobile & ML Engineer — Paafekt
+
+About the role
+
+We build consumer mobile products with strong on-device ML. You will work across our iPhone app (Swift) and Android app (Kotlin), ship reliable features, and grow into model-side work (export, quantization, delegates) as you learn.
+What you will do
+• Implement and maintain features in Swift (iOS) and Kotlin (Android): UI, networking, camera/media, and integration with ML inference pipelines.
+• Debug complex issues (memory, threading, GPU/Metal/Vulkan paths, device-specific behavior) with clear reasoning.
+• Support the ML lifecycle: understanding model inputs/outputs, tracing failures, and helping with Python / PyTorch → ONNX / ExecuTorch workflows for shipping models to mobile.
+• Use AI-assisted development (e.g. Claude, ChatGPT, IDE copilots, cursor) to move fast on prototyping and refactors—while owning correctness, security, and review-quality code.
+What we are looking for
+• Strong analytical skills: structured debugging, reading logs/profiles, turning ambiguous problems into testable hypotheses.
+• Solid fundamentals in mobile development (either platform is fine to start; willingness to grow on both is a plus).
+• Curiosity and drive to learn Python, PyTorch, ExecuTorch, ONNX, and mobile inference constraints—we will support you, but initiative matters.
+• Comfort with rapid iteration, clear communication, and pragmatic tradeoffs.
+Experience
+Fresh graduates and early-career candidates are welcome if you can show projects, coursework, or contributions that demonstrate how you think and build.
+Nice to have
+Exposure to Core ML, Metal, NNAPI/Vulkan, or on-device deployment; basic ML literacy (tensors, quantization, latency vs accuracy).
+How to apply
+Share your CV to support@paafekt.com (include a short note on what you have built and links to GitHub or portfolio if available).

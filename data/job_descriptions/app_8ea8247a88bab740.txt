@@ -1,0 +1,22 @@
+About the job
+Key Responsibilities:-
+
+ Assist in designing and developing AI/ML-based solutions using Python.
+ Support the team in data cleaning, preprocessing, and preparation for model building.
+ Work with mentors to implement, test, and validate ML models.
+ Participate in integrating AI/ML solutions into applications.
+ Conduct research and stay updated with the latest trends in AI/ML.
+ Collaborate with software engineers and data scientists on project tasks.
+
+ Required Skills & Qualifications:-
+
+ Strong foundation in Python programming.
+ Basic understanding of AI/ML concepts and their practical applications.
+ Basic Knowledge of GenAI.
+ Familiarity with handling datasets and preprocessing techniques.
+ Good logical, analytical, and problem-solving skills.
+ Knowledge or Hands-on experience with Django will be preferred.
+ Excellent academic record: 80%+ in 10th, 12th, and Graduation.
+ Pursuing or recently completed Bachelor’s/Master’s in Computer Science, Data Science, AI/ML, or related field.
+
+Skills: django,python,gen ai,ai/ml,machine learning

@@ -1,0 +1,21 @@
+About the job
+We are seeking a highly skilled Data Scientist / ML Engineer to design, develop, and deploy scalable machine learning and Generative AI solutions in production environments. The ideal candidate will have hands-on experience with modern AI/ML frameworks and cloud platforms.
+Key Responsibilities:
+Develop and deploy machine learning models into production environments
+Design and implement NLP, LLM, and Generative AI-based solutions
+Build and optimize RAG (Retrieval-Augmented Generation) applications
+Work on data preprocessing, feature engineering, and model evaluation
+Collaborate with cross-functional teams to deliver AI-driven solutions
+Ensure model scalability, performance, and reliability
+Required Skills:
+Strong experience in Machine Learning (production deployment)
+Expertise in NLP, LLMs, and Generative AI
+Hands-on experience with Python
+Proficiency in PyTorch or TensorFlow
+Experience with Cloud ML platforms (Azure ML / AWS SageMaker)
+Preferred Skills:
+Reinforcement Learning
+EDA & Hypothesis Testing
+Spark ML
+SQL / NoSQL databases
+Data visualization tools (Tableau / ELK)

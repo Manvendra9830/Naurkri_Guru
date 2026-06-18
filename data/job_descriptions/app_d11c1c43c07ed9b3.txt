@@ -1,0 +1,120 @@
+About the job
+About The Role
+
+As a Software Engineer I on the Martech Intelligence Pod, you'll be starting your engineering career working on real customer-facing applications across both frontend and backend, learning the foundations of professional software development in a supportive environment. You'll also have the opportunity to explore and learn about AI tools and AI-centric solutions that are becoming central to how we build products.
+
+Your primary focus will be maintaining and improving the customer-facing websites we host while gradually learning about infrastructure and integration challenges the Intelligence Pod tackles. Importantly, you'll also have dedicated time to explore AI tools, experiment with LLM APIs, understand how agents work, and think about where AI can solve problems better than traditional approaches.
+
+This is a structured onboarding role: you'll work closely with senior engineers who will mentor you through the full development lifecycle — from understanding requirements, to writing frontend components and backend services, to testing, debugging, and deploying to production. You'll start with well-scoped, low-risk tasks on both frontend and backend, and gradually take on more responsibility as you gain confidence and expertise. You'll also spend time experimenting with AI tools, building small proof-of-concepts, and learning how modern AI capabilities can be integrated into applications.
+
+The role demands intellectual curiosity, a willingness to ask questions, and genuine interest in learning how real systems work — both traditional software and AI-powered systems. Success is measured by your growth as a full-stack engineer, the quality of code you write, your reliability, your ability to communicate what you're learning, and your engagement with exploring AI as a tool and mindset. This is a fully-supported entry point into professional full-stack software engineering at a global scale, with exposure to cutting-edge AI capabilities.
+
+Who You Are
+
+We're optimizing for learning potential, solid fundamentals, and genuine engagement with engineering. You don't need years of experience — you need to be curious, humble about what you don't know, and eager to grow.
+
+You have a Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent bootcamp/self-taught experience with a portfolio demonstrating competency
+You are proficient in English, both written and verbal, sufficient for success in a remote and largely asynchronous work environment
+You have 0-2 years of professional software engineering experience, or are a recent graduate with solid foundational knowledge
+You have hands-on experience writing code in C# or Java (through academic projects, bootcamp, or personal projects) and understand the basics of how programs work
+You have some experience with React and TypeScript or are eager to learn them quickly — through academic projects, bootcamp, tutorials, or personal projects; you understand the basics of components and JSX
+You know the basics of HTML, CSS, and JavaScript — you understand how the browser works and can build simple web pages and interactive elements
+You understand the fundamentals of object-oriented programming: classes, objects, inheritance, and interfaces
+You can debug code in multiple environments: backend (logs, IDE debugger) and frontend (browser developer tools, console logs)
+You've written code that other people have read and reviewed — you're comfortable receiving feedback and iterating
+You know the basics of relational databases and can write simple SQL queries (SELECT, INSERT, UPDATE); you're learning to think about data
+You've worked with Git and understand the basics of version control, branching, and merging
+You can debug code systematically: read error messages, add logging, trace through code, form hypotheses about what's wrong
+You're genuinely curious about how things work and you ask good questions when you don't understand something
+You're interested in and curious about AI tools (LLMs, generative AI, agents) — you've probably experimented with ChatGPT, Claude, or similar tools and think about how they could be useful
+You're open to exploring AI-centric solutions to problems and willing to experiment with new approaches that leverage AI capabilities
+You can explain what you've learned in writing: you're comfortable documenting decisions, asking for help in PRs, and sharing what you discovered
+You're reliable and follow through: you finish what you start, communicate when you're blocked, and ask for help before getting stuck for too long
+You're humble about what you don't know and genuinely want to learn from more experienced engineers
+You make an effort to include others and appreciate feedback as a gift, not a criticism
+
+What You'll Do
+
+Learning & Foundational Work:
+
+Work on small, well-scoped tasks with clear acceptance criteria: bug fixes, simple feature additions, documentation improvements (both frontend and backend)
+Get hands-on with the tools and technologies we use: C#/Java backend, React/TypeScript frontend, SQL, Git, our test frameworks, our deployment processes
+Learn how our customer-facing applications work: what AEM is, how WordPress sites are structured, how they serve customers, how frontend and backend work together
+Understand the full development lifecycle: from understanding a requirement, to writing code (frontend components and backend services), to testing, to deploying to production with safety
+
+Frontend Development:
+
+Fix simple bugs in our React/TypeScript applications: layout issues, component state problems, missing features
+Implement small features: simple forms, content displays, UI improvements requested by stakeholders
+Learn React fundamentals: components, hooks, props, state management
+Debug frontend issues using browser developer tools: understand CSS problems, trace JavaScript execution
+Help improve frontend test coverage: write simple unit tests for components
+Learn how to consume backend APIs from the frontend: understand requests, responses, error handling
+
+Backend Development:
+
+Help fix bugs in our C# or Java backend services: simple issues with clear reproduction steps
+Implement small backend features: API endpoints, database queries, business logic
+Learn backend fundamentals: how services are structured, how databases work, how to handle errors
+Debug backend issues: read logs, understand stack traces, trace through code
+Help improve test coverage: write simple unit and integration tests
+Learn how different systems connect: understand what the Intelligence Pod builds
+
+Customer-Facing Site Support:
+
+Help maintain and support http://jll.com (AEM) and WordPress installations — responding to issues, fixing bugs, implementing small improvements
+Participate in code review: both receiving feedback on your code and reviewing code from peers (with guidance)
+Help with code maintenance: refactoring simple code, improving documentation, reducing technical debt
+
+Learning Infrastructure & Integration Concepts:
+
+Observe and help with integration work: understand how we connect to external systems, why these connections are fragile, how errors are handled
+Learn what the broader Intelligence Pod does: building MCPs, working with agents, connecting marketing systems together
+Ask questions and document what you learn: you're building your mental model of how these systems work
+
+AI Exploration & Learning:
+
+Dedicate time to learning and experimenting with AI tools: LLM APIs (Claude, GPT, etc.), prompt engineering, understanding how agents work
+Build small personal projects and proof-of-concepts using AI: tools that solve real problems, experiments that help you understand AI capabilities and limitations
+Explore how AI can be integrated into our applications: think about where AI could improve user experience, automate tasks, or unlock new capabilities
+Learn about agent systems, multi-step reasoning, and tool use: understand what the Intelligence Pod is building and why
+Document your experiments and learnings: write up what you tried, what worked, what didn't, and what you discovered
+Participate in code reviews and discussions about AI-centric solutions: understand how senior engineers think about AI architecture and tradeoffs
+Stay current on AI developments: follow announcements, experiment with new models/tools, and bring ideas back to the team
+
+Development Practices:
+
+Write tests for code you write: unit tests on both frontend and backend, simple integration tests
+Deploy code to production (with a more experienced engineer watching/guiding the first few times)
+Debug production issues under mentorship: learn to read logs, understand error messages, trace through systems
+Participate in on-call rotation for customer-facing applications: responding to issues, escalating when needed
+
+Growing Your Skills:
+
+Learn from code review: understand why experienced engineers structure code certain ways, ask questions about their decisions
+Pair program with senior engineers: watch how they debug, design, and think through problems on both frontend and backend
+Work on increasingly complex tasks as you gain confidence: from bug fixes, to small features, to contributing to larger pieces of infrastructure work
+Contribute to improving our team: documentation, test coverage, code clarity, processes that make everyone more effective
+
+Communication & Collaboration:
+
+Write clear commit messages and PR descriptions
+Ask questions in team channels when you're stuck — don't wait until you're frustrated
+Communicate regularly with your mentors about what you're learning, where you're struggling, and what you want to focus on next
+Help teammates when you can: testing code, reviewing docs, asking clarifying questions
+
+Nice to Have
+
+Academic or bootcamp projects demonstrating full-stack fundamentals (both frontend and backend)
+Experience with Git, GitHub, or similar version control in a team setting
+Familiarity with frontend testing frameworks (Jest, React Testing Library) or backend testing frameworks
+Experience with databases (PostgreSQL, MySQL) beyond just basic SQL
+Exposure to state management in React (Context API, Redux, Zustand, etc.)
+Exposure to CSS frameworks or CSS-in-JS libraries (Tailwind, styled-components, etc.)
+Exposure to backend frameworks or libraries (http://ASP.NET , Spring, etc.)
+Exposure to cloud platforms (AWS, GCP, Azure) or containerization (Docker)
+Interest in marketing technology, content management systems, or enterprise software
+Experimentation with AI tools (ChatGPT, Claude, GitHub Copilot, etc.) or interest in learning about LLMs
+Personal projects or experiments using AI APIs or tools
+Understanding of or curiosity about agent systems, prompt engineering, or generative AI
+Open source contributions or a GitHub profile showing projects you've worked on

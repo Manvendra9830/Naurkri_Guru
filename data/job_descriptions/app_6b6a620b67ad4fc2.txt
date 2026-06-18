@@ -1,0 +1,24 @@
+About the job
+Location: Mph-Infinity Park, Mumbai, IN
+Work From Office-All 5 Days
+Job Summary: We are seeking a highly skilled Software Developer with a strong focus on Python for AI/ML solutions to join our dynamic team in Mumbai. The ideal candidate will possess a deep understanding of Python, particularly in the context of developing AI and machine learning applications. This role requires a proactive individual who can lead projects, collaborate with cross-functional teams, and deliver high-quality software solutions that meet business needs.
+Responsibilities:
+Design, develop, and maintain robust Python applications for AI and machine learning solutions.
+Lead the delivery of software modules, ensuring adherence to best practices and coding standards.
+Collaborate with data scientists and other stakeholders to understand requirements and translate them into technical specifications.
+Implement and optimize algorithms for machine learning and AI applications.
+Conduct code reviews and provide mentorship to junior developers.
+Participate in the full software development lifecycle, from requirements gathering to deployment and maintenance.
+Utilize SQL for database management and data manipulation to support AI/ML initiatives.
+Stay updated with the latest trends and advancements in AI/ML technologies and Python development.
+Mandatory Skills:
+Proficient in Python programming, with a strong emphasis on AI and machine learning solutions.
+Experience with Django framework for web application development.
+Solid understanding of SQL and experience with database management.
+Strong problem-solving skills and the ability to work independently as well as in a team environment.
+Excellent communication skills, both verbal and written.
+Preferred Skills:
+Familiarity with cloud platforms (e.g., AWS, Azure) for deploying AI/ML solutions.
+Experience with data visualization tools and libraries.
+Knowledge of additional programming languages or frameworks related to AI/ML.
+Understanding of software development methodologies such as Agile or Scrum.

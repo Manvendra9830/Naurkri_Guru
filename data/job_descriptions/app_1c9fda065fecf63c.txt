@@ -1,0 +1,28 @@
+About the job
+<![CDATA[ The IT Data Engineer is responsible for developing and managing the data’s ETL processing, with a focus on quality and risk, to assist in the achievement of analytics objectives.
+
+Build robust, fault-tolerant data pipelines that clean, transform and aggregate unorganized and messy data into databases or data sources.
+Compile and install database systems, write complex queries and scale to multiple machines.
+Lay the groundwork for a Data Analyst or Data Scientist to easily retrieve the needed data for their evaluations and experiments.
+Provide input to the business strategy to help guide the overall direction of data management and data quality within the organization.
+
+Essential Qualifications
+
+Bachelor’s or Master’s degree in Computer Science or related field 
+Excellent communication, verbal and written skills 
+
+Key competencies
+
+Either SQL or Java or C++ is a must 
+Awareness of software development lifecycle (testing, deployment, releases) demonstrated through assignment or projects is a must 
+Awareness of Agile development methodologies– Azure VSTS, SCRUM is a plus 
+Good to have skills on Hadoop technologies like Sqoop, Hive, HBASE, Spark, python, Scala 
+Experience in working with Real Time Integrations, IoT projects is a bonus, for instance, Kafka, NiFi, cloud (e.g. AWS, Google or Azure). 
+
+Other Skills And Abilities
+
+Ability to work in global distributed setting without supervision 
+Readiness to work on big data, cloud. 
+Self-driven, Proactive, Systems Thinking
+
+]], >

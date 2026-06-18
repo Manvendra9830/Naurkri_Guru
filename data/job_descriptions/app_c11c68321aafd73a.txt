@@ -1,0 +1,37 @@
+About the job
+This job is sourced from a job board. Learn More
+Description
+
+We are seeking an experienced Python AI/ML Developer with strong expertise in machine learning, data processing, and backend application development. The candidate will be responsible for developing scalable AI/ML solutions, integrating models into production systems, and optimizing application performance.
+
+Key Responsibilities
+
+ Design, develop, and deploy AI/ML models using Python
+ Build machine learning solutions including classification, regression, and NLP models
+ Perform data cleaning, preprocessing, and transformation using Pandas and NumPy
+ Develop scalable backend services and APIs using FastAPI, Flask, or Django
+ Optimize machine learning algorithms for performance and accuracy
+ Work on model training, evaluation, tuning, and deployment
+ Integrate AI/ML models with enterprise applications and production environments
+ Write clean, reusable, and maintainable Python code following best practices
+ Collaborate with cross-functional teams for end-to-end solution delivery
+ Use Git and testing frameworks for version control and quality assurance
+
+Required Skills
+
+ Strong expertise in Python 3.x, OOP concepts, and data structures
+ Hands-on experience with TensorFlow, PyTorch, Keras, or Scikit-learn
+ Strong knowledge of Pandas, NumPy, and data manipulation techniques
+ Experience in REST API development and backend integration
+ Good understanding of AI/ML model lifecycle and deployment
+ Experience with FastAPI, Flask, or Django frameworks
+ Familiarity with Git, unit testing, and software engineering best practices
+ Strong analytical and problem-solving skills
+
+Preferred Skills
+
+ Experience with cloud platforms such as AWS, Azure, or GCP
+ Exposure to Docker, Kubernetes, and MLOps concepts
+ Knowledge of LLMs, Generative AI, or vector databases is a plus
+
+(ref:hirist.tech)

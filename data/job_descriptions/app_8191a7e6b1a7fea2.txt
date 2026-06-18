@@ -1,0 +1,14 @@
+About the job
+Company Description
+ BICSYS empowers HVAC controls contractors and engineers with expert outsourced solutions for building automation projects. Our services include system design, programming, and as-built documentation, helping partners scale their teams efficiently and complete projects on time. With fixed-cost packages, we enable cost control and operational reliability. Whether for supplemental support or complete outsourcing, BICSYS strives to help clients meet their project goals seamlessly and effectively.
+ Role Description
+ This is a full-time remote role for a Data/AI Engineer. As a Data/AI Engineer, you will design and implement advanced machine learning and artificial intelligence models while ensuring seamless software development processes. You will collaborate with cross-functional teams on tasks such as developing predictive algorithms, implementing neural networks, and exploring natural language processing solutions to improve business operations. Additionally, you will support the integration of AI technologies into existing systems to enhance efficiency and innovation.
+ Qualifications
+  Strong understanding of Pattern Recognition and Neural Networks
+Solid foundation in Computer Science and Software Development
+Experience with Natural Language Processing (NLP) techniques and applications
+Demonstrated ability to develop, train, and optimize AI/ML models
+Proficiency in programming languages such as Python, Java, or similar
+Strong problem-solving and analytical thinking skills
+Knowledge of the building automation or control systems industry is an advantage
+Bachelor’s degree in Computer Science, Engineering, or a related field; advanced degree is a plus

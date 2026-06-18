@@ -1,0 +1,62 @@
+About the job
+Job Description Summary
+
+As a Software Engineering Specialist, You'll be Responsible for designing, building, delivering and maintaining software applications & services. Working in the areas of GenAI, cloud, platform and/or application. Responsible for software lifecycle including activities such as requirement analysis, documentation/procedures and implementation.
+
+You will work independently at the same time collaborate with all other roles within the teams to ensure project meets organizational standards and customer needs.
+
+GE Healthcare is a leading global medical technology and digital solutions innovator. Our mission is to improve lives in the moments that matter. Unlock your ambition, turn ideas into world-changing realities, and join an organization where every voice makes a difference, and every difference builds a healthier world.
+
+Job Description
+
+Roles and Responsibilities
+
+In This Role, You Will
+
+Collaborate with system engineers, frontend developers and software developers to implement solutions that are aligned with and extend shared platforms and solutions
+Apply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques
+Write codes that meets standards and delivers desired functionality using the technology selected for the project
+Understand performance parameters and assess application performance
+Work on core data structures and algorithms and implement them using language of choice
+Provide technical expertise in areas of design, and implementation.
+Demonstrate awareness of industry trends and domain expertise
+
+Education Qualification
+
+Bachelor's Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with a minimum of 1 year of experience.
+
+Technical Expertise
+
+AWS Expert, certification preferred
+Excellent knowledge of Design Patterns, Java programming language and Unit Testing frameworks
+Hands-on experience in utilizing Spring Framework (Core, MVC, Integration and Data) and Spring boot
+Expert on Kafka and/or related messaging/ frameworks, ActiveMQ
+Hands-on experience in web services (REST), EJBs
+SQL, Hibernate on Database such as Oracle MySQL, PostgreSQL
+Experience with Containers - Docker/Kubernetes, Helm
+Experience with Python is a big plus
+
+Business Acumen
+
+Has the ability to break down problems and estimate time for development tasks.
+Understands the technology landscape, up to date on current technology trends and new technology, brings new ideas to the team.
+Displays understanding of the project's value proposition for the customer. Shows commitment to deliver the best value proposition for the targeted customer.
+
+Personal/Leadership Attributes
+
+Voices opinions and presents clear rationale. Uses data or factual evidence to influence.
+Completes assigned tasks on time and with high quality. Takes independent responsibility for assigned deliverables.
+Seeks to understand problems thoroughly before implementing solutions. Asks questions to clarify requirements when ambiguities are present.
+Identifies opportunities for innovation and offers new ideas. Takes the initiative to experiment with new software frameworks
+
+Inclusion and Diversity
+
+GE Healthcare is an Equal Opportunity Employer where inclusion matters. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+We expect all employees to live and breathe our behaviors: to act with humility and build trust; lead with transparency; deliver with focus, and drive ownership – always with unyielding integrity.
+
+Our total rewards are designed to unlock your ambition by giving you the boost and flexibility you need to turn your ideas into world-changing realities. Our salary and benefits are everything you’d expect from an organization with global strength and scale, and you’ll be surrounded by career opportunities in a culture that fosters care, collaboration and support.
+
+Additional Information
+
+Relocation Assistance Provided: No

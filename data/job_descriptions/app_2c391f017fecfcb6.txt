@@ -1,0 +1,18 @@
+About the job
+Company Description
+ 
+BICSYS provides HVAC controls contractors and engineers with dependable solutions for building automation projects. Specializing in system design and precise engineering, we help clients scale teams efficiently, manage costs through fixed-price packages, and ensure timely project delivery. Our expertise spans design submittals, programming, and as-built documentation, offering both supplemental support and comprehensive outsourcing options. Partnering with BICSYS ensures streamlined project execution and innovative solutions to meet your goals.
+
+ Role Description
+ 
+This is a full-time remote role for a Software Engineer at BICSYS. The Software Engineer will be responsible for designing, developing, and maintaining back-end systems, as well as programming and software development for scalable and reliable solutions. The role includes working with object-oriented programming (OOP) principles to create efficient software solutions, collaborating with team members to ensure successful project delivery, and troubleshooting technical issues as needed.
+
+ Qualifications
+ 
+Strong foundation in Computer Science principles and software development methodologies
+Proficiency in Back-End Web Development and Programming
+Experience with Software Development and Object-Oriented Programming (OOP)
+Ability to work collaboratively and remotely in a team environment
+Excellent problem-solving skills and attention to detail
+Bachelor’s degree in Computer Science, Software Engineering, or related field
+Experience in building automation systems or HVAC controls is a plus

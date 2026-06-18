@@ -1,0 +1,46 @@
+About the job
+This job is sourced from a job board. Learn More
+Job Summary
+
+We are seeking a dynamic and enthusiastic Junior Full Stack Python Developer to join our development team. The candidate will work on building scalable web applications, handling both frontend and backend development, and supporting the overall software development lifecycle.
+
+Key Responsibilities
+
+ Develop and maintain web applications using Python-based frameworks 
+ Build backend systems using Django / Flask 
+ Develop responsive UI using HTML, CSS, JavaScript 
+ Design and consume RESTful APIs for application integration
+ Work with databases for data storage and retrieval
+ Collaborate with designers, developers, and stakeholders for project execution
+ Troubleshoot, debug, and upgrade existing systems
+ Follow coding standards, version control, and documentation practices
+
+Required Skills
+
+ Strong knowledge of Python programming 
+ Familiarity with frameworks like Django / Flask [Python Developer | Outlook]
+ Understanding of HTML, CSS, JavaScript [Python Dev...sindia.com | Outlook]
+ Knowledge of REST APIs and backend integration [Python Developer | Outlook]
+ Database knowledge ( MySQL / PostgreSQL / SQL ) [Python Developer | Outlook]
+ Basic understanding of Git / Version Control 
+ Good problem-solving skills and logical thinking
+
+Preferred Skills
+
+ Exposure to FastAPI, Bootstrap, or React 
+ Basic knowledge of AI/ML or Data Analysis (optional) 
+ Familiarity with cloud platforms (AWS/Azure) is an advantage
+ Understanding of SDLC and Agile methodologies
+
+ Educational Qualification
+
+ B.E / B.Tech / MCA / B.Sc IT / BCA or equivalent
+ Freshers with strong academic/projects can apply
+
+ Key Competencies
+
+ Willingness to learn and adapt quickly
+ Strong analytical and problem-solving skills
+ Good communication and teamwork abilities
+
+This job is provided by Shine.com

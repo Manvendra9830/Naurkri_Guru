@@ -1,0 +1,28 @@
+About the job
+Job Summary**
+ 
+ Cyient, is seeking a talented Software Developer to design, develop, and maintain high-quality software solutions that meet our clients' evolving needs. You will be a key contributor to our innovative projects, working within a collaborative and fast-paced environment.
+ 
+ Responsibilities**
+ 
+ * Develop, test, and deploy robust and scalable software applications using various programming languages and technologies.
+ * Collaborate with product managers, designers, and other engineers to understand requirements and translate them into technical specifications.
+ * Write clean, efficient, and well-documented code following established coding standards and best practices.
+ * Participate in code reviews to ensure code quality, maintainability, and adherence to architectural guidelines.
+ * Troubleshoot, debug, and resolve software defects and issues in a timely manner.
+ * Contribute to the design and architecture of new software features and enhancements.
+ * Research and evaluate new technologies to improve existing systems and processes.
+ * Work effectively in an Agile/Scrum development environment.
+ 
+ Qualifications**
+ 
+ * Bachelor's degree in Computer Science, Software Engineering, or a related field.
+ * Proven experience as a Software Developer or similar role.
+ * Strong proficiency in Liferay is must
+At least one modern programming language such as Java, Python, C#, or JavaScript.
+ * Experience with front-end frameworks (e.g., React, Angular, Vue.js) and/or back-end frameworks (e.g., Spring Boot, Node.js, Django) is a plus.
+ * Familiarity with database technologies (SQL, NoSQL).
+ * Understanding of software development lifecycle (SDLC) and Agile methodologies.
+ * Experience with version control systems (e.g., Git).
+ * Excellent problem-solving, analytical, and communication skills.
+ * Ability to work independently and as part of a team in a dynamic environment.

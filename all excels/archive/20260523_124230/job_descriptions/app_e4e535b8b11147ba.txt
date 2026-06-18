@@ -1,0 +1,56 @@
+About the job
+
+About Gravitix Tech Solutions
+Gravitix Tech Solutions is a forward-thinking technology company focused on delivering impactful digital and recruitment solutions across various sectors. We believe in building strong teams through smart hiring and people-centric strategies.
+
+AI Prompt Engineer – Job Description
+
+About the Role
+
+
+We are looking for a creative and analytical AI Prompt Engineer who can design, test, and optimize prompts for AI models to generate accurate, useful, and high-quality outputs. This role is ideal for individuals interested in AI, content strategy, and problem-solving.
+
+Key Responsibilities
+
+
+Design and refine prompts for AI tools (ChatGPT, LLMs, generative AI platforms)
+Test and evaluate AI-generated outputs for quality and accuracy
+Optimize prompts to improve performance and consistency
+Collaborate with teams to understand use cases and requirements
+Document prompt strategies and best practices
+Analyze AI responses and continuously improve results
+Stay updated with latest trends in AI and prompt engineering
+
+Required Skills & Qualifications
+
+
+Bachelor’s degree in any field (Tech, English, Business preferred)
+Strong communication and writing skills
+Analytical thinking and problem-solving ability
+Basic understanding of AI tools and Large Language Models (LLMs)
+Creativity in framing questions and instructions
+Attention to detail and experimentation mindset
+
+Preferred Skills (Bonus)
+
+
+Experience using AI tools (ChatGPT, Claude, Midjourney, etc.)
+Basic knowledge of Python or scripting
+Understanding of NLP (Natural Language Processing)
+Experience in content writing, copywriting, or data annotation
+Familiarity with prompt optimization techniques
+
+What We Offer
+
+
+Competitive salary + performance incentives
+Work on cutting-edge AI technologies
+Fast-growing career opportunities in AI domain
+Learning and development support
+Flexible and innovative work environment
+
+
+
+
+Desired Skills and Experience
+Recruitment

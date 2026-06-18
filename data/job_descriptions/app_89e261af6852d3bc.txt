@@ -1,0 +1,43 @@
+About the job
+About the Role
+We are hiring an Agentic AI Engineer to build and ship production AI systems as part of BayOne's AI Strategy and Innovation Office. The role sits within a collaborative, distributed engineering team and contributes to both internal projects and solutions developed for the practice's client portfolio. Our portfolio extends across many industries and business areas, and the work shifts across technical areas from one engagement to the next. The role requires adaptability, breadth of thinking, and the discipline to bring rigorous engineering to every deliverable. The Agentic AI Engineer is personally accountable for the quality and reliability of every deliverable produced, on both internal and client engagements. The work spans agent-based systems, web applications, data engineering, and infrastructure, with agentic pair programming as the primary working mode. Engineering discipline, sound technical judgment, and adherence to the team's quality standards are expected on every piece of work. The ideal candidate is currently working with agentic AI systems in a hands-on capacity and has a track record of shipping production systems. Professional experience extends beyond generative AI alone, with a broader engineering foundation that demonstrates range across problem types. The role calls for an engineer who delivers consistently, owns what they ship, and brings the same rigor to unfamiliar problems as to familiar ones.
+
+REQUIRED QUALIFICATIONS:
+Engineering Experience:
+Professional engineering experience that extends beyond generative AI, demonstrating a broader technical foundation.
+Currently or recently working with agentic AI systems in a hands-on capacity.
+Experience building POCs, demos, or production systems using agentic methods.
+
+Technical Requirements:
+Python as primary language.
+Microsoft Azure required as the primary cloud platform.
+Hands-on experience building with Azure AI Foundry.
+Claude Code experience and expertise required, including hands-on development of skills and plugins on the platform. This is non-negotiable for the role.
+LangGraph experience required. Demonstrated ability to design state graphs, conditional edges, and multi-agent compositions.
+Model Context Protocol experience required. Comfortable designing tool calls and building protocol wrappers.
+Agentic pair programming with generative AI as the primary working mode. Prior experience is required.
+Pydantic for data validation and structured outputs across agent systems and APIs.
+SQL proficiency and PostgreSQL experience.
+Vector database experience (pgvector, Azure AI Search, or similar).
+Familiarity with modern data platforms such as Snowflake and Databricks.
+Multi-step agent systems with proper evaluation and validation.
+Strong fluency across modern frontier language models such as the GPT, Claude, and Gemini model families. Model selection is driven by the requirements of each task and the practical considerations of cost.
+The discipline to choose mature, proven frameworks for AI engineering work. Technical decisions are grounded in clear engineering justification and supported by data.
+Docker and containerization for development and deployment workflows.
+FastAPI or equivalent web frameworks for building APIs and backend services.
+Working knowledge of GitHub workflows, code review discipline, and infrastructure-as-code patterns.
+
+Preferred Qualifications:
+Although Microsoft Azure is the primary platform, Google Cloud Platform experience is also valuable and applicable to the practice's work.
+Familiarity with Azure Container Apps, Azure Kubernetes Services, or similar container orchestration platforms.
+Familiarity with Apache Software Foundation tools such as Apache Airflow, Apache Kafka, and Apache Flink.
+Experience with LangChain, PyTorch, or other AI and machine learning frameworks.
+CrewAI or other multi-agent frameworks.
+LlamaIndex for RAG and data ingestion workflows.
+Celery and Redis for background task processing and caching.
+Familiarity with A2A (Agent-to-Agent) protocol for inter-agent communication.
+Experience with modern natural language processing tools, including embedding models and entity recognition.
+Familiarity with vision-language model integration for multi-modal AI use cases.
+Experience working in regulated markets, including the compliance and risk-management disciplines such environments require.
+Playwright for end-to-end testing automation.
+Familiarity with hybrid architectures that integrate deterministic and generative AI techniques.

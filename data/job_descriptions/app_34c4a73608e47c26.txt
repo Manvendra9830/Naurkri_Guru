@@ -1,0 +1,13 @@
+About the job
+Company Description
+ Solis Technology is dedicated to driving digital transformation, providing cutting-edge solutions tailored to real-world needs. Our expertise spans web and mobile app development, AI/ML solutions, blockchain integration, custom software, and game development, empowering brands and optimizing operations. Headquartered in Gurugram, India, our team of innovators has delivered over 100 successful projects with a strong customer-oriented approach. At Solis Technology, we don’t just build technology—we forge lasting partnerships to shape the future together.
+ Role Description
+ This is a full-time on-site role for an Artificial Intelligence Engineer, based in Gurugram. The Artificial Intelligence Engineer will design, develop, and deploy AI-driven solutions for complex problems. Responsibilities include researching and implementing machine learning models, developing algorithms for pattern recognition, and working with neural networks. The role also involves collaborating with cross-functional teams to integrate AI solutions into software development projects and enhance existing systems.
+ Qualifications
+  Solid understanding of Pattern Recognition and expertise in Neural Networks
+In-depth knowledge of Natural Language Processing (NLP) techniques and applications
+Strong background in Computer Science and Software Development
+Proficiency in machine learning frameworks and programming languages such as Python, TensorFlow, or PyTorch
+Excellent problem-solving skills and ability to work collaboratively with teams
+Bachelor's or Master’s degree in Computer Science, Artificial Intelligence, or a related field
+Experience in deploying AI models and fine-tuning algorithms in real-world applications is a strong advantage

@@ -1,0 +1,23 @@
+About the job
+About the Role
+We are looking for a Full Stack Agentic AI Engineer who is passionate about building the next generation of AI-native products. This role combines modern full-stack development with cutting-edge Generative AI technologies to create intelligent, autonomous applications from 0→1 and scale them into production.
+You will work across the entire stack—designing responsive user interfaces, building robust backend services, integrating Large Language Models (LLMs), developing Agentic AI workflows, and deploying scalable AI systems that solve real business problems.
+Key Responsibilities
+Build and ship AI-native web applications using React.js and Python.
+Design and develop Agentic AI workflows leveraging LLMs and autonomous agents.
+Build Retrieval-Augmented Generation (RAG) applications using vector databases and enterprise knowledge sources.
+Own product features end-to-end—from architecture and development to deployment, monitoring, and optimization.
+Develop REST APIs and backend services to support AI-powered applications.
+Integrate AI models from providers such as OpenAI, Anthropic, Gemini, or open-source LLMs.
+Work with vector databases such as Pinecone, Weaviate, Chroma, FAISS, or Milvus.
+Implement prompt engineering, tool calling, memory management, and multi-agent orchestration.
+Optimize AI applications for latency, cost, reliability, and scalability.
+Collaborate with product managers, designers, and engineering teams to deliver production-ready solutions.
+Build CI/CD pipelines and deploy applications on cloud platforms such as AWS, Azure, or GCP.
+Monitor AI systems for performance, hallucinations, and overall user experience.
+AI & LLMs
+Hands-on experience with Generative AI and LLM applications
+Experience building RAG pipelines
+Knowledge of embeddings and semantic search
+Familiarity with LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, or similar frameworks
+Experience with AI agents and workflow orchestration

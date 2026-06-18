@@ -1,0 +1,37 @@
+About the job
+Company Description
+ThreatXIntel is a growing Cybersecurity, IT Staffing, and Consulting company delivering end-to-end technology and security solutions.
+
+ We are hiring for our corporate client. ThreatXIntel is the official hiring partner for this requirement.
+
+Role Overview
+We are looking for a Data Scientist specializing in Computer Vision to design, develop, and deploy advanced vision-based AI solutions.
+The candidate will work on real-world image and video datasets, build scalable deep learning models, and leverage GenAI and Vision AI techniques to solve complex business problems.
+
+Key Responsibilities
+Computer Vision & AI Development
+Design and develop Computer Vision models for image and video analysis
+Implement deep learning models (CNNs, RCNNs, Transformers)
+Build real-time and edge-based vision systems
+Model Development & Deployment
+Build scalable ML pipelines and deploy models to production
+Perform data preprocessing, augmentation, and feature engineering
+Integrate vision models with LLMs, OCR, and GenAI systems
+Cloud & MLOps
+Deploy models on AWS / Azure / GCP
+Implement monitoring, optimization, and lifecycle management
+Work with CI/CD pipelines and scalable architectures
+Required Skills (Mandatory)
+Strong experience in Computer Vision & Image Processing
+Expertise in Deep Learning (CNNs, RCNNs, Transformers)
+Hands-on experience with TensorFlow / PyTorch
+Strong Python skills (NumPy, Pandas)
+Experience with real-time or edge-based vision systems
+Knowledge of ML pipelines and deployment
+Preferred Skills
+Experience with GenAI and Vision-based LLMs
+Exposure to OCR and multimodal AI
+Cloud experience (AWS / GCP / Azure)
+Knowledge of MLOps and production systems
+Education
+Bachelor’s / Master’s in Computer Science, Data Science, or related field

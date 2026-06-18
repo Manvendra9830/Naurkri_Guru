@@ -1,0 +1,50 @@
+About the job
+About The Company
+
+Adaps is a pioneering technology company dedicated to delivering innovative AI-driven solutions across various industries. Our mission is to empower businesses by integrating cutting-edge artificial intelligence capabilities into their workflows, enhancing efficiency, accuracy, and decision-making processes. With a focus on applied AI, we develop scalable, reliable, and responsible AI systems that meet the evolving needs of our clients. Our team comprises talented engineers, data scientists, and product specialists committed to pushing the boundaries of what is possible with artificial intelligence.
+
+About The Role
+
+We are seeking a skilled and proactive AI Developer to join our engineering team. In this role, you will be responsible for integrating large language models and AI capabilities into our product workflows ensuring models produce accurate, reliable, and contextually correct results. The ideal candidate has strong Python fundamentals, hands-on experience with LLM APIs and prompt engineering, and a deep understanding of how to make AI systems work reliably in production. This role focuses on applied AI integration rather than model training or research.
+
+Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, Software Engineering, Data Science, or a related field.
+Proven experience in AI development, particularly with large language models and API integrations.
+Strong proficiency in Python programming language.
+Hands-on experience with LLM APIs such as OpenAI, Anthropic, or open-source models.
+Familiarity with prompt engineering, context management, and retrieval-augmented generation (RAG).
+Understanding of data structures, algorithms, and software development best practices.
+Experience with version control systems like Git.
+Ability to work collaboratively across multidisciplinary teams including backend, frontend, and product teams.
+Excellent problem-solving and debugging skills.
+
+Responsibilities
+
+Integrate large language models (OpenAI, Anthropic, open-source models, etc.) into product workflows via APIs.
+Design, test, and iterate on prompts to consistently produce correct outputs for various business use cases.
+Build context engineering pipelines, including retrieval, chunking, embeddings, and vector store integration (RAG).
+Implement output validation, guardrails, and structured output handling such as JSON schemas and function calling.
+Develop evaluation frameworks and test harnesses to measure model accuracy and detect regressions.
+Build agentic or multi-step workflows that combine LLMs with tools, APIs, and business logic.
+Optimize for cost, latency, and token efficiency across model calls to ensure scalable deployment.
+Handle exception management, logging, debugging, and resolve production issues related to AI features.
+Collaborate with backend, frontend, and product teams to embed AI capabilities into user-facing workflows.
+Follow best practices in prompt versioning, observability, and responsible AI usage to ensure ethical deployment and compliance.
+
+Benefits
+
+Competitive salary and performance-based incentives.
+Flexible working hours and remote work options.
+Opportunities for professional growth and continuous learning in the AI domain.
+Health insurance and wellness programs.
+Access to cutting-edge AI tools and technologies.
+Collaborative and innovative work environment with a focus on diversity and inclusion.
+
+Equal Opportunity
+
+Adaps is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based on race, ethnicity, gender, age, religion, sexual orientation, disability, or any other protected status. We believe that diverse perspectives foster innovation and are essential to our success. All qualified applicants will receive consideration for employment without regard to any protected characteristic.
+
+
+Desired Skills and Experience
+Artificial Intelligence, Machine Learning, Python, API Integration, Prompt Engineering, Data Analysis

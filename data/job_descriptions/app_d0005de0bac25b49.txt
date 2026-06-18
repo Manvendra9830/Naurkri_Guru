@@ -1,0 +1,17 @@
+About the job
+We're looking for SDEs!
+
+Responsibilities
+
+Develop and deliver new features for the iOS application
+Ensure performance optimization, memory management, and smooth UI responsiveness
+Maintain code quality with best practices and architectural inputs
+Debug, test, and enhance code using unit and functional testing
+Collaborate with team members to define and implement product features
+Follow Apple Design guidelines and ensure adherence to UX best practices
+Work with RESTful APIs, JSON handling, and multithreading concepts
+Use Git for version control and contribute to reducing tech debt
+
+(*Note: Scoutit is an independent candidate sourcing partner for this hiring. All applications, candidate screening, and hiring-related actions are conducted directly by the respective employer’s authorized recruitment team. Relevant candidates will be contacted via email and asked to fill in additional details as part of the next stage of the application process.)
+
+Skills: ios,software,code,software development

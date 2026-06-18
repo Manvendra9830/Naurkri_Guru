@@ -1,0 +1,61 @@
+About the job
+Overview
+
+At Zebra, we are a community of innovators who come together to create new ways of working. United by curiosity and a culture of caring, we develop smart solutions that anticipate our customer’s and partner’s needs and solve their challenges.
+
+Being part of Zebra Nation means you are seen, heard, valued, and respected. Drawing from our unique perspectives, we collaborate to deliver on our purpose. Here you are part of a team pushing boundaries today to redefine the work of tomorrow for organizations, their employees, and those they serve.
+
+You’ll have opportunities to learn and lead in a forward-thinking environment, defining your path to a fulfilling career while channeling your skills toward causes you care about—locally and globally.
+
+Come make an impact every day at Zebra.
+
+What We're Looking For
+
+Analyzes, designs, develops, and maintains software solutions for the organization’s products and systems. Collaborates on system integrations of software and hardware to ensure optimal performance and program consistency. Develops, validates, and tests structures, user documentation, and software functionality. Work is reviewed for accuracy and adherence to established processes and guidelines.
+
+Essential Duties And Responsibilities
+
+ Collaborates with team members to establish requirements for less complex design projects
+ Completes all phases of software engineering design projects, including coding, debugging, testing, and deployment
+ Conducts analysis of processes and systems, delivering results to key stakeholders
+ Analyzes and interprets results, recommending potential solutions for software and system improvements
+ Contributes to the development and testing of software solutions for various products, ensuring they meet quality and performance standards
+ Creates and maintains documentation for projects, including code, design specifications, and test results
+ Stays up to date with the latest technologies and software engineering methodologies, applying them to projects as needed
+ Reviews and evaluates changes or upgrades to existing designs or test processes
+ Exercises sound judgment in selecting appropriate methods and techniques for problem solving and solution delivery
+
+Job Requirements
+
+ Bachelors Degree in Computer Science, Software Engineering, or related field. Advanced Degree in relevant field is also acceptable
+ 0+ years of experience in software development or a related field
+ Equivalency: Equivalent work experience will be considered in lieu of a degree
+
+Key Skills And Competencies
+
+ Quantitative, analytical, and problem solving skills
+ Familiarity with programming languages, operating systems, algorithms and software development frameworks
+ Basic understanding of software development life cycles (e.g., Agile, Scrum)
+ Ability to work collaboratively in a team environment
+ Strong written and verbal communication skills
+
+Position Specific Information
+
+ Travel Requirements: Up to 15%
+ Able to Telework?: Hybrid
+
+Physical Demands
+
+ Sedentary work that primarily involves sitting or standing
+
+Benefits
+
+We understand the importance of work-life balance and wellbeing, which is why we offer flexibility for our teams including: hybrid work, adaptable hours, Summer Flex Fridays, Focus Fridays, and an annual companywide well-being day to promote revitalization and success.
+
+Job Posting Statement
+
+To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system. Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.
+
+AI Technology Statement
+
+Zebra Technologies leverages AI technology to evaluate job applications using objective, job-relevant criteria. This approach enhances efficiency and promotes fairness in the hiring process. However, every decision regarding interviews and hiring is made by our dedicated team, because we believe people make the best decisions about people. For more on how we use technology in hiring and how we process applicant data, see our Zebra Privacy Policy.

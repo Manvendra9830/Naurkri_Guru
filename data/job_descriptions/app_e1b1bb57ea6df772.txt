@@ -1,0 +1,65 @@
+About the job
+This position is open to candidates based in India only. Applications from outside India will not be considered.
+
+Company Overview
+
+At Avahi, we’re redefining what it means to be a premier cloud-first consulting company, recognized for our people, culture, and innovative solutions. With expertise in Managed Services, Staffing, and Professional Services, we are dedicated to delivering exceptional value and putting customers first.
+
+As a remote-first, global team spanning North America, Europe, and Southeast Asia, we foster a collaborative and diverse environment where professional growth, creativity, and mutual respect thrive. Guided by our values—Customer-Centricity, Collaboration, Agility, Innovation, Integrity, and Diversity & Inclusion—we empower businesses to embrace the full potential of a cloud-first approach.
+
+About The Role
+
+As a Data Scientist at Avahi, you’ll work very closely with a senior member of our research team on cutting-edge Applied AI, infrastructure, and tooling towards the goal of democratizing Generative AI for everyone.
+
+Example Projects
+
+ Build a RAG pipeline on top of internal documents.
+ Create a python library on top of AWS services to enable GenAI for large enterprises.
+Open source internal tools. 
+ Implement neural network architecture from newly published papers. 
+ Work on tools which work with fine-tuned models, vector databases, embeddings etc.
+ Develop more realistic simulations for training our agents.
+ Design automated methods and tools to prevent common issues with neural network training (e.g. overfitting, vanishing gradients, dead ReLUs, etc).
+ Create visualizations to help us deeply understand what our networks learn and why.
+
+Qualifications
+
+Very comfortable writing Python.
+ Strong data structures, algorithms, and engineering mathematics background.
+ Familiar with PyTorch and training deep neural networks is preferred but not mandatory
+ Excited to work on open-source code.
+ Passionate about engineering best practices.
+ Self-directed and independent.
+ Strong English language skills are a must.
+
+Education
+
+Bachelor’s degree in Computer Science, Engineering, Information Systems, or a related field
+
+Why Work Here
+
+Remote-First Flexibility
+
+Enjoy work-life harmony in a remote-first environment that allows you to work from anywhere.
+
+Innovative Culture
+
+We embrace a startup mindset, encouraging creativity, agility, and growth. Be part of a team that explores cutting-edge technology and drives impactful solutions.
+
+Career Development
+
+Avahi is committed to your growth, offering mentorship and opportunities to advance your career.
+
+Purpose-Driven Mission
+
+Join us in making a difference. Avahi is dedicated to championing diversity, supporting women in tech, and fostering sustainable practices.
+
+Global Collaboration
+
+Work alongside a diverse, talented team, sharing insights and collaborating to create innovative solutions that make a real impact.
+
+Accessibility and Inclusivity Statement
+
+At Avahi, we are committed to fostering a workplace that celebrates diversity and inclusivity. We welcome applicants from all backgrounds, experiences, and perspectives, including those from underrepresented communities.
+
+We are proud to be an equal opportunity employer, providing a fair and accessible recruitment process for all candidates. If you require accommodations at any stage of the application or interview process, please let us know, and we will work to meet your needs.

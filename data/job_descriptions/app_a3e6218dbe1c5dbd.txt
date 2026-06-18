@@ -1,0 +1,51 @@
+About the job
+We are Lenovo. We do what we say. We own what we do. We WOW our customers.
+
+Lenovo is a US$83 billion revenue global technology powerhouse, ranked #196 in the Fortune Global 500, and serving millions of customers every day in 180 markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world’s largest PC company with a full-stack portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, tablets), infrastructure (server, storage, edge, high performance computing and software defined infrastructure), software, solutions, and services. Lenovo’s continued investment in world-changing innovation is building a more equitable, trustworthy, and smarter future for everyone, everywhere. Lenovo is listed on the Hong Kong stock exchange under Lenovo Group Limited (HKSE: 992) (ADR: LNVGY).
+
+This transformation together with Lenovo’s world-changing innovation is building a more inclusive, trustworthy, and smarter future for everyone, everywhere. To find out more visit www.lenovo.com, and read about the latest news via our StoryHub.
+
+We are seeking an enthusiastic AI Application Full Stack Developer to build scalable web applications, AI-powered features, and intelligent automation solutions. The ideal candidate should have strong hands-on experience in modern full-stack development along with exposure to AI integrations, LLM-based applications, and workflow-driven digital platforms.
+
+Key Responsibilities
+
+Develop and maintain scalable web applications using Next.js, React.js, FastAPI, Python, Node.js, MongoDB, and OpenSearch.
+Build AI-powered features such as:
+Conversational interfaces
+AI-assisted workflows
+Semantic search
+Intelligent automation solutions
+RAG-based applications
+Integrate AI APIs, embeddings, vector search, and workflow orchestration tools into enterprise applications.
+Collaborate with designers, backend developers, QA teams, and product managers to deliver high-quality digital experiences.
+Contribute to frontend development, backend integrations, API development, and performance optimization.
+Participate in Agile development processes including sprint planning, feature development, testing, and releases.
+Build reusable components and scalable workflow-driven applications.
+Required Skills
+
+Strong knowledge of:
+Next.js / React.js
+JavaScript / TypeScript
+FastAPI / Python / Node.js
+MongoDB / OpenSearch
+REST APIs
+Experience or exposure to:
+AI application development
+LLM integrations
+Prompt engineering
+Semantic search embeddings
+RAG architectures
+AI workflow automation
+Good understanding of scalable web application development and frontend best practices.
+Strong problem-solving and collaboration skills.
+Preferred Qualifications
+
+Familiarity with LangChain, LangGraph, MCP ecosystem, or similar AI frameworks.
+Experience working on AI-enabled platforms, automation systems, ecommerce, or enterprise applications.
+Exposure to cloud-native development and modern DevOps practices.
+
+Ideal Candidate
+
+A passionate developer interested in building intelligent digital experiences using AI and modern full-stack technologies while contributing to scalable enterprise applications and innovative customer solutions.
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, religion, sexual orientation, gender identity, national origin, status as a veteran, and basis of disability or any federal, state, or local protected class.

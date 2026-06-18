@@ -1,0 +1,116 @@
+About the job
+VisibilityStack was founded by the Founders of FirstPrinciples ($8m+ ARR) and Listnr.ai (3.5mn+ users across 200 countries) to solve for one of the most painful problems to exist in this decade - AI search visibility.
+
+VisibilityStack.ai helps brands win visibility in the new search layer - across AI search, generative engines, and modern discovery surfaces.
+
+We are building an AI-native SEO/GEO platform that helps companies understand, improve, and scale how they appear across traditional search, LLM-powered search, answer engines, and agent-driven discovery workflows.
+
+Our product sits at the intersection of:
+AI search and generative engine optimization
+agentic workflows and automation
+large-scale data collection and analysis
+modern SaaS product engineering
+applied AI infrastructure
+
+We care deeply about shipping fast without compromising quality or security, building useful product experiences, and turning cutting-edge AI capabilities into reliable software that customers use every day.
+
+The Role
+We’re looking for a Full Stack AI Engineer who is highly product-minded and excited about building AI-native software from end to end.
+
+This is not a narrow frontend or backend role. You’ll work across the stack - from APIs, workflow engines, and data systems to polished product surfaces - while helping design and ship the core intelligence layer behind VisibilityStack.ai.
+
+You should be comfortable building with modern AI tooling, orchestrating workflows, integrating LLMs and external tools, and turning messy real-world requirements into clean product experiences. The ideal candidate has strong software engineering fundamentals, a bias for shipping, and hands-on experience with AWS-based systems.
+
+What You’ll Work On:
+1) Build AI-native product workflows 
+Design and ship product features powered by LLMs, retrieval systems, and agentic workflows
+Build systems that automate SEO/GEO research, content intelligence, brand monitoring, query expansion, and recommendation generation
+Create workflow-driven features that connect models, tools, APIs, and data pipelines into production-ready user experiences
+Develop internal AI tooling for experimentation, prompt iteration, evaluation, and rapid feature development
+
+2) Develop full stack product systems
+Build scalable backend services and APIs for core product workflows
+Develop fast, intuitive frontend experiences using React or similar modern frameworks
+Create internal dashboards, operator tools, and customer-facing interfaces for monitoring, debugging, and workflow control
+Write clean, maintainable, well-tested code across the application stack
+
+3) Build agentic software and orchestration layers
+Design and manage multi-step AI workflows with tool use, state management, retries, fallbacks, and validation
+Build integrations that allow AI systems to interact with internal services, external APIs, databases, and data sources
+Implement session handling, persistence, memory, and context management for agent-driven applications
+Design knowledge and retrieval layers using vector databases, embeddings, and document pipelines
+Build systems for evaluating agent outputs, monitoring behavior, debugging execution failures, and improving reliability over time
+
+4) Build data and intelligence infrastructure
+Develop ingestion pipelines for structured and unstructured data across search, content, and web intelligence sources
+Build backend systems for crawling, processing, scoring, and serving product insights
+Work with ranking, classification, extraction, and summarization workflows in production
+Collaborate on systems that turn raw data into actionable product recommendations
+
+5) Own cloud infrastructure and deployment on AWS
+Build and manage services deployed on AWS
+Work with cloud-native architectures for compute, storage, queues, and observability
+Improve performance, scalability, and cost efficiency across product and AI workloads
+Support containerized services and production deployment pipelines
+Help define best practices around reliability, monitoring, and infrastructure hygiene
+
+6) Drive engineering quality and product velocity
+Collaborate closely with product and leadership on feature design and prioritization
+Participate in technical design, architecture reviews, and code reviews
+Bring strong engineering judgment around tradeoffs, speed, and maintainability
+Contribute to a culture of ownership, experimentation, and high standards
+
+What We’re Looking For:
+Core Requirements
+1-4 years of experience in software engineering, full stack development, or backend-heavy product engineering
+Strong fundamentals in computer science, data structures, algorithms, and systems design
+Strong proficiency in Python
+Experience building backend services using FastAPI, Flask, or similar frameworks
+Experience building frontend applications using React.js or similar frameworks
+Experience designing and shipping APIs, internal tools, and product workflows
+Strong debugging skills and the ability to work through ambiguous engineering problems
+Product mindset - you care about the user outcome, not just the code
+
+Strongly Preferred
+Hands-on experience with AWS, FastAPI and NextJS
+Experience building AI-powered product features using LLM APIs and modern AI tooling
+Familiarity with orchestration frameworks such as LangChain, LangGraph, or similar workflow frameworks
+Experience building agentic systems, tool-calling workflows, or multi-step AI applications
+Experience with vector databases, retrieval pipelines, embeddings, and knowledge systems
+Experience with async systems, queues, background jobs, and event-driven architectures
+Familiarity with Docker and production deployment practices
+Experience working with data pipelines and large-scale processing systems
+
+Bonus Points
+Experience in SEO, search, web intelligence, crawling, or content systems
+Experience with evaluation frameworks for AI systems
+Experience with prompt engineering, guardrails, output validation, and fallback design
+Experience with observability tools, system monitoring, and production debugging
+Familiarity with MLOps or workflow orchestration tools
+Experience building 0→1 internal tools, automation products, or AI copilots
+
+What Success Looks Like
+In this role, success means you can:
+ship AI-native product features quickly and reliably
+build workflows that combine models, tools, and data into real customer value
+improve the performance and robustness of our AI systems over time
+operate comfortably across backend, frontend, AI orchestration, and AWS infrastructure
+think like an owner and help shape both product direction and technical execution
+
+Who You Are
+You are highly curious and learn new tools fast
+You like building useful systems, not just prototypes
+You are excited by AI tooling, agentic software, and workflow automation
+You are comfortable moving across layers of the stack
+You care about product quality, speed, and practical impact
+You take ownership and enjoy solving real-world engineering problems
+
+Why Join VisibilityStack.ai
+VisibilityStack was founded by the Founders of FirstPrinciples ($8m+ ARR) and Listnr.ai (3.5mn+ users across 200 countries) to solve for one of the painful problems to exist in this decade - search visibility.
+As product, user, content discovery moves to Generative search, we aim to provide the best tools to help businesses get discovered on AI chatbots. We're at the forefront of the AI space with a team thats been building in AI since 2018, way before GenAI became a buzzword.
+
+At VS, you'll get a chance to work on an AI-native product in one of the fastest-changing categories in software.
+Build at the frontier of SEO, GEO, AI search, and agentic discovery.
+Ship real product, that will be used by millions of users.
+Get broad ownership across product, engineering, AI systems, and infrastructure.
+Be part of a fast-moving team building software that directly impacts customer growth

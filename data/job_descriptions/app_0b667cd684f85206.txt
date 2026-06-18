@@ -1,0 +1,32 @@
+About the job
+Description
+
+ JOB DESCRIPTION 
+
+Be part of a team that designs, develops, tests, and integrates highly complex software functions within Honeywell [Connected Aero]. You will be an active and integral member of a team to achieve the completion of goals. You will also generate innovative solutions in work situations, trying different and novel ways to deal with problems and opportunities.
+
+Responsibilities
+
+Skills Requirement :
+
+ Strong proficiency in C/C++, Python and Java. 
+ Solid understanding of database fundamentals, data structures, and algorithms is required. 
+ Front-End Development: React, JavaScript, HTML, CSS 
+ Back-End Development: Oracle, Java, SQLite 
+ Web Design & UI/UX: Proficiency in tools that create responsive and interactive designs. 
+ Secondary skills (good to have): GIS Data formats and GIS Tools and libraries. 
+ Experience in building or applying AI/ML techniques to improve productivity is advantageous . 
+ Development Tools: VS Code, Microsoft Visual Studio 
+ OS: Windows 10 & 11, Windows 2019 Server, Linux 
+ Cybersecurity: Knowledge on Coverity and BDH issues & analysis, awareness and experience on secure coding practices. 
+ Thrives in a demanding work environment and can work on local or international assignments as needed. 
+ Effectively Performs System and Integration Testing independently. 
+ Ability to code in multiple programming languages and prototype applications quickly. 
+ Quick learner with excellent communication abilities. 
+ Experience in the Aerospace domain is advantageous. 
+
+Qualifications
+
+Job Expectations :
+
+ 0-2 years of experience in C/C++, Python, Java, React, JavaScript, HTML, CSS and Web technologies in the development and testing of moderate to complex systems .

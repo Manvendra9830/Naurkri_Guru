@@ -1,0 +1,41 @@
+About the job
+Research Engineer — Full Time
+About Deccan AI
+Deccan AI is a fast-growing, venture-backed AI infrastructure company focused on training, evaluating, and improving next-generation AI systems. Headquartered in the Bay Area with a growing engineering hub in Hyderabad, the company was founded by alumni of IIT Bombay, IIM Ahmedabad, and former Google leaders.
+We collaborate with leading AI frontier labs and research organizations, including Google DeepMind, Snowflake, and other cutting-edge AI teams. Backed by Prosus Ventures, Deccan AI recently raised $25M in Series A funding and is entering a significant growth phase.
+With a global network of over 1 million experts, advanced automation systems, and vertically integrated platforms, we deliver the high-quality data and evaluation infrastructure that state-of-the-art AI models rely on. As the AI infrastructure market rapidly expands, Deccan AI is building the systems powering the future of AI.
+Role Overview
+We are looking for a Research Engineer to work on open-ended, high-impact problems in the domains of Reinforcement Learning (RL), agent systems, and data-centric AI research.
+In this role, you will operate at the intersection of research and engineering, building systems that push the boundaries of how AI agents are trained, evaluated, and improved. You will have full ownership of problems end-to-end and will be expected to work independently in a fast-moving environment.
+You will also contribute to the broader AI community by sharing your work through open-source contributions, research publications, and technical talks.
+What You’ll Work On
+You will work on ambitious and exploratory problems such as:
+Extending our RL training stack to support end-to-end agentic training pipelines, including multi-agent systems and sub-agent orchestration
+Designing systems to train agents that generate realistic bugs in codebases, enabling the creation of high-quality bug-fixing benchmarks
+Developing evaluation frameworks to measure the quality of AI-generated code beyond simple functional correctness
+Building experiments and tooling for evaluating agent behavior, reasoning quality, and robustness
+What We’re Looking For
+We value strong problem-solving ability, creativity, and engineering depth over formal research experience.
+Core Strengths
+Strong programming skills and ability to build complex systems from scratch
+High problem-solving ability and comfort with ambiguity
+Strong intuition for system design and experimentation
+Ability to work independently and take ownership end-to-end
+Preferred Background
+Experience with Python and large-scale software systems
+Exposure to ML, RL, or agent-based systems
+Familiarity with distributed systems or experimentation frameworks
+Contributions to open-source projects or independent technical work
+What Matters Most
+We care less about formal research credentials and more about:
+Creativity in solving open-ended problems
+Strong engineering and debugging skills
+High agency and ownership mindset
+Ability to rapidly prototype and iterate
+In many cases, we have found that highly creative software engineers with strong execution ability are exceptionally well-suited for this role.
+Why Join Deccan AI
+Work on cutting-edge problems in RL and agent systems
+High ownership with end-to-end responsibility
+Opportunity to publish research and open-source impactful work
+Collaborate with top-tier engineers and researchers
+Build systems that directly shape the future of AI infrastructure

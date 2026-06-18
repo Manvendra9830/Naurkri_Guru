@@ -1,0 +1,13 @@
+About the job
+Company Description ALLINTOAI (ALLXAI) delivers tailored AI solutions through an AI-as-a-Service platform that helps organizations streamline operations, automate processes, and unlock new growth opportunities. The company focuses on building scalable, robust AI infrastructure so clients can concentrate on innovation and core business priorities. By handling complex AI needs end to end, ALLINTOAI simplifies adoption and integration for diverse industries. Team members collaborate on practical, high-impact AI products used in real-world environments. This environment offers opportunities to work with modern technologies and contribute directly to customer success.
+Role Description This is a full-time AI Engineer role based in Bengaluru, structured as a hybrid position with a mix of on-site work and some work-from-home flexibility. The AI Engineer will design, build, and deploy AI models and services that power ALLINTOAI’s AI-as-a-Service platform, from data exploration through productionization. Day-to-day responsibilities include researching and implementing algorithms in areas such as pattern recognition, neural networks, and natural language processing, as well as evaluating model performance and iterating on solutions. The role involves close collaboration with product managers, software engineers, and other stakeholders to translate business requirements into scalable AI solutions and APIs. The AI Engineer will also contribute to code reviews, documentation, and best practices for model monitoring, performance optimization, and reliability in production.
+Qualifications
+  Strong foundation in Computer Science, including algorithms, data structures, and computational thinking.
+Hands-on experience with Pattern Recognition and Neural Networks for real-world problem solving.
+Practical expertise in Natural Language Processing (NLP), including modern transformer-based methods, is highly desirable.
+Proficiency in Software Development, including Python or similar languages, version control (e.g., Git), and collaborative development workflows.
+Experience with machine learning frameworks (e.g., PyTorch, TensorFlow) and data processing libraries (e.g., pandas, NumPy).
+Familiarity with deploying models to production (e.g., REST APIs, containers, cloud platforms) and monitoring model performance.
+Bachelor’s or Master’s degree in Computer Science, Engineering, Mathematics, or a related technical field, or equivalent practical experience.
+Ability to work effectively in a hybrid environment, communicate clearly with technical and non-technical stakeholders, and collaborate in cross-functional teams.
+Experience with MLOps practices, experiment tracking, and versioning of models and datasets is a plus.

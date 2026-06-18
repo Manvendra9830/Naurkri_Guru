@@ -1,0 +1,55 @@
+About the job
+Work Location- Noida & Chandigarh
+Shift - Rotational Shift in EST (Only Night shifts)
+
+Position Summary 
+We are looking for a proactive AI Automation Engineer with a strong foundation in scripting,
+DevOps, and workflow automation. The ideal candidate will work on executing, maintaining, and
+optimizing AI-driven automation workflows to improve operational efficiency across MSP
+environments.
+
+Key Responsibilities
+Execute and manage pre-built automation workflows (ticket triage, user provisioning, reporting, etc.)
+Develop and troubleshoot scripts using Python and PowerShell
+Leverage automation and AI tools like Power Automate, Zapier, ChatGPT, Copilot, Claude, N8N, and Rewst
+Collaborate with Service Delivery and Automation teams to identify and implement automation opportunities
+Document workflows for clarity, scalability, and repeatability
+Monitor automation performance and ensure quality, optimization, and compliance
+
+Qualifications
+Bachelor’s degree
+1+ years of experience in DevOps, scripting, or workflow automation
+Proficiency in Python and PowerShell
+Strong understanding of REST APIs, webhooks, and JSON
+Experience with predictive lead scoring (Marketing Hub Enterprise feature).
+Strong understanding of REST APIs, webhooks, and JSON
+Basic knowledge of SQL and NoSQL databases
+Understanding of LLMs, prompts, and Generative AI concepts
+Strong problem-solving skills with ability to debug end-to-end automation workflows
+Strong problem-solving skills with ability to debug end-to-end automation workflows
+
+Nice to have
+• Experience with Vector Embeddings and RAG setups
+• Familiarity with MSP tools like PSA, RMM, and CRM systems
+• Exposure to AI agent development
+
+Our Culture and You
+What does the day in a life look like for the AI Automation Engineer?
+You work each day in an environment that promotes a community of collaboration and engagement. You work closely with a passionate and positive leadership team that is invested in your success. There are no office politics and no competing agendas. We work hard and have fun while dreaming big. Our employees have indicated that with IT By Design & Build IT, they find a home where their passion and career goals finally intersect for them to live a life full of purpose.
+
+Why work with us – IT BY DESIGN
+IT By Design is a leading provider of comprehensive IT solutions, specializing in managed services,
+cloud solutions, cybersecurity, and more. Headquartered in the US with global teams
+in the Philippines and India, we focus on innovation, collaboration, and customer-centricity. We
+are dedicated to empowering businesses with cutting-edge technology solutions. Creating a team
+of life-long learners and with an employee-first approach, we offer a dynamic and collaborative
+work atmosphere which fosters a big, small company feel. We place emphasis
+on building meaningful relationships leading to a people/community-focused environment. And
+through our dedication to our clients, there is a huge value in adding to others’ lives.
+
+Our Core Values
+Humility: We approach every interaction with openness and respect, valuing the perspectives of others.
+Accountability: We take ownership of our actions and outcomes, ensuring reliability and trustworthiness in all that we do.
+Positivity: We maintain an optimistic and enthusiastic attitude, inspiring others and fostering a supportive work environment.
+Passion: We are deeply committed to our work, driven by a genuine enthusiasm for making a difference and delivering exceptional results.
+Your community: We prioritize the well-being and success of our community, contributing positively to the lives of those around us.

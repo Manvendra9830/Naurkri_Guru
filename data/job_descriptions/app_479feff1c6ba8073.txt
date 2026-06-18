@@ -1,0 +1,56 @@
+About the job
+Job Description Summary
+
+We are looking for a Software engineer in Our MIC-Maternal & Infant Care team. The person will be a core member of software team to design, develop & deliver software for device and Digital Solution products. The person will be responsible for designing, building, delivering and maintaining software applications & services. Working in the areas of machine, cloud, platform and/or application. Responsible for software lifecycle including activities such as requirement analysis, documentation/procedures and implementation. We need a team player with strong communication skills, motivated to achieve results in a fast-paced environment.
+
+GE HealthCare is a leading global medical technology and digital solutions innovator. Our purpose is to create a world where healthcare has no limits. Unlock your ambition, turn ideas into world-changing realities, and join an organization where every voice makes a difference, and every difference builds a healthier world.
+
+Job Description
+
+Roles and Responsibilities
+
+In This Role, You Will
+
+ Collaborate with system engineers, frontend developers and software developers to implement solutions that are aligned with and extend shared platforms and solutions
+ Apply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques
+ Writes codes that meets standards and delivers desired functionality using the technology selected for the project
+ Build features such as web services and Queries on existing tables
+ Understand performance parameters and assess application performance
+ Work on core data structures and algorithms and implement them using language of choice
+
+Qualifications/Requirements
+
+Masters degree in computer science or “STEM” Majors (Science, Technology, Engineering and Math) with 1+ years of experience.
+1+ years of Hands-on experience in embedded Devp, C, C++, Python.
+Good knowledge of Object-Oriented Analysis and Design, Software Design Patterns
+Knowledge of Microcontrollers and Microprocessors, Real-time Operating systems, Ability to read a schematic.
+Understanding the principles of electronics, circuits, and signals
+Ability to use Hardware test equipment’s: oscilloscope, logic analyzer.
+High level understanding or ability to learn communication protocols. (I2C, SPI, USB, GPIOs, CAN bus, RS232, RS485 and Networking)
+Aware of methods and practices such as Lean/Agile/XP, etc.
+General understanding of the impacts of technology choice to the software development life cycle.
+
+Personal/Leadership Attributes
+
+Voices opinions and presents clear rationale. Uses data or factual evidence to influence.
+Learns organization vision statement and decision making framework. Able to understand how team and personal goals/objectives contribute to the organization vision.
+Completes assigned tasks on time and with high quality. Takes independent responsibility for assigned deliverables.
+Has the ability to break down problems and estimate time for development tasks.
+Seeks to understand problems thoroughly before implementing solutions. Asks questions to clarify requirements when ambiguities are present.
+Identifies opportunities for innovation and offers new ideas. Takes the initiative to experiment with new software frameworks
+Adapts to new environments and changing requirements. Pivots quickly as needed. When coached, responds to need & seeks info from other sources
+Write code that meets standards and delivers desired functionality using the technology selected for the project
+
+Inclusion and Diversity
+
+GE Healthcare is an Equal Opportunity Employer where inclusion matters. Employment decisions are made without regard to race, colour, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+We expect all employees to live and breathe our behaviours: to act with humility and build trust; lead with transparency; deliver with focus, and drive ownership – always with unyielding integrity.
+
+Our total rewards are designed to unlock your ambition by giving you the boost and flexibility you need to turn your ideas into world-changing realities. Our salary and benefits are everything you would expect from an organization with global strength and scale, and you will be surrounded by career opportunities in a culture that fosters care, collaboration and support.
+
+This Job Description is intended to provide a high level guide to the role. However, it is not intended to amend or otherwise restrict/expand the duties required from each individual employee as set out in their respective employment contract and/or as otherwise agreed between an employee and their manager.
+
+Additional Information
+
+Relocation Assistance Provided: Yes

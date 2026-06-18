@@ -1,0 +1,77 @@
+About the job
+Role: Software Engineer - Full Stack
+Experience: 0-1 Year
+Education: B.Tech in Computer Science (Highly Preferred)
+Tech Stack: Python, ReactJS, MySQL
+Location: HSR Layout, Bengaluru
+
+We are looking for a smart, execution-focused Software Engineer who has strong hands-on exposure through projects, internships, or early work experience in building full-stack applications.
+
+You will work directly with functional teams (Product, Operations, Business) to understand real business problems and translate them into scalable technical solutions. This role provides deep exposure to building production-grade systems and learning modern development practices using AI-assisted engineering tools.
+
+If you enjoy learning fast, building real systems, and taking ownership this role is for you.
+
+Key Responsibilities
+Product Engineering
+- Build and maintain full-stack applications using:
+- Backend: Python
+- Frontend: ReactJS
+- Database: MySQL
+- Design clean APIs, data models, and frontend flows.
+- Own features end-to-end: requirement understanding implementation testing deployment.
+
+Cross-Functional Collaboration
+- Work closely with functional teams to understand workflows and convert business requirements into technical implementation.
+- Participate in solution discussions and contribute ideas for improving performance, usability, and scalability.
+
+AI-Enabled Development
+- Use modern AI tools (Claude, Anti-Gravity, Copilot, etc.) to accelerate development, debugging, documentation, and learning.
+- Experiment with AI workflows to improve engineering productivity and quality.
+
+Engineering Practices
+- Write clean, maintainable, and well-documented code.
+- Debug production issues and optimize performance.
+- Learn modern development practices, version control, deployment pipelines, and monitoring.
+
+Required Skills Must Have
+Strong hands-on experience (projects / internships) with:
+- Python
+- ReactJS
+- MySQL
+
+Understanding of:
+- REST APIs
+- Frontend state management
+- Database design basics
+
+- Ability to build complete features independently with guidance.
+- Comfortable using AI tools like Claude / Anti-Gravity / Copilot for development workflows.
+- Good communication and problem-solving skills.
+- Passion for learning and ownership mindset.
+
+Good To Have
+- Exposure to cloud platforms (AWS / GCP / Azure)
+- Familiarity with Git, CI/CD, Docker
+- Any side projects, open-source contributions, or hackathons
+- Knowledge of system design fundamentals
+
+Who Should Apply
+- Fresh graduates or engineers with up to 1 year of experience
+- Strong academic or project background in Computer Science
+- Curious, self-driven engineers who enjoy solving real-world problems
+- Builders who want early responsibility and rapid growth
+
+What You'll Gain
+- Real-world experience building production systems
+- Direct exposure to how software products and businesses are built
+- Ownership of meaningful features from day one
+- Mentorship from experienced engineers and business leaders
+- Hands-on learning with AI-powered engineering tools
+- Fast career growth based on merit and impact
+
+Why Join Us
+- Be part of a high-ownership engineering culture
+- Work on impactful products, not just internal tools
+- Freedom to experiment and innovate
+- Flexible, performance-driven environment
+- Learn how technology directly drives business outcomes

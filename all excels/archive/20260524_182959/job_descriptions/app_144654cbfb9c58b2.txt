@@ -1,0 +1,43 @@
+About the job
+Job Title: Junior Software Developer
+Job Location: Hyderabad, Telangana
+Worksite: Onsite [100%]
+
+About WCT:
+WaferWire Technology Solutions (WCT) specializes in delivering comprehensive Cloud, Data and AI solutions through Microsoft's technology stack. Our services include Strategic Consulting, Data/AI Estate Modernization, and Cloud Adoption Strategy. We excel in Solution Design encompassing Application, Data, and AI Modernization, as well as Infrastructure Planning and Migrations. Our Operational Readiness services ensure seamless DevOps, ML Ops, AI Ops, and Sec Ops implementation. We focus on Implementation and Deployment of modern applications, continuous Performance Optimization, and future-ready innovations in AI, ML, and security enhancements. Delivering from Redmond-WA, USA, Guadalajara, Mexico and Hyderabad, India, our scalable solutions cater precisely to diverse business requirements and multiple time zones (US time zone alignment).
+
+About Role/Project:
+We are seeking motivated and enthusiastic entry-level candidates with a strong foundation in front-end development using React. The ideal candidate will also have exposure to either Python or .NET technologies, along with a willingness to learn and grow in a collaborative environment. Strong communication and problem-solving abilities are essential for success in this role.
+
+Responsibilities:
+Develop and maintain responsive web applications using React.js
+Collaborate with cross-functional teams to design, develop, and deploy features
+Write clean, efficient, and reusable code
+Participate in code reviews and contribute to team knowledge sharing
+Assist in debugging, troubleshooting, and optimizing application performance
+Work on backend integration using Python or .NET technologies
+Contribute to development and integration of microservices-based systems
+Follow best practices in software development and version control
+
+Required Qualifications:
+Strong understanding of React.js (mandatory)
+Basic knowledge of JavaScript, HTML, and CSS
+Familiarity with either Python or .NET framework
+Basic understanding of microservices architecture
+Understanding of REST APIs and client-server architecture
+Good problem-solving and analytical thinking skills
+Strong verbal and written communication skills
+Ability to work both independently and in a team environment
+
+Preferred Qualifications:
+Knowledge of C#
+Familiarity with databases (SQL/NoSQL)
+Understanding of Git or other version control systems
+Exposure to Agile/Scrum methodologies
+
+Qualifications
+Bachelor’s degree in Computer Science, IT, or related field (or equivalent practical experience)
+Relevant internships, academic projects, or personal projects demonstrating required skills
+
+Equal Employment Opportunity Declaration:
+WCT is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.

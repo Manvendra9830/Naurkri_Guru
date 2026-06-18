@@ -1,0 +1,28 @@
+About the job
+We're looking for Software Engineers!
+
+Responsibilities
+
+You will have the opportunity to design, develop, and support software and tools used by our operations team that ultimately impact the final customer experience of the data that we provide.
+You will work closely with other team members, other engineering teams, and the operations team to help develop scalable and reliable cloud-based tools for our processing pipeline, being a key developer of framework and systems used by those tools.
+We are looking for an individual who will enjoy working as part of a dynamic team and is enthusiastic about making a difference in the future of our company.
+
+Qualifications
+
+Passion for providing software engineering best practices (e.g., unit testing, code reviews, design documentation, and continuous integration)
+An understanding of Agile Development practices
+Familiarity with Golang, Python, and/or C++ for backend development
+Familiarity with developing fast, reliable, scalable distributed web services
+Familiarity with applications deployed using Amazon Web Services (AWS)
+Familiarity with RESTful API design, the HTTP stack, and browser limitations
+Familiarity with GIS and image processing
+Familiarity with Docker and container orchestration (Kubernetes, ECS, or similar)
+Familiarity with common CI/CD methods and tools (Jenkins, Bamboo)
+Familiarity with database development (SQL)
+Passionate about building scalable backend systems
+Comfortable working in a distributed team
+Eager to learn and adapt to new technologies
+
+(*Note: This is a requirement for one of Scoutit's clients)
+
+Skills: api,software,web

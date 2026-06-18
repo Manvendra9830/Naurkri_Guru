@@ -1,0 +1,26 @@
+About the job
+Role: Backend Developer
+Exp: 6m-1year 
+Location: Hyderabad ( Gachibowli)
+Interview: 3 Rounds 
+
+Roles and Responsibilities
+• Build and ship backend APIs using NodeJs (express) or Python (FastAPI); contribute to 
+frontend UI integration
+• Design and develop RAG pipelines — ingestion, chunking, embedding, and retrieval
+• Implement agentic AI workflows with tool use, LLM orchestration, and multi-step
+reasoning
+• Integrate LLM APIs and apply prompt engineering best practices
+• Work with vector databases and embedding models for semantic search and retrieval
+Technical Skills Required
+• Python: NumPy, Pandas, FastAPI, REST API development
+• Frontend: React, JavaScript/TypeScript, HTML/CSS, API consumption
+• RAG pipelines: ingestion, chunking, preprocessing, embedding, retrieval
+• LLM orchestration: LangChain
+• Agentic AI: tool use, prompt engineering, multi-step reasoning
+• Vector databases: Pinecone, Qdrant, pgvector
+Good to Have
+• Multi-agent systems (CrewAI, AutoGen)
+• SQL + vector hybrid search
+• Basic DevOps / Docker
+• Git & version control

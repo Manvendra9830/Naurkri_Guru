@@ -691,10 +691,10 @@ def test_cold_email_pipeline():
     try:
         from modules.cold_email.finder import extract_email_level3_guess, clean_company_name
         email, source, conf = extract_email_level3_guess("John Doe", "Acme Corp Ltd")
-        if email is None and source == "skipped_low_confidence":
-            record("Finder: Unsafe guessing is DISABLED", PASS)
+        if email == "john.doe@acme.com" and source == "pattern_guess" and conf < 0.8:
+            record("Finder: Pattern guessing is low-confidence only", PASS)
         else:
-            record("Finder: Unsafe guessing is DISABLED", FAIL, f"Got: {email}, {source}, {conf}")
+            record("Finder: Pattern guessing is low-confidence only", FAIL, f"Got: {email}, {source}, {conf}")
             
         cleaned = clean_company_name("Google India Pvt. Ltd.")
         if cleaned == "google india":
@@ -845,13 +845,13 @@ def test_recruiter_email_extraction_confidence_scoring():
         else:
             record("Finder: Validation seed email flow preserved", FAIL, f"Got: {trusted}, {reason}, {adjusted}")
             
-        # Test confidence levels for guessing (Should now be 0.0 because disabled)
+        # Test confidence levels for guessing. Guesses are generated, but stay below the send trust gate.
         _, _, conf1 = extract_email_level3_guess("John Doe", "Acme Corp.")
         _, _, conf2 = extract_email_level3_guess("", "Acme Corp.")
-        if conf1 == 0.0 and conf2 == 0.0:
-            record("Finder: Correct confidence level scoring (DISABLED)", PASS)
+        if 0.0 < conf1 < 0.8 and 0.0 < conf2 < 0.8:
+            record("Finder: Correct low-confidence pattern scoring", PASS)
         else:
-            record("Finder: Correct confidence level scoring (DISABLED)", FAIL, f"Got: {conf1}, {conf2}")
+            record("Finder: Correct low-confidence pattern scoring", FAIL, f"Got: {conf1}, {conf2}")
             
     except Exception as e:
         record("Phase 15 tests failed", FAIL, str(e))
@@ -1339,6 +1339,67 @@ def test_sqlite_first_consistency():
         record("Phase 23 tests failed", FAIL, str(e))
 
 
+def test_indeed_filtering_and_enrichment_updates():
+    separator("PHASE 24 — Indeed Filtering, Email Enrichment & Browser Health")
+    try:
+        from modules.indeed.engine import _passes_quality_filters
+
+        if _passes_quality_filters("ML Intern", "Acme Labs", "Salary ₹35,000 per month. Fresher role."):
+            record("Indeed Filter: accepts qualifying monthly salary", PASS)
+        else:
+            record("Indeed Filter: accepts qualifying monthly salary", FAIL)
+
+        if not _passes_quality_filters("ML Intern", "Acme Labs", "Stipend ₹20,000 per month. Fresher role."):
+            record("Indeed Filter: rejects low monthly stipend", PASS)
+        else:
+            record("Indeed Filter: rejects low monthly stipend", FAIL)
+
+        if not _passes_quality_filters("ML Engineer", "Acme Labs", "CTC 3.5 LPA. Fresher role."):
+            record("Indeed Filter: rejects low annual CTC", PASS)
+        else:
+            record("Indeed Filter: rejects low annual CTC", FAIL)
+
+        if not _passes_quality_filters("ML Engineer", "Acme Labs", "Salary ₹45,000 per month. Minimum 2 years experience."):
+            record("Indeed Filter: rejects experience above current_experience", PASS)
+        else:
+            record("Indeed Filter: rejects experience above current_experience", FAIL)
+
+        if not _passes_quality_filters("ML Engineer", "Acme Labs", "Great culture and learning opportunity."):
+            record("Indeed Filter: rejects undisclosed salary", PASS)
+        else:
+            record("Indeed Filter: rejects undisclosed salary", FAIL)
+
+        from modules.cold_email.finder import find_recruiter_email
+        email, source, confidence, visits = find_recruiter_email(
+            None,
+            {
+                "company": "Acme Labs",
+                "job_description": "Send applications to talent@acmelabs.com",
+                "recruiter_profile_url": "",
+            },
+            0,
+        )
+        if email == "talent@acmelabs.com" and source == "job_description" and confidence >= 0.8 and visits == 0:
+            record("Email Enrichment: JD email extraction stores source/confidence", PASS)
+        else:
+            record("Email Enrichment: JD email extraction stores source/confidence", FAIL, f"{email}, {source}, {confidence}, visits={visits}")
+
+        from selenium.common.exceptions import WebDriverException
+        from modules.diagnostics import assert_browser_healthy
+
+        class DeadDriver:
+            @property
+            def current_window_handle(self):
+                raise WebDriverException("no such window: target window already closed")
+
+        if not assert_browser_healthy(DeadDriver()):
+            record("Browser Health: detects closed target window", PASS)
+        else:
+            record("Browser Health: detects closed target window", FAIL)
+    except Exception as e:
+        record("Phase 24 tests failed", FAIL, str(e))
+
+
 # ─────────────────────────────────────────────
 #  MAIN
 # ─────────────────────────────────────────────
@@ -1371,6 +1432,7 @@ def main():
     test_csv_normalization_robustness()
     test_atomic_csv_writes()
     test_sqlite_first_consistency()
+    test_indeed_filtering_and_enrichment_updates()
 
     # ── Summary ──
     separator("VALIDATION SUMMARY")

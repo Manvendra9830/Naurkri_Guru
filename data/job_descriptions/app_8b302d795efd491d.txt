@@ -1,0 +1,63 @@
+About the job
+Job Description
+
+Would you love to deliver huge value to our customers?
+
+Would you enjoy contributing to core technology which is
+
+serving billions of people?
+
+Join our AppBattery Team
+
+Our team is responsible for the quality of a suite of highly available services and systems . These are consumed by Akamai core platform teams that run our CDN solution.
+
+Partner with the best
+
+Create, enhance, and sustain software solutions to meet user needs, optimize system functionality, and align with organizational objectives. Partner with diverse teams to deliver dependable, scalable, and high-quality applications. Follow industry standards, best practices, and deadlines while fostering innovation and improvement throughout the software development process.
+
+As a Software Engineer, You Will Be Responsible For
+
+Demonstrating a comprehensive understanding of Object-Oriented Programming (OOPS) concepts and design principles.
+Demonstrating expertise in programming with Python effectively and proficiently.
+Gaining experience with Typescript, particularly within the realm of React development, is highly beneficial for this role.
+Demonstrating expertise in creating APIs with the Flask framework is preferred.
+Possessing expertise and experience in Kubernetes for orchestrating containers effectively.
+Gaining experience with Docker to enable containerization and deployment effectively.
+Demonstrating expertise with the Loki, Grafana, Fluentbit, Logstash, and Prometheus stack.
+
+Do What You Love
+
+To be successful in this role you will:
+
+Hold expertise in Computer Science, Software Engineering, or related field with at least three of experience in the tech industry.
+Work collaboratively within a team environment and operate independently as necessary to achieve objectives effectively.
+Demonstrate exceptional problem-solving abilities and quickly adapt to and learn emerging technologies effectively.
+Demonstrate exceptional ability to communicate effectively through both spoken and written methods.
+
+About Us
+
+At Akamai, we make life better for billions of people, trillions of times a day.
+
+Whether you're streaming live events, scrolling social media, watching your favorite series, or managing your savings, we're the engine behind the scenes. We provide the world's most distributed platform from Cloud to Edge to help the giants of the digital world work faster and stay more secure, making the internet a better experience for everyone.
+
+Our Focus Is Simple
+
+Cloud and Edge: Running apps closer to users for instant performance.
+
+Security: Neutralizing threats before they ever reach your data.
+
+Content Delivery: Scaling the world's biggest moments without a glitch.
+
+AI: Enabling our customers to build, secure, and scale AI apps on the world's most distributed cloud platform.
+
+At Akamai, we don't just support the internet; we power and protect it, because behind every great digital experience is a massive hidden challenge. And we're the ones who solve it. When millions of people hit play or pay, Akamai ensures it just works.
+
+Benefits at Akamai: We support your health, well-being, finances, and life beyond work. See our benefits.
+
+FlexBase adapts to your job's needs
+
+Akamai's FlexBase program is yet another way we show our commitment to providing employees with an exceptional workplace experience. It's not about telling employees where to work; it's about supporting employees to do their best work.
+
+We trust our incredible employees to work in ways that suit them best: at home, in an office, or a combination of both.
+
+Connect with us on social and see what life at Akamai is like!

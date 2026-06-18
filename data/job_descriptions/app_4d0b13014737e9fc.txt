@@ -1,0 +1,62 @@
+About the job
+At Forbes Advisor, our mission is to help readers turn their aspirations into reality. We arm people with trusted advice and guidance, so they can make informed decisions they feel confident in and get back to doing the things they care about most.
+
+We are an experienced team of industry experts dedicated to helping readers make smart decisions and choose the right products with ease. Marketplace boasts decades of experience across dozens of geographies and teams, including Content, SEO, Business Intelligence, Finance, HR, Marketing, Production, Technology and Sales. The team brings rich industry knowledge to Marketplace’s global coverage of consumer credit, debt, health, home improvement, banking, investing, credit cards, small business, education, insurance, loans, real estate and travel.
+
+The Data Research Engineering Team has the purpose of managing data from acquisition to presentation, collaborating with other teams while also operating independently. Their responsibilities include acquiring and integrating data, processing and transforming it, managing databases, ensuring data quality, visualizing data, automating processes, working with relevant technologies, and ensuring data governance and compliance. They play a crucial role in enabling data-driven decision-making and meeting the organization's data needs.
+
+Job Description
+
+A typical day in the life of a Full-Stack Developer will involve designing, developing, and maintaining web applications with expertise in both front-end and back-end components. They collaborate with the other members of the Data Research Engineering Team to implement features, develop APIs, and ensure seamless data exchange. With proficiency in Python, Django, and front-end technologies like HTML, CSS, JavaScript, and preferably Angular, they create responsive and user-friendly interfaces. They conduct testing, optimize application performance, and integrate data and backend services. Their problem-solving skills, attention to detail, and continuous learning mindset contribute to code quality and innovation.
+
+Key Responsibilities
+
+Collaborate with the other members of the Data Research Engineering Team to design, develop, and maintain web applications with a focus on both the front-end and back-end components.
+Implement and enhance features for web applications using Python and Django for server-side development.
+Develop RESTful APIs and integrate them with front-end components to ensure seamless data exchange and functionality.
+Create and maintain efficient and reusable code for both the back-end and front-end components of the application.
+Design and implement responsive and user-friendly interfaces using NextJS, HTML and CSS. Knowledge of Angular is a plus.
+Conduct testing and debugging to ensure the application functions correctly across different browsers and platforms, including writing unit tests using frameworks such as pytest or the Django test framework, contributing to integration testing efforts, and maintaining automated test coverage within CI/CD pipelines.
+Optimize web applications for maximum speed, scalability, and performance.
+Participate in code reviews to maintain code quality, improve development processes, and ensure adherence to coding standards.
+Stay updated with emerging technologies and industry trends to contribute innovative ideas for application enhancements.
+Troubleshoot and resolve application defects and issues reported.
+Collaborate with the Data Research Engineer to estimate development efforts and meet project deadlines.
+Assume accountability for achieving development milestones.
+Prioritize tasks to ensure timely delivery, in a fast-paced environment with rapidly changing priorities.
+Continuously learn and expand your technical knowledge and skills to grow as a full-stack developer
+Collaborate with and assist fellow members of the Data Research Engineering Team as required.
+Perform tasks with precision and build reliable systems.
+Leverage online resources effectively like StackOverflow, ChatGPT, Bard, etc., while considering their capabilities and limitations.
+
+Experience Required
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field is desirable but not essential.
+Strong proficiency in Python and experience with web framework Django.
+Proficiency with front-end technologies: NextJS, HTML, and CSS. Knowledge of Angular is a plus.
+Knowledge of SQL and database systems, such as PostgreSQL or MySQL
+Familiarity with cloud platforms: AWS (RDS, S3, EC2, ECS & CloudWatch).
+Familiarity with Google Cloud Platform, and big data technologies is a plus.
+Knowledge of RESTful API development and integration.
+Understanding of web development principles, including responsive design, cross-browser compatibility, and accessibility.
+Experience with version control systems, such as Git, for collaborative development.
+Strong problem-solving (creative and critical thinking) and analytical skills with attention to detail.
+Experience with CI/CD pipelines and deployment workflows is a plus.
+Ability to work collaboratively in a team environment.
+Good and effective communication skills.
+Eagerness to learn and adapt to new technologies and frameworks.
+Familiarity with Agile development methodologies is a plus.
+Experience with other back-end technologies, such as Node.js or Flask, is a plus.
+Ideally, familiarity with Knime or similar tools for data integration and analysis.
+Familiarity with Python modules such as Pandas, SQLAlchemy, gspread, PyDrive, and Plotly is a plus.
+Familiarity with Docker containers or similar technologies is a plus.
+Strong willingness to learn and expand knowledge in data engineering.
+Ability to thrive in a fast-paced environment with rapidly changing priorities.
+Comfortable with autonomy and ability to work independently.
+
+Perks
+
+Day off on the 3rd Friday of every month (one long weekend each month)
+Monthly Wellness Reimbursement Program to promote health well-being
+Monthly Office Commutation Reimbursement Program
+Paid paternity and maternity leaves

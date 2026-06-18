@@ -1,0 +1,47 @@
+About the job
+About The Company
+
+Wisemonk is an innovative startup dedicated to harnessing the power of data to solve complex problems across various industries. Our mission is to develop cutting-edge analytical tools and models that enable businesses and organizations to make informed decisions, optimize operations, and uncover new opportunities. With a focus on research-driven solutions, Wisemonk combines expertise in data science, machine learning, and domain knowledge to deliver impactful results. Our dynamic team fosters a collaborative environment that encourages experimentation, continuous learning, and the pursuit of excellence. As a forward-thinking company, we are committed to leveraging emerging technologies and methodologies to stay at the forefront of the data analytics landscape.
+
+About The Role
+
+We’re looking for individuals in India who are eager to collaborate, contributing to a diverse portfolio of high-impact research initiatives. Our researchers test and build models, grow strategies, and write the systems that turn ideas into action. This could mean anything from building machine learning models to predict asset prices, to mining public data sets to understand emerging consumer trends, to quantifying urban development patterns in global real estate. The problems we tackle rarely have clear answers, which is why we value originality, experimentation, and a deep understanding of data.
+
+Qualifications
+
+The ideal candidate will possess a strong foundation in analytical and mathematical thinking, with proficiency in data analysis and programming. Candidates should have experience working with large datasets, developing predictive models, and deploying algorithms into production environments. Familiarity with Python, KDB/Q, or functional programming languages is highly desirable. A curious mindset with a passion for exploring complex questions and uncovering meaningful insights is essential. Excellent communication skills are necessary to collaborate effectively across remote teams and time zones. Candidates should also demonstrate a willingness to learn from interdisciplinary teams and adapt to evolving project requirements.
+
+Responsibilities
+
+Analyze diverse datasets—from market microstructure and macroeconomic indicators to social media sentiment, satellite imagery, real estate transactions, and behavioural data.
+
+Develop predictive models and frameworks using tools from statistics, machine learning, econometrics, and beyond.
+
+Design, implement, and refine algorithms and strategies across domains like finance, AI applications, and social behaviour modelling.
+
+Write production-quality code to integrate research into live systems.
+
+Collaborate closely with our team in the US, sharing insights, challenging assumptions, and refining ideas together.
+
+Areas of Research May Include
+
+Financial Markets: Strategy development, pricing models, portfolio optimization, market impact analysis.
+
+Alternative Data: Extracting insights from non-traditional sources—news, satellite imagery, traffic data, ESG disclosures, social platforms.
+
+Artificial Intelligence: Applying ML/AI techniques to trading, prediction, optimization, and behaviour analysis.
+
+Social Patterns: Modelling and forecasting consumer behaviour, network effects, or political and cultural dynamics using large-scale data.
+
+Real Estate and Urban Data: Quantifying development trends, migration patterns, economic signals, and valuation models using public and proprietary data.
+
+Benefits
+
+At Wisemonk, we offer competitive compensation packages aligned with industry standards, along with opportunities for professional growth and development. Our flexible work environment supports remote collaboration, enabling you to work from anywhere in India. We believe in fostering a healthy work-life balance, providing ample opportunities for continuous learning through workshops, training sessions, and conference participation. Additionally, our team-oriented culture encourages innovation, mentorship, and recognition of outstanding contributions. We also provide access to cutting-edge tools and resources necessary to excel in your research and development efforts.
+
+Equal Opportunity
+
+Wisemonk is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based on race, religion, gender, age, sexual orientation, disability, or any other characteristic protected by law. We believe that a diverse team fosters innovation and creativity, and we are dedicated to providing equal employment opportunities to all qualified candidates. Our hiring process is transparent and merit-based, ensuring that everyone has an equal chance to contribute and succeed within our organization.
+
+Desired Skills and Experience
+Data Analysis, Machine Learning, Predictive Modeling, Data Science, Statistics, Algorithm Development

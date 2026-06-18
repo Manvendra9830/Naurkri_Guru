@@ -1,0 +1,54 @@
+About the job
+Position Description
+
+Job Title: Python AI Developer (Entry Level / Graduate)
+
+Job Summary:
+
+We are looking for a motivated graduate with knowledge of Python and Artificial Intelligence concepts to join our development team. The candidate will support the development of AI-based applications, assist in data analysis, and contribute to building intelligent solutions.
+
+Key Responsibilities:
+
+Develop and maintain applications using Python.
+
+Assist in building and testing AI/ML models.
+
+Work with datasets for analysis, preprocessing, and model training.
+
+Support the development of AI-based features and automation tools.
+
+Collaborate with developers, data engineers, and project teams.
+
+Debug, test, and document code.
+
+Required Skills:
+
+Basic knowledge of Python programming.
+
+Understanding of AI / Machine Learning fundamentals.
+
+Familiarity with libraries like NumPy, Pandas, or TensorFlow (preferred).
+
+Basic understanding of data structures and algorithms.
+
+Good problem-solving and analytical skills.
+
+Qualification:
+
+Bachelor's degree in Computer Science or related field.
+
+Your future duties and responsibilities
+
+Required Qualifications To Be Successful In This Role
+
+Together, as owners, let’s turn meaningful insights into action.
+
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+
+Come join our team—one of the largest IT and business consulting services firms in the world.

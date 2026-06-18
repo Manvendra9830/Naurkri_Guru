@@ -1,0 +1,41 @@
+About the job
+About Zonko AI
+
+Zonko AI is building AI-native workflow systems for modern enterprises. The company helps automate complex operational processes across tools, documents, and internal systems using AI. Its platform turns fragmented workflows into structured, executable operations. Zonko focuses on practical AI infrastructure for real business workflows.
+
+Role
+
+We’re looking for a Founding Forward Deployed Engineer to work closely with customers and help deploy AI systems into real operational workflows.
+
+You’ll work across engineering, product, AI, and customer operations — understanding workflows, building integrations, configuring automations, debugging issues, and turning customer pain points into scalable product features.
+
+This is a high-ownership role for someone who enjoys both building systems and working directly with users.
+
+Compensation
+₹15L – ₹40L INR base salary
+Meaningful early-stage equity
+
+What You’ll Do
+
+Deploy and configure AI-powered workflows for customers
+Build integrations, automations, and internal tools
+Work directly with users to understand operational problems
+Debug workflows, integrations, and AI outputs
+Translate customer needs into product improvements
+Partner closely with product and engineering teams
+
+What We’re Looking For
+
+Strong software engineering fundamentals
+Comfortable working directly with customers
+Experience shipping production systems
+Ability to work across the stack when needed
+Strong problem-solving and communication skills
+Comfortable operating in fast-moving environments
+
+Helpful Experience
+
+AI agents, LLMs, RAG, workflow automation
+React, TypeScript, Node.js, Python, Postgres
+APIs, integrations, internal tools, cloud infrastructure
+Enterprise SaaS or customer-facing technical roles

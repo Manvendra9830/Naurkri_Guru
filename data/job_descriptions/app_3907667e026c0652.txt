@@ -1,0 +1,91 @@
+About the job
+Job Title: AI & Data Analytics Executive
+Department: Technology and Innovation
+Location: Gurgaon or Bengaluru 
+Reporting To: Manager / Head of Department
+
+Purpose/About the Role (Role Summary)
+We are looking for a highly motivated and tech-savvy professional to support our transition from manual data handling to AI-powered workflows. The ideal candidate should be passionate about data analytics, automation, AI technologies, and modern application development.
+This role focuses on improving operational efficiency through data-driven insights, workflow automation, AI integration, and development of scalable digital solutions using modern tools and technologies.
+
+Primary Responsibilities
+
+Data Analytics
+Analyze structured and unstructured datasets to identify trends, patterns, and business insights.
+Create interactive dashboards and reports using Power BI or similar tools.
+Support management with data-backed decision-making and performance tracking.
+
+AI Integration & Automation
+Research, experiment, and implement AI solutions including Large Language Models (LLMs) and AI automation tools.
+Develop AI-assisted workflows to solve internal operational and technical challenges.
+Automate repetitive business and reporting tasks using Python or low-code/no-code platforms.
+Integrate APIs and AI services such as OpenAI, Claude, Gemini, or similar platforms.
+
+Full Stack Development
+Develop and maintain internal web applications, dashboards, and automation portals.
+Work on frontend and backend technologies for enterprise applications.
+Build responsive user interfaces and integrate them with APIs and databases.
+Support deployment, testing, maintenance, and performance optimization of applications.
+
+Research & Innovation
+Explore and evaluate new software tools, AI plugins, and productivity platforms.
+Stay updated with the latest AI, analytics, automation, and software development trends.
+Recommend innovative solutions to improve operational efficiency and digital transformation initiatives.
+
+Key Activities and Areas of Focus
+Dashboard development and business reporting
+Workflow automation and process optimization
+AI-based productivity solutions and chatbot integrations
+API integrations and system connectivity
+Full stack application development
+Data visualization and analytics
+Database management and optimization
+Internal digital transformation projects
+Research and adoption of emerging technologies
+
+Qualifications, Experience & Skills
+
+Educational Qualification
+Bachelor’s degree in Computer Science, Information Technology, Data Analytics, AI, Software Engineering, or related fields.
+
+Technical Skills
+Strong knowledge of Python, SQL, and database management.
+Experience in data cleaning, transformation, and analytics.
+Hands-on experience with Power BI or similar visualization tools.
+Knowledge of REST APIs and system integrations.
+
+Full Stack Development Skills
+Frontend technologies: HTML, CSS, JavaScript, React, Angular or similar frameworks.
+Backend technologies: Node.js, Django, Flask, FastAPI, .NET or equivalent frameworks.
+Experience with databases such as MySQL, PostgreSQL, SQL Server, MongoDB.
+Understanding of application deployment, cloud environments, and version control systems.
+
+AI & Automation Knowledge
+Understanding of Generative AI concepts and LLM platforms such as OpenAI, Claude, Gemini, etc.
+Familiarity with prompt engineering, AI automation frameworks, and AI integrations.
+Knowledge of Power Platform or automation tools will be an added advantage.
+
+Tools & Platforms
+GitHub
+Cursor AI
+Lang Chain
+VS Code
+Postman
+AI research and productivity tools
+
+Desired Attributes
+Strong analytical and problem-solving skills
+Passion for innovation and emerging technologies
+Quick learner with an automation-first mindset
+Ability to work independently and collaboratively
+Good communication and documentation skills
+Proactive approach toward process improvement and digital transformation
+
+Certifications (Preferred but not Mandatory)
+Microsoft Power BI Certification
+Microsoft Power Platform Certification
+Python Certification
+Azure AI / AWS AI Certifications
+Full Stack Development Certification
+Data Analytics or Machine Learning Certifications
+OpenAI / Generative AI related certifications or training programs

@@ -1,0 +1,59 @@
+About the job
+Job Description Summary
+
+Responsible for designing, building, delivering and maintaining software applications & services. Working in the areas of machine, cloud, platform and/or application. Responsible for software lifecycle including activities such as requirement analysis, documentation/procedures and implementation.
+
+Job Description
+
+Roles and Responsibilities
+
+In This Role, You Will
+
+Have awareness of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques.
+Ability to write code that meets standards and delivers desired functionality using the technology selected for the project.
+Understand performance parameters and can assess application performance.
+Understand core data structures and algorithms and has the ability to implement them using language of choice.
+Write code that meets standards and delivers desired functionality using the technology selected for the project.
+Understand the platform reliability engineering.
+
+Education Qualification
+
+Master Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with basic experience.
+
+Desired Characteristics
+
+Technical Expertise
+
+Comfortable in building features such as web services and Queries on existing tables.
+Aware of methods and practices such as Lean/Agile/XP, etc.
+Prior work experience in an agile environment, or introductory training on Lean/Agile. Aware of and able to apply continuous integration (CI).
+General understanding of the impacts of technology choice to the software development life cycle.
+
+Business Acumen
+
+Has the ability to break down problems and estimate time for development tasks.
+Understands the technology landscape, up to date on current technology trends and new technology, brings new ideas to the team.
+Displays understanding of the project's value proposition for the customer. Shows commitment to deliver the best value proposition for the targeted customer.
+Learns organization vision statement and decision making framework. Able to understand how team and personal goals/objectives contribute to the organization vision
+
+Personal/Leadership Attributes
+
+Voices opinions and presents clear rationale. Uses data or factual evidence to influence.
+Learns organization vision statement and decision making framework. Able to understand how team and personal goals/objectives contribute to the organization vision.
+Completes assigned tasks on time and with high quality. Takes independent responsibility for assigned deliverables.
+Has the ability to break down problems and estimate time for development tasks.
+Seeks to understand problems thoroughly before implementing solutions. Asks questions to clarify requirements when ambiguities are present.
+Identifies opportunities for innovation and offers new ideas. Takes the initiative to experiment with new software frameworks.
+Adapts to new environments and changing requirements. Pivots quickly as needed. When coached, responds to need & seeks info from other sources.
+
+Inclusion and Diversity
+
+GE Healthcare is an Equal Opportunity Employer where inclusion matters. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+We expect all employees to live and breathe our behaviors: to act with humility and build trust; lead with transparency; deliver with focus, and drive ownership – always with unyielding integrity.
+
+Our total rewards are designed to unlock your ambition by giving you the boost and flexibility you need to turn your ideas into world-changing realities. Our salary and benefits are everything you’d expect from an organization with global strength and scale, and you’ll be surrounded by career opportunities in a culture that fosters care, collaboration and support.
+
+Additional Information
+
+Relocation Assistance Provided: Yes

@@ -1,0 +1,10 @@
+About the job
+We are hiring 3D Deep Learning Engineer/Geometric Deep Learning Engineer for our client in Chennai. Prefer local candidates and who can join immediately. 1- 4 years of experience 
+Maximum CTC : 7 lakhs
+Mandatory skills :  3D CNNs, Geometric Deep Learning, DRL, 3D meshes, point clouds, voxels, CAD data, and AI model development using PyTorch and TensorFlow.
+We are looking for some one with experience in 
+3D data representations
+geometric neural architectures
+spatial perception pipelines
+reinforcement learning environments
+simulation or robotics ecosystems

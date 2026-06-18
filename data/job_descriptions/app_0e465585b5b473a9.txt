@@ -1,0 +1,12 @@
+About the job
+We are looking for a Consultant II – Analytics to join our growing team and drive direct marketing performance through data-driven insights. In this role, you will work on end-to-end analytics tasks — from building predictive models and segmentations to uncovering actionable insights and preparing client-ready presentations. This is an exciting opportunity to make an impact on the direct marketing strategies for leading brands in the US.
+
+We Are Looking For Someone Who Has
+
+ Strong hands-on skills in Python/R, MS Excel/ PowerPoint, SAS, and SQL (prior experience in SAS is preferred but not mandatory)
+ Solid understanding and experience of machine learning techniques such as linear/logistic regression, decision trees, random forests, XGBoost, and customer segmentation
+ Excellent communication skills with the ability to present complex technical concepts to business stakeholders
+ Strong attention to detail, self-motivation, and a continuous learning mindset
+
+Desired Skills and Experience
+Good communication skills with the ability to present complex technical concepts to business stakeholders , - Solid understanding and experience of machine learning techniques such as linear/logistic regression, decision trees, random forests, XGBoost, and customer segmentation , - Strong hands-on skills in Python/R, MS Excel/ PowerPoint, SAS, and SQL (prior experience in SAS is preferred but not mandatory)

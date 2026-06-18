@@ -1,0 +1,21 @@
+About the job
+About bluCognition:
+bluCognition is an AI/ML based start-up specializing in risk analytics, data conversion and data enrichment capabilities. Founded in 2017, by some very named senior professionals from the financial services industry, the company is headquartered in the US, with the delivery centre based in Pune. We build all our solutions while leveraging the latest technology stack in AI, ML and NLP combined with decades of experience in risk management at some of the largest financial services firms in the world. Our clients are some of the biggest and the most progressive names in the financial services industry. We are entering a significant growth phase and are looking for individuals with entrepreneurial mindset who wants us to join us in this exciting journey
+
+Key Responsibilities
+Design, develop, and maintain robust, scalable web applications using Python and Django.
+Build, test, and maintain RESTful APIs and work closely with front-end developers to integrate user-facing elements with server-side logic.
+Implement, test, and maintain efficient, reusable, and modular code.
+Optimize applications for maximum speed, scalability, and performance.
+Ensure security, data protection, and implement best practices in web application development.
+Participate in all stages of the software development lifecycle, including design, code reviews, and debugging.
+Collaborate with data science teams to maintain and update document extraction products.
+Troubleshoot application issues and bugs effectively.
+
+Required Skills & Experience
+A background in Computer Science or related field.
+Knowledge of database query language (e.g. SQL) and developer tools such as Python, R , databricks.
+Knowledge of JavaScript, React, Angular, Good in Data Structure & Logics.
+An analytical mindset and strongproblem-solving skills, attentionto detail and ability to multitask.
+The abilityto work in a fast-paced environment and to deal with ambiguity.
+Strong communication, interpersonal and presentation skills; ability to engage and collaborate with multiple stakeholders across teams.

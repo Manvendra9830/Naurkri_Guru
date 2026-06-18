@@ -33,9 +33,13 @@ def is_linkedin_logged_out(driver) -> bool:
 
 
 def assert_browser_healthy(driver) -> bool:
+    if driver is None:
+        print_lg("[BROWSER-HEALTH] status=missing_driver")
+        return False
     try:
         _ = driver.current_window_handle
+        print_lg("[BROWSER-HEALTH] status=healthy")
         return True
     except WebDriverException as exc:
-        print_lg(f"Browser health check failed: {exc}")
+        print_lg(f"[BROWSER-HEALTH] status=unhealthy; error={type(exc).__name__}: {exc}")
         return False

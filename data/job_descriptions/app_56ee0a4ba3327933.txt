@@ -1,0 +1,5 @@
+About the job
+Design, develop, and deploy machine learning models and algorithms to solve complex problems and improve business outcomes
+
+Desired Skills and Experience
+node, javascript

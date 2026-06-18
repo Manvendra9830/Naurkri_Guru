@@ -1,0 +1,42 @@
+About the job
+Role Description
+
+Role Overview
+
+Entry‑level software engineer role for fresh graduates with strong fundamentals, high learning agility, and passion for building technology-driven solutions.
+
+Technical Skills (any One Primary Stack)
+
+Hands-on academic / internship / project experience in one or more of the following:
+Java
+ReactJS + NodeJS
+Python
+Ability to clearly explain projects, design choices, and technical decisions made.
+Strong understanding of core programming concepts, data structures, and basic system design.
+Experience using IDEs, version control (Git), and basic development tools.
+Learning & Growth
+
+Demonstrates strong learning mindset and adaptability to new technologies and frameworks.
+Willingness to upskill and work across different layers of the technology stack.
+
+Analytical & Problem-Solving
+
+Good analytical and logical thinking skills.
+Ability to break down problems and propose practical solutions.
+
+Communication & Collaboration
+
+Clear verbal and written communication skills.
+Ability to work effectively in a team-based environment.
+
+Eligibility
+
+Recent graduate in Engineering / Computer Science / related disciplines or around 1 year industrial experience
+Strong academic foundation with interest in software engineering careers.
+
+Skills
+
+nodejs,java,springboot,python,react.js,restful api,api development,asynchronous programming,express js
+
+Desired Skills and Experience
+nodejs,java,springboot,python,react.js,restful api,api development,asynchronous programming,express js

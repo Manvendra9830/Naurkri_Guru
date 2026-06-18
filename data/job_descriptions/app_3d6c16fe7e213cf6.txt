@@ -1,0 +1,51 @@
+About the job
+Introduction of Clearstate
+Clearstate specializes in healthcare-focused market intelligence and strategic advisory services, assisting MedTech companies, biotechnology firms and healthcare service providers in identifying and leveraging market growth opportunities. Our data collection approach combines market research techniques, data processing and analytical frameworks.
+We are committed to delivering actionable strategies rooted in robust data analytics, built on the basis of market realities, empowering our clients to make informed decisions.
+
+Role: Data Analytics Engineer (Data Pipelines + Tableau)
+
+About the role:
+This is a hands-on role spanning two connected areas of our analytics workflow.
+ Upstream Foundation: You’ll support ingesting data from external sources (APIs/files/web where appropriate), automating internal data pipelines (e.g., scheduled refreshes, dataset consolidation, basic data lineage tracking), and using ML-assisted approaches to map and clean data, while helping modernize our analytics foundation into a centralized data warehouse (e.g., BigQuery on Google Cloud).
+ Downstream Analytics Delivery: You’ll support delivering analytics data products (e.g., reusable datasets and forecasting models) and translating results into trusted, interactive Tableau dashboards that stakeholders use for decision-making.
+
+Key Responsibilities:
+ Data ingestion, cleaning & automation
+ Ingest and integrate data from external/internal sources (APIs/files/spreadsheets/web where appropriate)
+ Build and maintain automated data workflows using Python and/or Google Apps Script (JavaScript)
+ Improve data quality and reduce manual work, including ML-assisted approaches to map and clean data (e.g., matching, deduplication, standardization)
+ Maintain and enhance existing scripts (Python/R) and convert ad-hoc work into repeatable processes
+
+ Data warehouse management
+Build ETL/ELT workflows to load and transform data from external/internal sources into an online centralized data warehouse (e.g., BigQuery)
+ Maintain curated, analytics-ready datasets in the warehouse, including dimension/reference tables and mapping/crosswalk tables for standardized entities
+Maintain analytics metadata such as data dictionary/metric definitions, refresh/run records, and data quality checks
+
+Data products & analytics delivery
+Support development of reusable data products, including forecasting models where relevant
+ Build and maintain Tableau dashboards and reports; partner with stakeholders on requirements, metric definitions, and iteration
+ Communicate data assumptions/limitations clearly and help stakeholders use insights confidently
+
+
+Key Qualifications:
+ Strong analytical mindset and comfort working with messy, real-world data
+ Working knowledge of SQL (joins, aggregations, building reliable queries)
+ Experience with data transformation using Python (or equivalent) through projects, internships, or prior roles
+ Experience building dashboards in Tableau (or similar BI tool) or strong interest in ramping up quickly
+ Ability to write maintainable work (clean logic, documentation) and validate outputs (basic checks/reconciliation)
+
+
+Preferred / Nice-to-haves:
+ Experience building robust data ingestion pipelines (using APIs, or web scraping where appropriate) that handle challenges like authentication, pagination, and rate limits to convert raw data from diverse sources into analytics-ready datasets
+ Exposure to pipeline scheduling/automation (schedulers, or lightweight orchestration), monitoring, and data quality checks
+ Familiarity with Google Workspace workflows and Google Apps Script
+ Data modeling / warehouse fundamentals (facts/dimensions, curated marts, designing reliable datasets for reporting)
+ Google Cloud exposure, especially BigQuery; interest in moving analytics workflows to GCP over time
+ Experience with ML-assisted techniques for data mapping/cleaning (e.g., similarity scoring, fuzzy matching, entity resolution) and exposure to platforms like Vertex AI for enabling model training or inference workflows
+ AI-assisted coding development experience is welcome (not required). We value good judgment: reviewing, testing, and explaining what ships.
+
+Why Clearstate
+ Hands-on opportunity to learn the full analytics lifecycle—from raw data to automated workflows to dashboards used for real decisions
+ Exposure to modernizing analytics foundations (centralized warehouse, scalable datasets, repeatable pipelines)
+ Direct collaboration with stakeholders and visible impact through better data reliability and insight delivery

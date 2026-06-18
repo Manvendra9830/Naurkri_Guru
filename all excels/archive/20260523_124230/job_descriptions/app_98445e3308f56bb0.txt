@@ -1,0 +1,28 @@
+About the job
+Company Description
+Naresh i Technologies (NareshIT) is a well-established software training institute founded in 2004 and headquartered in Hyderabad, India. Specializing in Software Training, Project Guidance, IT Consulting, and Technology Workshops, NareshIT serves Global 100 companies as well as leading software vendors across industries such as Banking, Telecommunications, and Education. 
+
+We are hiring experienced Data Science Trainers who can deliver in-person classroom training from our training centre. This role is strictly for candidates with prior training/teaching experience in Data Science.
+
+Key Responsibilities
+Conduct classroom-based Data Science training sessions
+Deliver practical, hands-on training using real-world datasets
+Prepare and update course materials, assignments, and projects
+Mentor students on capstone projects and case studies
+Evaluate student performance and provide continuous feedback
+Assist students with interview preparation and career guidance
+Ensure high-quality training delivery and student engagement
+ Required Skills
+Strong expertise in:
+Python (NumPy, Pandas, Matplotlib, Seaborn)
+Statistics & Probability
+Machine Learning algorithms
+Data Cleaning & Exploratory Data Analysis (EDA)
+SQL / Database concepts
+Data Visualization (Tableau / Power BI)
+Deep Learning with Generative AI & Agentic AI
+ Mandatory Requirement
+Proven training/teaching experience in Data Science (classroom or corporate training)
+Excellent communication and presentation skills
+Ability to simplify complex concepts for learners
+Must be available for offline classroom training from our centre

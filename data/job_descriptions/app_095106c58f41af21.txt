@@ -1,0 +1,54 @@
+About the job
+About the Company
+
+At GoodSpace.ai, we’re building AI to reinvent how hiring works—intelligent interviews, automated screening, and end-to-end recruitment workflows.
+We’re looking for curious builders who move fast, take ownership, and care about real impact.
+
+About the Role
+
+Work on real products used at scale
+Build, ship, and own systems—not just features
+Follow an AI-first development approach using tools like ChatGPT, Claude, or similar to move faster and build better
+
+Responsibilities
+
+Build and ship scalable systems and applications
+Own features end-to-end (design → development → production)
+Design APIs, data flows, and system architecture
+Improve performance, reliability, and scalability
+Work on asynchronous systems (queues, background jobs, workflows)
+Collaborate closely with product and design teams
+
+Qualifications
+
+We’re looking for people who can run systems—not just write MERN code.
+
+Required Skills
+
+Strong proficiency in Node.js and React / Next.js
+Solid understanding of JavaScript (ES6+)
+Working knowledge of TypeScript
+Experience with SQL and NoSQL databases
+Familiarity with Redis and asynchronous programming patterns
+Comfortable with AI-first development (ChatGPT, Claude, etc.)
+Strong ownership mindset and problem-solving skills
+
+Preferred Skills
+
+Experience building or working on AI/ML projects
+Understanding of vector embeddings
+Familiarity with Elasticsearch or OpenSearch
+Exposure to cloud platforms (AWS, GCP, or Azure)
+Experience with Git
+
+Why Join
+
+Work on real AI products
+High ownership and fast growth
+AI-first engineering culture
+Small team, big impact
+Equal Opportunity
+
+Statement
+
+GoodSpace.ai is committed to building a diverse and inclusive workplace.

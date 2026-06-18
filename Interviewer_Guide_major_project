@@ -1,0 +1,57 @@
+# Naukri_Guru - Technical Design and Architecture Document
+**For Interview Preparation**
+
+## 1. Core Architecture & Tech Stack Selection
+**Technology Used:** Python, Selenium WebDriver (Stealth), SQLite, Flask, IMAP/SMTP, Gemini/OpenAI API.
+
+**Why Python?**
+Python is the industry standard for AI integration, web scraping, and automation. Its rich ecosystem (Selenium, SQLite3, SMTPlib) makes it perfect for a standalone local automation application.
+
+**Why Selenium (DOM manipulation) instead of API requests?**
+LinkedIn does not provide a public API for job applications. Using undocumented, private backend APIs is highly risky, requires reverse-engineering complex authentication tokens, and triggers immediate account bans. Selenium interacts with the DOM just like a real user. Paired with a stealth browser profile and randomized human-like delays, it significantly reduces the risk of bot detection and account suspension. 
+
+**Why not LangChain?**
+While LangChain is a popular framework for LLMs, it is often over-engineered, heavy, and adds unnecessary abstraction layers for straightforward tasks. For Naukri_Guru, direct API calls to OpenAI/Gemini are used because:
+- **Predictability & Debugging:** Custom prompt engineering gives exact control over inputs and structured outputs (JSON).
+- **Lightweight:** It keeps the tool fast and reduces external dependencies.
+- **Cost Efficiency:** LangChain's agentic loops can consume excessive tokens. Direct calls are optimized and constrained by strict prompt templates.
+
+**Why SQLite?**
+The tool is designed as a local, user-friendly desktop application. Asking users to install and configure PostgreSQL or MySQL (or run Docker containers) introduces immense friction. SQLite is serverless, requires zero configuration, provides ACID compliance (atomic writes), and is perfect for a single-user automation tool managing thousands of application records.
+
+## 2. Job Deduplication & Persistence Layer
+**How it works:**
+The system maintains a deduplicated record of all application attempts using the `applications` table in SQLite. When a job is discovered, its unique `job_id` (or URL) is checked against the database. If it exists, it is skipped.
+To prevent data corruption during exports, it uses atomic writes (`tempfile` and `shutil.move`) when generating CSV/XLSX logs, and implements database locks during the export sequence to prevent race conditions with background processes (like Gmail sync).
+
+## 3. Heuristic Confidence Scoring
+**How it works:**
+Before applying, the engine uses AI to evaluate the job description against the user's profile.
+- **Criteria:** Keyword relevance, seniority indicators, degree requirements, and experience thresholds.
+- **Why this approach?** Blindly applying to every job wastes the daily application limit and negatively impacts the user's profile algorithmically. By enforcing an "Experience Threshold" and a "Suitability Score", the bot only acts on high-probability matches.
+
+## 4. Gmail Lifecycle Synchronization
+**How it works:**
+The tool connects to the user's Gmail via IMAP. It fetches recent emails (default 20 days lookback) and passes them through an AI classification pipeline.
+- **Match Threshold (`0.75`):** Ensures the email is accurately matched to a specific job in the database.
+- **Classification Threshold (`0.65`):** Ensures the AI is confident about the status (e.g., Rejected, Interview Scheduled, Offer).
+- **Why IMAP and not Gmail API?** Setting up the official Gmail API requires the user to create a Google Cloud Project, handle OAuth2, and manage tokens. IMAP only requires a standard App Password, making the setup infinitely easier for non-technical users while achieving the exact same result.
+
+## 5. Cold Email Outreach Pipeline
+**How it works:**
+After applying, the system operates a queue-based pipeline. It extracts the recruiter's email, validates trust signals, and uses AI to generate a highly personalized email. It sends this via authenticated SMTP.
+- **Why Queue-Based?** It decouples applying from emailing. If the bot crashes, it resumes emailing from where it left off (idempotency).
+- **Sender Reputation Protection:** It limits emails (`MAX_COLD_EMAILS_PER_RUN=5`), implements random delays (3 to 5 seconds between sends), and ensures no duplicate emails are sent to the same recruiter.
+
+## 6. Safety Guards & Anti-Bot Evasion
+**How it works:**
+- **Humanized Interaction:** Uses `sleep(randint())` and `buffer()` to randomize delays between clicks and typing, evading basic bot heuristics.
+- **Stealth Profiles:** Uses undetected Chrome profiles.
+- **AI Safety Guards:** Enforces strict formatting on AI outputs to prevent the bot from typing hallucinations or malformed JSON into LinkedIn text boxes.
+- **Test Modes:** `COLD_EMAIL_TEST_MODE` allows testing the SMTP pipeline using whitelisted recipients without accidentally spamming real recruiters.
+
+## 7. Limitations with Indeed and Internshala
+**Why not fully automated like LinkedIn?**
+- **Aggressive Anti-Bot Mechanisms:** Platforms like Indeed employ aggressive Cloudflare CAPTCHAs and behavioral tracking that actively block headless browsers.
+- **Dynamic DOM Structures:** Unlike LinkedIn's relatively stable "Easy Apply" modal, Indeed and Internshala have highly variable application flows, often redirecting to third-party ATS (Applicant Tracking Systems) like Workday or Lever.
+- **Current Approach:** The tool acts as a scraper for Indeed, aggregating relevant jobs into the local database for the user to review manually, focusing the fully autonomous AI engine exclusively on LinkedIn's predictable Easy Apply ecosystem.

@@ -1,0 +1,38 @@
+About the job
+Job Purpose
+
+Play a crucial role in supporting the development and maintenance of data infrastructure within our organization. You will work closely with the data engineering team to build, optimize, and maintain data pipelines, ensuring the efficient flow and storage of data across various systems.
+
+This role requires a solid understanding of data processing, database management, and programming skills. You will collaborate with cross-functional teams to ensure data quality, integrity, and availability for analytical purposes
+
+Key Result Responsibilities
+
+Data Analysis: Conduct exploratory data analysis to discover trends, patterns, and insights within large datasets.
+Develop and implement statistical models and algorithms to extract meaningful information from structured and unstructured data.
+Data Visualization:Design and create visually appealing and informative dashboards, reports, and visualizations to communicate complex data insights to stakeholders.
+Utilize tools such as Tableau, Power BI, or similar platforms to present data in an accessible and understandable manner.
+Data Integration: Collaborate with data engineers to integrate and transform data from various sources, ensuring data accuracy and reliability.
+Work on data profiling and cleansing activities to maintain high-quality datasets.
+Requirements Gathering:Interact with business stakeholders to understand their data needs and requirements.
+Translate business questions into actionable data analytics tasks and deliverables.
+Automated Reporting:Develop and implement automated reporting processes to streamline the generation and distribution of routine reports.
+Implement scheduling and alerting mechanisms for timely data delivery.
+Collaboration:Collaborate with cross-functional teams, including data scientists, engineers, and business analysts, to provide analytical support and insights.
+Communicate findings and recommendations to both technical and non-technical stakeholders.
+Continuous Improvement:Stay updated on industry best practices, emerging technologies, and advancements in data analytics.
+Contribute to the enhancement of analytics processes and methodologies within the organization.
+
+Key Result Responsibilities-Continued
+
+Qualifications (Academic, Training, Languages)
+
+Work Experience
+
+Bachelor's or Master's degree in a quantitative field such as Computer Science, Statistics, Mathematics, or a related discipline.
+Strong proficiency in data manipulation and analysis using tools such as SQL, Python, or R.
+Experience with data visualization tools, such as Tableau, Power BI, or similar.
+Familiarity with statistical modeling, machine learning, and data mining techniques.
+Solid understanding of data structures, databases, and data processing.
+Excellent problem-solving and critical-thinking skills.
+Effective communication skills for conveying complex data insights to diverse audiences.
+Ability to work independently and collaboratively in a team-oriented environment.

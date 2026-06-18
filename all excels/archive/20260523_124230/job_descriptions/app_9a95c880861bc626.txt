@@ -1,0 +1,23 @@
+About the job
+This job is sourced from a job board. Learn More
+Key Responsibilities
+
+ Work on brainstorming, researching & developing AI programs pertaining to computer vision & ML
+ Work on utilizing C++, Python, their libraries & Linux
+
+Benefits
+
+ Flexible work timings
+ Food and accommodation provided
+ Performance incentives & bonuses
+ Employee stock options
+ Unlimited holidays
+ Creative freedom
+ Exposure to new technology
+
+You can visit our website https://vizon.tech to know more. If you want to explore open source projects, then check the Club section of the website and join our Discord server to stay updated: https://discord.gg/z6vfsbBtu8
+
+About Company: VIZON is a deep-tech startup building a futuristic & immersive ecosystem of Indian tech products powered by emerging technologies like XR (AR/VR) and AI (ML/CV) to redefine the way humans interact with technology and with each other.
+
+Desired Skills and Experience
+OpenCV, Python, Linux, Machine Learning, Computer Vision, C++ Programming, Neural Networks, Deep Learning, Artificial intelligence

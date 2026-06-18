@@ -1,0 +1,19 @@
+About the job
+Required Skills
+Strong proficiency in Python programming
+Hands-on experience with:
+Django and/or Flask
+REST API development
+SQL databases such as PostgreSQL or MySQL
+Knowledge of HTML, CSS, JavaScript
+Experience with Git version control
+Familiarity with ORM frameworks
+Understanding of authentication and authorization mechanisms
+Experience working with Linux environments
+Preferred Skills
+Experience with FastAPI
+Knowledge of Docker and containerization
+Exposure to cloud platforms such as Amazon Web Services, Microsoft, or Google
+Familiarity with CI/CD pipelines
+Understanding of microservices architecture
+Experience with automated testing frameworks

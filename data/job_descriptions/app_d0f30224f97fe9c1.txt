@@ -1,0 +1,26 @@
+About the job
+Summary
+
+NTTDATA Services are seeking Data & Business Insights Associate with basic understanding of data and reporting. They will also work with data analysts and automation experts to create new visuals and features that support business intelligence initiatives.
+
+Accountabilities
+
+Understand, Gathering and Prepare the requirements for Business. 
+Works under supervision with internal and external teams to understand customer requirements
+Ability to elaborate on the details of a project 
+Collaborate with Automation Engineers, Machine Learning Engineers, Data Analysts and Business Intelligence Analyst to execute deliverables. 
+Must possess technical writing, decision making, and problem-solving skills. 
+Must possess strong command over English language. 
+Must be flexible with working hours – may require to work in UK or US Shifts depending on the business requirement. 
+
+Skills
+
+Appropriate mathematical knowledge
+Strong communication and critical thinking skills
+Strives for professional development
+Customer focused 
+Working Knowledge of (any) job associated programming languages (Python, D3, Javascript, HTML5, SQL, PowerBi, Tableau, Azure Cognitive Services, Power Platforms)
+
+Education And Experience
+
+Graduates or nearing course completion

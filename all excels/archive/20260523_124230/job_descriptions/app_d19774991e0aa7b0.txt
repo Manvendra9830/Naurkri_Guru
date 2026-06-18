@@ -1,0 +1,40 @@
+About the job
+Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.
+
+Meet the Team
+
+We are committed to delivering high-quality optical networking solutions that meet a wide range of customer needs, while fostering a culture of innovation, growth, and continuous improvement.
+
+Your Impact
+
+Develops software consistent with Cisco ‘Design Thinking Principles’ with a focus on simplification using secure coding practices and following software development best practices. Partners with other teams including design and product management to create the right solution for the customers. Debugs and addresses software issues during development and in production systems to support customers. Brings new ideas for product innovation and helps improve software development processes.
+
+Applies understanding of the software development lifecycle and how various agile engineering practices can be used in own projects (e.g., requirements analysis, design, coding, unit testing, acceptance testing).
+Participates in delivery of technical design features with guidance.
+Writes functional clean code and unit tests 
+Performs parts of the coding, debugging, testing and troubleshooting throughout the development process under supervision.
+Assists in code reviews and addresses code review feedback.
+Executes tests for scale, reliability and velocity within own code.
+Applies depth of knowledge in secure coding principles and reviews others' code for compliance.
+Collaborates with team members to share learnings or assist in problem solving/resolution.
+
+Minimum Qualifications
+
+Bachelor's degree in engineering or related field.
+Strong analytical and problem-solving skills.
+Excellent communication and teamwork abilities.
+Excellent C/C++ programming skills 
+
+Preferred Qualifications
+
+Familiarity with networking protocols 
+Strong foundation in embedded system concepts
+Knowledge of AI tools, frameworks, or methodologies.
+
+Why Cisco?
+
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+
+We are Cisco, and our power starts with you.

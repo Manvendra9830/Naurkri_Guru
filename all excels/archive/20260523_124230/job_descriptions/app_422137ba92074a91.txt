@@ -1,0 +1,15 @@
+About the job
+Key Responsibilities 
+Design and develop machine learning and Al models for real-world applications 
+Build and deploy Al-powered features and APIs Work with large datasets to train and optimize models Integrate Al solutions into existing software systems
+Research and implement new Al technologies and frameworks 
+Collaborate with cross-functional teams to deliver Al-driven products Monitor model performance and continuously improve accuracy
+
+Required Skills & Qualifications 
+Bachelor's or Master's degree in Computer Science, AI, Data Science, or related field Strong knowledge of Python, machine learning, and deep learning frameworks 
+Experience with libraries such as Numpy, Pandas, TensorFlow, PyTorch, or Scikit-learn Understanding of NLP, computer vision, or generative AI Experience with APIs, cloud platforms, and model deployment
+Strong problem-solving and analytical skills
+
+ Preferred Qualifications
+ Experience with LLMs, Al agents, or automation tools Knowledge of ML Ops and Al model lifecycle management
+ Experience working in a startup or fast-paced environment

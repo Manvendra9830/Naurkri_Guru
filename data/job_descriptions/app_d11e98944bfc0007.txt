@@ -1,0 +1,48 @@
+About the job
+About The Role
+
+We are looking for a passionate and skilled AI/ML Engineer to join our growing tech team. The ideal candidate should have hands-on experience in developing, training, and deploying machine learning models and AI-based solutions.
+
+The candidate will work closely with developers, data teams, and business stakeholders to build intelligent systems that solve real-world business problems.
+
+Key Responsibilities
+
+Design, develop, and deploy Machine Learning and AI models
+
+Work on NLP, Generative AI, Deep Learning, or Computer Vision projects
+
+Build and optimize ML pipelines and data processing workflows
+
+Train, test, and fine-tune machine learning models
+
+Collaborate with cross-functional teams to understand business requirements
+
+Integrate AI models into production environments and applications
+
+Monitor model performance and improve system accuracy over time
+
+Research and implement latest AI/ML technologies and frameworks
+
+Required Skills
+
+Strong knowledge of Python and Machine Learning concepts
+
+Experience with TensorFlow, PyTorch, Scikit-learn, or similar frameworks
+
+Knowledge of NLP, LLMs, Deep Learning, or Generative AI
+
+Experience with APIs, model deployment, and cloud platforms is a plus
+
+Understanding of data structures, algorithms, and statistics
+
+Good problem-solving and communication skills
+
+Preferred Qualifications
+
+Bachelor’s degree in Computer Science, AI, Data Science, or related field
+
+Experience working on real-world AI/ML projects
+
+Familiarity with tools like OpenAI APIs, LangChain, Hugging Face, etc.
+
+Skills: deep learning,llm,data,projects,aiml,api,machine learning,nlp,models

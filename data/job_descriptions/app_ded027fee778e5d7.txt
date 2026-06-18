@@ -1,0 +1,30 @@
+About the job
+Company Description
+Super Trading App is committed to democratising capital markets, making financial opportunities accessible to a billion Indians. With a focus on creating innovative and user-friendly solutions, the company empowers individuals to participate in the world of trading and finance. Driven by technology and a passion for financial inclusivity, Super Trading App is at the forefront of reshaping the trading landscape in India. Join our team and be a part of building a more equitable financial future.
+
+Quantitative Researchers/Traders are part of the core team working directly in the Algorithmic development team for research and development of the Quant Strategies. The goal is to develop a diversified set of scalable automated trading strategies that deliver consistent alpha.
+
+Responsibilities:
+• Building models - understanding relationships between securities
+• Researching automated trading strategies using a range of historical data, price and volume inputs
+• Researching portfolio construction and risk allocation techniques
+• Back-testing ideas using historical tick-by-tick data
+• Evaluating strategy performance, making improvements and scaling up successful strategies
+
+Skills Needed:
+
+An ideal candidate will have the following skillset;
+• Top performer with a computer/electrical engineering degree from a top-tier institution
+• Strong programming ability in C++/Python
+• Prior experience in automated trading strategy development with a top HFT firm / hedge fund preferred
+• Hard working with an attention to detail and ability to work independently
+• Good understanding of financial markets, statistics and modeling techniques using ML is desirable
+• Self motivated and hard working
+
+What we offer:
+• Robust and efficient trading infrastructure for development of multi frequency trading strategies (low, medium and high frequency trading)
+• Access to multiple markets and asset classes across the globe
+• Opportunity to grow and have a good career development path
+• Competitive compensation and transparent business terms
+• Guidance to learn, develop and improve on Market dynamics and strategies
+• Opportunity to work and learn from various Senior executives in the firm

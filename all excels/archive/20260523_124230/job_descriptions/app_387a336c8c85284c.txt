@@ -1,0 +1,18 @@
+About the job
+Company Description
+ 
+BICSYS specializes in providing expert system design and precise engineering solutions for building automation, particularly for HVAC controls contractors and engineers. Our services enable clients to scale their teams efficiently, manage costs with fixed-price packages, and deliver projects on time. With expertise in design submittals, programming, and as-builts, we help customers achieve their project goals, whether they need supplemental support or complete outsourcing. BICSYS is committed to driving success in building automation projects through reliable, high-quality solutions.
+
+ Role Description
+ 
+This is a full-time remote role for an Entry Level Software Engineer. The Software Engineer will engage in software development, programming, and troubleshooting tasks. Day-to-day responsibilities include contributing to back-end web development projects, designing and implementing software solutions, collaborating with the team to enhance system functionality, and maintaining high code quality. The role also involves applying computer science principles and object-oriented programming techniques to deliver efficient and scalable solutions.
+
+ Qualifications
+ 
+Strong foundation in Computer Science and Software Development
+Experience or training in Back-End Web Development and related technologies
+Proficiency in Programming and Object-Oriented Programming (OOP)
+Ability to solve problems independently and collaboratively within a software engineering team
+Bachelor’s degree in Computer Science, Software Engineering, or a related field
+Excellent analytical, communication, and organizational skills
+Prior experience or familiarity with building automation systems is a plus

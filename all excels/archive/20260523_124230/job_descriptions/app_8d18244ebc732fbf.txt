@@ -1,0 +1,33 @@
+About the job
+Be a part of an exciting growth journey of Groww.
+About Groww
+Groww is India’s fastest-growing investment platform founded in 2016 by alums from Flipkart, ICICI, IITB, IITD, BITs Pilani and is backed by marquee investors like Tiger Global, Sequoia Capital, Ribbit Capital, and Y Combinator. We are a unicorn with a valuation of $3.2Bn with a user base of around 1.5 Cr who prefer Groww as their investment platform.
+Groww is on a mission to democratize access to financial services for millions of Indians responsibly. We are a customer-first company. We believe in crafting the best and most delightful user experience for our customers. And we leverage first-principle thinking and technology to solve problems at scale. If this excites you, join us.
+Our Values: We take pride in our values and hold ourselves to a high standard on:
+Radical Customer Centricity: 
+Ownership-driven culture :
+Simplicity in our products and personalities: 
+Transparency on everything
+Long term thinking 
+Know your team:
+We are a team of very enthusiastic hustlers who like to challenge themselves more with every new experience. SDETs own quality. As quality owner of a particular product, we come up with creative ideas to ensure that we deliver high-quality products to our customers. We work with the team right from day one of any new user story and understand what we are building and how we test it.
+
+As a Software Development Engineer in Test, you need to have technical skills: 
+
+Automation testing of applications built using Java, Spring Boot, and Python
+Manual and automation testing of B2C / Cloud (GCP) / SaaS / Mobile-first product components and microservices-based architectures
+Proficiency in test frameworks and tools: JUnit, TestNG, Mockito, Fitnesse, Cucumber, Selenium, Karate, Playwright
+Knowledge of Test-Driven Development (TDD) and Behaviour-Driven Development (BDD)
+API testing using Postman / Swagger
+Experience with performance testing tools such as JMeter / Locust
+
+What We're Looking For
+Ability to understand product solutions and design comprehensive test cases and test strategies
+Strong understanding of test frameworks, libraries, and best practices
+Solid grasp of the underlying tech stack used to build the solution, including message brokers, databases, and caching solutions
+Proficiency in at least one programming language with the ability to write automation scripts for REST API testing
+Strong understanding of databases and SQL queries
+Experience integrating automated test execution with CI/CD build pipelines
+Good understanding of SDLC and test strategies, including unit testing, regression testing, and app/web/API test automation
+Ownership of weekly Build Verification Testing (BVT)
+Ability to leverage AI tools for test planning and execution

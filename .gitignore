@@ -1,31 +1,57 @@
-# Python cache
+# Python Cache
 **/__pycache__/
+*.py[cod]
 
-# Test artifacts
+# Virtual environments
+venv/
+.venv/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs & Test artifacts
+logs/
 .pytest_cache/
 .coverage
+*.log
+
+# Secrets
+config/personals.py
+config/secrets.py
+config/email/
+
+# Databases
+*.sqlite3
+data/*.sqlite3
+
+# Data & Runtime generated
+all excels/
+data/job_descriptions/
+runtime/archive/backups/*
+temp*
+*.tmp
+
+# Videos
+Recording/
+*.mp4
+
+# Resumes
+all resumes/
 
 # Thesis build files
 *.aux
-*.log
 *.out
 *.toc
 *.synctex.gz
 *.fdb_latexmk
 *.fls
 
-# VS Code workspace
-*.code-workspace
-
-# Temporary files
-temp*
-*.tmp
-
-# Runtime archives
-runtime/archive/backups/*
-
 # Jupyter
 .ipynb_checkpoints/
 
-# Windows
+# OS specific
+.DS_Store
+Thumbs.db
 desktop.ini

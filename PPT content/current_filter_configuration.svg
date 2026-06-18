@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#f7f8fb"/>
+  <rect x="0" y="0" width="1280" height="86" fill="#172033"/>
+  <text x="54" y="54" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Current Job Filtering Configuration</text>
+  <text x="54" y="76" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#b9c4d8">Source: config/search.py and config/settings.py</text>
+
+  <g transform="translate(54,120)">
+    <rect x="0" y="0" width="362" height="238" rx="8" fill="#ffffff" stroke="#d8deea"/>
+    <rect x="0" y="0" width="362" height="48" rx="8" fill="#e8f2ff"/>
+    <text x="22" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#123b65">Search Target</text>
+    <text x="22" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Location</text>
+    <text x="145" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">India</text>
+    <text x="22" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Search terms</text>
+    <text x="22" y="143" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#384154">AI Engineer, ML Engineer</text>
+    <text x="22" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#384154">Python Developer Intern</text>
+    <text x="22" y="193" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#384154">AI / ML Intern</text>
+    <text x="22" y="218" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#384154">Software Developer / Intern</text>
+  </g>
+
+  <g transform="translate(459,120)">
+    <rect x="0" y="0" width="362" height="238" rx="8" fill="#ffffff" stroke="#d8deea"/>
+    <rect x="0" y="0" width="362" height="48" rx="8" fill="#e9f7ee"/>
+    <text x="22" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#17613a">LinkedIn Filters</text>
+    <text x="22" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Sort</text>
+    <text x="145" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">Most relevant</text>
+    <text x="22" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Date posted</text>
+    <text x="145" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">Month, week, 24 hours</text>
+    <text x="22" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Easy Apply</text>
+    <text x="145" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">False - includes external jobs</text>
+    <text x="22" y="183" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Applicants</text>
+    <text x="145" y="183" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">Under 10 disabled</text>
+  </g>
+
+  <g transform="translate(864,120)">
+    <rect x="0" y="0" width="362" height="238" rx="8" fill="#ffffff" stroke="#d8deea"/>
+    <rect x="0" y="0" width="362" height="48" rx="8" fill="#fff0df"/>
+    <text x="22" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#835018">Candidate Fit</text>
+    <text x="22" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Experience</text>
+    <text x="145" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">Internship, Entry, Associate</text>
+    <text x="22" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Job type</text>
+    <text x="145" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">Full-time, Internship</text>
+    <text x="22" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Work mode</text>
+    <text x="145" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">On-site, Remote, Hybrid</text>
+    <text x="22" y="183" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Experience cap</text>
+    <text x="145" y="183" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">Current experience: 1 year</text>
+  </g>
+
+  <g transform="translate(54,396)">
+    <rect x="0" y="0" width="362" height="238" rx="8" fill="#ffffff" stroke="#d8deea"/>
+    <rect x="0" y="0" width="362" height="48" rx="8" fill="#f1eafd"/>
+    <text x="22" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#56308a">Run Controls</text>
+    <text x="22" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Switch term after</text>
+    <text x="190" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">5 applications</text>
+    <text x="22" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Max per run</text>
+    <text x="190" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">20 applications</text>
+    <text x="22" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Daily auto-run</text>
+    <text x="190" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">Enabled at 11:00</text>
+    <text x="22" y="183" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Gmail sync</text>
+    <text x="190" y="183" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">20 days, 50 emails</text>
+  </g>
+
+  <g transform="translate(459,396)">
+    <rect x="0" y="0" width="362" height="238" rx="8" fill="#ffffff" stroke="#d8deea"/>
+    <rect x="0" y="0" width="362" height="48" rx="8" fill="#fdebed"/>
+    <text x="22" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#8a2635">Skip Rules</text>
+    <text x="22" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#384154">Company skip word: Crossover</text>
+    <text x="22" y="117" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#384154">Reject senior or unrelated titles:</text>
+    <text x="22" y="147" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#384154">Senior, Lead, Architect, Manager</text>
+    <text x="22" y="172" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#384154">Principal, Director, VP, Consultant</text>
+    <text x="22" y="197" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#384154">SAP, ERP, Salesforce, Workday</text>
+  </g>
+
+  <g transform="translate(864,396)">
+    <rect x="0" y="0" width="362" height="238" rx="8" fill="#ffffff" stroke="#d8deea"/>
+    <rect x="0" y="0" width="362" height="48" rx="8" fill="#e7f5f8"/>
+    <text x="22" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#16606b">Indeed Scraper</text>
+    <text x="22" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Enabled</text>
+    <text x="145" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">True</text>
+    <text x="22" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Scrape cap</text>
+    <text x="145" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">15 jobs / term</text>
+    <text x="22" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Min salary</text>
+    <text x="145" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">INR 30k month / 4 LPA</text>
+    <text x="22" y="183" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#172033">Undisclosed pay</text>
+    <text x="145" y="183" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#384154">Not allowed</text>
+  </g>
+</svg>

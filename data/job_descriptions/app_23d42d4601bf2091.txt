@@ -1,0 +1,71 @@
+About the job
+Location: In-office
+Company: OneNDF
+Industry: Fintech / Lending / Property-Backed Loans
+About OneNDF
+OneNDF is a fintech platform focused on property-backed loans, helping individuals and businesses access the right financing solutions through a faster, smarter, and more guided process. We are building technology-led workflows to improve lead qualification, customer engagement, and loan conversion journeys.
+Role Overview
+We are looking for an AI Voice Agent Engineer / Conversational AI Developer who can build an AI calling agent from scratch for both inbound and outbound leads.
+This role requires someone who can combine AI, voice workflows, automation, telephony, CRM integrations, and conversation design to create a reliable calling system that can speak with leads, qualify them, capture responses, route them correctly, and continuously improve performance.
+The ideal candidate should be able to take ownership from strategy to execution — from designing the call logic and agent prompts to integrating APIs, deploying the system, and optimizing it based on real call outcomes.
+Key Responsibilities
+Build and deploy an AI-powered voice calling agent for inbound and outbound lead interactions
+Design end-to-end conversation journeys for different loan products such as home loans, LAP, business loans, school financing, and builder-related queries
+Create call flows for:
+lead qualification
+customer profiling
+document readiness checks
+follow-up reminders
+appointment booking / RM assignment
+missed call / callback handling
+Develop the logic for multilingual customer conversations, especially across Indian borrowers
+Integrate the AI agent with telephony systems, CRM, lead management tools, and internal workflows
+Build prompt architecture, intent mapping, fallback responses, escalation flows, and human handover logic
+Ensure the agent captures and structures customer responses accurately
+Set up dashboards, transcripts, disposition tagging, and performance analytics
+Improve the agent continuously based on call recordings, drop-offs, qualification quality, and conversion data
+Work closely with business, sales, ops, and tech teams to align the AI agent with real customer journeys
+Ensure data privacy, compliance, and appropriate safeguards in customer interactions
+What the Person Will Build
+Inbound AI qualification calls for fresh leads
+Outbound AI follow-up calls for warm and cold leads
+AI-based lead screening before RM allocation
+Basic multilingual voice interactions
+Call summaries and disposition reports
+Escalation to human teams where required
+Integrations with OneNDF’s internal systems and workflows
+Required Skills
+Strong experience in building AI agents, voice bots, or conversational automation systems
+Hands-on experience with speech-to-text, text-to-speech, LLM workflows, and voice orchestration
+Experience working with APIs, webhook-based workflows, CRM integrations, and telephony platforms
+Good understanding of prompt engineering, conversational design, fallback logic, and structured response capture
+Experience in backend development and automation workflows
+Ability to deploy, test, troubleshoot, and optimize production-grade systems
+Strong problem-solving ability with an ownership mindset
+Comfort working in a fast-moving startup / fintech environment
+Preferred Background
+Prior experience in fintech, banking, lending, insurance, or lead qualification workflows
+Experience building AI agents for sales calls, support calls, lead conversion, or collections
+Familiarity with Indian customer conversations, multilingual flows, and telecalling processes
+Understanding of customer qualification logic for financial products
+Experience with dashboards, call analytics, and agent performance improvement
+Key Outcomes / Success Metrics
+AI agent launched and handling live inbound and outbound calls
+Improved lead qualification speed
+Better lead-to-RM handover quality
+Reduced manual calling load for the ops / telecalling team
+Higher contactability and follow-up efficiency
+Accurate call summaries, tagging, and workflow routing
+Better conversion support through faster response time
+Who This Role Is Ideal For
+This role is ideal for someone who enjoys building practical AI systems that solve real business problems. You should be comfortable moving between technology, conversation logic, operations, and execution.
+You should be able to think like:
+an engineer while building the system,
+a product owner while designing the journey,
+and an operations manager while improving performance.
+Why Join OneNDF
+Opportunity to build a high-impact AI system from the ground up
+Direct ownership of a live business-critical product
+Exposure to fintech, lending, voice automation, and customer journey design
+Fast-paced environment with real deployment responsibility
+Chance to shape how AI is used in loan sourcing and qualification

@@ -1,0 +1,43 @@
+About the job
+Hindustan Drone Services builds advanced AI & ML-driven UAV solutions for industries that demand precision, efficiency, and reliability.
+We're building the software backbone for next-generation drone operations — combining aerial intelligence, real-time telemetry, scalable APIs, and cloud-native systems.
+We’re looking for backend engineers who love designing high-performance systems and scalable API infrastructure.
+
+💼 About the Role: We are hiring a Backend-Focused Engineer with strong expertise in:
+✅ FastAPI
+✅ Supabase
+✅ PostgreSQL
+✅ AWS Cloud Infrastructure
+Flutter/mobile experience is a plus, but the primary responsibility is building and managing scalable backend systems and integrating APIs efficiently with existing Flutter applications.
+⚙️ What You'll Do
+• Design and develop high-performance async APIs using Python & FastAPI
+• Build scalable backend systems powered by PostgreSQL & Supabase
+• Architect secure authentication, RBAC, multi-tenant data flows, and real-time services
+• Deploy, monitor, and manage backend infrastructure on AWS
+• Work with WebSockets and real-time telemetry systems for live drone operations
+• Optimize API performance, database queries, and backend reliability
+• Integrate backend APIs with existing Flutter mobile applications
+• Contribute to system architecture, deployment pipelines, and backend scalability
+✅ Required Skills
+• Strong hands-on experience with Python & FastAPI
+• Solid experience with Supabase and PostgreSQL
+• Experience designing scalable REST APIs and async backend systems
+• Strong AWS deployment and cloud infrastructure knowledge
+• Experience with authentication systems, API security, and database optimization
+• Understanding of clean architecture, SOLID principles, and scalable backend design
+• Experience handling real-time systems using WebSockets
+⭐ Nice to Have
+• Flutter/Dart experience for API integration support
+• Experience with Docker, Terraform, or CI/CD pipelines
+• Multi-tenant SaaS platform experience
+• Geospatial systems or drone-tech exposure
+• AI/ML integration experience
+🚁 Why Join Us?
+• Build real-world software powering live drone operations
+• Work on cutting-edge AI & ML-driven UAV systems
+• High ownership and direct impact on production systems
+• Fast-moving engineering culture with real autonomy
+• Opportunity to shape the future of India’s drone ecosystem
+📩 How to Apply
+Drop a comment below, send a DM, or email your profile to: jobs@hindustandrones.io
+#Hiring #FastAPI #PythonDeveloper #BackendDeveloper #Supabase #PostgreSQL #AWS #CloudEngineer #APIEngineer #StartupJobs #DroneTechnology #AI #ML #TechJobs

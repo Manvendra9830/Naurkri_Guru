@@ -1,0 +1,39 @@
+About the job
+Responsibilities
+
+Software Engr I
+
+Roles & Responsibilities
+
+ Responsible for coding and unit testing 
+ Responsible in analyzing the impact of the changes and implementation. 
+ Own Software development project milestones with process compliance, no Quality compromise. 
+
+Qualifications
+
+Must Have:
+
+ BE/BTech/MCA with 0-2 years experience 
+ C/C++ basics 
+ OOAD concepts 
+ Python basics 
+
+Good To Have
+
+ .Net Framework basics , C# basics 
+ Basic knowledge of 2D/3D graphics framework. 
+ Knowledge in at-least one GUI Framework like Qt 
+
+Leadership Behaviors
+
+ Have a Passion for Winning: Never give up in the face of resistance and setbacks. Have fearless accountability for getting results 
+ Zealot for Growth: Promote confidence and trust. Aggressively focus on new opportunities and obsess with growth. 
+ Thinks Big…Then Makes It Happen: Be willing to re-examine almost everything, Challenges the status Quo and Propose innovative solutions and translate into actionable plans. 
+ Be Courageous: Take bold action on what you believe is right. Confront problems directly and face adversity head on. 
+
+We Value
+
+ Self-starter that thrives in an ambiguous environment. 
+ Strong influencing skills and be able to influence across engineering organization. Should be able to work in a matrix organization. 
+ Excellent planning, execution, communication, and project-management skills. 
+ Strong written and verbal communication skills.

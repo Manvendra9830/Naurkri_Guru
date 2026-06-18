@@ -1,0 +1,51 @@
+About the job
+Job Description : 
+
+Job Summary 
+We are seeking an Python Developer with a strong interest in Python-based web development and AI-enabled applications. This role provides hands-on exposure to building production-ready web services while following engineering best practices, including unit and integration testing. 
+
+• Official name of designation – Python Developer 
+• Reporting location: Hebbal Outer Ring Rd, Bangalore, Karnataka 
+• Work mode – Dayshift, work from office 
+• No of working days – 5 days 
+
+A) Key Responsibilities: 
+• Develop and maintain Python-based web applications using Flask or FastAPI 
+• Design and implement RESTful APIs for AI-powered features 
+• Write unit tests to validate business logic and API behavior 
+• Assist in creating integration tests to verify end-to-end workflows 
+• Collaborate with frontend and backend teams to ensure feature correctness 
+• Follow coding standards, testing practices, and documentation guidelines 
+• Participate in code reviews with a focus on quality and test coverage 
+• Support debugging, defect fixing, and test validation activities 
+
+B) Required Skills: 
+• Strong fundamentals in Python programming 
+• Basic understanding of web frameworks (Flask / FastAPI) 
+• Knowledge of unit testing concepts (pytest or unittest) 
+• Familiarity with integration testing and API testing basics 
+• Understanding of HTTP, REST APIs, and request/response flows 
+• Experience using Git for version control 
+
+C) Good to Have: 
+• Exposure to test automation tools (pytest, pytest-asyncio, requests) 
+• Understanding of mocking and test data setup 
+• Familiarity with databases and ORM tools 
+• Awareness of CI/CD pipelines and automated test execution 
+• Basic exposure to Docker and cloud deployment concepts 
+
+D) Quality Expectations (Explicit): 
+• All new features must include unit tests 
+• Critical APIs must be covered by integration tests 
+• Code changes are reviewed for test coverage and reliability 
+• Tests should be executable as part of CI pipelines 
+
+Who Should Apply: 
+• Students or recent graduates in Computer Science, AI, or related fields & also experience professionals .
+• Candidate with hands-on Python or web project experience 
+• Individuals interested in quality-driven engineering practices 
+
+Company Details: 
+❖ Name of the company: Tutor Cloud Pvt Ltd 
+❖ Company website: https://tutorcloud.ai/
+❖ To apply: https://tutorcloud.ai/careers/ OR rajeshwary.sen@tutorcloud.ai

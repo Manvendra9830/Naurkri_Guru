@@ -1,0 +1,56 @@
+About the job
+We are seeking an AI Engineer to join our dynamic team and contribute to the development and enhancement of our AI-driven platforms. The ideal candidate will possess deep technical expertise in machine learning and artificial intelligence, with a proven track record of developing scalable AI solutions.Your role will involve everything from data analysis and model building to integration and deployment, ensuring our AI initiatives drive substantial business impact.
+Design and develop AI models and algorithms from scratch.
+Implement AI solutions that integrate with existing business systems to enhance functionality and user interaction.
+Manage the data flow and infrastructure for effective AI deployment.
+Collaborate across teams to align AI initiatives with organizational goals.
+Develop machine learning models and AI solutions
+Test, deploy, and maintain AI systems
+Collaborate with data scientists and other engineers to integrate AI into broader system architectures
+Stay current with AI trends and suggest improvements to existing systems and workflows
+
+
+
+Requirements
+
+Degree in Computer Science, Engineering, or related field
+Experience with machine learning, deep learning, NLP, and computer vision
+Proficiency in Python, Java, and R
+Strong knowledge of AI frameworks such as TensorFlow or PyTorch
+Excellent problem-solving skills and ability to work in a team environment
+
+
+
+Benefits
+
+We are a bunch of technocrats who’re passionate at heart and we drive impact by synergizing with each other’s forces & having fun while we are at it.
+Our people define our culture. If there is anything we need to change/improve, we do.
+
+Personal Benefits 
+Health Comes First: Extensive Medical Insurance for you and your family.
+ Flexible Working Hours: Decide your own productive time per your project/client.
+Dental, Eye, and Body Checkups: Routine checkups help to keep you updated.
+Gaming Zone: Dedicated place for enjoying a refreshing work break any time of the day.
+Celebrations: Celebrate festivals and the diversity of our culture.
+Parties: We just need a reason to party regularly and a BIG trip yearly.
+Handmade tea and coffee, as you like it fresh: Who doesn't like fresh beverages after all.
+
+Professional Benefits
+Latest technologies: Opportunity to stay ahead in the constantly changing technology trends globally.
+Vibrant work environment: Everybody helps everyone. Fueling your growth with impactful learning & growth opportunities.
+ Certifications: Company-sponsored certifications to fuel your competence.
+
+Monetary Benefits
+ Work Anniversary Bonus: One-month additional salary as a bonus every year.
+ Gratuity: Your long-term commitment pays.
+ Interest-Free Loan up to 3 times the salary: No documentation, get money directly in your account.
+ Excellent Referral Bonus: Help a friend and get rewarded every time. 
+
+
+
+Interested candidates can share their resume on khushboo.s@addwebsolution.in or call on +91 8401266922.
+
+
+
+Desired Skills and Experience
+Degree in Computer Science, Engineering, or related field Experience with machine learning, deep learning, NLP, and computer vision Proficiency in Python, Java, and R Strong knowledge of AI frameworks such as TensorFlow or PyTorch Excellent problem-solving skills and ability to work in a team environment

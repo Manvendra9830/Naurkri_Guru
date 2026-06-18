@@ -1,0 +1,30 @@
+About the job
+Who we are
+DigiCert is a global leader in intelligent trust. We protect the digital world by ensuring the security, privacy, and authenticity of every interaction. Our AI-powered DigiCert ONE platform unifies PKI, DNS, and certificate lifecycle management, to secure infrastructure, software, devices, messages, AI content and agents. Learn why more than 100,000 organizations, including 90% of the Fortune 500, choose DigiCert to stop today’s threats and prepare for a quantum-safe future at www.digicert.com
+  Job summary
+We are seeking an experienced Associate Software Engineer to join our dynamic and innovative team. As an Associate Software Engineer - Backend, you will be a key contributor to the design, development, and maintenance of our web services. You will work closely with cross-functional teams to deliver high-quality, scalable, and reliable web services that meet the evolving needs of our customers.
+ What you will do
+Work closely with product managers, UX designers and architects to understand project requirements and technical specifications
+Design, develop, test, and maintain software applications, ensuring they meet high-quality standards, security and performance benchmarks
+Write clean, efficient, and maintainable code, in accordance with coding standards and best practices
+Analyze, troubleshoot, and debug product defects and provide timely solutions to customer issues
+ What you will have
+Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience)
+1+ years of relevant working experience in the software development
+Strong in data structure & algorithms and problem solving
+Strong in programming with Java or any object-oriented language
+Strong knowledge in database concepts
+Expert in object-oriented design, secure coding and unit testing
+Flexible and willing to learn/work on new technologies
+Detail-oriented, quick learner, problem solver and team player
+ Nice to have
+Experience working with RESTful webservices
+Worked with MariaDB or MySQL databases
+Experience in developing User Interface for web applications
+Experience with Docker and/or Kubernetes
+Understanding of web, SSL, PKI, and other security related technologies
+ Benefits
+Generous time off policies
+Top shelf benefits
+Education, wellness and lifestyle support
+  

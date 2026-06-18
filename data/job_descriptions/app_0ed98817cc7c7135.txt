@@ -1,0 +1,17 @@
+About the job
+Role: Junior Software Engineer
+A Junior Software Engineer is expected to contribute to the design, development, and integration of software systems for optical tracking and image-guided surgical navigation.
+The role involves working on real-time software pipelines that interface with imaging hardware, processing visual data, and delivering reliable outputs in a clinical-grade environment. The candidate should be capable of understanding system-level requirements, translating them into well-structured code, and collaborating effectively within an interdisciplinary engineering team.
+Responsibilities:
+Design and development of software modules for real-time data acquisition, synchronization, and processing.
+Integration of camera SDKs and hardware APIs into image capture and computation pipelines.
+Testing, validation, and performance benchmarking of developed software components.
+Debugging and optimization of concurrent software for low-latency, reliable operation.
+Documenting all aspects of development activity including design specifications, test protocols, and validation results.
+Requirements:
+Strong programming fundamentals in C++; with working knowledge of Python.
+Solid understanding of multithreading and concurrent programming concepts.
+Working knowledge of OpenCV or similar computer vision libraries.
+Basic experience with Git and Linux development environments.
+Experience with GPU programming or writing compute kernels is a plus.
+Minimum Qualifications: Final year or recent graduate in B.E./B.Tech or M.E./M.Tech in Computer Science, Electrical Engineering, Electronics & Communication Engineering, Biomedical Engineering, or a related field. 0-2 years of industry experience.

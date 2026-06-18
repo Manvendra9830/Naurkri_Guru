@@ -1,0 +1,53 @@
+About the job
+Company Description
+
+NEC Software Solutions (India) 
+
+On 1st July 2021, Rave Technologies became NEC Software Solutions India. This change brought us under the global NEC Corporation brand. We are proud to be part of an organisation with 122 years of experience in evolution with technology and innovation.
+
+We have more than 30 years of experience in providing end to end IT services across the globe and have earned a reputation for delighting our customers by consistently surpassing expectations and helping them deliver robust, market-ready software products that meet the highest standards of engineering and user experience. Supported by more than 1300 exceptionally talented manpower, we are a hub for offshore support and technology services.
+
+We work with diverse industry verticals which include publishing, media, financial services, retail, healthcare and technology companies around the world. Our customers range from two-person startups to $bn listed companies.
+
+For more information, visit at www.necsws.com/india.
+
+About NEC Corporation
+
+NEC Corporation is a Japanese multinational information technology and electronics company, headquartered in Tokyo, Japan. It is recognised as a ‘Top 50 Innovative Company’ globally and the NEC Group globally provides “Solutions for Society” that promote the safety, security, fairness and equality of society. Their main goal is to help create a safer society with their innovations in technologies.
+
+NEC Corporation has established itself as a leader in the integration of IT and network technologies while promoting the brand statement of “Orchestrating a brighter world.” NEC enables businesses and communities to adapt to rapid changes taking place in both society and the market as it provides for the social values of safety, security, fairness and efficiency to promote a more sustainable world where everyone has the chance to reach their full potential.
+
+For more information, visit NEC at https://www.nec.com. 
+
+Job Description
+
+Job Description: Prompt Engineer
+
+About The Role
+
+We are looking for a highly creative and analytical Prompt Engineer to join our team. You will design, test, and optimize prompts for large language models (LLMs) to improve accuracy, efficiency, and usability of AI-driven applications. The role requires a mix of technical knowledge, problem-solving skills, and domain understanding to bridge human intent with AI capabilities.
+
+Key Responsibilities
+
+Design, develop, and refine prompts for AI/LLM applications to ensure high-quality and contextually accurate outputs.
+Collaborate with product, engineering, and data teams to integrate prompt strategies into applications and workflows.
+Conduct A/B testing and evaluate prompt effectiveness across different scenarios.
+Maintain a knowledge base of reusable prompt templates and frameworks.
+Stay updated with advancements in generative AI, Agentic AI, prompt engineering techniques, and tooling
+Analyze outputs, debug issues, and propose prompt modifications for continuous improvement
+
+Required Skills & Qualifications
+
+Strong understanding of large language models (LLMs) such as GPT, Claude, LLaMA, or similar.n
+Understanding of Agentic frameworks specifically of LangChain, LangGraph
+Experience with prompt design, chaining, and optimization.
+Proficiency in at least one programming language (Python preferred).
+Strong analytical and problem-solving skills.
+Excellent written and verbal communication skills.
+Ability to work in cross-functional teams and translate business needs into AI solutions.
+
+Additional Information
+
+Has worked with UK clients and team (Preferred)
+Has working experience of the onshore – offshore model
+Has experience of commercial awareness in aspects such as revenue recognition and margin management

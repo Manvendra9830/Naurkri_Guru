@@ -1,0 +1,60 @@
+About the job
+Role: AI Automation & Airtable Developer (Systems & Workflow Owner)
+Location: Thane
+Type: Founding Team | Systems Builder | High Ownership
+🚀 What this role really is
+This is not a “developer” role.
+You will build the operating system of the company—using Airtable, AI tools, and automation workflows.
+From order flows to production tracking, dashboards to AI-driven decision systems—your work will define how efficiently the business runs at scale.
+🎯 What you will own
+Airtable Systems (Core):
+Design and build Airtable bases from scratch
+Create linked databases, views, interfaces, and automations
+Structure data for operations, inventory, orders, production, and reporting
+AI & Automation Workflows:
+Build AI-driven workflows (OpenAI, APIs, prompt systems)
+Automate repetitive tasks across ops, design, finance, and customer flows
+Integrate tools via Make (Integromat), Zapier, webhooks, APIs
+Dashboards & Reporting:
+Create real-time dashboards for different teams
+Build systems for data tracking, insights, and decision-making
+Ensure clean, structured, and scalable data architecture
+Custom Tools & Integrations:
+Build internal tools for order management, production tracking, returns, etc.
+Integrate Shopify, logistics tools, marketplaces, and other platforms
+Handle webhooks, APIs, and data sync across systems
+System Thinking & Optimization:
+Identify inefficiencies and replace them with automated workflows
+Reduce manual work across teams
+Continuously improve system speed, accuracy, and scalability
+📊 What success looks like
+Reduction in manual work across teams
+Faster order → production → dispatch workflows
+Clean, reliable data systems and dashboards
+Seamless tool integrations and automation flows
+Systems that scale without breaking
+🧠 What we’re looking for
+Strong experience with Airtable (advanced level)
+Experience with automation tools (Make, Zapier, APIs, webhooks)
+Exposure to AI workflows / prompt engineering / OpenAI APIs
+Strong understanding of data structures and system design
+Builder mindset—can create from zero, not just manage
+❌ This role is NOT for you if:
+You only write code but don’t think in systems
+You need detailed instructions for every task
+You prefer maintenance over building from scratch
+You’re not comfortable working in a fast-changing setup
+💰 Compensation
+Fixed: ₹6–12L
+ESOP: 0.5% – 1.5%
+⚡ How we work
+No micromanagement
+High ownership and autonomy
+Build fast, iterate faster
+Direct impact on business operations
+🧪 Hiring process
+Application screening via mail
+1-1 Personal Round
+Paid trial: build a real Airtable + automation workflow
+Final discussion with founders
+If you’re someone who loves building systems, automating chaos, and creating scalable workflows using AI, this role is for you.

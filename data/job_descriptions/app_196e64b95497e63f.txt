@@ -1,0 +1,15 @@
+About the job
+We're looking for AI Developers!
+
+Responsibilities
+
+Design, develop, and implement AI and ML models and algorithms to solve complex business problems
+Develop and implement prototypes and production-ready models using programming languages such as Python, or Java
+Perform data analysis, data preparation, and feature engineering to create datasets that are appropriate for AI and ML models
+Perform model selection, optimization, and evaluation to ensure that models meet business requirements and are accurate and reliable
+Develop and implement data pipelines, data storage solutions, and data visualization tools to support AI and ML models
+Deploy models to production environments and monitor their performance and accuracy over time
+
+(*Note: Scoutit is an independent candidate sourcing partner for this hiring. All applications, candidate screening, and hiring-related actions are conducted directly by the respective employer’s authorized recruitment team. Relevant candidates will be contacted via email and asked to fill in additional details as part of the next stage of the application process.)
+
+Skills: data,ml,models

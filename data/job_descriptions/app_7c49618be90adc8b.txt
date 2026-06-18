@@ -1,0 +1,40 @@
+About the job
+Data Science Intern (Entry Level) | Python • SQL • Analytics | Remote
+
+Hiring: Data Science Intern (Entry Level)
+SkillzenLoop is seeking passionate and driven Data Science Interns who are eager to work with real datasets, generate analytical insights, and build a strong foundation in data science, business intelligence, and data-driven decision-making.
+
+Roles & Responsibilities
+Work with data using Python, SQL, and analytical tools
+Assist in data cleaning, preprocessing, and exploratory data analysis
+Support model building and insight generation from datasets
+Prepare dashboards, reports, and visualizations for business decisions
+Analyze trends, patterns, and performance metrics
+Collaborate on real-world data science and analytics projects
+Support experimentation, reporting, and project documentation
+
+Eligibility Criteria
+Freshers and students are welcome
+Basic knowledge of Python, SQL, and data analysis concepts
+Understanding of Pandas, NumPy, or visualization tools is a plus
+Strong analytical and logical thinking skills
+Curious mindset with eagerness to learn
+Good communication and problem-solving ability
+Interest in data science, analytics, and business intelligence
+
+Internship Details
+Mode: Virtual / Remote
+Duration: Flexible
+Stipend: ₹13,000/month
+
+Perks & Benefits
+Hands-on experience with real datasets and analytics projects
+Internship Certificate
+Practical exposure to data science workflows
+Skill development through project-based learning
+Top performers will receive 100% placement support
+
+How to Apply
+Interested candidates can apply by clicking on the “Apply” option.
+
+Apply before 22nd May to be considered for this opportunity.

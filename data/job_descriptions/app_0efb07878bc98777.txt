@@ -1,0 +1,35 @@
+About the job
+Role Summary
+
+Python Developer- We are seeking a Python Developer with strong experience in data analysis, data processing and visualization. The ideal candidate will be responsible for analyzing complex datasets, developing data-driven insights, and building efficient data solutions to support business decision-making. The role involves working with Python-based data tools, integrating data from multiple sources, and developing scalable data processing workflows.
+
+Key Responsibilities
+
+Create automated data pipelines and reporting workflows.
+Develop and maintain data analysis solutions using Python.
+Process, clean, and analyze large datasets using libraries such as Pandas.
+Perform data exploration and statistical analysis to identify trends and insights.
+Identify, document, and report software defects using bug tracking tools.
+Participate in code reviews and provide constructive feedback to improve software quality.
+Strong written and verbal communication skills.
+Ability to work independently and as part of a team.
+
+Required Qualifications
+
+Bachelor’s or master’s degree in engineering (Electrical Engineering, Computer Engineering, Computer Science, or related field).
+Strong proficiency in Python for data analysis and application development.
+Experience with Pandas, NumPy, Matplotlib.
+Hands-on experience building data dashboards and visualizations.
+Understanding data modeling, Image processing and analysis, time series forecasting.
+Familiarity with Git or version control systems.
+
+Desired 
+
+Experience with Streamlit.
+Knowledge of cloud platforms (AWS, Azure, or GCP).
+Experience working with APIs and real-time data sources.
+Basic understanding of machine learning or statistical analysis.
+
+Goodyear is one of the world's largest tire companies. It employs about 63,000 people and manufactures its products in 49 facilities in 19 countries around the world. Its two Innovation Centers in Akron, Ohio, and Colmar-Berg, Luxembourg, strive to develop state-of-the-art products and services that set the technology and performance standard for the industry. For more information about Goodyear and its products, go to www.goodyear.com/corporate
+
+Goodyear is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to any characteristic protected by law.

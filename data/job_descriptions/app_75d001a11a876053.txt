@@ -1,0 +1,25 @@
+About the job
+Location: Hyderabad or Chandigarh
+Work Mode: Hybrid
+
+You will be responsible for:
+Ensure IT validation packages are inspection ready and in compliance with applicable company policies and procedures.
+Work autonomously with related IT contacts and the business process SMEs for this purpose.
+Support as SQA in the Review and Approval and implementation of regulated IT applications.
+Ensure continuous improvement and gives input related to the validation strategy for IT changes.
+Collaborate with the development team to build compliance capabilities in order to assure the quality of the deliverables and ensures business needs are met.
+Writing and execution of SDLC deliverables (e.g. MVP, Risk Assessment (FMEA), Requirements, IQ, OQ, PQ, Trace Matrix, and System Release).
+Review and Approval of SDLC deliverables (e.g. MVP, Risk Assessment (FMEA), Requirements, IQ, OQ, PQ, Trace Matrix and writing of System Certification).
+Review of CAPA s, Change Control and Defects as it applies to software validation.
+
+About you:
+Must have previous experience validating systems.
+Proficient in understanding of GxP regulations and validation principles.
+Experience in SDLC/Software Validation with Several years of SQA experience.
+Strong analytical skills with the ability to organize work in a logical, thorough and succinct manner.
+Understanding of risk management principles, regulatory requirements and, industry best practices.
+Knows the difference between Waterfall and Agile software development methodologies.
+Previous experience with automated testing and implementation.
+Familiarity with a range of applications/tools including JIRA, Confluence, Client-ALM, Tosca, Confluence, Veera ,Qtest, M-Files, or other continuous integration tools.
+Effective with written and verbal in English communications at all levels, providing input and regulatory guidance to project teams.
+Role must maintain compliance expertise and be effective at applying requirements in the IT and business environment that supports business goals and maintaining a compliant state.

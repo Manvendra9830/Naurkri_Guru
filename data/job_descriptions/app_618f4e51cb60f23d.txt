@@ -1,0 +1,18 @@
+About the job
+This job is sourced from a job board. Learn More
+Key Responsibilities
+
+ Design, develop, and deploy end-to-end AI/ML features across the company’s product suite and enterprise client projects.
+ Build and maintain agentic AI systems using orchestration frameworks (LangChain/LangGraph), LLM APIs, and FastAPI for automation workflows.
+ Develop and integrate voice AI pipelines (STT/TTS) using Whisper and TTS engines for real-time and offline deployment.
+ Architect and implement knowledge graphs (Neo4j) and vector databases (ChromaDB) for multimodal RAG systems.
+ Build full-stack web applications using React/Next.js (frontend) and Node.js/Python/FastAPI (backend).
+ Work with LLMs (Claude, GPT, and open-source models) for fine-tuning, prompt engineering, and inference optimization.
+ Deploy ML models and AI services on GCP, AWS, and Azure using Docker, Nginx, and CI/CD pipelines.
+ Build dashboards, reporting tools, and data visualization components.
+ Collaborate with leadership to translate business requirements into fully deployed features.
+
+About Company: We are a group of passionate technocrats. We work with niche technologies to provide solutions for managing information interactively and intelligently. We currently provide services in web and Windows-based solutions and mobile application development.
+
+Desired Skills and Experience
+Python, Computer Vision, Neural Networks, Artificial intelligence, Artificial Intelligence Markup Language (AIML), Claude

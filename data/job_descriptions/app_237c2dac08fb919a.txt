@@ -1,0 +1,32 @@
+About the job
+Originally founded by Arm, Kigen enable businesses to grow their Internet of Things rapidly through the SIM, eSIM and iSIM technologies and are pushing the boundaries in the industry. Working with a number of high-profile customers globally, our growing business is excited to be expanding our team in Noida.
+
+We are currently seeking two Graduate Software Engineers to join our Operational Engineering team.
+
+You will be part of the team responsible for enabling and supporting customers designing with Kigen technology. Providing UICC/eSIM/iSIM services including profile development and testing. A key element of our role is supporting our customers and working closely with our Data Generation and Customer Success teams to provide services.
+
+What you will be doing:
+Profile Development 
+Analyse the customer requirements, select the target UICC/eUICC card product, and assess the profile development timelines.
+Develop the profile and perform some unit testing on the target UICC/eUICC card product.
+Deliver the profile to the customer and archive the delivery.
+Ensure the profile maintenance (bug fixes, change requests).
+ Technical Support 
+Answer to the technical queries coming from customers developing profiles on our SIM/USIM/eUICC card products.
+Assist our customers in answering to the technical sections of mobile network operator’s UICC/eUICC tenders.
+Assist our customers in performing profile and/or applet qualifications on our UICC/eUICC card products (including on-site missions at our customer’s locations anywhere in the world when required).
+
+What do we need:  
+Degree in software engineering or similar technology related field
+Aptitude and enthusiasm for learning new technologies
+Good understanding of the various software projects cycle steps (specification, development, test, release, maintenance)
+A basic knowledge of notions in security and cryptography
+Be curious, and keen to find out how things
+Attention to detail, good communication
+A real team player who aspires to our core values of: Passion for customer success, Be excellent to all, Think big, act fast.
+A basic understanding of SIM/USIM/eSIM/eUICC /iSIM profile development would be super useful too - but it is not a deal breaker!
+
+What are Kigen’s benefits?
+At Kigen we like to ensure our people are well supported and rewarded for what they do. We offer a competitive salary, along with some excellent benefits like healthcare and sabbaticals. Most importantly, we offer a very flexible environment with a hybrid working model of only 3 days per week in office.
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, colour, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.

@@ -1,0 +1,64 @@
+About the job
+Who We Are
+
+Magnit is the future of work. Serving hundreds of the world’s most recognizable brands for the past 30+ years, Magnit offers the industry’s first holistic platform for the modern workforce. Magnit's integrated workforce management (IWM) platform supported by data, software, intelligence, and best-in-class services team is key to our clients’ success. It can adapt quickly to regional or industry economic shifts, and provides the speed, scale, flexibility, transparency, and expertise required to meet an organization’s contingent workforce management, talent strategy and broader organization goals. At Magnit, you’ll work with passionate colleagues who collaborate and deliver meaningful results that positively transform the largest companies around the globe.
+
+About The Role
+
+We are building next-generation AI-powered platforms that leverage Large Language Models (LLMs), Machine Learning (ML), NLP, and agentic workflows to automate critical business processes across multiple domains. As an Associate Engineer, you will join our AI/ML team to learn, contribute, and grow while working on real-world projects. This role is designed for fresh graduates who are passionate about AI and eager to build their careers in applied machine learning and intelligent systems.
+
+Responsibilities
+
+
+Assist in developing and testing AI/ML workflows under the guidance of senior engineers.
+Support the creation of APIs and backend services for AI-driven applications.
+Contribute to training and evaluating ML models for tasks such as classification and prediction.
+Learn to work with LLMs (OpenAI, Claude, Gemini) and support prompt engineering and RAG workflows.
+Participate in building document processing pipelines using OCR and ML validation.
+Collaborate with the team to integrate AI models with external systems via APIs.
+Engage in agile sprints, design discussions, and brainstorming sessions.
+Document learnings, processes, and contribute to knowledge sharing within the team.
+
+
+Required Skills
+
+
+Strong foundation in Python programming.
+Basic understanding of ML concepts and frameworks (TensorFlow, PyTorch, scikit-learn preferred).
+Familiarity with data structures, algorithms, and problem-solving.
+Exposure to NLP concepts (text classification, summarization) is a plus.
+Knowledge of databases and APIs is desirable.
+Eagerness to learn cloud platforms (AWS, Azure, GCP).
+
+
+Mindset We Are Looking For
+
+
+Learner’s mindset: Enthusiastic about picking up new AI/ML skills quickly.
+Curiosity: Passionate about exploring GenAI, ML, and emerging technologies.
+Collaboration: Willing to work closely with senior engineers and architects.
+Problem-solving attitude: Ready to take on challenges and experiment with solutions.
+Ownership: Committed to contributing to projects and growing with the team.
+
+
+What Magnit Will Offer You
+
+At Magnit, you’ll be joining an innovative, high-growth environment and can quickly make an impact to help transform the largest companies in the world. You will work with passionate colleagues who collaborate and deliver. Magnit offers all employees the opportunity for growth and development, and we want individuals to fulfill their potential and blaze their own trails!
+
+Magnit will offer you a competitive PTO and benefits package, including medical, dental, and vision coverage, retirement planning, as well as discounts and perks for tickets, travel, merchandise and more! Magnit encourages employees to participate in giving back, and we will match employee contributions to favorite charities and support corporate volunteering hours to make a difference in your community!
+
+If this role isn’t for you
+
+Stay in touch, we will let you know when we have new positions on the team.
+
+To see a complete list of our open career opportunities please visit.
+
+https://magnitglobal.com/us/en/company/careers.html
+
+To do our best work we need different viewpoints. Therefore, we celebrate diversity and embrace inclusion.
+
+As an equal opportunity employer, we are dedicated to building a team that represents a variety of backgrounds, perspectives, and skills. We strive to ensure that we maintain a positive and enriching work environment for all.
+
+By applying to this role, you consent to Magnit safely storing and managing your personal data. Please read this link to learn more.
+
+https://magnitglobal.com/us/en/privacy-notice.html

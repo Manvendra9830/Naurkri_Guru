@@ -1,0 +1,79 @@
+About the job
+About Salvo Software
+
+Salvo Software is a global firm that provides cost-effective software solutions to guide enterprises and startups through digital transformation. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges. Our culture values innovation, ownership, and engineering excellence.
+
+Role Overview
+
+We are seeking a highly skilled AI Developer with a strong backend and machine learning engineering background to design, train, optimize, and deploy LLM models in on-prem and offline environments. This role is deeply technical and hands-on, requiring expertise across Python ML stacks, model optimization, local inference frameworks, RAG (Retrieval-Augmented Generation) architectures, MCP (Model Context Protocol) integrations, and DevOps workflows tailored for offline systems.
+
+You will work closely with our engineering and product teams to build end-to-end LLM pipelines — including data preprocessing, supervised fine-tuning, model quantization, evaluation, RAG pipeline design, and deployment using local or air-gapped infrastructure. If you enjoy working with cutting-edge open-source LLMs, building context-aware AI systems, and designing reliable backend pipelines, this role is for you.
+
+Key Responsibilities
+
+Core LLM Development
+
+Train and fine-tune LLMs using supervised fine-tuning (SFT)
+Work with open-source models such as LLaMA, Mistral, Qwen, and similar architectures
+Build LoRA / Q-LoRA pipelines for efficient fine-tuning
+Implement and optimize data preprocessing workflows, including tokenization and long-context handling
+Use and extend Hugging Face Transformers & Datasets for training and inference
+Parse and process structured and semi-structured data, including XML/XSD files
+Implement document parsing solutions for Office formats (python-docx, OpenXML)
+
+RAG & Context-Aware Systems
+
+Design and implement end-to-end Retrieval-Augmented Generation (RAG) pipelines for document-grounded question answering and knowledge retrieval
+Build and maintain vector stores and embedding pipelines using tools such as FAISS, Chroma, Weaviate, or pgvector
+Optimize retrieval strategies including hybrid search, re-ranking, and chunking approaches tailored for domain-specific corpora
+Develop and maintain MCP (Model Context Protocol) server integrations to enable LLMs to interact dynamically with tools, APIs, and external data sources
+Design agentic workflows that leverage MCP to give models structured access to internal systems and context in a controlled, auditable manner
+
+Offline / On-Prem Model Expertise
+
+Deploy, run, and maintain models fully offline and in air-gapped environments
+Perform model optimization and quantization (GGUF, GPTQ, AWQ, bitsandbytes)
+Build and maintain inference systems using frameworks like vLLM, TGI, and Ollama
+Optimize GPU usage (CUDA, cuDNN, VRAM-aware batching)
+Maintain local CI/CD pipelines for ML models without cloud dependencies
+Manage local model registries, versioning, and artifacts
+Ensure RAG and MCP components are fully operational in offline and restricted network environments
+
+Backend & DevOps
+
+Build backend services in Python for ML training and inference workflows
+Work with relational databases (Postgres/MySQL) and vector databases for RAG storage layers
+Use Docker and Git for reliable development and deployment pipelines
+Use Azure DevOps for CI/CD, including local runners when applicable
+
+Requirements
+
+Technical Skills
+
+Strong experience in Python for backend and ML development
+Expertise with ML frameworks such as PyTorch or TensorFlow, scikit-learn, and pandas
+Solid knowledge of Postgres or MySQL for data storage
+Experience with Docker, Git, and DevOps best practices
+Hands-on expertise with LLM training, fine-tuning, and optimization
+Experience with Hugging Face Transformers & Datasets
+Familiarity with XML/XSD and Office document parsing tools
+Experience deploying models with vLLM, TGI, or Ollama
+Understanding of quantization techniques (GGUF/GPTQ/AWQ)
+Experience working with GPU optimization and the CUDA stack
+Ability to build solutions for offline, on-prem, and air-gapped environments
+Hands-on experience designing and implementing RAG pipelines, including embedding models, vector stores (FAISS, Chroma, Weaviate, or pgvector), and retrieval optimization strategies
+Experience building or integrating MCP (Model Context Protocol) servers to connect LLMs with external tools, APIs, and structured data sources
+
+Nice to Have
+
+Experience building agentic systems using MCP in production or near-production environments
+Familiarity with advanced RAG techniques such as HyDE, re-ranking, or multi-hop retrieval
+Experience managing ML model registries in offline environments
+Familiarity with AWS for hybrid deployments
+Experience with secure environments, restricted networks, or enterprise compliance requirements
+
+Soft Skills
+
+Strong ownership mindset and problem-solving ability
+Ability to work effectively in distributed teams across time zones
+Clear communication when discussing complex technical topics with both technical and non-technical stakeholders

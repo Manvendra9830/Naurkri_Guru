@@ -1,0 +1,35 @@
+About the job
+Company Description
+Stage-X Space is dedicated to revolutionizing enterprise data through cutting-edge artificial intelligence technologies. Our mission is to create innovative solutions that enhance operational efficiency, drive productivity, and support business growth. We are committed to transforming how businesses operate by leveraging AI’s transformative potential. Join us in shaping the future of technology-driven enterprise modernization.
+
+Role Description
+This is a full-time remote role for an Applied AI / Machine Learning Engineer focused on building intelligent orchestration systems for AI agents.
+This role is centered around semantic routing, LLM workflows, AI agent orchestration, and structured execution pipelines rather than traditional AI model research.
+You will work on designing systems that interpret fuzzy human intent, determine the correct tool execution paths, and orchestrate reliable multi-step AI workflows.
+The ideal candidate understands how to build production-grade AI systems that balance latency, cost, reliability, and reasoning accuracy.
+You will collaborate closely with backend and frontend engineering teams to develop scalable AI infrastructure powering enterprise automation workflows.
+
+
+Key Responsibilities
+Build semantic intent routing systems
+Design AI agent orchestration workflows
+Develop structured reasoning and execution pipelines
+Implement LangGraph-based orchestration systems
+Integrate lightweight open-source LLMs
+Optimize AI latency, inference cost, and routing accuracy
+Build tool selection and execution logic
+Develop observability and evaluation pipelines for AI workflows
+Create scalable backend services for AI orchestration
+
+
+Qualifications
+Strong Python programming skills
+Experience with LLMs and AI agent frameworks
+Familiarity with LangGraph, LangChain, or similar orchestration systems
+Experience building production AI systems
+Understanding of semantic search, embeddings, and vector databases
+Familiarity with FastAPI or backend API development
+Strong problem-solving and system design skills
+Experience with cloud platforms such as AWS, GCP, or Azure
+How to Apply
+Ready to shape the future of AI? Please send your resume and a brief cover letter to: 📧 hrconnect@stage-x.space

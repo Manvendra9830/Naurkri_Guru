@@ -1,0 +1,26 @@
+About the job
+About Cleartrip
+Launched in July 2006, Cleartrip India Pvt Ltd. has emerged as India’s fastest-growing online travel
+technology company. In April 2021, Flipkart acquired 100% of Cleartrip’s shareholding, and
+subsequently Adani Enterprises acquired a significant minority stake in Cleartrip in October 2021. With an aggressive plan to emerge as a leading innovator in the industry, Cleartrip is on its way to building a differentiated value proposition for its customers looking for end-to-end travel solutions. With industry-first offerings such as ‘EzCancel, Flexifly, and TravelSafe’, Cleartrip has a clear vision to disrupt the OTA segment.
+Combining intuitive products with a customer-centric approach and a wide selection of flights and
+hotels, Cleartrip brings a unique selling point to market, offering convenience, choice, competitive
+prices, and exclusive content to its customers.
+Become a Cleartripper today!
+
+About The Role & Team
+
+The Software Development Engineer's core responsibilities include working on highly-maintainable and unit tested software components/systems that address real-world problems. You will be working in a fast-paced and agile work environment delivering quality solutions that have immediate business impact.
+
+What you’ll do:
+You will assume complete ownership of the projects you deliver while collaborating with technical and non-technical stakeholders on all elements of the development process. You are expected to
+demonstrate good learnability and adopt technologies that help build large scale, performant, reliable and sustainable systems.
+
+What you’ll need:
+Minimum 1 year experience
+• Strong with analytical and problem-solving skills
+• Good understanding of data structures & algorithms with space & time complexities
+• Good with Java programming language with knowledge on design patterns
+• Preferably experience in building applications using java spring boot framework
+• Experience working with databases (Oracle/MySQL/ NoSQL)
+• B Tech in Computer Science or equivalent from a reputed college

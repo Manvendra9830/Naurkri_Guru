@@ -1,0 +1,41 @@
+About the job
+We are looking for an AI Developer & Trainer / Faculty with at least 1 year of hands-on experience in IT, preferably in full stack development with a strong backend focus. The ideal candidate should have practical exposure to AI tools, automation, APIs, and real-world development projects, along with the confidence and communication skills required to train and mentor students professionally.
+This role requires someone who is technically strong, passionate about teaching, and capable of explaining complex concepts in a simple and engaging manner through practical sessions, live demos, and industry-based projects.
+Responsibilities:
+Deliver practical hands-on training on AI tools, backend-focused full stack development, APIs, and automation
+Conduct live coding sessions, demos, and project-based learning
+Explain technical concepts clearly using real-world use cases
+Assist in developing scalable AI-integrated backend systems
+Guide students on projects, workflows, deployment, and industry practices
+Keep training sessions engaging, updated, and industry-oriented
+Stay updated with the latest AI tools, workflows, and development trends
+Qualifications:
+Minimum 1 year of practical experience in IT / AI / Full Stack Development
+Strong understanding of backend development and APIs
+Hands-on project experience in development and AI-based workflows
+Passionate about teaching, mentoring, and knowledge sharing
+Excellent communication and presentation skills
+Ability to handle and explain technical concepts confidently
+Languages Required: English, Bengali, Hindi
+Required Skills:
+Strong backend development knowledge using Node.js, Python, JavaScript, or related technologies
+Experience with Full Stack Development (backend-focused preferred)
+REST API development and integration
+GitHub and version control workflows
+Database knowledge: MongoDB / MySQL / PostgreSQL
+Understanding of backend architecture and system design
+Deployment knowledge on cloud/server environments
+Strong debugging and problem-solving ability
+Preferred Skills:
+Understanding of Machine Learning fundamentals
+Hands-on experience with LLMs, RAG, embeddings, and AI workflows
+Prompt Engineering and AI tool integration
+Experience with automation tools like n8n, Google AI Studio, Codex, Claude Code, etc.
+Ability to build AI-integrated applications and backend systems
+Exposure to real-world AI projects, automation workflows
+Ideal Candidate Profile:
+Strong practical knowledge over theoretical-only learning
+Someone who enjoys both development and teaching
+Confident, presentable, and proactive personality
+Able to simplify technical topics for students and beginners
+Industry-oriented mindset with problem-solving ability

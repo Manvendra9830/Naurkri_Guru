@@ -1,0 +1,56 @@
+About the job
+Data Science Intern
+
+Acrotinel
+
+Location: Remote
+Type: Full-Time Internship
+Stipend: ₹21,000/month
+Duration: 1–3 Months
+
+Acrotinel is looking for a curious and solution-oriented Data Science Intern who can leverage data to solve business problems and build intelligent systems. This role focuses on experimentation, data-driven innovation, and applying advanced analytics in real-world scenarios.
+
+Key Responsibilities
+
+• Work on real-world problem statements using data science approaches
+• Design and implement data-driven solutions for business use cases
+• Build prototypes for predictive and analytical models
+• Explore datasets to discover hidden patterns and insights
+• Apply statistical techniques to validate hypotheses
+• Work on data pipelines and automate data processing tasks
+• Collaborate with teams to convert business challenges into analytical problems
+• Optimize existing models and improve their efficiency
+• Present findings and recommendations in a structured manner
+
+Required Skills
+
+• Understanding of data science concepts and workflows
+• Strong proficiency in Python (Pandas, NumPy, Scikit-learn)
+• Knowledge of statistics and probability fundamentals
+• Familiarity with machine learning techniques
+• Basic understanding of data preprocessing and feature engineering
+• Exposure to data visualization tools or libraries
+• Problem-solving mindset and analytical thinking
+• Ability to communicate insights effectively
+
+Eligibility Criteria
+
+• Students or recent graduates from Data Science, AI, Computer Science, or related fields
+• Freshers with strong analytical mindset are encouraged to apply
+• Candidates with projects, internships, or case studies preferred
+• Certifications in Data Science / Machine Learning are a plus
+• Must be available for a full-time remote internship
+
+Perks and Benefits
+
+• Monthly stipend of ₹21,000
+• Hands-on experience solving real-world data problems
+• Internship completion certificate
+• Opportunity to work on innovative data-driven projects
+• Exposure to modern tools and workflows
+• Mentorship from experienced professionals
+• Potential full-time opportunity based on performance
+
+Why Join Acrotinel?
+
+This internship is ideal for individuals who want to gain practical experience in data science, work on impactful projects, and build a strong foundation in analytics and machine learning.

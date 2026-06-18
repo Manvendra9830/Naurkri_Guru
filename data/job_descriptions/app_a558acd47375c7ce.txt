@@ -1,0 +1,33 @@
+About the job
+This job is sourced from a job board. Learn More
+We are looking for a proactive and technically curious AI Intern to join our team and contribute to automation and AI-driven workflow initiatives. The ideal candidate should have hands-on exposure to modern AI tooling and a strong interest in building practical automations using platforms such as Claude Code and related AI-assisted development environments. This role is ideal for someone who enjoys solving operational problems using AI, scripting, and intelligent automation systems.
+
+Key Responsibilities
+
+ Assist in developing and automating internal workflows using AI coding tools such as Claude Code and similar platforms.
+ Build and optimize AI-assisted automations for operational and business processes.
+ Collaborate with cross-functional teams to identify automation opportunities.
+ Support experimentation with LLM-powered tools, agents, APIs, and workflow orchestration.
+ Document automation processes, system logic, and implementation practices.
+ Participate in testing, debugging, and improving AI-generated workflows and scripts.
+ Research emerging AI tools and recommend practical implementations.
+
+What You’ll Gain
+
+ Hands-on exposure to real-world AI implementation and automation projects.
+ Opportunity to work with cutting-edge AI development tools and workflows.
+ Mentorship and practical experience in applying AI to business operations.
+ Fast-paced learning environment with ownership and experimentation opportunities.
+
+Internship Details
+
+ Role: AI Intern
+ Duration: 3–6 Months
+ Location: On-Site
+ Stipend: ₹15,000–₹18,000
+ Joining: Immediate
+
+About Company: We are leading manufacturers of insulation components, plastic moulding products and printing and packaging solutions for the automotive, white goods and appliances industry.
+
+Desired Skills and Experience
+Generative AI Tools, ChatGPT, Claude, LLM evaluation, Java, JavaScript, MS-Office, Python, Data Structures, Script Writing, Artificial intelligence, Google Sheets

@@ -1,0 +1,66 @@
+About the job
+Role Description
+
+Role Proficiency:
+
+Under guidance from Senior ML Engineers develop ML models that provides accurate results with controls to solve the business problem identified using state of art techniques.
+
+Outcomes
+
+ Executes relevant data wrangling activities related to the problem in order to create dataset
+ Conduct ML experiments to understand the feasibility and build baseline models to solve the business problem
+ Fine tune the baseline model for optimum performance
+ Test Models internally per acceptance criteria from business
+ Document relevant Artefacts for communicating with the business
+ Work with data scientists to deploy the models.
+ Work with product teams in planning and execution of new product releases.
+ Set OKRs and success steps for self/ team and provide feedback to goals for team members
+ Work with cross functional teams - business technology and product teams to understand the product vision; building ML solutions that provides value to the product
+
+Measures Of Outcomes
+
+ Selection of the appropriate approach to the problem
+ Number of successful deployments of the model with optimised accuracy for baseline model
+ Adherence to project schedule / timelines
+ Personal and team achievement of quarterly/yearly objectives (OKR Assignments HIG Stretch goals)
+
+Outputs Expected
+
+Design to deliver Product Objectives:
+
+Design ML solutions which are aligned to and achieve product objectives 
+Define data requirements for the model building and model monitoring; working with product managers to get necessary data
+
+Updated on state of art techniques in the area of AI / ML :
+
+Perform necessary research using the latest and state of art techniques to design scalable approaches
+Explain the relevance of the technologies its pros and cons to the product team; enabling accurate design experiences
+
+Skill Examples
+
+ Technically strong with the ability to connect the dots
+ Ability to communicate the relevance of technology to the stakeholders in a simple relatable language
+ Curiosity to learn more about new business domains and Technology Innovation
+ An empathetic listener who can give and receive honest thoughtful feedback
+
+Knowledge Examples
+
+ Expertise in machine learning model building lifecycle
+ Clear understanding of various ML techniques with appropriate use to business problems
+ A strong background of statistics and Mathematics
+ Expertise in one of the domains – Computer Vision Language Understanding or structured data
+ Experience in executing collaboratively with engineering design user research teams and business stakeholders
+ Experience with data wrangling techniques preprocessing and post processing requirements for ML solutions
+ Good knowledge python and deep learning frameworks like Tensorflow Pytorch Caffe
+ Familiar with the machine learning model testing approaches
+ A genuine eagerness to work and learn from a diverse and talented team
+Additional Comments
+
+Role : ML Engineer I Band : B1 Location : Noida
+
+Skills
+
+Machine Learning,Software Engineering,Automation
+
+Desired Skills and Experience
+Machine Learning,Software Engineering,Automation

@@ -1,0 +1,43 @@
+About the job
+About Collegedunia
+Collegedunia is one of India’s leading education platforms, helping students discover the best colleges in India and abroad. From college research and exam prep to applications and campus insights, we simplify the entire student journey.
+
+Founded in 2014, Collegedunia is consistently ranked among the top education portals by SimilarWeb and recognized as “Best Educational Portal” by IAMAI. It has also been featured among Top 100 Startups in Asia by Tech in Asia.
+
+Backed by a team of 1000+ young and driven professionals, Collegedunia continues to scale rapidly, with strong growth and industry recognition.
+
+Backed by strong fundamentals, Collegedunia has crossed ₹200 Cr in revenue and turned profitable, with ambitions to scale 3X and go public — read the full story
+
+About Your New Role
+Develop, maintain, and optimize backend applications using Python and Flask
+Build scalable APIs and integrate third-party services
+Design and manage databases efficiently
+Collaborate with frontend developers and product teams for feature implementation
+Troubleshoot bugs, improve application performance, and ensure code quality
+Participate in deployment, monitoring, and system optimization activities
+
+Requirements
+B.Tech degree is mandatory from Tier-1 colleges
+Previous work experience with a B2C Android application is a plus
+Strong proficiency in Python programming
+Experience with Flask framework is required
+Good understanding of APIs and backend development
+Hands-on experience with databases:
+MongoDB
+SQL / PostgreSQL
+Knowledge of database design and query optimization
+Familiarity with Git/version control systems
+
+Preferred Skills
+Exposure to DevOps tools and deployment workflows is an added advantage
+Understanding of cloud platforms, CI/CD pipelines, and server management is preferred
+Strong problem-solving and debugging skills
+
+What You’ll Get
+Ownership and autonomy from day one — we move fast and trust our builders
+Opportunity to work alongside founders focused on product, growth, and user experience
+Be part of a fast-scaling startup shaping the future of Rewarded UA
+Competitive compensation
+
+Location
+Onsite – Gurgaon

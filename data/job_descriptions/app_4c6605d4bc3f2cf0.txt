@@ -1,0 +1,46 @@
+About the job
+Associate Data Scientist (Machine Learning & Statistics)
+
+Department: Information Technology
+
+Work Schedule: 9:30 AM - 6:30 PM (Monday-Friday)
+
+Role Overview
+
+We are looking for an Associate Data Scientist with strong core machine learning fundamentals and hands-on experience, particularly in time series data, to work end-to-end on real-world ML problems.
+
+The role involves data exploration, model development, experimentation, deployment support, and performance tracking, with direct business impact.
+
+Exposure to LLMs / RAG systems and basic water or process-domain knowledge is a plus, but the primary focus remains classical ML done well.
+
+Key Responsibilities
+
+Work hands-on with raw datasets to explore data, frame problem statements, and build strong baseline models 
+Design, train, validate, and evaluate ML models, with rigorous metric tracking 
+Extensively work with time series data (trend, seasonality, lag features, forecasting, anomaly detection) 
+Run structured experiments and ablation studies to improve model performance 
+Collaborate with engineering, product, and operations teams to integrate models into applications 
+Support model deployment, monitoring, and performance tracking in production environments 
+Clearly communicate insights, results, and limitations to both technical and non-technical stakeholders 
+
+Must-Have Skills & Experience
+
+1+ year of hands-on experience in Data Science / Machine Learning 
+Strong Python proficiency (pandas, numpy, scikit-learn) 
+Strong core machine learning fundamentals, including hands-on experience with regression and classification techniques, a solid understanding of the bias-variance tradeoff, feature engineering, and model evaluation using appropriate performance metrics. 
+Extensive experience working with time-series data, encompassing forecasting, trend and seasonality analysis, creation of lag and rolling features, and the application of time-aware validation strategies. 
+Strong understanding of statistics and quantitative reasoning 
+Good grasp of model interpretability, bias, and fairness concepts 
+Strong problem-solving ability and ownership mindset 
+Clear written and verbal communication skills 
+
+Good to Have (Nice-to-Have, Not Mandatory)
+
+Basic understanding of water / wastewater domain concepts, KPIs, or industrial processes 
+Foundational exposure to MLOps practices, such as model packaging, API-based model serving, experiment tracking, and basic model monitoring. 
+Experience with chemical or process analytics 
+
+Qualifications
+
+Degree in Computer Science, Statistics, Mathematics, Chemical Engineering, Applied Chemistry, or a related field, or equivalent practical experience demonstrating similar technical expertise. 
+1+ years of relevant professional experience in applied data science or machine learning

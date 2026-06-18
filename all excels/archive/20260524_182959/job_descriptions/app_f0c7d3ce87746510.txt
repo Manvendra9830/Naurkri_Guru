@@ -1,0 +1,99 @@
+About the job
+Unity Game Developer — UI/UX Standardization, Bug Fixes & AI Game Pipeline (Contract)
+
+PupilTree (a division of Powersmy.biz Private Limited)
+Remote / Hybrid
+Paid Contract | 1 Month (with potential extension based on scope and performance)
+
+
+About PupilTree
+
+PupilTree builds AI-driven education technology tools under the PupilSuite ecosystem. Among our offerings is a library of 60–65 Android games built in Unity, designed to make learning engaging for students. These games were developed by multiple teams over time, and while each game is functional and unique, there is currently no unified design language across the library, and some games have functional issues that need attention.
+
+We are looking for a Unity developer who works in an AI-first development environment to bring consistency, quality, and scalable infrastructure to this game library.
+
+
+Why This Timeline Works: AI-First Development
+
+We understand that auditing 60–65 games, fixing bugs, and building a generation pipeline sounds aggressive for one month using traditional development methods. We are not looking for a traditional approach.
+
+This role is designed for a developer who already works primarily through AI-powered tools — specifically Claude Code with MCP servers and connectors integrated into Unity workflows. The expectation is that repetitive tasks like UI component swaps, prefab standardization, font/style replacements, and common bug patterns across 65 similar educational games are handled at scale through AI-assisted automation, not one-by-one manual editing.
+
+If your workflow still relies on manually opening each project, editing each scene, and testing each build individually — this contract is not the right fit. If you use AI agents to batch-process, audit, and modify Unity projects programmatically — we want to talk to you.
+
+
+The Project
+
+Phase 1 (Week 1) — Audit, Design System & Pilot Batch
+
+- Audit all 60–65 games to catalog UI/UX inconsistencies, functional bugs, and overall quality
+- Define and document a unified PupilTree design system: font styles, color schemes, button styles, navigation patterns, tutorial screen templates, loading/splash screens, and common UI components
+- Apply the design system to a pilot batch of 5–10 games and fix any functional issues in those games
+- Deliver the pilot batch for review — this establishes the quality benchmark for the remaining games
+
+Phase 2 (Weeks 2–3) — Full Rollout & Bug Fixes
+
+- Apply the design system across all remaining games using AI-assisted batch processing through Claude Code with MCP connectors
+- Identify, diagnose, and fix functional issues across the library — including bugs, crashes, broken mechanics, and performance problems
+- Ensure consistent user flows across all games — how players reach the game, how tutorials are presented, how menus and settings are structured
+- Deliver production-ready builds for each updated and fixed game
+
+Phase 3 (Week 4) — AI-Powered Game Generation Pipeline
+
+- Design and build a reusable pipeline that uses AI agents (Claude Code with MCP) to generate new educational games based on the mechanics, patterns, and structures of the existing game library
+- The pipeline should take a game idea or learning objective as input and produce a working Unity game prototype — leveraging the existing games as reference templates
+- Document the pipeline thoroughly so the PupilTree team can operate and extend it independently
+- The goal is to enable PupilTree to scale game production without building each game from scratch
+
+
+What You'll Do
+
+- Conduct a full audit of all 60–65 games to assess UI/UX inconsistencies, functional bugs, and overall quality
+- Define and document a unified PupilTree design system and apply it across the entire library
+- Modify UI elements to align with the new standard while retaining each game's unique visual identity and gameplay character
+- Diagnose and fix all functional issues across the game library
+- Build an AI agent-powered pipeline for generating new Unity games based on ideas derived from existing games
+- Document all systems and pipelines so the PupilTree team can maintain and extend them independently
+- Deliver production-ready builds for each updated and fixed game, along with the functioning pipeline
+
+
+What We're Looking For
+
+AI-First Development Workflow (Non-Negotiable)
+
+- You must already be working primarily through Claude Code (or equivalent AI coding agents) with MCP servers and connectors as part of your daily workflow
+- Demonstrated experience using MCP toolkits integrated with Unity development — for batch editing, scene manipulation, prefab management, and build automation
+- Experience using AI-powered UI/UX design tools to accelerate asset creation and iteration
+- Experience building or working with AI agent pipelines for code generation or automated workflows
+- You should be able to clearly describe how you would use AI agents to process 60+ Unity projects at scale — we will ask about this in the interview
+
+Technical Skills
+
+- Strong proficiency in Unity (C#) with hands-on experience building and debugging Android games
+- Solid understanding of UI/UX design principles, particularly for mobile game interfaces
+- Experience working with Unity's UI Toolkit or uGUI system at scale
+- Ability to create and implement reusable UI prefabs, templates, and style guides within Unity
+- Strong debugging skills — ability to quickly diagnose and resolve functional issues across a large codebase built by multiple developers
+
+Design Sensibility
+
+- Ability to balance consistency with individuality — applying a shared identity without making every game look the same
+- Understanding of mobile-first design patterns and touch-friendly UI conventions
+
+
+Timeline
+
+- Duration: 1 month from start date, structured in weekly phases as described above
+- This is a paid, fixed-fee contract project with milestone-based payments tied to each phase
+- All deliverables must pass a quality review before each milestone payment is released
+- Strong performance and mutual fit may lead to a contract extension or ongoing engagement
+
+
+How to Apply
+
+Please apply through LinkedIn and include:
+
+1. Your Unity portfolio or links to published games — especially any work demonstrating UI/UX standardization across multiple projects or large-scale batch modifications
+2. A detailed description of your AI-first development workflow — specifically how you use Claude Code, MCP connectors, and AI agents in Unity development. This is the most important part of your application.
+3. Your approach to how you would process and standardize 60+ Unity projects within the timeline using AI tooling
+4. Your availability to commit for one month

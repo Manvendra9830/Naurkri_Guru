@@ -1,0 +1,31 @@
+About the job
+Job Overview
+
+We are looking for a highly skilled Artificial Intelligence (AI) Specialist to develop, implement, and optimize AI-based solutions. The ideal candidate should have expertise in machine learning, natural language processing, and deep learning frameworks. This position is open for both part-time and full-time professionals.
+
+Responsibilities
+
+Design, develop, and deploy AI models and algorithms.
+Work on machine learning, deep learning, and NLP-based projects.
+Preprocess and analyze large datasets for training and testing AI models.
+Optimize AI models for accuracy, efficiency, and scalability.
+Collaborate with software developers, data scientists, and product teams.
+Integrate AI solutions into applications, platforms, or business processes.
+Research and stay updated on emerging AI trends, tools, and techniques.
+Ensure AI solutions are ethical, transparent, and aligned with company goals.
+
+Requirements
+
+Bachelor’s or Master’s degree in Computer Science, Data Science, AI, or a related field.
+Experience in Python, TensorFlow, PyTorch, Keras, or Scikit-learn.
+Strong knowledge of machine learning, deep learning, and NLP techniques.
+Experience working with large datasets and cloud AI services (AWS, Azure, GCP).
+Familiarity with AI ethics and responsible AI principles.
+Excellent problem-solving and analytical skills.
+Ability to work independently for part-time roles and collaboratively for full-time positions.
+
+Job Category: Artificial intelligence (04)
+
+Job Type: Full Time(10) Part Time (10)
+
+Job Location: Bengaluru

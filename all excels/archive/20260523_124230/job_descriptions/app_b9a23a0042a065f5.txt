@@ -1,0 +1,36 @@
+About the job
+Job Overview
+
+We are looking for a Machine Learning Engineer to develop and deploy AI-driven solutions for real-world applications. The ideal candidate will have expertise in data science, deep learning, and model optimization. This position is open for both part-time and full-time professionals.
+
+Responsibilities
+
+Design, develop, and deploy machine learning models for various applications.
+Preprocess and analyze large datasets to extract meaningful insights.
+Implement and fine-tune deep learning models using TensorFlow, PyTorch, or Keras.
+Optimize model performance by tuning hyperparameters and reducing computational costs.
+Work with NLP, Computer Vision, or Predictive Analytics as needed.
+Deploy ML models using Docker, Kubernetes, and cloud services (AWS, GCP, Azure).
+Implement MLOps best practices for model lifecycle management.
+Develop RESTful APIs to integrate ML models into production systems.
+Stay updated with the latest research and advancements in AI/ML.
+Collaborate with data scientists, engineers, and domain experts to refine models.
+
+Requirements
+
+Bachelor’s or Master’s degree in Computer Science, Data Science, AI, or a related field.
+Proficiency in Python, R, or Julia for ML development.
+Strong understanding of ML algorithms, data structures, and probability/statistics.
+Experience with deep learning frameworks (TensorFlow, PyTorch, Keras).
+Knowledge of NLP (transformers, BERT, GPT) and Computer Vision (OpenCV, YOLO, CNNs) is a plus.
+Familiarity with SQL and NoSQL databases for handling data.
+Experience with ML model deployment, scaling, and optimization.
+Proficiency in Git, Linux, and cloud computing (AWS, GCP, or Azure).
+Strong analytical and problem-solving skills.
+Ability to work independently for part-time roles and collaboratively for full-time positions.
+
+Job Category: Machine Learning (04)
+
+Job Type: Full Time Part Time
+
+Job Location: Bengaluru

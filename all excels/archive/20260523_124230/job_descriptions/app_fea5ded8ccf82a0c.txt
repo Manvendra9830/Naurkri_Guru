@@ -1,0 +1,18 @@
+About the job
+Company Description
+Shortorbit Technologies Private Limited, based in India, specializes in cutting-edge defence, AI, and IT solutions, with expertise in cryptography, secure communications, and bespoke software development. The company is an industrial partner with the Indian Ministry of Defence. Shortorbit also provides services in AI-driven automation, cloud solutions, IT consulting, and mobile app development, with a focus on delivering innovative solutions that drive tangible business value.
+
+Role Description
+This is a full-time onsite role for an AI/ML Associate Engineer located within DRDO, Delhi premises.
+
+Candidate should be able to help in developing custom AI and ML models, feature engineering, LLM fine tuning etc
+
+Qualifications
+Proficiency in Neural Networks and Pattern Recognition techniques
+Strong foundation in Computer Science, including programming and data structures
+Knowledge of Statistics and expertise in designing and analyzing algorithms
+Ability to work collaboratively in hybrid environments and adapt to dynamic challenges
+Familiarity with AI technologies and tools is an advantage
+Bachelor's or Master's degree in Computer Science, Data Science, or a related field
+
+Compensation : 3 LPA

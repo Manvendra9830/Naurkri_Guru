@@ -1,0 +1,30 @@
+About the job
+Are you at the start of your engineering journey and hungry to grow fast? We're looking for a builder who learns by doing — shipping real features, reading production code to understand how systems fit together, and steadily taking on more ownership.
+
+You'll help build the platforms that power voice AI agents deployed for enterprise clients — working across backend services, web apps, dashboards, and the data layer, with senior engineers mentoring you every step of the way.
+
+⚙️ What you'll do
+Build and ship well-scoped features across the stack — backend services, APIs, frontend interfaces, and data layers — from implementation through testing and deployment
+Contribute to the platform services behind voice AI at scale: campaign orchestration, dialer logic, call routing, scheduling, and telephony integrations
+Work with data models, queries, and pipelines (PostgreSQL, time-series and CDR data) to power call processing, reporting, and analytics
+Debug across the stack with growing independence — reading logs, reproducing issues, and tracing failures to code, database, integration, or infrastructure
+Integrate third-party APIs (telephony, LLM/ASR/TTS, messaging, payments) while learning to handle errors, rate limits, and retries robustly
+Absorb the team's best practices around code quality, testing, version control, and CI/CD — and steadily raise your own bar
+
+🎯 What we're looking for
+1+ years building software (strong internships, substantial personal/academic projects, or open-source contributions count)
+Hands-on experience writing backend services or APIs, with some frontend exposure
+Working knowledge of Python; Django (or similar) is a plus
+Comfortable using AI coding tools (Claude Code, Cursor, Copilot) and eager to make them core to how you build
+Familiarity with relational databases (PostgreSQL preferred) — queries, basic schema design, working with real data
+Curiosity about cloud infrastructure (AWS — EC2, RDS/Aurora, S3) and concepts like deployment, containerization, and CI/CD
+A developing debugging mindset and clear written communication
+Curious, coachable, and motivated by shipping products real customers use
+
+✨ Bonus points for
+DevOps tooling, CI/CD pipelines, Docker, or multi-environment deployments
+FreeSWITCH or similar telephony platforms — or understanding how an app layer integrates with a voice stack
+AWS data services (Glue, Athena) or ETL/large-scale data experience
+Building dashboards and reporting layers
+Security and compliance basics for regulated (BFSI) clients
+Telephony/SIP, real-time systems, or latency-sensitive infrastructure

@@ -1,0 +1,128 @@
+About the job
+Testsigma — Full-Time | Bangalore 
+Who We Are
+Testsigma is building the world's first Quality Intelligence Platform — the infrastructure layer that sits between shipping code and confident releases. We're not a test automation tool. We're the system that understands your application, learns from every test run, and tells engineering teams exactly what's at risk before anything breaks in production.
+We're at an inflection point. AI has commoditized test generation. What it hasn't solved — and what we're uniquely positioned to build — is the intelligence layer: context graphs that compound over time, agents that reason about risk, healers that know the difference between a flaky test and a real bug, and coverage intelligence that understands business intent, not just code paths.
+This is a high-growth, high-ownership environment. We move fast, we debate hard, and we ship. If you want a role where you own a critical piece of infrastructure that thousands of engineering teams will depend on — read on.
+
+
+
+
+What This Role 
+IsYou will be one of the first engineers building the core agent layer of Testsigma's intelligence platform. This is not a role for someone who chains LLM API calls and calls it agentic. The systems you'll build have deterministic rule layers, multi-stage reasoning pipelines, confidence scoring under ambiguity, feedback loops that improve over time, and escalation logic that knows when to stop and ask a huma
+n.You will work directly with the founding team. Your architectural decisions will shape the platform for year
+
+
+s.
+
+What You'll B
+uildMulti-agent orchestration systems — agents that plan, execute, self-correct, and escalate. Atto Gen, Atto Healer, Atto Arbiter, Atto Coverage — you'll own the intelligence behind t
+heseContext Graph infrastructure — a living knowledge graph that connects requirements, DOM elements, test cases, code functions, and user behavior signals into a queryable, compounding knowledge 
+baseBrowser crawl agents — Playwright-based agents that understand a running application semantically, not just structur
+allyAgentic evaluation frameworks — how do you know an agent's decision was correct? You'll build the eval layer that answers 
+thisLLM integration at production scale — prompt engineering, structured output, context window management, fallback strategies, confidence calibra
+tionFeedback loops — systems that get measurably smarter with every test run, every healed step, every confirmed
+
+
+ bug
+
+What You Need to Have Done 
+BeforeNon-negot
+iable:Built and shipped multi-agent systems in production — not prototypes, not demos. Real systems with real failure
+ modesWorked with LangGraph, LangChain, CrewAI, AutoGen, or equivalent orchestration frameworks — and can explain why you made that 
+choiceDesigned and queried knowledge graphs or graph databases — Neo4j, or graph layers on relational systems. You understand why a graph is the right data model for relationship-heavy problems and not just because it look
+s coolBuilt systems that detect absence — not just what's wrong, but what's missing. This is a specific reasoning skill and we'll test 
+for itWritten production Python — async, typed, modular, observable. You write code other engineers can reason
+ aboutWorked with Playwright, browser-use, or equivalent browser automation at a level beyond basic scr
+iptingStrong adva
+ntage:Experience with RAG systems — and specifically their limits. You know why RAG alone fails for temporal reasoning, absence detection, and cross-entity tra
+versalContributed to or built agent evaluation frameworks (RAGAS, custom evals, LLM-as-judge pipe
+lines)Worked with vector stores alongside graph databases — pgvector, Pinecone, Weaviate — and know when to use
+ whichFamiliarity with software testing concepts, QA workflows, or developer tooling — you don't need to be a QA engineer but you need to understand what one worries
+ aboutExposure to GitHub API, Jira API, or similar developer ecosystem integr
+ationsTypeScript or Node.js exposure — our frontend-adjacent agent outputs require it occasi
+
+
+onally
+
+Technical
+ SurfaceThis is not a framework job. Most of the work lives in the agent harness and the evaluation layer — the systems that make agent decisions reproducible, auditable, and measurably better release over release. Frameworks are tools we reach for; they aren't the 
+
+product.
+Layer & What the work ac
+tually isAgent
+ Harness:Custom runtime over LangGraph primitives — state, retries, timeouts, structured tool dispatch, deterministic replay from traces, human-in-the-loop i
+nterruptsEvaluation
+ Harness:Trajectory and step-level evals, golden-set authoring, LLM-as-judge with human-labeled calibration, regression suites that gate every prompt and mod
+el changeBenc
+hmarking:Pass@k variance, run-to-run stability, per-agent capability benchmarks, model canary that catches provider-side drift before cus
+tomers doBrowse
+r Agents:Playwright with a custom semantic DOM layer; sandboxed crawl with replayable run 
+artifactsKnowled
+ge Graph:Neo4j / Cypher, schema versioning, temporal queries, provenance and confidence on e
+very edgeMemory & R
+etrieval:pgvector, Pinecone; episodic vs semantic store separation; absence-aware 
+retrievalMod
+el Layer:OpenAI, Anthropic, fine-tuned task-specific small models; structured-output enforcement; constrained decoding where determinis
+m mattersObser
+vability:OpenTelemetry across agent chains, confidence/decision audit trails, latency budgets per stage, anomaly detection tuned for non-deterministi
+c system
+sBackend:Python (async, typed, strict), FastAPI, Cele
+ry, RedisInte
+grations:GitHub, Jira, Confluence, Mixpanel, 
+
+
+Amplitude
+
+How We'll E
+valuate YouBeyond the standard interview, we give candidates a take-home assignment that we think is the truest signal of the skills this ro
+le demands.You'll be asked to build a working agent — from scratch, no starter code, no scaffolding — that crawls a live web application, ingests a product requirements document, constructs a knowledge graph connecting UI elements to requirements to code, and uses that graph to reason about the blast radius of a real c
+ode change.We evaluate: graph schema design, agent architecture (stages of reasoning, not prompt chains), absence detection capability, confidence handling under ambiguity, and the quality of the output for a non-technical QA lead. The design document you write alongside the code is weighted equally to the impl
+ementation.If that sounds exciting rather than daunting — you're probably the ri
+
+
+ght person.
+
+What Strong Lo
+oks Like HereYou think in state machines and decision trees, not just prompts. You can explain why your system is wrong and in what scenarios it fails — before anyone asks. You write a design document before you write code. You default toward caution when your agent is uncertain. You know the difference between a system that works in a demo and one that works in production at scale. You have opinions about data modeling and you'll
+
+
+ defend them.
+
+W
+hat This Is NotThis is not a role f
+or someone who:Wraps OpenAI APIs and optimizes prompts as th
+e primary skillNeeds well-defined tickets t
+o make progressMistakes a working notebook for a s
+hippable systemHasn't shipped something real that real us
+
+
+ers depende
+d on
+
+The CultureWe move fast and we mean it. Decisions get made in hours, not weeks. Debates are sharp, short, and then we commit. If you need consensus from five people before you can push code, this wil
+l be frustrating.Ownership is literal. You don't implement someone else's spec. You understand the problem, design the solution, pressure-test your own assumptions, and ship it. Ego gets checked at the door — what matters is whether 
+the system works.We build for depth, not for demos. It's easy to make an AI agent look impressive in a five-minute walkthrough. We care about what it does at 3am when no one is watching and a real test suite is running for a real customer. That standard shows up in how we write code, how we review it, and how we talk about wha
+t we're building.High growth means things change. Priorities shift. Scope expands. What you're working on in month three may look nothing like month one — and that's a feature, not a bug. The engineers who thrive here are the ones who find
+ that energizing.We're small enough that you matter immediately. There's no onboarding queue. No ramp-up theater. By the end of week two you'll be building some
+
+
+thing that sh
+ips.
+
+What We OfferCompetitive compensation benchmarked to top-of-mark
+et for this profileMeaningful equity — we're at an early st
+age where it countsDirect access to the founding team and genuine influence ove
+r product directionThe chance to be a core architect of a category-defining platform — not a featu
+
+
+re team contributor
+
+One Que
+stion to Ask YourselfIf I were handed a public GitHub repository, a real web application, and a product spec — and asked to build a system that automatically understands their relationship and reasons about what breaks when code changes — would I know where to start, and would I find that problem g
+enuinely interesting?If 
+
+yes — we should talk.
+Include: your GitHub, anything you've built that you're proud of, and one paragraph on why the knowledge graph problem specifically 
+
+is interesting to you.

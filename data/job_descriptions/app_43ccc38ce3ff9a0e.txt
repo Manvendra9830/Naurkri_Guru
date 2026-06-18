@@ -1,0 +1,42 @@
+About the job
+Fintech Unicorn seeking Junior Backend Engineers who love building systems that millions trust with their money. Your code directly affects millions of users' financial lives—from seamless payments to smart banking features that actually work.
+
+Bring your preferred stack. Whether you're a Java wizard, Python enthusiast, or Go expert - we adapt to your strengths, not the other way around. Work from anywhere in IST timezone. No "hybrid" nonsense - we're genuinely built for remote collaboration.
+
+You're perfect for this if you:
+
+✅ 1-2 years backend experience with any modern language (Java, Python, Go, Node.js, C#, Scala)
+✅ Scaled systems that didn't break under pressure
+✅ Cloud expertise (AWS, OCI, Kubernetes, Docker)
+✅ Distributed systems experience (Kafka, RabbitMQ)
+✅ English communication skills for our global team
+
+Bonus points for:
+Frontend knowledge (JavaScript, Vue.js)
+Startup experience
+Problem-solving mindset
+
+The Role - What you'll actually do:
+Design APIs handling millions of transactions
+Debug production issues (detective work included!)
+Transform "wouldn't it be cool if..." into working features
+Shape engineering culture and practices
+Write maintainable code your future self will appreciate
+
+The Interview Process
+One day. Four conversations. No homework.
+🤝 Code Pairing (1hr) - Let's build something together. Just bring your IDE
+🏗️ System Design (50min) - Talk architecture and trade-offs
+⚡ Technical Deep Dive (50min) - Nerdy backend discussions
+☕ Culture Chat (30min) - Meet leadership, discuss vision
+
+Why you'll love it here:
+Cutting-edge tech stack (no legacy nightmares)
+Your voice matters in technical decisions
+Growth opportunities - learn, lead, expand
+Competitive compensation - we're not paying in pizza
+Global team of people who actually know their stuff
+Very attractive compensation (80th percentile + great ESOPs)
+
+We welcome diverse backgrounds and perspectives - that's how great products are built.
+If this role excites you, apply for a confidential conversation.

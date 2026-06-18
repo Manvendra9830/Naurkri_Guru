@@ -1,0 +1,61 @@
+About the job
+Opportunity
+As an AI Product Prototype Engineer, your primary goal is to rapidly convert product ideas, customer problems, and internal requirements into working prototypes for web apps, mobile apps, WhatsApp flows, AI bots, and internal tools.
+You will work closely with the founder and product team to understand business problems, design practical user flows, build functional prototypes using AI-assisted coding tools, and quickly iterate based on feedback from customers, management, and internal teams.
+This is not a traditional software engineering role focused on production-grade code. It is also not a pure UI/UX design role focused only on screens. This role sits between product thinking, UX, rapid coding, and experimentation.
+You will be expected to build fast, test fast, learn fast, and improve fast. The final validated prototype will then be handed over to the engineering team to build into a scalable, secure, production-ready application.
+This role requires curiosity, speed, product sense, basic coding ability, and comfort with modern AI tools. You should be able to take an unclear idea, break it into a simple workflow, build a usable prototype, show it to users, capture feedback, and improve it without waiting for perfect instructions.
+Beyond building prototypes, you are expected to document product logic, user flows, customer feedback, edge cases, and handover notes so that the engineering team can clearly understand what needs to be built.
+
+Responsibilities
+You convert product ideas, customer problems, and internal requirements into working prototypes for web apps, mobile apps, WhatsApp flows, AI bots, BotFlow journeys, and internal tools.
+You apply AI-first thinking to every product idea, identifying where AI, automation, agents, bots, recommendations, decisioning, or intelligent workflows can create a better customer experience and reduce manual effort.
+You work closely with the Founder and Product Team to understand the problem, clarify the use case, define the user flow, and quickly build a functional version that can be tested with customers or internal teams.
+You design workflows by first asking how AI can simplify, automate, personalize, predict, recommend, or improve the user journey instead of simply digitizing the existing manual process.
+You write code and build functional prototypes across frontend, mobile, automation flows, chatbot flows, APIs, and simple backend/database logic wherever required.
+You build prototypes for customer-facing applications, mobile apps, web apps, WhatsApp journeys, AI bots, BotFlow experiences, and internal operational tools.
+You use modern AI coding tools, product tools, automation platforms, and prototyping frameworks to build fast, usable, and testable prototypes.
+You build prototypes that are good enough to test the idea, collect feedback, and validate the workflow, but not necessarily production-grade.
+You participate in customer feedback calls with the Founder or Product Manager, understand customer pain points, observe how customers react to the prototype, and capture improvement areas clearly.
+You iterate quickly on prototypes based on feedback from customers, management, product, support, and engineering teams.
+You document the product logic, user flow, assumptions, edge cases, customer feedback, and final prototype behavior in a structured format for the engineering team.
+You prepare clear handover notes for engineering so the team can convert the validated prototype into a secure, scalable, production-grade product.
+Success in this role is measured by speed of prototype development, quality of AI-first product thinking, usefulness of customer feedback, number of validated ideas, and smooth handover to the engineering team.
+
+What you can expect in the next 12 months
+
+Within 1 month
+You build a strong understanding of QDC’s product, customer workflows, and common business use cases across laundry and dry-cleaning operations.
+You learn how QDC’s web app, mobile app, WhatsApp flows, BotFlow, AI flows, and internal tools currently work.
+You understand QDC’s AI-first product direction and start identifying where AI, automation, bots, and intelligent workflows can reduce manual effort.
+You explore and start using AI coding tools, prototyping tools, chatbot tools, and automation platforms required for rapid product experimentation.
+You begin building small prototype components, sample screens, simple workflows, and proof-of-concept flows under guidance.
+You participate in product discussions and customer feedback calls to understand real customer problems and practical usage expectations.
+You start documenting user flows, assumptions, prototype logic, and feedback in a clear format.
+
+Within 3 months
+You independently convert clearly defined product ideas into basic working prototypes for web, mobile, WhatsApp, AI bot, BotFlow, and internal tool use cases.
+You apply AI-first thinking while designing workflows, identifying where AI can automate, simplify, personalize, or improve the customer journey.
+You build usable prototypes for internal review, customer demos, and early validation.
+You work with the Founder and Product Manager to understand the problem, define the user journey, and decide what should be prototyped first.
+You join customer feedback calls, capture feedback, and improve prototypes based on customer, management, product, and support inputs.
+You test prototypes before demos to ensure key flows work properly and the experience is clear.
+You prepare basic handover notes for engineering, including user flow, business logic, assumptions, and expected behavior.
+
+Within 6 months
+You own prototype development for selected product ideas from problem understanding to working prototype to feedback-based improvement.
+You build stronger prototypes that clearly demonstrate the workflow, user experience, AI behavior, and customer value.
+You actively suggest AI-first alternatives to existing manual workflows using automation, bots, recommendations, decisioning, or agent-based flows.
+You reduce dependency on engineering for early-stage product validation by quickly testing ideas before they enter production development.
+You create structured engineering handover documents with flows, logic, edge cases, data needs, and integration expectations.
+You coordinate with engineering to understand feasibility, technical constraints, and production requirements.
+You develop judgment on what should move to engineering, what needs more validation, and what should be dropped.
+
+Within 12 months
+You become a core part of QDC’s product experimentation process, helping the company test ideas faster before committing engineering bandwidth.
+You independently build and iterate working prototypes across web, mobile, WhatsApp, AI bots, BotFlow, internal tools, and customer-facing applications.
+You help QDC move towards AI-first product development, where workflows are designed around intelligence, automation, personalization, and faster outcomes.
+You turn unclear business problems into clear user flows, working prototypes, customer feedback notes, and engineering handover documents.
+You maintain reusable prototype components, AI flow references, WhatsApp journeys, bot patterns, and product experiment learnings.
+You work smoothly with the Founder, Product Manager, Engineering, Support, and Customer Success teams to move validated ideas toward production.
+You are measured by prototype speed, quality of AI-first thinking, usefulness of customer feedback, clarity of engineering handover, and contribution to product innovation at QDC.

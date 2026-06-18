@@ -1,0 +1,17 @@
+About the job
+Company Description
+eDgeWrapper is a dynamic technology company specializing in the development of B2B and B2C software platforms. Our team of technology veterans is dedicated to delivering innovative solutions for projects of any size, helping clients succeed from the very start. With expertise in emerging industries such as blockchain-based Dapps, gaming, and the metaverse, we are at the forefront of building future-driven solutions. Employees at eDgeWrapper thrive in a collaborative, flexible, and innovative workplace that fosters creativity and teamwork while offering competitive benefits like remote work options, flexible hours, bonuses, and healthcare support.
+
+Role Description
+This is a full-time hybrid role for an AI and Python expert based in the Greater Kolkata Area, with some flexibility to work remotely. The responsibilities include developing and optimizing AI models, writing clean and efficient Python code, collaborating with cross-functional teams, debugging and troubleshooting technical issues, and staying updated with the latest advancements in artificial intelligence and machine learning. The role will also require contributions to the design and implementation of scalable AI solutions that align with business and client needs.
+
+Qualifications
+Strong skills in Python programming, with experience in writing efficient and scalable code.
+Proficiency in AI and machine learning concepts, including model development, optimization, and deployment.
+Experience with data analysis, data preprocessing, and working with large datasets.
+Understanding of distributed computing, APIs, and cloud technologies for deploying AI solutions.
+Knowledge of software development methodologies, version control systems (e.g., Git), and debugging techniques.
+Ability to collaborate with cross-functional teams in a hybrid work environment.
+Relevant experience with frameworks like TensorFlow or PyTorch is a plus.
+Bachelor’s or Master’s degree in Computer Science, Data Science, Artificial Intelligence, or related fields.
+Problem-solving mindset and a passion for exploring and applying AI technologies.

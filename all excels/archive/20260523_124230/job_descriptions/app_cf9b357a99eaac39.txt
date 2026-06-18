@@ -1,0 +1,28 @@
+About the job
+Work Snapshot
+Type: Full-time position
+Location: Remote
+Commitment: 6-day work week with overlap in Pacific Time hours
+Commission: $25K–$35K per year
+
+What You’ll Be Doing
+• Investigate and resolve user-reported issues across web applications and platform workflows
+• Debug production issues using logs, telemetry, network inspection, and database queries
+• Triage issues effectively, escalating critical problems and resolving others through configuration or guidance
+• Collaborate with engineering teams to identify root causes and improve system performance
+• Create documentation and runbooks to streamline issue resolution and reduce recurring problems
+
+What We’re Looking For
+• Strong experience in debugging web applications or supporting SaaS platforms
+• Strong experience in modern web technologies or customer support for technical products
+• Strong understanding of system behavior, failure modes, and troubleshooting workflows
+• Strong written communication with a professional, clear, and user-focused approach
+• Comfortable working with LLMs, system outputs, and debugging complex workflows
+
+How To Apply
+• Upload resume
+• Interview
+• Submit form
+
+Desired Skills and Experience
+supporting customers, product leadership, Create clear documentation

@@ -1,0 +1,50 @@
+About the job
+🚀 Hiring: Agentic AI Developer | Founding-Level Role 🏢 Hindustan Drone Services Limited (HDSL) 📍 Hyderabad, India (Hybrid Flexibility Available) 💼 Full-Time | AI-Native Startup ---
+🌐 About HDSL & Our Vision
+HDSL is building India’s next-generation Drone-as-a-Service (DaaS) platform—an AI-native marketplace connecting enterprises, drone operators, and consumers across all sectors.
+We operate differently. HDSL follows a strict MVi Model:
+Micro-team
+Virtual infrastructure / Extreme automation
+intelligent, AI-native execution
+Instead of scaling through massive operational teams, we scale through an intelligent AI workforce. We are replacing legacy manual workflows with autonomous AI agents across support, sales, dispatch, QA, and vertical intelligence. This role sits at the absolute center of that vision.
+🛠️ What You’ll Build (The Agent Ecosystem)
+You won’t be building generic demo chatbots. You will architect, deploy, and manage production-grade, autonomous multi-agent systems:
+AI Marketing, Customer Support & Sales Agents: AI Marketing thru plethora of channels, 24/7 multilingual voice + chat support, alongside personalized B2B prospecting and pipeline automation.
+AI Operator Dispatch Agent: Intelligent pilot matching, SLA routing, cluster-based dispatch, and live availability orchestration.
+AI Coding, QA & DevOps Agents: Self-healing code workflows, automated testing (Playwright + LLMs), and deployment validation pipelines.
+Vertical Intelligence Agents: Processing deep industry data (Crop intelligence/NDVI analysis, construction mapping, solar inspection, and surveillance).
+🎯 Core Responsibilities
+Agent Architecture & Orchestration: Build robust multi-agent systems with advanced reasoning pipelines, state management, tool usage, fallback handling, and telemetry.
+AI Infrastructure & RAG: Implement advanced retrieval pipelines, long-term contextual memory, vector databases, and domain-aware knowledge graphs.
+Systems Integration: Seamlessly connect autonomous agents with our core Python/FastAPI backend, Flutter mobile apps, and AWS cloud infrastructure.
+Evaluation & Observability: Design strict evaluation frameworks to monitor agent latency, cost, reliability, and token efficiency while aggressively eliminating hallucinations.
+🧰 The Tech Stack
+AI & Agentic Frameworks: Claude API, OpenAI APIs, Gemini, LangGraph, LangChain, LlamaIndex, Custom Function Calling
+Backend & DB: Python, FastAPI (Async architectures), PostgreSQL + pgvector, Pinecone / Weaviate
+Infrastructure & CI/CD: AWS (Lambda, ECS/Fargate, S3, CloudWatch), Docker, GitHub Actions
+Integrations: Retell AI, ElevenLabs, Clay, DroneDeploy, Agromonitoring, AWS Rekognition
+📋 What We Are Looking For
+Must-Haves:
+Proven track record of shipping production-grade AI/LLM applications (beyond simple wrappers).
+Deep structural understanding of agentic workflows, loops, and multi-agent state management.
+Production-level Python & async FastAPI engineering skills.
+Hands-on experience with production RAG systems, embedding tuning, and vector databases.
+Experience deploying and monitoring AI workloads on AWS.
+Strong Pluses:
+Experience with Voice AI / Twilio / Retell AI integrations.
+Experience in highly technical, low-headcount, high-ownership startup environments.
+Exposure to geospatial systems, DroneTech, or multi-tenant marketplace platforms.
+⚡ Why This Role is Different & What’s in it for You
+Real-World Utility: The AI systems you build will directly interact with and run operations for farmers, drone pilots, field technicians, and enterprise leadership.
+True Autonomy: We are a fast-moving engineering culture. If you build systems that work, you own them completely.
+Uncapped Growth: This is a high-impact, founding-level engineering role with a direct track to evolve into Head of AI / AI Systems Architect as we scale.
+📩 How to Apply
+We don't care about generic cover letters. We care about what you've built.
+Send your profile directly to jobs@hindustandrones.io with the subject line: [Agentic AI Application - Your Name].
+
+Please include:
+Your Resume & GitHub / Portfolio link.
+A list or link to production AI projects you have personally shipped.
+A brief, 3-4 sentence breakdown of the most complex, long-running AI agent or workflow you have ever successfully implemented.
+
+#Hiring #AgenticAI #AI Engineer #LLMOps #Python #FastAPI #LangGraph #CrewAI #StartupJobs #DroneTech #HyderabadJobs #TechJobs

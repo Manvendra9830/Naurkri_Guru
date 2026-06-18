@@ -1,0 +1,18 @@
+About the job
+Atyeti is a US based Software Development Company with global offices in Singapore, Malaysia, Hong Kong, Philippines, US, UK and India- (Pune/ Hyd/Chennai/ Bangalore ) . We are a 100 million dollar company and Attached a one-page brief about our company for your quick reference, for more information please visit www.atyeti.com.
+
+JD –
+
+Required Skills
+Strong experience in Python 
+Experience with frameworks such as FastAPI, Django, or Flask 
+Strong frontend development using React.js 
+Knowledge of JavaScript/TypeScript, HTML5, CSS3 
+Experience with REST APIs and microservices architecture 
+Familiarity with PostgreSQL, MySQL, or MongoDB 
+Understanding of authentication/security practices (JWT, OAuth) 
+Experience with Git and Agile methodologies 
+Preferred
+Exposure to financial services or asset management systems 
+Experience with Docker/Kubernetes 
+Knowledge of Azure or any other cloud platform

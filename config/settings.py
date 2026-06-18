@@ -56,7 +56,7 @@ AUTO_RUN_ENABLED = True            # True or False
 AUTO_RUN_TIME = "11:00"
 
 # Testing safety cap. Set to 0 or None to disable the per-run application cap.
-MAX_APPLICATIONS_PER_RUN = 10
+MAX_APPLICATIONS_PER_RUN = 5
 
 
 # Directory and name of the files where history of applied jobs is saved (Sentence after the last "/" will be considered as the file name).
@@ -124,10 +124,19 @@ COLD_EMAIL_ENABLED = True           # True or False
 COLD_EMAIL_RESUME_DIR = "all resumes/"
 COLD_EMAIL_COVER_LETTER_DIR = "all cover_Letter/"
 COLD_EMAIL_RESUME_TEXT = "resume_text.txt"
-MAX_COLD_EMAILS_PER_RUN = 5       # Max cold emails to send per outreach queue run
+MAX_COLD_EMAILS_PER_RUN = 10       # Max cold emails to send per outreach queue run
 COLD_EMAIL_DRY_RUN = False         # Print queued recipients without sending SMTP mail
-VALIDATION_EMAIL_MODE = False      # Legacy QA flag retained; queue mode includes validation rows
-EMAIL_SEND_DELAY_SECONDS = 5      # Delay between SMTP sends to protect sender reputation
+VALIDATION_EMAIL_MODE = True      # Legacy QA flag retained; queue mode includes validation rows
+EMAIL_SEND_DELAY_SECONDS = 10      # Delay between SMTP sends to protect sender reputation
+
+
+# >>>>>>>>>>> Indeed Scraper Settings <<<<<<<<<<<
+INDEED_ENABLED = True
+INDEED_MAX_JOBS_TO_SCRAPE = 5      # Max jobs to collect per run (0 = unlimited)
+INDEED_MAX_JOBS_PER_TERM = 5     # Max jobs to collect per search term
+MIN_MONTHLY_SALARY_INR = 30000
+MIN_ANNUAL_CTC_LPA = 4
+ALLOW_UNDISCLOSED_SALARY = False
 
 
 ##############################################################################################################

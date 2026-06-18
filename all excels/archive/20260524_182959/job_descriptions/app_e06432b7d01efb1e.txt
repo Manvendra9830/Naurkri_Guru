@@ -1,0 +1,131 @@
+About the job
+About Tacheon
+
+Founded in 2017, Tacheon is a growth-as-a-service consulting firm that helps brands with all things growth.
+
+Tacheon has four core verticals:
+
+1. Fractional Chief Growth Officer
+
+We work with early-stage and growth-stage consumer brands as a Fractional Chief Growth Officer and drive all growth initiatives from process optimization to pricing, distribution and promotion strategies. These include product portfolio optimization, building processes and structure to scale, sharpening brand and product communication and efficiently scaling customer acquisition and retention.
+
+2. Digital Transformation & Growth Strategy Consulting
+
+We work with enterprise brands and help them build capability in their growth and marketing teams and solve specific growth challenges.
+
+3. Data Warehousing and Analytics
+
+We help businesses reduce their time from data to actionable insight by building a data warehouse with data from all business data sources, along with customized dashboards and alerts.
+
+4. Generative AI Consulting
+
+We have been working in the AI space since 2019 when we launched Smacient, a portal to help marketers leverage AI to be more productive and efficient. Today, Smacient has evolved into a solutions provider to help businesses leverage generative AI for business efficiency and growth. While we work on AI implementation at Smacient, we focus on AI consulting and advisory at Tacheon.
+
+About Smacient:
+
+Founded in 2019, Smacient helps businesses automate processes, enhance team productivity and accelerate growth by leveraging AI and automation.
+
+Smacient has 3 core solutions:
+
+1. AI Content Hub 
+A one-stop hub with content and information to help marketing and growth teams leverage AI to improve their efficiency 
+
+2. AI Products
+Products designed to help marketers and grwoth teams work smarter and be more productive
+
+3. AI Automation Services
+Building custom AI solutions to help businesses harness the full potential of AI to automate processes, enhance team productivity, and accelerate growth.
+
+Why join us?
+
+Transformative Projects: Engage in transformative data projects that drive decision-making and strategic planning for various brands.
+Advanced Technologies: Be part of a cutting-edge team utilizing advanced technologies in a growing consulting environment.
+Large-scale Data Environments: Expand your expertise in managing large-scale data environments and crafting impactful data-driven strategies.
+Business Strategies: Gain comprehensive experience in business growth strategies, invaluable for future entrepreneurial ventures.
+Diverse Exposure: Work on a wide range of projects that span various industries and technical challenges, ensuring no two days are alike.
+Collaborative Culture: Join a team of like-minded individuals who value teamwork, knowledge sharing, and mutual growth.
+Career Development: Opportunities for personal and professional growth in a company that encourages continuous learning and provides the resources to support your development.
+Impact: Make a real impact in shaping the products and technologies that define our clients’ success and the organization’s future.
+
+Who You'll Work With:
+
+You will work very closely with the founder Rohit Uttamchandani, who comes with over a decade of very rich experience in the industry. He is the author of the book D2C Growth Blueprint (available on Amazon and Kindle), which helps early-stage D2C brands scale from zero to 10000 orders a month within a year of starting up. He has set up data warehouses for multiple brands and has helped them go from data to actionable insight in quick time. 
+
+He was recognized as one of the 100 Smartest Digital Marketing Leaders 2020 by ET Now, World Marketing Congress, Global Federation of Marketers & CMO Global and has also been featured in the exchange4media 40 Under 40 list in November 2021. He will mentor and guide you and help you elevate your career to new heights.
+
+About the Role
+
+We are looking for a driven and curious Data Engineer & Product Developer to join our marketing technology team. This is a holistic role where you will be expected to think as an engineer, a product developer, and a business stakeholder all at once.
+
+If you enjoy figuring things out, moving fast, and taking ownership of what you build from idea through to delivery, this role is for you.
+
+What You'll Do
+
+Data Engineering
+
+▸ Design, build, and maintain data pipelines on Google Cloud Platform (GCP).
+
+▸ Work with a variety of APIs to fetch, transform, and load data efficiently - the specific platforms will vary based on what we are building.
+
+▸ Model and structure marketing data into clean, relational schemas that support analysis and reporting.
+
+▸ Ensure data quality, reliability, and performance across pipelines.
+
+Product Development
+
+▸ Collaborate in ideating, designing, and shipping tools that help marketing teams work more efficiently these could be AI-powered or otherwise.
+
+▸ You will need to be comfortable jumping into a new product idea, understanding what it needs to do, and contributing meaningfully whether that is scoping it, prototyping it, or helping refine it.
+
+▸ Build quick prototypes to validate ideas before full-scale development.
+
+▸ Understand business requirements and translate them into clear technical thinking.
+
+
+What We're Looking For
+
+Must Have
+
+▸ Internship with 0-1years or 1 year of experience in a data, engineering, or product-adjacent role
+
+▸ Solid understanding of SQL basics and working with relational databases.
+
+▸ Familiarity with Python for scripting, data processing, or API integrations.
+
+▸ Experience integrating REST APIs to fetch and load data.
+
+▸ Comfortable using Git and GitHub for version control and collaboration.
+
+▸ A systems thinker - you understand how different pieces connect and affect each other.
+
+▸ Open to using AI tools in your day-to-day work and genuinely eager to keep learning.
+
+ Good to Have
+
+▸ Hands-on exposure to Google Cloud Platform - BigQuery, Cloud Functions, or similar services.
+
+▸ Some exposure to marketing data platforms and analytics tools.
+
+▸ Prior experience with product development cycles - personal, academic, or professional projects all count.
+
+What matters most
+
+Demonstrated curiosity, problem-solving ability, and ownership - through internships or projects
+
+Key Traits We Value
+
+▸ Problem-solver first: you find ways around blockers rather than waiting for someone to hand you a solution.
+
+▸ Business-aware: you understand that what you build must serve real user and business needs, not just technical ones.
+
+▸ Full ownership: you see things through from the initial idea to a shipped, working product.
+
+▸ Continuous learner: this space moves fast — we want someone who moves with it.
+
+▸ Team player: you will be working from our Chennai office five days a week, and being present, communicative, and collaborative matters.
+
+We don't just want someone who can follow instructions.
+
+We want someone who asks "what if we tried this?" — and then goes and tries it.
+
+If you’re ready to work in an exciting environment where learning and growth are at the core, we would love to hear from you. Join us and make an impact on both the products we build and the skills you develop!

@@ -1,0 +1,12 @@
+About the job
+Responsibilities
+
+ Build production-ready AI applications using Python and FastAPI.
+ Design LLM pipelines including data ingestion, inference, and response generation.
+ Leverage GCP tools like Vertex AI, Cloud Run/Functions, BigQuery, and Cloud Storage.
+ Apply advanced prompt engineering techniques to enhance LLM outputs.
+ Implement vector stores and embeddings for semantic search and RAG.
+ Use orchestration frameworks (e.g., LangChain, LangGraph, CrewAI) for complex workflows.
+ Integrate AI systems with enterprise platforms and maintain robust data flows.
+ Follow best practices in coding, testing, and deployment within CI/CD pipelines.
+ Continuously explore and recommend emerging tools and AI technologies.

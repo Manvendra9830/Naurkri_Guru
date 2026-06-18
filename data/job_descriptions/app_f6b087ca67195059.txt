@@ -1,0 +1,33 @@
+About the job
+About The Company
+
+Meritshot is a career transformation platform dedicated to empowering individuals to secure roles in fields such as Investment Banking, Finance, Software Development, Cyber Security, and Data Science. With guaranteed job outcomes, Meritshot provides structured curriculums developed by industry experts, coupled with personalized mentorship at every step. The platform connects ambitious talent with over 400 hiring partners and is committed to not only teaching but also mentoring and building impactful careers. Whether aiming for leading tech firms or high-growth finance roles, Meritshot focuses on accelerating career success with targeted guidance.
+
+About The Role
+
+This is a full-time, on-site Software Development Intern role located in Noida. The intern will work closely with the development team to design, code, test, and debug software solutions. Tasks will include collaborating on backend development, writing efficient programming code, assisting with software testing and troubleshooting, and contributing to feature enhancements. The role provides an exceptional opportunity to gain hands-on technical experience in a fast-paced, career-focused environment.
+
+Qualifications
+
+Strong foundational knowledge in Computer Science and Software Development principles
+Experience or familiarity with Back-End Web Development and related technologies
+Proficiency in Programming and understanding of Object-Oriented Programming (OOP)
+Ability to work collaboratively in team environments and adapt to project requirements
+Eagerness to learn, problem-solving mindset, and attention to detail
+Pursuing or recently completed a degree in Computer Science, Software Engineering, or a related field
+Previous internship or project experience in software development is a plus
+
+Responsibilities
+
+The Software Development Intern will be responsible for supporting the development team in various technical tasks, including but not limited to designing and implementing backend functionalities, writing clean and efficient code, conducting testing and debugging of software modules, and assisting in the integration of new features. The intern will participate in code reviews, contribute to documentation, and collaborate with team members to ensure project objectives are met within stipulated timelines. Additionally, the role involves staying updated with the latest industry trends and applying best practices to improve software quality and performance.
+
+Benefits
+
+Interns will receive a monthly stipend of 20,000 to 25,000 INR for a duration of 6 months. During this period, they will gain valuable industry experience, mentorship from seasoned professionals, and exposure to real-world projects. Exceptional performers may be considered for a Pre-Placement Offer (PPO) with a salary package of up to 6-9 LPA, based on performance and project contributions. The internship provides a platform for skill development, professional growth, and networking opportunities within a dynamic tech environment. Additionally, interns will have access to Meritshot's extensive industry connections and resources aimed at accelerating their career trajectory.
+
+Equal Opportunity
+
+Meritshot is an equal opportunity employer committed to fostering an inclusive environment for all employees and interns. We celebrate diversity and are dedicated to providing equal employment opportunities regardless of race, gender, age, religion, national origin, disability, or any other characteristic protected by law. We believe that a diverse workforce enhances innovation and creativity, and we are committed to creating a workplace where every individual can thrive and contribute to our shared success.
+
+Desired Skills and Experience
+Software Development, Backend Development, Programming, Debugging, Team Collaboration, Object-Oriented Programming

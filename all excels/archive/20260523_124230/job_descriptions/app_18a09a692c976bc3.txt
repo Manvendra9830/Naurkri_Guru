@@ -1,0 +1,42 @@
+About the job
+Your potential, unleashed.
+ India’s impact on the global economy has increased at an exponential rate and Deloitte presents an opportunity to unleash and realise your potential amongst cutting edge leaders, and organisations shaping the future of the region, and indeed, the world beyond.
+At Deloitte, your whole self to work, every day. Combine that with our drive to propel with purpose and you have the perfect playground to collaborate, innovate, grow, and make an impact that matters.
+
+The team
+
+The Digital Excellence Centre is responsible for building products and platforms for Deloitte India that focuses on providing extraordinary customer experience by putting design thinking with trailblazing technology in the center of what they do. The diverse team consists of subject matter experts, technology specialists, quality engineers, user experience researchers & designers, data scientists and product managers.
+
+Work you’ll do
+
+As a Machine Learning Engineer, you will play a crucial role in the development and implementation of cutting-edge artificial intelligence products. Your responsibilities will involve designing and constructing sophisticated machine learning models, as well as refining and updating existing systems.
+In order to thrive in this position, you must possess exceptional skills in statistics and programming, as well as a deep understanding of data science and software engineering principles.
+Your ultimate objective will be to create highly efficient self-learning applications that can adapt and evolve over time, pushing the boundaries of AI technology.
+ Responsibilities:
+· Partner closely with stakeholders to identify high-impact applications of data to solve meaningful business problems.
+· Identify, mine, and analyze medium and large size datasets to unearth insights that drive new business value for clients.
+· Develop robust statistical and machine learning models and implement processes to evaluate, automate and improve model performance.
+· Lead efforts with various functions to test, deploy and iterate on data science solutions
+· Build, execute, and evaluate A/B tests
+· Provide feedback to improve the quality of data collection to ensure adequacy, accuracy and legitimacy of data (e.g. this could involve cross-checking of different sources and validating the correlation between them)
+ As a prospective candidate, you should possess:
+1. Ability to process complex data sets
+2. Ability to perform exploratory data analysis to discover interesting trends and relationships
+3. Experience applying statistical modelling, machine learning, NLP, and other quantitative techniques to solve business problems
+4. Experience in deep learning
+5. Possess understanding of and ability to communicate statistics to experts and non-experts
+6. Creative thinker who has proven ability to innovate through data exploration and application of solutions
+7. Ability to thrive in an environment that requires flexibility and multi-tasking
+8. Ability to take initiative and work with high level of independence
+9. Strong technical and remote collaboration skills are a must
+10. Any exposure to Generative AI would be a great addition.
+
+How you’ll grow
+
+At Deloitte, our professional development plan focuses on helping people at every level of their career identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there’s always room to learn. We offer opportunities to help build world-class skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs at Deloitte University, our professionals have a variety of opportunities to continue to grow throughout their career. Explore Deloitte University, The Leadership Center.
+ Benefits
+
+At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. Learn more about what working at Deloitte can mean for you.
+ Our purpose
+ Deloitte is led by a purpose: To make an impact that matters.
+ Every day, Deloitte people are making a real impact in the places they live and work. We pride ourselves on doing not only what is good for clients, but also what is good for our people and the communities in which we live and work—always striving to be an organization that is held up as a role model of quality, integrity, and positive change. Learn more about Deloitte's impact on the world

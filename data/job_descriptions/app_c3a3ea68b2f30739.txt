@@ -1,0 +1,40 @@
+About the job
+Responsibilities
+RAG Architecture & Pipeline Design 
+Design and maintain RAG that connects CRM to LLM to provide grounded, fact bases AI responses.
+Vector Search & NLP 
+Implement and maintain vector embeddings for entities to enable semantic search and integration with LLM for generative AI features.
+MCP Server Development 
+Design and deploy MCP to bridge LLM with existing Data sources for real-time Retrieval.
+Generative AI Integration 
+Utilize LLMs to synthesize retrieved data into accurate, user friendly natural language responses.
+Performance Optimization 
+Evaluate and optimize the end-to-end latency of search and generation.
+Data Analysis 
+Collect, analyze, and interpret large datasets to identify trends, patterns, and insights that can inform business decisions.
+Technical Leadership 
+Lead code reviews, ensuring adherence to coding standards, best practices, and quality requirements.
+Act as a technical point of contact for complex database issues, offering solutions and recommendations to resolve them.
+Project Coordination and Stakeholder Collaboration 
+Collaborate with project managers, business analysts, and stakeholders to understand business requirements and translate them into technical solutions.
+Quality Assurance and testing 
+Collaborate with QA teams to validate data quality, ensure accuracy, and troubleshoot issues identified during testing.
+Continuous Improvement  
+Stay up-to on the latest tools, techniques, and best practices.
+Identify opportunities for process improvements, optimizations, and automation.
+Documentation and Standards 
+Ensure adherence to data governance and regulatory requirements, including security and compliance standards.
+
+Technical & Behavioral Competencies
+Python, R, SQL
+Machine learning algorithms
+PyTorch or TensorFlow
+Specific Qualifications:
+Data Scientist
+Skills Referential (Required knowledge, skills and abilities)
+Technical Skills:
+Python
+Sql/Pl-Sql
+Machine learning algorithms
+RAG / Architecture
+CRM Schema

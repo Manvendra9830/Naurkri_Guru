@@ -1,0 +1,42 @@
+About the job
+Position: Junior Full Stack Developer (React / Python / Node.js)
+Please Note: We are seeking candidates with 1 year of relevant experience who are available to join immediately.
+
+Work Mode: Work from Office
+
+Work Location: Sector 23, Dwarka, Delhi
+
+Job Summary
+We are looking for a passionate and motivated Junior Full Stack Developer with 1+ year of experience in React.js and backend technologies like Python or Node.js. The ideal candidate should have a strong foundation in frontend development, basic backend knowledge, and a willingness to learn modern AI-driven technologies and workflows.
+You will work closely with experienced developers, product teams, and AI teams to build scalable web applications, integrate APIs, and contribute to innovative products in a fast-paced startup environment.
+
+Key Responsibilities
+Build responsive and modern frontend applications using React.js
+Assist in developing backend services using Python or Node.js
+Work with REST APIs and third-party integrations
+Write clean, maintainable, and reusable code
+Collaborate with product, design, and engineering teams
+Learn and contribute to AI-powered features and workflows
+
+Required Experience, Skills & Qualifications
+Bachelor’s or Master’s degree in Computer Science or related field
+1+ year of experience in frontend or full-stack development
+Good knowledge of React.js and JavaScript fundamentals
+Basic understanding of Python and/or Node.js
+Familiarity with REST APIs and database concepts (SQL or MongoDB)
+Problem-solving mindset with willingness to learn and take ownership
+Good communication and teamwork skills
+Nice to have:
+Exposure to FastAPI, Express.js, or backend frameworks
+Basic knowledge of testing tools or debugging practices
+Interest in AI, LLMs, or automation workflows
+Familiarity with Git and modern development workflows
+
+About The Company:
+
+Nuvoretail Enlytical Technologies Private Limited is an e-commerce analytics and automation company. Our proprietary digital shelf analytics and automation platform called Enlytical.ai helps e-commerce brands solve the complexities in today’s e-commerce landscape by offering a unified and all- encompassing business view on the various aspects of e-commerce business. Our platform leverages insights drawn from multiple data points that help our clients win in e-commerce by gaining a competitive edge with data-driven insights for sharper decision-making. The insights cover all aspects of e-commerce such as digital product portfolio analysis, supply chain analytics, e-commerce operations automation, pricing, and competitor benchmarking, and Amazon advertising automation using our proprietary algorithms.
+
+As a leading e-commerce service provider, we offer the most comprehensive end-to-end e-commerce solutions to brands, both in India and abroad. Right from preparing a road map to writing our client’s e- commerce success story to assisting them In increasing their online sales, we do everything via our diverse e-commerce services and bespoke strategies and technology. Our services span across the brand’s e-commerce enablement including content and digital asset creation for product listing, On Platform, and Off Platform marketing services with deep expertise in Amazon Marketing Services (AMS), Amazon SEO through keyword research, e-Commerce operations across various e-commerce platforms, website development, social media marketing, and AI-enabled e-Commerce MIS Dashboards.
+
+Awards & Recognition:
+Thanks to the faith reposed in us by our clients, NuvoRetail has been featured as “The Most Promising eCommerce Technology Service Provider in India 2020” by CIOReview India Magazine. Our leadership is frequently recognized across global e-commerce services, digital marketing, consulting, and industry programs. Further strengthening our credentials, NuvoRetail is an Amazon Ads Advanced Partner and has also been named a finalist at the APAC Amazon Awards, placing us among a select group of high-performing companies in the region.

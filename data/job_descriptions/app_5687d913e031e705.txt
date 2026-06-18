@@ -1,0 +1,36 @@
+About the job
+Schrödinger is seeking an LDML Full Stack Developer to join us in our mission to improve human health and quality of life through the development, distribution, and application of advanced computational methods!
+
+As a member of the ML team, you will build the platforms and interfaces that allow scientists to interact with complex data regarding DNA, RNA, small molecule design, materials design, and quantum physics. Previous experience in these domains is not required, but an interest in learning is.
+
+Who Will Love This Job
+
+An engineer who loves building end-to-end web applications, from architecting the database to polishing the UI pixels
+A problem solver who enjoys translating complex scientific requirements into intuitive, performant software solutions
+A tech-agnostic builder familiar with modern JavaScript frameworks (React, Vue, or TypeScript) and Python backends
+An excellent communicator who loves collaborating in a diverse, interdisciplinary team environment
+
+What You’ll Do
+
+Collaborate closely with scientists, researchers, and designers to deliver robust web applications that meet business and product goals
+Design and implement scalable RESTful APIs and microservices to handle complex scientific workflows
+Build responsive and interactive front-end interfaces to visualize multi-dimensional scientific data
+Participate in a code reviewing environment that encourages learning, high code quality, and security best practices
+Help architect systems that bridge the gap between heavy computational backends and user-facing applications
+
+What You Should Have
+
+Proficiency in Python web frameworks (Django, FastAPI, or Flask)
+1 to 2 years of strong experience with modern JavaScript/TypeScript and frontend frameworks (React is preferred)
+Strong foundational knowledge of data structures, algorithms, and complex problem-solving.
+Solid understanding of database design and management (PostgreSQL, MySQL, SQLite)
+B.E. / B.Tech., or an advanced degree in Computer Science, Software Engineering, Mathematics, Physics, or Chemistry
+
+We’d prefer to hire someone with...
+
+Familiarity with containerization and orchestration (Docker, Kubernetes)
+Understanding of Continuous Integration/Continuous Deployment (CI/CD) pipelines
+Experience with cloud platforms (AWS, GCP, or Azure)
+An independent interest in science (an undergraduate major or minor is a plus!)
+
+As an equal opportunity employer, Schrödinger hires outstanding individuals into every position in the company. People who work with us have a high degree of engagement, a commitment to working effectively in teams, and a passion for the company's mission. We place the highest value on creating a safe environment where our employees can grow and contribute, and refuse to discriminate on the basis of race, color, religious belief, sex, age, disability, national origin, alienage or citizenship status, marital status, partnership status, caregiver status, sexual and reproductive health decisions, gender identity or expression, or sexual orientation. To us, "diversity" isn't just a buzzword, but an important element of our core principles and key business practices. We believe that diverse companies innovate better and think more creatively than homogenous ones because they take into account a wide range of viewpoints. For us, greater diversity doesn't mean better headlines or public images - it means increased adaptability and profitability.

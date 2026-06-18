@@ -1,0 +1,30 @@
+About the job
+
+Role description
+NET skills CNET ASPNET MVC Windows Services
+
+
+Database skills MS SQL Server stored procedures views functions TSQLs
+
+Client Web Technology JavaScript CSS Bootstrap JQuery NodeJS Angular HTTP REST calls
+
+Proactively anticipate project issues risks and threats before they occur works with team to identify solutions selects and implements most appropriate solution
+
+Make key decisions based upon input from Team Group andor Global Leads solid understanding of IT Services principles
+
+Utilize strong analytical and problemsolving skills needed to manage multiple technical challenges simultaneously per each project assigned
+
+Ideally youll also have
+
+Provides necessary supervision and support to ensure quality adherence to application engineering methodologies standards leading practices budgets and timelines are met
+
+Lends expertise to internal IT teams and task forces as well as other IT projectsprograms
+
+Azure azure dev ops environment
+
+Reporting Skills Power BI Power Query SSRS
+
+SharePoint skills Server Object Model JSOMCSOM SharePoint REST API PHA SHA
+
+Desired Skills and Experience
+Mandatory Skills : .Net Framework, Entity Framework (EF/EF Core), ASP.NET MVC

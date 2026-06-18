@@ -53,7 +53,7 @@
         "category": "experience",
         "confidence": 1.0,
         "source": "user_input",
-        "last_used": "2026-05-27T14:14:23.373124"
+        "last_used": "2026-06-14T20:30:33.434040"
     },
     "self rating in oops problem solving": {
         "answer": "8",
@@ -61,5 +61,54 @@
         "confidence": 1.0,
         "source": "user_input",
         "last_used": "2026-05-27T14:13:58.833049"
+    },
+    "ai experience": {
+        "answer": "1",
+        "category": "experience",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-06-10T12:41:49.061740"
+    },
+    "what was your 10th percentage": {
+        "answer": "83.67",
+        "category": "generic",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-06-07T14:42:58.459882"
+    },
+    "what was your 12th percentage": {
+        "answer": "92",
+        "category": "generic",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-06-07T14:43:03.281184"
+    },
+    "what was your graduation semester percentage if pursuing": {
+        "answer": "80",
+        "category": "generic",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-06-07T14:43:07.976670"
+    },
+    "machine learning experience": {
+        "answer": "1.5",
+        "category": "experience",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-06-07T14:57:56.075108"
+    },
+    "is your overall education percentages from 10th to bachelors masters are all above 80 scores": {
+        "answer": "yes",
+        "category": "education",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-06-14T20:25:58.950936"
+    },
+    "income expectations": {
+        "answer": "900000",
+        "category": "generic",
+        "confidence": 1.0,
+        "source": "user_input",
+        "last_used": "2026-06-18T00:59:38.619930"
     }
 }

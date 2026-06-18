@@ -1,6 +1,7 @@
 import re
 import time
 import random
+import os
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import WebDriverException
 from modules.helpers import print_lg
@@ -63,8 +64,14 @@ def is_driver_alive(driver) -> bool:
         _ = driver.current_window_handle
         return True
     except (WebDriverException, Exception) as e:
-        print_lg(f"[ENRICHMENT-HEALTH] Driver session is dead: {type(e).__name__}: {e}")
+        print_lg(f"[BROWSER-HEALTH] enrichment_driver=dead; error={type(e).__name__}: {e}")
         return False
+
+
+def _log_email_result(email: str, source: str, confidence: float) -> None:
+    print_lg(f"[EMAIL-FOUND] email={email}")
+    print_lg(f"[EMAIL-SOURCE] source={source}")
+    print_lg(f"[EMAIL-CONFIDENCE] confidence={confidence:.2f}")
 
 def clean_company_name(company_name: str) -> str:
     if not company_name:
@@ -266,19 +273,135 @@ def extract_email_level3_job_description(job_description: str, company_name: str
         print_lg(f"[ENRICHMENT-QUARANTINE] Job description email rejected for company mismatch: {email}")
     return None, None, None
 
+def extract_email_company_careers(driver, company_name: str) -> tuple[str | None, str | None, float | None]:
+    """Scan a guessed company careers/jobs page for visible recruiter emails."""
+    if not is_driver_alive(driver):
+        print_lg("[ENRICHMENT-SKIP] Careers page extraction skipped because driver is unavailable.")
+        return None, None, None
+    domain = _guess_company_domain(company_name)
+    if not domain:
+        return None, None, None
+    urls = [f"https://{domain}/careers", f"https://{domain}/jobs"]
+    for url in urls:
+        try:
+            print_lg(f"[ENRICHMENT-DEBUG] Careers email scan: {url}")
+            driver.get(url)
+            time.sleep(random.uniform(2, 3))
+            body_text = driver.find_element(By.TAG_NAME, "body").text
+            for email in extract_emails_from_text(body_text):
+                if email_matches_company_context(email, company_name):
+                    print_lg(f"[ENRICHMENT-SUCCESS] Careers page email found: {email}")
+                    return email, "company_careers_page", 0.88
+                print_lg(f"[ENRICHMENT-QUARANTINE] Careers page email rejected for company mismatch: {email}")
+        except Exception as e:
+            print_lg(f"[ENRICHMENT-DEBUG] Careers page scan failed for {url}: {type(e).__name__}: {e}")
+    return None, None, None
+
+
+def extract_email_hunter(company_name: str) -> tuple[str | None, str | None, float | None]:
+    try:
+        from config.secrets import HUNTER_API_KEY
+    except Exception:
+        HUNTER_API_KEY = ""
+    email = hunter_find_email(company_name, HUNTER_API_KEY)
+    if email:
+        return email, "hunter_io", 0.9
+    return None, None, None
+
+
+def extract_email_apify(company_name: str) -> tuple[str | None, str | None, float | None]:
+    """Optional Apify enrichment hook controlled by env vars, disabled if not configured."""
+    token = os.environ.get("APIFY_API_TOKEN", "").strip()
+    endpoint = os.environ.get("APIFY_ENRICHMENT_URL", "").strip()
+    if not token or not endpoint:
+        print_lg("[ENRICHMENT-SKIP] Apify enrichment skipped; APIFY_API_TOKEN/APIFY_ENRICHMENT_URL not configured.")
+        return None, None, None
+    try:
+        import requests
+        response = requests.post(
+            endpoint,
+            headers={"Authorization": f"Bearer {token}"},
+            json={"company": company_name},
+            timeout=15,
+        )
+        response.raise_for_status()
+        payload = response.json()
+        candidates = payload if isinstance(payload, list) else payload.get("emails", [])
+        for candidate in candidates:
+            email = candidate.get("email") if isinstance(candidate, dict) else str(candidate)
+            email = normalize_email_candidate(email)
+            if email:
+                confidence = float(candidate.get("confidence", 0.9)) if isinstance(candidate, dict) else 0.85
+                return email, "apify", confidence
+    except Exception as e:
+        print_lg(f"[APIFY] Enrichment failed: {type(e).__name__}: {e}")
+    return None, None, None
+
+
+def extract_email_pattern_guess(recruiter_name: str, company_name: str) -> tuple[str | None, str | None, float | None]:
+    """Generate conservative pattern guesses; trust gate keeps them out of sending unless policy changes."""
+    domain = _guess_company_domain(company_name)
+    if not domain:
+        return None, "pattern_guess", 0.0
+    names = [part for part in re.split(r"\s+", recruiter_name or "") if part and part.lower() != "unknown"]
+    if len(names) >= 2:
+        guesses = guess_email_from_name_domain(names[0], names[-1], domain)
+    else:
+        guesses = [f"hr@{domain}", f"careers@{domain}", f"recruit@{domain}"]
+    guess = normalize_email_candidate(guesses[0])
+    if guess:
+        print_lg(f"[ENRICHMENT-SAFE] Pattern guess generated but low confidence: {guess}")
+        return guess, "pattern_guess", 0.35
+    return None, "pattern_guess", 0.0
+
+
 def extract_email_level3_guess(recruiter_name: str, company_name: str) -> tuple[str | None, str | None, float | None]:
-    """Level 3: Company domain guess based on recruiter/company info.
-    Disabled by default for safety to prevent spamming guessed domains."""
-    print_lg(f"[ENRICHMENT-SAFE] Blind domain guessing skipped for company '{company_name}' and recruiter '{recruiter_name}' to prevent bounce-back warnings.")
-    return None, "skipped_low_confidence", 0.0
+    """Backward-compatible alias for validation/tests using the old helper name."""
+    return extract_email_pattern_guess(recruiter_name, company_name)
 
 def find_recruiter_email(driver, job_data: dict, profile_visit_counter: int) -> tuple[str | None, str | None, float | None, int]:
-    """Tries to find/enrich recruiter email using the 3 levels of strategy."""
+    """Find/enrich recruiter email in the requested priority order."""
     recruiter_profile_url = job_data.get("recruiter_profile_url") or ""
     company = job_data.get("company") or ""
-
-    # Priority 1: Recruiter profile contact info.
     new_visits = profile_visit_counter
+
+    # A. Stored job description email extraction.
+    email, source, conf = extract_email_level3_job_description(job_data.get("job_description") or "", company)
+    if email:
+        trusted, reason, adjusted_conf = trust_recruiter_email(email, source, conf, company)
+        if trusted:
+            _log_email_result(email, source or "", adjusted_conf)
+            return email, source, adjusted_conf, new_visits
+        print_lg(f"[ENRICHMENT-QUARANTINE] Job description email rejected for {company}: {email} ({reason})")
+
+    # B. Company website careers page extraction.
+    email, source, conf = extract_email_company_careers(driver, company)
+    if email:
+        trusted, reason, adjusted_conf = trust_recruiter_email(email, source, conf, company)
+        if trusted:
+            _log_email_result(email, source or "", adjusted_conf)
+            return email, source, adjusted_conf, new_visits
+        print_lg(f"[ENRICHMENT-QUARANTINE] Careers page email rejected for {company}: {email} ({reason})")
+
+    # C. Hunter.io.
+    email, source, conf = extract_email_hunter(company)
+    if email:
+        trusted, reason, adjusted_conf = trust_recruiter_email(email, source, conf, company)
+        if trusted:
+            _log_email_result(email, source or "", adjusted_conf)
+            return email, source, adjusted_conf, new_visits
+        print_lg(f"[ENRICHMENT-QUARANTINE] Hunter email rejected for {company}: {email} ({reason})")
+
+    # D. Apify enrichment.
+    email, source, conf = extract_email_apify(company)
+    if email:
+        trusted, reason, adjusted_conf = trust_recruiter_email(email, source, conf, company)
+        if trusted:
+            _log_email_result(email, source or "", adjusted_conf)
+            return email, source, adjusted_conf, new_visits
+        print_lg(f"[ENRICHMENT-QUARANTINE] Apify email rejected for {company}: {email} ({reason})")
+
+    # Existing LinkedIn recruiter profile fallback, kept after requested sources.
     if recruiter_profile_url and recruiter_profile_url != "Unknown" and recruiter_profile_url.startswith("http"):
         if profile_visit_counter < MAX_RECRUITER_PROFILE_VISITS_PER_RUN:
             new_visits += 1
@@ -286,26 +409,78 @@ def find_recruiter_email(driver, job_data: dict, profile_visit_counter: int) -> 
             if email:
                 trusted, reason, adjusted_conf = trust_recruiter_email(email, source, conf, company)
                 if trusted:
+                    _log_email_result(email, source or "", adjusted_conf)
                     return email, source, adjusted_conf, new_visits
                 print_lg(f"[ENRICHMENT-QUARANTINE] Level 2 email rejected for {company}: {email} ({reason})")
         else:
             print_lg("Max recruiter profile visits reached. Skipping Level 2.")
 
-    # Priority 2: Visible LinkedIn/job page email.
+    # Visible current-page email fallback.
     email, source, conf = extract_email_level1_direct(driver)
     if email:
         trusted, reason, adjusted_conf = trust_recruiter_email(email, source, conf, company)
         if trusted:
+            _log_email_result(email, source or "", adjusted_conf)
             return email, source, adjusted_conf, new_visits
         print_lg(f"[ENRICHMENT-QUARANTINE] Level 1 email rejected for {company}: {email} ({reason})")
 
-    # Priority 3: Stored job description email extraction.
-    email, source, conf = extract_email_level3_job_description(job_data.get("job_description") or "", company)
+    # E. Pattern guessing, intentionally low confidence unless verified elsewhere.
+    email, source, conf = extract_email_pattern_guess(job_data.get("recruiter_name") or "", company)
     if email:
         trusted, reason, adjusted_conf = trust_recruiter_email(email, source, conf, company)
         if trusted:
+            _log_email_result(email, source or "", adjusted_conf)
             return email, source, adjusted_conf, new_visits
-        print_lg(f"[ENRICHMENT-QUARANTINE] Job description email rejected for {company}: {email} ({reason})")
+        print_lg(f"[ENRICHMENT-SAFE] Pattern guess rejected by trust gate for {company}: {email} ({reason})")
 
-    print_lg(f"[ENRICHMENT-SAFE] No trusted recruiter email found for '{company}'. Blind guessing remains disabled.")
+    print_lg(f"[ENRICHMENT-SAFE] No trusted recruiter email found for '{company}'.")
     return None, None, None, new_visits
+
+def _guess_company_domain(company_name: str) -> str:
+    """Simple heuristic to guess domain from company name."""
+    cleaned = clean_company_name(company_name).replace(" ", "")
+    if not cleaned:
+        return ""
+    return f"{cleaned}.com"
+
+def hunter_find_email(company_name: str, hunter_api_key: str) -> str:
+    """
+    Uses Hunter.io domain search to find recruiter email pattern.
+    Returns best guess email or empty string.
+    """
+    import requests
+    if not hunter_api_key:
+        return ""
+    try:
+        domain = _guess_company_domain(company_name)
+        if not domain:
+            return ""
+        resp = requests.get(
+            "https://api.hunter.io/v2/domain-search",
+            params={"domain": domain, "api_key": hunter_api_key, "limit": 3},
+            timeout=8
+        )
+        data = resp.json()
+        emails = data.get("data", {}).get("emails", [])
+        # Prefer HR/Recruiter roles
+        for e in emails:
+            role = (e.get("position") or "").lower()
+            if any(kw in role for kw in ["hr", "recruit", "talent", "people"]):
+                return e.get("value", "")
+        if emails:
+            return emails[0].get("value", "")
+    except Exception as e:
+        print_lg(f"[HUNTER] API call failed: {e}")
+    return ""
+
+def guess_email_from_name_domain(first: str, last: str, domain: str) -> list[str]:
+    """Generate common email patterns for a name + domain."""
+    f, l = first.lower(), last.lower()
+    return [
+        f"{f}.{l}@{domain}",
+        f"{f}@{domain}",
+        f"{f[0]}{l}@{domain}",
+        f"hr@{domain}",
+        f"careers@{domain}",
+        f"recruit@{domain}",
+    ]

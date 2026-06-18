@@ -1,0 +1,19 @@
+About the job
+We're looking for Software Engineers (India)!
+
+Responsibilities
+
+Design, develop, test, and maintain enterprise-grade software applications and backend services
+Build scalable, secure, and high-performance application components using modern programming practices
+Collaborate with cross-functional teams to analyze requirements and deliver reliable technical solutions
+Develop and maintain APIs, microservices, and system integrations for enterprise applications
+Troubleshoot, debug, and resolve application issues to ensure system stability and performance
+Participate in code reviews, sprint planning, and Agile development activities
+Optimize application performance, scalability, reliability, and overall system efficiency
+Work with relational and non-relational databases for data management and application integration
+Contribute to cloud-based development, deployment, and automation initiatives
+Maintain technical documentation, workflows, and development standards for ongoing support and governance
+
+(*Note: Scoutit is an independent candidate sourcing partner for this hiring. All applications, candidate screening, and hiring-related actions are conducted directly by the respective employer’s authorized recruitment team. Relevant candidates will be contacted via email and asked to fill in additional details as part of the next stage of the application process.)
+
+Skills: software,code,application

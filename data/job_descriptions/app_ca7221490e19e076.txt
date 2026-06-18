@@ -1,0 +1,45 @@
+About the job
+Junior / Entry-Level Computer Vision Engineer
+About Obraz
+
+Obraz is building production-grade Applied AI systems that solve real-world problems across Defense, Healthcare Imaging, Industrial Vision, and Smart Infrastructure.
+We work at the intersection of Computer Vision, infrastructure reliability, and enterprise deployment helping organizations move from AI experimentation to scalable implementation.
+
+The Opportunity
+
+We’re looking for a highly analytical and driven Junior Computer Vision Engineer to join our core applied-AI engineering team.
+This is a hands-on execution role where you will work directly alongside senior leadership to build, validate, and maintain enterprise-grade vision applications. You’ll gain deep exposure to advanced model training, dataset engineering, validation infrastructure, and edge deployment systems.
+
+What You’ll Own
+Dataset engineering and visual data quality assurance
+Collaborating with annotation and validation teams
+Designing dataset ontologies and cleaning raw visual data
+Assisting in training object detection and classification models
+Hyperparameter tuning and performance benchmarking
+Validation testing for model accuracy and processing latency
+Supporting software and hardware integration testing
+Assisting with deployment optimization and MLOps workflows
+
+What Makes You a Great Fit
+B.Tech / BE in Computer Science, Information Technology, or related engineering fields
+Strong interest in AI/ML and Computer Vision systems
+Foundational proficiency in Python, PyTorch/TensorFlow, and OpenCV
+Familiarity with Linux environments and basic shell scripting
+Strong analytical thinking and problem-solving ability
+Attention to detail and focus on technical accuracy
+Eagerness to work on production-grade AI systems
+
+Why Obraz
+Work on impactful AI-driven systems with real-world applications
+Gain hands-on exposure to enterprise-grade Computer Vision workflows
+Collaborate directly with technical leadership and engineering teams
+High ownership and fast learning environment
+Strong growth opportunities within the organization
+
+Assessment Task
+As part of the selection process, please complete the short assignment using the link below. Your assignment score will be considered for the selection process.
+https://forms.gle/4nV23udrhpGUSw1T7
+
+Note
+This is a paid internship role for 3 months with a stipend of ₹15,000 per month. Based on your performance during the internship period, candidates may be converted to full-time employees.
+The full-time salary range after conversion will be ₹3.5 – ₹5.5 LPA.

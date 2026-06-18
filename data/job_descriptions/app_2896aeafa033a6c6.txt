@@ -1,0 +1,104 @@
+About the job
+About Helpshift
+
+Helpshift is a leading customer service platform powered by AI and automation, helping businesses deliver exceptional customer support experiences across digital channels. We are looking for passionate AI Engineers who are eager to build intelligent systems using the latest advancements in Generative AI, NLP, and Machine Learning.
+
+Role Overview
+
+As an Entry-Level AI Engineer, you will work with experienced engineers and data scientists to design, develop, and deploy AI-powered solutions. You will contribute to building conversational AI systems, intelligent automation workflows, Retrieval-Augmented Generation (RAG) pipelines, and machine learning applications that enhance customer support experiences.
+
+This role is ideal for candidates with a strong foundation in Python, Natural Language Processing (NLP), Generative AI, and MLOps who are excited about solving real-world problems using AI technologies.
+
+Responsibilities
+
+Develop and maintain AI/ML applications using Python
+Build and optimize NLP pipelines for text processing, classification, information extraction, and semantic search
+Develop Generative AI solutions using Large Language Models (LLMs)
+Implement Retrieval-Augmented Generation (RAG) systems using vector databases and embedding models
+Design prompts and evaluate LLM responses for quality and performance
+Collaborate with senior engineers to deploy and monitor AI applications in production
+Build APIs and AI services using frameworks such as FastAPI
+Assist in model training, fine-tuning, evaluation, and experimentation
+Work with MLOps tools to automate model deployment, monitoring, and versioning
+Participate in code reviews, testing, debugging, and documentation activities
+Stay updated with emerging AI, NLP, and Generative AI technologies
+
+Requirements
+
+Technical Skills
+
+Strong programming skills in Python
+Understanding of Data Structures and Algorithms
+Knowledge of Machine Learning fundamentals
+Understanding of Natural Language Processing (NLP) concepts:
+Tokenization
+Embeddings
+Text Classification
+Named Entity Recognition (NER)
+Semantic Search
+Transformer Models
+Understanding of Generative AI concepts:
+Large Language Models (LLMs)
+Prompt Engineering
+RAG (Retrieval-Augmented Generation)
+Fine-tuning concepts
+AI Agent fundamentals
+Familiarity with AI/ML frameworks:
+PyTorch or TensorFlow
+Hugging Face Transformers
+LangChain, LlamaIndex, or similar frameworks
+MLOps Knowledge
+
+Understanding of model deployment and serving concepts
+Familiarity with:
+Docker
+Git/GitHub
+CI/CD concepts
+Kubernetes (basic understanding)
+ML experiment tracking tools (MLflow, Weights & Biases, etc.)
+Database & API Skills
+
+Basic knowledge of SQL databases
+Familiarity with vector databases such as Pinecone, Weaviate, Qdrant, or ChromaDB
+Understanding of REST APIs and FastAPI
+
+Preferred Qualifications
+
+Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or a related field
+Hands-on academic projects, internships, or personal projects in AI/ML
+Experience building chatbots, AI assistants, or NLP applications
+Contributions to open-source AI projects are a plus
+Familiarity with cloud platforms such as AWS, GCP, or Azure
+
+What We Look For
+
+Strong problem-solving and analytical skills
+Passion for AI, Machine Learning, and emerging technologies
+Curiosity to learn and experiment with new AI frameworks and tools
+Good communication and teamwork skills
+Ability to work in a fast-paced, collaborative environment
+
+Nice-to-Have Projects
+
+Candidates who have built any of the following will stand out:
+
+AI Chatbot using LLMs
+RAG-based Question Answering System
+AI Agent using LangChain or LlamaIndex
+Document Search and Retrieval Platform
+Customer Support Automation Bot
+NLP Classification or Information Extraction System
+End-to-End ML Deployment Project with Docker/Kubernetes
+
+Benefits
+
+Hybrid setup
+Worker's insurance
+Paid Time Offs
+Other employee benefits to be discussed by our Talent Acquisition team in India
+
+Helpshift embraces diversity. We are proud to be an equal opportunity workplace and do not discriminate on the basis of sex, race, color, age, sexual orientation, gender identity, religion, national origin, citizenship, marital status, veteran status, or disability status
+
+Privacy Notice
+
+By providing your information in this application, you understand that we will collect and process your information in accordance with our Applicant Privacy Notice. For more information, please see our Applicant Privacy Notice at https://www.keywordsstudios.com/en/applicant-privacy-notice.

@@ -1,0 +1,21 @@
+About the job
+Teamified is looking for a talented and motivated Software Developer to join our growing team. In this role, you will be responsible for designing, developing, and maintaining software applications that meet the needs of our clients. You will work closely with project managers, designers, and other developers to ensure high-quality deliverables.
+
+Key Responsibilities:
+
+Develop and maintain high-quality software applications
+Collaborate with cross-functional teams to define, design, and ship new features
+Participate in code reviews and contribute to team knowledge sharing
+Identify and resolve bugs and performance issues
+Stay updated on the latest industry trends and best practices
+
+Requirements
+
+Bachelor's degree in Computer Science or a related field
+Proven experience as a Software Developer, with a strong portfolio of completed projects
+Proficiency in one or more programming languages (such as Java, C#, Python, or JavaScript)
+Experience with web development frameworks and tools
+Strong problem-solving skills and attention to detail
+Excellent communication and teamwork abilities
+Knowledge of version control systems (e.g., Git)
+Experience with agile development methodologies is a plus

@@ -1,0 +1,2 @@
+About the job
+We are seeking a skilled Python & SQL Developer to design, develop, and maintain data-driven applications and solutions. The ideal candidate will have strong programming skills in Python, proficiency in SQL for database management, and experience working with large datasets and APIs.

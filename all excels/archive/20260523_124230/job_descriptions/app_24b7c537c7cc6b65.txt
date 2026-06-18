@@ -1,0 +1,22 @@
+About the job
+Company Description
+PERSPECTIV LABS brings over 15 years of expertise in AI Computer Vision, Machine Learning, and 3D technologies. The company specializes in developing cutting-edge industrial and retail solutions powered by Computer Vision and Artificial Intelligence. PERSPECTIV LABS is committed to innovation, delivering impactful and transformative solutions for businesses. Our team thrives on solving complex challenges by leveraging advanced technology and specialized knowledge.
+
+Role Description
+This is a full-time hybrid role for an Artificial Intelligence Engineer. Based preferably in Bengaluru, the role requires onsite customer data center in Hyderabad/Viajaywada visits frequently. The engineer will be responsible for integration of existing data with in house AI platform, testing and field work at customer site.
+
+Qualifications
+Proficiency in AI - Yolo, Detectron, SAM etc.
+Strong foundation in Computer Science and Software Development
+Hands on experience in deployment/integration of backend servers based on NodeJS, FASTAPI etc.
+Experience with Computer Vision and developing AI solutions is highly desirable
+Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, or a related field
+Excellent collaboration and communication skills, with the ability to work effectively in a hybrid environment
+
+Interested can attempt the AI / CV based counting challenge here:
+https://github.com/perspectivLabs/CountingChallenge
+
+Please also fill in your details in the form:
+https://docs.google.com/forms/d/e/1FAIpQLSeZXz_ZE93tQ7jEUvj01yrcOXy7WfPD_fxe-PQazLyoSk0zNw/viewform?usp=sharing&ouid=114762673149203968681
+
+Thank you !

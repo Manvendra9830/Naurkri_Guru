@@ -1,0 +1,32 @@
+About the job
+Junior AI Engineer – Remote
+We are hiring a passionate and driven Junior AI Engineer to join our growing AI team. This is an excellent opportunity for candidates with strong Python programming skills and an interest in Artificial Intelligence, Machine Learning, and automation technologies.
+Location
+Remote
+Experience Required
+1+ Years
+Salary
+Up to ₹4 LPA
+Key Responsibilities
+Develop, test, and maintain AI/ML-based applications and solutions
+Write clean, scalable, and efficient Python code
+Work on data processing, model integration, and AI workflows
+Collaborate with cross-functional teams on AI-driven projects
+Debug, optimize, and improve existing applications
+Stay updated with the latest advancements in AI and Machine Learning
+Required Skills
+Strong hands-on experience in Python programming
+Ability to code independently without relying on AI coding tools
+Basic understanding of AI/ML concepts and frameworks
+Knowledge of APIs, data structures, and problem-solving techniques
+Good communication and collaboration skills
+Self-motivated with a strong learning attitude
+Preferred Skills
+Familiarity with Generative AI, LLMs, or automation tools
+Understanding of libraries such as Pandas, NumPy, Scikit-learn, or FastAPI
+Exposure to Git/GitHub and cloud platforms is a plus
+Eligibility
+Bachelor’s degree in Computer Science, IT, or related field
+Candidates with internship/project experience in AI/ML are encouraged to apply
+📩 Apply now at:
+sagaur@eteaminc.com

@@ -1,0 +1,82 @@
+About the job
+About the Role
+
+We are looking for a passionate and motivated Python AI Automation Developer (Fresher) to join our team.
+
+The candidate should have basic to intermediate knowledge of Python development, web scraping, AI automation, backend development, and modern AI technologies. You will work on real-world projects involving automation systems, AI agents, APIs, scraping, and scalable backend applications.
+
+This is a great opportunity for someone who wants hands-on experience in AI, automation, and backend engineering.
+Required Skills
+
+Strong understanding of Python
+Knowledge of Web Scraping using BeautifulSoup, Selenium, Scrapy, etc.
+Basic understanding of AI Automation
+Basic knowledge of Agentic AI concepts
+Experience with Django framework
+Understanding of REST APIs
+Basic knowledge of databases such as MongoDB, PostgreSQL, or MySQL
+Familiarity with Git and GitHub
+Problem-solving and debugging skills
+
+Responsibilities
+
+Develop and maintain Python-based applications
+Build scraping and data extraction systems
+Work on AI automation workflows and integrations
+Assist in developing AI agents and intelligent automation systems
+Develop backend APIs using Django
+Integrate third-party APIs and AI services
+Optimize and debug existing applications
+Collaborate with the development team on new features and improvements
+Research and explore new AI and automation technologies
+
+Good to Have
+
+Knowledge of FastAPI or Flask
+Understanding of OpenAI APIs or LLMs
+Familiarity with LangChain, LangGraph, or AI Agent frameworks
+Experience with workflow automation tools like n8n
+Basic understanding of Docker and deployment
+Knowledge of cloud platforms is a plus
+
+Eligibility
+
+Freshers can apply
+Final-year students are welcome
+Candidates with internship or personal project experience will be preferred
+
+Preferred Candidate Profile
+
+We are looking for someone who:
+Is passionate about AI and automation
+Loves building products and solving problems
+Has a strong learning mindset
+Can work independently and within a team
+Has good communication skills
+Is eager to work on real-world AI projects
+
+What You Will Work On
+
+AI Automation Systems
+Agentic AI Projects
+Backend API Development
+Web Scraping & Data Pipelines
+Workflow Automation
+AI Integrations
+Real-world SaaS and Automation Products
+
+Perks & Benefits
+
+Opportunity to work on cutting-edge AI projects
+Hands-on learning environment
+Career growth opportunities
+Flexible and innovative work culture
+Exposure to real production-level systems
+
+How to Apply
+
+
+Please share:
+Your Resume
+GitHub Profile
+Portfolio or Project Links (if available)

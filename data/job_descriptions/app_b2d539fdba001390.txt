@@ -1,0 +1,72 @@
+About the job
+Our Purpose
+
+Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.
+
+Title And Summary
+
+Data Scientist I
+
+Overview
+
+Product Data & Analytics team builds internal analytic partnerships, strengthening focus on the health of the business, portfolio and revenue optimization opportunities, initiative tracking, new product development and Go-To Market strategies.
+
+ Are you excited about Data Assets and the value they brings to an organization?
+ Are you an evangelist for data driven decision making?
+ Are you motivated to be part of a Global Analytics team that builds large scale Analytical Capabilities supporting end users across 6 continents?
+ Do you want to be the go-to resource for data analytics in the company?
+
+
+The ideal candidate has a knack for seeing solutions in sprawling data sets and the business mindset to convert insights into strategic opportunities for our company.
+
+Role
+
+ Work closely global and regional teams to architect, develop, and maintain advanced reporting and data visualization capabilities on large volumes of data in order to support team analytics and reporting needs across products, markets and services.
+ Translate business requirements into tangible solution specifications and high quality, on time deliverables
+ Create repeatable processes to support development of modeling and reporting
+ Effectively use tools to manipulate large-scale databases, synthesizing data insights. Provide 1st level insights/conclusions/assessments and present findings via Excel and PowerPoint.
+ Apply quality control, data validation, and cleansing processes to new and existing data sources
+
+
+All About You
+
+ Experience in data management, data mining, data analytics, data reporting, data product development and quantitative analysis
+ Financial Institution or a Payments experience a plus
+ Experience on SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS) and SQL Server Reporting Services (SSRS)
+ Advanced SQL skills, ability to write optimized queries for large data sets (Big data)
+ Experience on Platforms/Environments: Cloudera Hadoop, Big data technology stack, SQL Server, Microsoft BI Stack
+ Experience with data visualization tools such as Tableau, PowerBI, a plus
+ Experience with Python, R, a plus
+ Experience presenting data findings in a readable and insight driven format. Experience building support decks.
+ Excellent problem solving, quantitative and analytical skills
+ In depth technical knowledge, drive and ability to learn new technologies
+ Strong attention to detail and quality
+ Team player, excellent communication skills
+ Must be able to interact with management, internal stakeholders and collect requirements
+ Must be able to perform in a team, use judgment and operate under ambiguity
+
+
+Education
+
+Bachelor’s or Master’s Degree in a Computer Science, Information Technology, Engineering, Mathematics, Statistics, M.S./M.B.A. preferred
+
+
+Additional Competencies
+
+Excellent English, quantitative, technical, and communication (oral/written) skills
+Analytical/Problem Solving
+Strong attention to detail and quality
+Creativity/Innovation
+Self-motivated, operates with a sense of urgency
+Project Management/Risk Mitigation
+Able to prioritize and perform multiple tasks simultaneously
+
+
+Corporate Security Responsibility
+
+ All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+
+Abide by Mastercard’s security policies and practices;
+Ensure the confidentiality and integrity of the information being accessed;
+Report any suspected information security violation or breach, and
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.

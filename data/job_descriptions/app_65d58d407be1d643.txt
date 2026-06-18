@@ -1,0 +1,76 @@
+About the job
+Job Description
+
+In this Role, Your Responsibilities Will Be:
+
+In this role, you will help shape the future of intelligent engineering and power plant operations by developing hands-on AI/ML and agent-based solutions that simplify engineering work, increase productivity, and unlock new operational capabilities.
+
+You will build intelligent tools and AI agents that automate control logic generation, graphics configuration, reporting, and engineering workflows, enabling plant engineers to focus on higher-value innovation. By analyzing control system and operational data, you will uncover patterns, develop predictive capabilities, and deliver data-driven decision support for real-world power plant environments.
+
+ Apply AI-based anomaly detection, diagnostics, and decision-support solutions to real power-plant operational challenges. 
+ Translate plant operating behavior, control logic, alarms, and historian trends into practical AI use cases and agent workflows. 
+ Work with time-series operational data from DCS/SCADA and plant historians (preferably Emerson Ovation) to identify abnormal patterns, degradation, and performance losses. 
+ Collaborate with sales and marketing,and reliability teams to validate AI insights against real plant conditions. 
+ Support development and tuning of AI/analytics models using Python and data tools (focus on application rather than algorithm research). 
+ Integrate AI outputs into dashboards, alerts, and engineering workflows without impacting plant safety or control integrity. 
+ Test, validate, and monitor AI solutions in live or near-real plant environments, ensuring reliability and low false-alarm rates. 
+ Continuously improve AI performance using operational feedback, historical fault data, and domain knowledge. 
+ Troubleshoot deployed analytics/AI tools and coordinate improvements with software or data teams. 
+
+Who you Are:
+
+We are looking for a proactive professional who excels in dynamic, fast-paced environments. You demonstrate exceptional initiative, confidently tackling complex challenges in power plant control and optimization. With a strong commitment to innovation and excellence, you set ambitious goals and uphold the highest standards in every project.
+
+For This Role, You Will Need:
+
+ Bachelor’s degree in electrical, Instrumentation, Mechanical, or Control Engineering (or equivalent plant experience). 
+ Hands-on experience in power-plant operations, control systems, or industrial automation (DCS/SCADA exposure required; Emerson Ovation preferred). 
+ Strong understanding of: 
+ Plant processes (boiler, turbine, balance-of-plant, heat rate, alarms, trips) 
+ Instrumentation, control loops, and operational troubleshooting 
+ Historian/time-series operational data 
+ Basic programming or data skills (Python, SQL, or similar) sufficient to work with analytics and AI teams. 
+ Practical understanding of anomaly detection, predictive maintenance, or performance monitoring concepts (application level, not theory). 
+ Ability to translate operator problems into deployable digital/AI solutions. 
+ Strong collaboration and communication skills across plant, engineering, and software teams. 
+
+Preferred Qualifications That Make You Stand Out:
+
+ We’re looking for someone with background in power plant operations, such as boilers, turbines, combustion, and load optimization, combined with knowledge of control theory (PID, MPC, fuzzy logic, multivariable control) will help you apply AI/ML to optimize performance. Experience with Emerson Ovation DCS or similar control systems is highly valued, particularly in integrating AI modules into engineering workflows. 
+ Experience implementing predictive maintenance, fault detection, or performance optimization in power or process plants. 
+ Familiarity with AI/ML-enabled analytics tools, rule-based systems, or industrial digital solutions (no deep research background required). 
+ You should bring experience in predictive maintenance, anomaly detection, and process optimization using time-series data. Familiarity with responsible AI practices, such as explainability, bias detection, and compliance, is important to ensure safe adoption in critical infrastructure. Strong communication and collaboration skills will enable you to connect AI innovations with domain experts and deliver practical, impactful solutions. 
+ Exposure to cloud-based AI environments (Azure, AWS, GCP) and industrial data pipelines for agent deployment and monitoring. 
+ Passion for bridging AI and domain expertise, ensuring responsible, explainable, and value-driven AI agent deployment in critical industrial environments. 
+
+Our Culture & Commitment to You:
+
+At Emerson, we prioritize a workplace where every employee is valued, respected, and empowered to grow. We foster an environment that encourages innovation, collaboration, and diverse perspectives—because we know that great ideas come from great teams. Our commitment to ongoing career development and growing an inclusive culture ensures you have the support to thrive. Whether through mentorship, training, or leadership opportunities, we invest in your success so you can make a lasting impact. We believe diverse teams, working together are key to driving growth and delivering business results.
+
+We recognize the importance of employee wellbeing. We prioritize providing flexible, competitive benefits plans to meet you and your family’s physical, mental, financial, and social needs. We provide a variety of medical insurance plans, with dental and vision coverage, Employee Assistance Program, 401(k), tuition reimbursement, employee resource groups, recognition, and much more. Our culture offers flexible time off plans, including paid parental leave (maternal and paternal), vacation and holiday leave.
+
+About Us
+
+WHY EMERSON
+
+Our Commitment to Our People
+
+At Emerson, we are motivated by a spirit of collaboration that helps our diverse, multicultural teams across the world drive innovation that makes the world healthier, safer, smarter, and more sustainable. And we want you to join us in our bold aspiration.
+
+We have built an engaged community of inquisitive, dedicated people who thrive knowing they are welcomed, trusted, celebrated, and empowered to solve the world’s most complex problems — for our customers, our communities, and the planet. You’ll contribute to this vital work while further developing your skills through our award-winning employee development programs. We are a proud corporate citizen in every city where we operate and are committed to our people, our communities, and the world at large. We take this responsibility seriously and strive to make a positive impact through every endeavor.
+
+At Emerson, you’ll see firsthand that our people are at the center of everything we do. So, let’s go. Let’s think differently. Learn, collaborate, and grow. Seek opportunity. Push boundaries. Be empowered to make things better. Speed up to break through. Let’s go, together.
+
+Accessibility Assistance or Accommodation
+
+If you have a disability and are having difficulty accessing or using this website to apply for a position, please contact: idisability.administrator@emerson.com .
+
+About Emerson
+
+Emerson is a global leader in automation technology and software. Through our deep domain expertise and legacy of flawless execution, Emerson helps customers in critical industries like life sciences, energy, power and renewables, chemical and advanced factory automation operate more sustainably while improving productivity, energy security and reliability.
+
+With global operations and a comprehensive portfolio of software and technology, we are helping companies implement digital transformation to measurably improve their operations, conserve valuable resources and enhance their safety.
+
+We offer equitable opportunities, celebrate diversity, and embrace challenges with confidence that, together, we can make an impact across a broad spectrum of countries and industries. Whether you’re an established professional looking for a career change, an undergraduate student exploring possibilities, or a recent graduate with an advanced degree, you’ll find your chance to make a difference with Emerson. Join our team – let’s go!
+
+No calls or agencies please.

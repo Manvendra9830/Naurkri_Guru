@@ -1,0 +1,39 @@
+About the job
+Finominal is a global financial technology company focused on empowering investors with technology, data, and research. Our insights are frequently featured in the WSJ, FT, and other leading media.
+
+Our Mission:
+
+The investment world is still full of fragmented tools, expensive software, hidden risks, high fees, and portfolios that look diversified but are often driven by the same underlying exposures. Finominal exists to change that.
+
+We are building the go-to platform for professional investors to get an independent, data-driven perspective on funds and portfolios across global markets.
+
+This backend software developer role is for someone early in their career who wants to work on real systems, learn fast, and take ownership much earlier than a typical fresher role. You will work directly with the CTO on the systems that power Finominal. 
+
+Your work will include:
+
+Making Finominal faster, safer, and more reliable
+Improving API performance, testing, monitoring, and production stability
+Finding security gaps, slow APIs, database bottlenecks, and production issues before users feel them
+Building dashboards, alerts, and metrics using tools like Sentry and Grafana
+Using AI to automate internal engineering workflows and improve how we build software
+Working on AI-driven product features
+
+This is not a role where you spend months doing isolated training tasks. You will work on production systems, real users, real APIs, real financial data, and real engineering problems.
+
+What we're looking for:
+
+Completed degree in Computer Science, Information Technology, Software Engineering, or a closely related technical field
+0 to 2 years of experience
+Strong programming ability in Python
+Good understanding of backend development, APIs, databases, and basic web security
+Comfortable working from our Bangalore office every day
+
+What we will value highly:
+
+Experience with Django, FastAPI, Flask, or similar backend frameworks
+Experience working with PostgreSQL, SQL queries, APIs, Git, and Linux
+Interest in performance optimization, testing, monitoring, and production reliability
+Curiosity about AI tools and how they can improve engineering workflows
+Interest in finance, investing, or data-heavy products
+
+Learn more about us by visiting www.finominal.com.

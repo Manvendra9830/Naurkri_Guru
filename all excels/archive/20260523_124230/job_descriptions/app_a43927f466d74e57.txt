@@ -1,0 +1,28 @@
+About the job
+About Us : 
+Barcode Entertainment: Strategic Brand Solutions, based in Mumbai, is a leading player in the Indian influencer landscape, collaborating with premium brands and influencers to deliver exceptional results. Now a part of YKONE, Barcode is expanding its global reach and redefining the influencer landscape on an international scale. We are committed to making brands not just seen but felt worldwide through forward-thinking strategies and market insights.
+
+Position Summary :
+We are looking for highly motivated AI Interns who can help build and deploy AI-driven automation solutions across Finance, HR, and Legal operations. This role is focused on creating agentic AI workflows that improve operational efficiency, automate repetitive tasks, and enhance internal decision-making systems. The selected candidates will work on real business use cases and contribute to live AI implementations.
+
+Roles & Responsibilities :
+Build AI agents to automate internal workflows
+Develop LLM-based tools for document review, reporting, and process optimization
+Design and implement prompt engineering strategies
+Custom Solutions for operations & other workflows (eg. workflows of Influencer Marketing, Finance & HR) 
+Work on AI integrations using APIs
+Create workflow automations across internal tools
+Test, improve, and optimize AI systems for performance and reliability
+
+Skills :
+Strong understanding of AI/ML fundamentals
+Experience working with LLMs (e.g., OpenAI, Claude, etc.)
+Knowledge of APIs and automation workflows
+
+Perks :
+Hands-on experience building real-world AI systems
+Opportunity for a full-time role based on performance
+Exposure to business automation and operational AI
+
+Location : 
+Andheri, Mumbai

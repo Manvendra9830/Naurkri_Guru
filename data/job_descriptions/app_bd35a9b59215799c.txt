@@ -1,0 +1,41 @@
+About the job
+S&P Global has recently announced the intent to separate our Mobility Segment into a standalone public company.
+
+For more information, visit www.spglobal.com/mobility
+
+The Team
+
+We are the Research and Modelling team, driving innovation by building robust models and tools to support the Vehicle & Powertrain Forecast team. Our work includes all aspects of the development of, and ongoing support for, our business line’s statistical models, machine learning solutions, and analyst tools. We value ownership, adaptability, and a passion for learning, while fostering an environment where diverse perspectives and mentorship fuel continuous growth.
+
+Responsibilities And Impact
+
+Support Senior Data Scientists: Work closely with senior team members to assist in training, testing, and validating models. Help translate their mathematical logic into functional code.
+Continuous Learning: Actively participate in technical discussions and model planning sessions to build your understanding of the AI lifecycles.
+Workflow Automation: Identify manual data delivery tasks that slow the team down and practice your coding skills by converting them into reliable, automated Python pipelines.
+Python Development: Write clean, efficient, and maintainable Python scripts to support daily analysis and model development.
+Innovation & GenAI: Collaborate with the team to research and prototype using new libraries and frameworks to keep our tech stack on the cutting edge
+
+Required Qualifications
+
+What We are Looking For:
+
+Education: Recent Graduate (Bachelor's or Master's) in Computer Science, Data Science, Engineering, or a related quantitative field.
+Experience: 1 to 3 years of experience working in a data science role (Internships and academic projects count)
+Python First: Strong proficiency in Python is a must. You should be comfortable with libraries like Pandas, NumPy, and Scikit-Learn.
+ML Familiarity: A solid theoretical understanding of Machine Learning concepts (Regression, Classification, Model Tuning).
+Scripting: Ability to write scripts to automate tasks.
+SQL: Basic ability to query databases to retrieve necessary data.
+
+Soft Skills
+
+Eager to Learn: You are humble, curious, and excited to absorb knowledge from senior team members.
+Collaborative: You enjoy working in a team and supporting others to achieve a shared goal.
+
+Preferred Skills
+
+Exposure to Generative AI frameworks.
+Experience or strong interest in the Automotive industry.
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+
+It is the policy of Mobility to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Mobility will provide reasonable accommodations for qualified individuals with disabilities.

@@ -1,0 +1,9 @@
+About the job
+Python ML
+
+ We are looking for smart, self-driven, enthusiastic talents with top notch communication skills, intellectual curiosity and passion for technology in Machine Learning Space. Our analysts have a blend of in-depth domain expertise in one or more areas (in Retail and CPG Domain), strong business acumen and excellent soft skills & Exposure to Technology
+ Collaborate with data scientists, ML engineers, and product teams to integrate AI models into domain-specific applications
+ Contribute to code reviews, documentation, and Python development best practices
+ Strong Python ML proficiency with experience in FastAPI, asyncio, modular application design, and parallel processing
+
+LLM

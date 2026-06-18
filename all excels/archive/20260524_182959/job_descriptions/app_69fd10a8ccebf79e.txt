@@ -1,0 +1,64 @@
+About the job
+We're helping an AI startup based out of Delhi founded by IIT and IIM Alumni hire a Voice AI Engineer.
+
+About the Role
+We are looking for a Voice AI Engineer to build and improve real-time voice agents that can handle natural, reliable, human-like conversations over phone calls. You will work across speech, LLMs, telephony, backend systems, and agent orchestration to build production-grade AI calling experiences.
+
+This role is ideal for someone who has hands-on experience building voice agents, understands the latency and reliability challenges of real-time audio, and can own systems end-to-end from prototype to production.
+
+Responsibilities
+Build and maintain real-time Voice AI agents for inbound and outbound calls.
+Work with speech-to-text, text-to-speech, LLMs, and voice orchestration pipelines.
+Integrate with telephony platforms such as Twilio, Plivo, Exotel, Vonage, or similar.
+Design low-latency conversation flows with interruption handling, turn-taking, retries, fallbacks, and human handoff.
+Improve agent quality across:
+Latency
+Accuracy
+Naturalness
+Conversation completion rate
+User satisfaction
+Build backend services for call handling, logging, analytics, and agent state management.
+Integrate voice agents with CRMs, EMRs, scheduling tools, internal dashboards, databases, and APIs.
+Create evaluation frameworks for voice agent performance, including call success rate, hallucination rate, escalation rate, and transcription quality.
+Debug production issues related to audio streams, WebSockets, telephony failures, latency spikes, and LLM behavior.
+Collaborate with product, design, and operations teams to ship reliable voice experiences for real users.
+
+Requirements
+1+ years of hands-on engineering experience.
+Experience building Voice AI agents, conversational AI systems, or real-time audio applications.
+Strong backend engineering skills in Python, Node.js, TypeScript, or Go.
+Experience working with LLM APIs such as OpenAI, Anthropic, Gemini, or open-source models.
+Familiarity with speech-to-text and text-to-speech systems such as Deepgram, AssemblyAI, Whisper, ElevenLabs, Cartesia, PlayHT, Azure Speech, Google Speech, or similar.
+Experience with WebSockets, streaming APIs, async processing, and event-driven systems.
+Understanding of real-time voice challenges such as:
+Latency optimization
+Barge-in / interruption handling
+Silence detection
+Voice activity detection
+Turn detection
+Audio quality issues
+Call drops and retries
+Ability to write clean, reliable, production-ready code.
+Strong debugging skills and comfort working with ambiguous problems.
+
+Good to Have
+Experience with Twilio Media Streams, SIP, IVR systems, call routing, or PSTN infrastructure.
+Experience building voice agents using frameworks such as LiveKit Agents, Vapi, Retell, Bland, Pipecat, Daily, or similar.
+Experience with RAG, tool calling, agentic workflows, and structured outputs.
+Experience with healthcare, fintech, logistics, customer support, sales, or operations voice workflows.
+Experience building dashboards for call review, QA, analytics, and human-in-the-loop correction.
+Knowledge of prompt engineering, conversation design, and LLM evaluation.
+Experience deploying systems on AWS, GCP, Azure, Railway, Render, or similar.
+Familiarity with compliance-sensitive environments such as HIPAA, SOC 2, or GDPR is a plus.
+
+What You’ll Work On
+AI agents that can make and receive phone calls.
+Real-time conversation systems with low latency.
+Voice workflows for scheduling, reminders, support, qualification, follow-ups, and data collection.
+Integrations with internal tools and third-party platforms.
+Evaluation systems to continuously improve agent reliability.
+Infrastructure that can scale from demos to production usage.
+
+Ideal Candidate
+You are someone who has actually built voice agents or real-time conversational systems, not just chatbots. You understand that voice AI is different from text AI because users expect fast responses, smooth turn-taking, natural speech, and high reliability.
+You are comfortable working across the full stack: audio streaming, LLMs, backend APIs, telephony, databases, and deployment. You enjoy debugging hard production issues and improving systems through fast iteration.

@@ -1,0 +1,36 @@
+About the job
+JOB OVERVIEW
+We are seeking a talented and passionate AI Engineer (preferably from IITs) who will be responsible for conducting research and developing new technologies to improve our products and processes and integrating AI into engineering practices. Being confined to outdated technologies; we encourage an environment that thrives on dynamic tech stacks, fostering continuous innovation.
+If you have a strong background in engineering and a desire to innovate, this is the position for you!
+
+ROLES & RESPONSIBILITIES
+Perform market research on latest technologies, AI and machine learning to ensure the team is using the best tools and practices.
+Develop fully functional features, using AI tools to expedite delivery and enhance quality.
+Perform experiments with AI to enhance engineering processes, including decomposition, solution design, code generation, and troubleshooting.
+Document the best practices and techniques in guides that enable others to harness the power of generative AI effectively.
+Collaborate with cross-functional teams, including designers and backend developers, to implement robust and scalable solutions using React.js and Next.js
+Research third-party software and perform integration, as required.
+Write clean, maintainable, and efficient code while adhering to best practices in software development.
+Optimize applications for maximum speed and scalability.
+Troubleshoot, debug, and resolve issues reported by users or identified through testing.
+Collaborate with other team members to define and implement innovative solutions for project direction, visuals, and experience.
+
+SKILLS REQUIRED
+Passionate about research on latest technology and AI trends.
+Basic understanding of front-end development, Next.js and React.js.
+Solid understanding of JavaScript, HTML, CSS, and related web technologies.
+Strong knowledge of database SQL.
+Understanding version control systems, particularly Git.
+Ability to work collaboratively in a team environment and communicate effectively.
+Strong problem-solving skills and attention to detail.
+Knowledge of web performance optimization techniques.
+Proficient in Azure DevOps environment.
+
+ABOUT YOU
+You're curious about new technologies and Artificial Intelligence and you are driven to find ways to implement them in your work.
+Preferred from IIT/ BITS (Bachelors). Freshers also can apply
+You have a big appetite to learn and improve your technical skills.
+You are analytical and you have a keen eye for details.
+You have great problem-solving skills, and you work well in a team.
+You have knowledge of the entire web development process.
+Excited to use and explore new generative AI tools for software engineering tasks on a day-to-day basis.

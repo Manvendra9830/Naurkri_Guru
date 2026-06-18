@@ -1,0 +1,34 @@
+About the job
+About MethdAI
+Our Physical Intelligence initiative is where cutting-edge robotics meets real-world deployment — and we're just getting started. We are building humanoid robots that think, adapt, and act. If you want your code to move steel and change what robots can do in the real world, this is your seat at the table.
+
+The Role
+We are looking for a Reinforcement Learning Engineer who is equal parts researcher and builder. You will own the full RL pipeline — from policy design in simulation to hardware deployment on a real humanoid robot. This is a foundational hire on an early-stage team where your decisions directly shape the product and the science behind it.
+
+What You'll Work On
+Design and iterate on RL-based grasping policies for real-world robotic manipulation tasks, pushing the boundaries of what our humanoid arm can autonomously achieve.
+Benchmark SB3 algorithms (PPO, SAC, TD3, and beyond) against manipulation and locomotion tasks, building rigorous evaluation pipelines to guide algorithm selection
+Build and maintain sim-to-real pipelines — closing the gap between simulated training environments and the behaviour of physical hardware.
+Deploy trained policies on real humanoid hardware, collaborating closely with the robotics team on integration, testing, and iteration.
+Instrument and evaluate experiments end-to-end: reward shaping, exploration tuning, policy stability, and transfer robustness
+
+What We're Looking For
+Must-Have:
+M-Tech in AI/Robotics or B-Tech/M-Tech in Computer Science, Electrical or Mechanical Engineering
+Strong Python skills with a commitment to clean, modular, and testable code
+Solid command of RL fundamentals: MDPs, policy gradients, value functions, actor-critic architectures, reward shaping, and exploration strategies
+Hands-on experience training and comparing policies using Stable Baselines3 (PPO, SAC, TD3, or equivalents)
+Working knowledge of robotic arm kinematics and the sim-to-real transfer problem
+Ability to operate independently in an ambiguous, fast-moving environment
+Nice-to-Have:
+Experience with simulation platforms such as MuJoCo or Isaac Sim
+Familiarity with imitation learning, behaviour cloning, or inverse RL
+Prior work deploying policies on physical robotic hardware
+Contributions to open-source RL or robotics middleware (e.g., ROS/ROS2)
+
+What We Offer
+Hands-on access to real humanoid hardware — you'll deploy and test policies on an actual robot, not just in simulation
+Full creative freedom to explore approaches; we value intellectual courage and novel thinking over rigid playbooks
+A rare opportunity to be an early team member shaping the product, the codebase, and the culture of Physical Intelligence at MethdAI
+Direct mentorship and collaboration in a high-ownership, low-bureaucracy environment
+Competitive compensation commensurate with experience

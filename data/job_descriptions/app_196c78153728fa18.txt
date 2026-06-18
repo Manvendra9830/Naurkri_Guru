@@ -1,0 +1,14 @@
+About the job
+Company Description
+ Spraxa Solutions Pvt Ltd is an innovative company specializing in emerging technologies like IoT, Artificial Intelligence (AI), and cutting-edge advancements. With a commitment to leveraging expertise in these domains, Spraxa Solutions delivers tailored and transformative solutions for its clients. The company fosters a culture of innovation and technological advancement, making it a dynamic workplace for individuals passionate about technology.
+ Role Description
+ This is a full-time, on-site role for a Computer Vision Engineer, based in Noida. The role involves designing and developing computer vision algorithms and systems to solve real-world problems. Responsibilities include implementing solutions for pattern recognition, leveraging machine learning techniques, and collaborating with interdisciplinary teams to integrate computer vision models into broader systems. The candidate will also work on projects related to robotics and data science, driving innovation and efficiency in line with company objectives.
+ Qualifications
+  Strong expertise in Computer Vision and Pattern Recognition
+Proficiency in Data Science and familiarity with Machine Learning algorithms
+Background in Computer Science with knowledge of key programming languages and frameworks
+Experience in Robotics and its integration with machine learning solutions
+Problem-solving mindset with the ability to work both collaboratively and independently
+Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, or a related field
+Proficiency in Python, C++, or relevant programming languages is a plus
+Experience working with popular libraries and tools such as TensorFlow, OpenCV, or PyTorch is advantageous

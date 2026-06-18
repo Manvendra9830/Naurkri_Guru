@@ -1,0 +1,39 @@
+About the job
+We’re hiring a Gen AI Engineer at Unimad.
+
+📍 Remote (India only)
+💼 Full-time
+
+And no, this is not a “prompt engineer” role.
+
+If your understanding of AI is:
+“write a better prompt and hope for the best", this probably isn’t for you. 
+
+We’re building AI systems that help students go from ghosted → hired.
+That means working on things like:
+
+→ Agentic workflows
+→ Tool calling
+→ Structured outputs
+→ Multi-agent systems
+→ Memory + reasoning flows
+→ AI behaviour optimisation
+→ Hallucination reduction
+→ Production-ready LLM workflows
+
+You’ll work directly with our CTO to improve Unibot and help build future AI products inside Unimad.
+
+What we care about:
+
+🐍 Comfortable with Python
+⚙️ You can think in systems, not just prompts
+🧠 You understand how LLMs actually behave
+💻 Can work a bit with JavaScript/backend integrations
+🚀 You love building, testing, breaking, and rebuilding
+
+Bonus if you’ve worked with:
+LangChain / LangGraph / CrewAI / RAG / MCP / agents
+
+This is for someone who wants to build real AI products, not AI demos.
+
+Let’s build something MAD 🤟

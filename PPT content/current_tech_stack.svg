@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <text x="54" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700" fill="#172033">Current Tech Stack Used</text>
+  <text x="54" y="91" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#526077">Local automation stack for browser control, AI assistance, storage, email sync, and reporting</text>
+
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#20304a" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(70,138)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#3776ab"/>
+      <text x="51" y="61" text-anchor="middle" font-size="23" font-weight="700" fill="#ffffff">PY</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">Python</text>
+      <text x="101" y="75" font-size="14" fill="#526077">Core language</text>
+    </g>
+
+    <g transform="translate(365,138)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#43b02a"/>
+      <text x="51" y="61" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">Se</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">Selenium</text>
+      <text x="101" y="75" font-size="14" fill="#526077">Browser automation</text>
+    </g>
+
+    <g transform="translate(660,138)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#f4b400"/>
+      <text x="51" y="61" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">UC</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">Undetected</text>
+      <text x="101" y="75" font-size="14" fill="#526077">Chrome driver startup</text>
+    </g>
+
+    <g transform="translate(955,138)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#0f9d58"/>
+      <text x="51" y="61" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">SQL</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">SQLite</text>
+      <text x="101" y="75" font-size="14" fill="#526077">Local normalized DB</text>
+    </g>
+
+    <g transform="translate(70,306)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#150458"/>
+      <text x="51" y="61" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">PD</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">Pandas</text>
+      <text x="101" y="75" font-size="14" fill="#526077">CSV/XLSX cleanup</text>
+    </g>
+
+    <g transform="translate(365,306)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#217346"/>
+      <text x="51" y="61" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">XLS</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">OpenPyXL</text>
+      <text x="101" y="75" font-size="14" fill="#526077">Excel exports</text>
+    </g>
+
+    <g transform="translate(660,306)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#ea4335"/>
+      <text x="51" y="61" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">G</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">Gmail</text>
+      <text x="101" y="75" font-size="14" fill="#526077">IMAP sync, SMTP mail</text>
+    </g>
+
+    <g transform="translate(955,306)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#4285f4"/>
+      <text x="51" y="61" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">AI</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">LLM APIs</text>
+      <text x="101" y="75" font-size="14" fill="#526077">Gemini, OpenAI, DeepSeek</text>
+    </g>
+
+    <g transform="translate(70,474)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#6a7f2a"/>
+      <text x="51" y="61" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">BS4</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">BeautifulSoup</text>
+      <text x="101" y="75" font-size="14" fill="#526077">HTML parsing</text>
+    </g>
+
+    <g transform="translate(365,474)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#2a6f97"/>
+      <text x="51" y="61" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">REQ</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">Requests</text>
+      <text x="101" y="75" font-size="14" fill="#526077">HTTP helpers</text>
+    </g>
+
+    <g transform="translate(660,474)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#7c3aed"/>
+      <text x="51" y="61" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">GUI</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">PyAutoGUI</text>
+      <text x="101" y="75" font-size="14" fill="#526077">Local prompts</text>
+    </g>
+
+    <g transform="translate(955,474)" filter="url(#shadow)">
+      <rect width="250" height="118" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="22" y="24" width="58" height="58" rx="8" fill="#111827"/>
+      <text x="51" y="61" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">API</text>
+      <text x="101" y="48" font-size="22" font-weight="700" fill="#172033">Flask</text>
+      <text x="101" y="75" font-size="14" fill="#526077">Local dashboard/API</text>
+    </g>
+  </g>
+
+  <rect x="54" y="642" width="1172" height="36" rx="6" fill="#eef3f8"/>
+  <text x="640" y="665" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#526077">Architecture focus: reliable local automation first, lightweight data storage second, AI support where it improves application quality.</text>
+</svg>

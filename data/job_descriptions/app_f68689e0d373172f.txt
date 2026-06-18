@@ -1,0 +1,72 @@
+About the job
+OneNDF is a digital platform helping MSMEs and business owners access the right debt financing solutions through a network of 120+ lenders.
+We are building the next layer of lending automation — where AI voice agents can speak to customers, qualify leads, capture information, trigger WhatsApp follow-ups, and update CRM workflows intelligently.
+We are looking for a hands-on builder who can work at the intersection of AI agents, voice technology, backend development, and CRM systems.
+Role: AI Agent & Django CRM Developer
+This is an exciting opportunity for someone who wants to build real products from scratch — not just maintain code.
+You will help OneNDF build AI voice agents that can interact with customers and an internal CRM system using Django that helps our sales, telecalling, and relationship management teams track every lead from first call to loan disbursement.
+What You’ll Build
+You will work on building systems such as:
+AI voice agents for inbound and outbound calls
+Conversation flows for loan lead qualification
+Customer intent detection and response capture
+Call summaries and lead scoring
+WhatsApp follow-up automation after calls
+CRM dashboards for telecallers, team leaders, RMs, and admins
+Lead assignment and follow-up workflows
+Document collection tracking
+Campaign-wise lead management
+Partner and referral pipeline tracking
+MIS and reporting dashboards
+Key Responsibilities
+Build AI voice agents from scratch using LLMs, speech-to-text, text-to-speech, and telephony APIs
+Design conversation flows for products like Loan Against Property, Home Loan, Working Capital, School Financing, and Business Loans
+Integrate AI agents with CRM, WhatsApp, telephony systems, and internal dashboards
+Build backend modules using Python, Django, and Django REST Framework
+Create database models for leads, customers, users, products, documents, call logs, and follow-ups
+Develop APIs for frontend and third-party integrations
+Build role-based CRM workflows for telecallers, team leaders, relationship managers, and admins
+Create lead disposition flows such as hot, warm, cold, not interested, incomplete documents, and not eligible
+Work on prompt engineering, call summaries, intent detection, and lead qualification logic
+Continuously test, improve, and monitor AI agent performance using real business data
+Skills We’re Looking For
+Strong knowledge of Python
+Experience or interest in Django / Django REST Framework
+Understanding of APIs, databases, and backend workflows
+Interest in AI agents, LLMs, voice bots, and automation
+Exposure to tools such as OpenAI, Twilio, Exotel, ElevenLabs, Deepgram, Google Speech, or similar platforms is a plus
+Basic understanding of frontend technologies like HTML, CSS, JavaScript, or React is a plus
+Ability to think through business workflows and convert them into working systems
+Good problem-solving skills and willingness to experiment
+Interest in FinTech, lending, CRM, or sales automation
+Who Should Apply
+This role is perfect for someone who:
+Loves building products from scratch
+Is excited by AI, voice agents, and automation
+Can work across backend, APIs, and workflows
+Wants to build tools that real business teams will use daily
+Is comfortable learning fast and shipping faster
+Enjoys solving messy real-world problems with technology
+Wants exposure to FinTech, lending operations, CRM, and AI-led business automation
+Internship Track
+We are also open to interns who are strong in Python and excited to learn AI agents and Django CRM development.
+As an intern, you will work on:
+Creating AI conversation flows
+Testing voice agents
+Writing prompts and fallback flows
+Building Django models and APIs
+Creating small CRM modules
+Integrating call logs, WhatsApp flows, and lead status updates
+Supporting real product development for OneNDF’s internal teams
+This is not a dummy internship. You will work on live business use cases.
+Why Join OneNDF?
+At OneNDF, you will be part of a team building intelligent systems for the future of business lending.
+You will get hands-on exposure to:
+AI voice agent development
+Conversational AI
+Django CRM architecture
+Lending workflows
+Lead qualification automation
+WhatsApp and telephony integrations
+Real startup product building
+This is a role for someone who does not just want to code — but wants to build, experiment, deploy, and see real impact.

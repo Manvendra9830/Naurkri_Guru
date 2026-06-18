@@ -1,0 +1,63 @@
+About the job
+🚨** Immediate Joiners Only - Please apply only if you're available to start right away. If you're currently serving a notice period or cannot join immediately, we kindly ask that you refrain from applying. **
+
+***We're only interested in candidates who have experience working with AI Agent frameworks—such as LangChain, Langraph , AutoGen, CrewAI, Auto-GPT, or custom-built systems. If you've explored multi-agent coordination, autonomous task execution, memory management, or tool-based reasoning using LLMs,***
+
+Position: Machine Learning Engineer (Entry-Level, LLM Focus)
+Location: Fully Remote (India-Based)
+Start Date: Immediate
+Format: Full time
+
+Compensation: Competitive Salary + Strong Equity Offering + Benefits
+
+Who We Are
+Gabeo.ai is a cutting-edge health tech startup based in the Bay Area (USA), collaborating with industry leaders like Astrana Health, Athena Health and Rebound Orthopedics. Our goal? Transform the healthcare revenue cycle by using advanced AI to tackle denied medical claims—one of the sector’s biggest financial headaches.
+
+At Gabeo.ai, we pride ourselves on:
+
+Innovation: We push boundaries and welcome out-of-the-box thinking.
+Collaboration: We’re a tight-knit team that values open communication.
+Impact: Your work will directly influence our AI-driven products and customer outcomes.
+
+Role Overview
+
+At Gabeo.ai, we are pioneering AI Agent Frameworks designed to automate and optimize complex tasks within healthcare revenue cycle management. These intelligent agents leverage Large Language Models (LLMs) and specialized domain knowledge to autonomously analyze claim data, predict denials, and execute strategic interventions. By continuously learning from real-world feedback and historical patterns, our agent-based systems evolve over time, adapting to new payer policies and medical coding updates. The result is a robust, scalable framework that reduces manual workload, accelerates claim resolution, and drives financial efficiency for healthcare providers. We’re seeking an entry-level Machine Learning Engineer with a keen interest in Large Language Models (LLMs)and NLP. You’ll join our global team to develop and refine AI models for U.S. healthcare revenue cycle management. This position offers real-world exposure to cutting-edge AI in a domain that truly needs innovation.
+
+Note: While we encourage applications from candidates who have graduated from top-tier Indian institutes (e.g., IIT, NIT, IIIT, BITS, etc.), we welcome all qualified applicants who demonstrate strong fundamentals and a passion for AI.
+
+Key Responsibilities
+
+Model Development: Collaborate on designing, developing, and optimizing ML models—AI Agents - particularly LLMs—for tasks like claim denial analysis and predictive analytics.
+Data Handling: Assist in data collection, preprocessing, and feature engineering specific to healthcare RCM (Revenue Cycle Management) problems.
+Research & Experimentation: Stay updated with the latest AI/ML trends and apply new techniques to improve model performance.
+Integration & Deployment: Work closely with senior engineers to integrate models into production environments, ensuring scalability and reliability.
+Performance Monitoring: Help monitor model accuracy and efficiency, proposing iterative improvements based on feedback and metrics.
+
+Qualifications
+
+Education: Bachelor’s or Master’s degree in Computer Science, Machine Learning, Data Science, or related fields.
+Graduates from IIT, NIT, IIIT, BITS, or equivalent institutions are strongly encouraged to apply.
+Technical Skills:
+Proficiency in Python and popular ML frameworks (e.g., TensorFlow, PyTorch).
+Familiarity with NLP techniques, LLMs, and transformer-based architectures.
+Problem-Solving: Eagerness to tackle complex datasets and real-world issues in the U.S. healthcare domain.
+Team Player: Ability to communicate effectively with a distributed team, including data scientists, product managers, and domain experts.
+
+What We Offer
+
+Real-World Impact: Contribute to AI solutions that directly benefit healthcare providers and patients.
+Mentorship & Growth: Learn from experienced data scientists and healthcare tech specialists.
+Competitive Package: Enjoy a market-aligned salary plus strong equity for an ownership stake in Gabeo.ai’s success.
+Remote Flexibility: Work from anywhere in India, collaborating with a global, diverse team.
+
+Why Join Gabeo.ai?
+
+High-Growth Environment: We’re rapidly expanding, offering plenty of opportunities for leadership and skill development.
+Cutting-Edge AI: Work on advanced ML/AI projects that push the boundaries of LLM applications in healthcare.
+Startup Culture: Enjoy a fast-paced setting where your ideas can quickly translate to tangible impact.
+
+How to Apply
+
+Ready to kick-start your AI career and transform healthcare with Gabeo.ai? Apply now with your CV, Github/portfolio links, and a brief description of your most exciting AI/ML project.
+Please Note: We are currently accepting applications only from India-based candidates who are either recent graduates or early-career professionals. While a background in US healthcare is a plus, it is not mandatory—we value strong ML fundamentals and a willingness to learn.
+Join us in redefining healthcare revenue cycle management through the power of AI and LLMs!

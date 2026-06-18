@@ -1,0 +1,33 @@
+About the job
+Location: Remote eligible across India. Role can be based in Chennai, Tamil Nadu.
+
+We are seeking a versatile and intellectually curious Software Engineer to build the core platform that powers our intelligent applications. This role is perfect for a proactive learner who is passionate about the rapidly evolving AI landscape. If you are a doer, who gets things done & envisions large scale impact, this role is for you. 
+
+You will be responsible for translating cutting-edge concepts into a scalable and resilient service layer that orchestrates requests across various machine learning models.
+
+Key Responsibilities:
+Design, build, and maintain a high-performance REST API gateway for our AI services.
+Develop user interfaces and dashboards for service monitoring, configuration, and analytics.
+Deploy and manage secure, scalable cloud infrastructure on AWS.
+Implement robust systems for authentication, rate limiting, and request logging.
+Not afraid to put on a new hat to help the team in uncharted territory. 
+
+Core Skills & Qualifications:
+Versatile Engineering: Exceptional ability to learn quickly and adapt. You are a problem-solver who thrives on tackling new challenges across the entire technology stack even in a time crunch.
+Backend Development: Proven experience building and scaling RESTful APIs using Python or another modern language (e.g., Node.js etc).
+Frontend Development: Proficiency in building user interfaces with a modern JavaScript framework (e.g., React, Vue, Svelte).
+AWS Infrastructure: Hands-on experience with core AWS services such as EC2, Lambda, API Gateway, IAM, and S3.
+ML Research Experience: Academic or industry publications are a plus, but not mandatory.
+Speed in implementation/debugging; Truly cares about the ML innovation; Ability to identify personal skillset gaps and learning them at a high-pace. 
+
+Preferred Qualifications:
+Infrastructure as Code: Strong preference for experience with Terraform.
+AI/ML Acumen: A demonstrated interest and ability to read and understand state-of-the-art research papers in AI/ML.
+Containerization: Familiarity with Docker and/or Kubernetes.
+
+We will provide:
+Freedom to Contribute to Research literature
+A supportive thriving environment
+Team willing to listen
+Work flexibility as long as the job gets done & the scale of engagement/impact grows
+A long term growth trajectory tied to company growth

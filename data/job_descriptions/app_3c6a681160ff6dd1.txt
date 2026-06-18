@@ -1,0 +1,49 @@
+About the job
+QA AI Testing Engineer
+
+Unlock your potential with Dassault Systèmes, a global leader in Scientific Software Engineering as a QA AI Testing Engineer in Pune, Maharashtra.
+
+In our India organization, we are looking for a strongly motivated QA Engineer who will have a fundamental role in enabling business and industry innovators to collaboratively build and execute a successful plan, transforming market opportunities into marketplace advantages. As a Software Test Engineer, you will be participating in Qualification of Web and/or Client-Server Applications. These Applications are used by our customers to design, develop, produce and market their Products and/or Services to end consumers. You will work directly with Product Define, Development, Testing, Project Management teams to ensure we are delivering high-quality, innovative products with an emphasis on speed to market and sustainability. You will lead in execution and team adoption of testing, automation tools & best practices.
+
+Role Description & Responsibilities-:
+
+ Develop and maintain frameworks to test AI applications, with a focus on AI/ML models.
+ Ensure reliability, safety, and performance of AI-driven applications, specifically those utilizing Large Language Models (LLMs).
+ Design and implement tests for AI-powered applications, ensuring functionality, accuracy, and performance.
+ Synthetics data generation using LLM/ Prompt Engineering for Data Generation
+ Utilize frameworks like Pytest to ensure thorough and automated testing. Or identifying right framework for test,
+ Collaborate with cross-functional teams to understand AI/ML models and apply appropriate testing techniques.
+ Work with Python to build and integrate test solutions for AI-related features.
+ Stay updated with emerging RAG (Retrieval-Augmented Generation) models, LLM-as-a-judge and best practices for AI testing.
+
+Technologies with which you have a chance to work with:
+
+ You will be developing AI test frameworks to automate the process of testing applications/software.
+ Python (Must Have for AI/ML workflows)
+ Good understanding of AI/LLM concepts (Deep understanding of Generative AI, RAG architectures, prompt engineering, and vector databases.)
+ Evaluation Frameworks: Hands-on experience with tools like Ragas, DeepEval, Promptflow, LangSmith, or Gantry
+ Statistical Thinking: Ability to apply scoring rubrics and understand variance, distributions, and confidence intervals in probabilistic outputs (Good to have)
+ Basic JavaScript (Good to have)
+
+Qualifications:
+
+ Engineering with 60% through out in all academics.
+ 1-8 Years Experience in QA Testing and AI
+ You ideally justify a first experience in Python development skills.
+ You have a pronounced taste for software quality and the proper functioning of AI based applications with advanced skills in Test Design and Coverage.
+ Experience working with CI/CD tools Jenkins, SVN, Git Lab.
+ Good to have experience with API, Database Test /UI automation.
+ Your curiosity, your rigor, your pro-activity as well as your interpersonal skills will be essential to succeed in this position.
+ You are fluent in written and spoken English.
+
+What is in it for you?
+
+ Work in a culture of collaboration and innovation
+ Be at the forefront of building software products that are being deployed in mission-critical projects world wide.
+ Be offered avenues to develop yourself for career progression
+ Not a low-level development opportunity, as you would get to work in the real business world and with a wide range of customers & coworkers
+ Work on a variety of technologies, products and solutions
+
+Inclusion statement
+
+As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future.

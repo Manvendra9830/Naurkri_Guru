@@ -1,0 +1,42 @@
+About the job
+Company Description
+
+Punctuations is a fast-growing AI-focused technology company specializing in chatbot development, AI vision, and content generation using Large Language Models (LLMs). Our mission is to empower businesses through intelligent automation and data-driven solutions. We are a team of engineers and innovators passionate about solving complex problems and delivering measurable impact.
+
+About the Role
+
+We are looking for a passionate and motivated Python Developer to join our development team. In this role, you will work closely with experienced developers to design, build, and maintain scalable web applications while contributing to innovative AI-driven solutions.
+
+Key Responsibilities
+Develop, test, and maintain backend applications using Python (Django, Flask, or FastAPI).
+Build and maintain web applications and software solutions.
+Integrate and work with RESTful APIs.
+Write clean, efficient, and maintainable code following best practices.
+Collaborate with cross-functional teams including design, product, and QA.
+Troubleshoot, debug, and enhance existing applications.
+Participate in code reviews and contribute to continuous improvement initiatives.
+
+Required Skills & Qualifications
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+Strong knowledge of Python programming.
+Basic understanding of web development technologies.
+Familiarity with Django, Flask, or FastAPI frameworks.
+Understanding of REST APIs, JSON, and database systems such as MySQL, PostgreSQL, or MongoDB.
+Basic knowledge of Git and version control systems.
+Strong analytical, problem-solving, and communication skills.
+Ability to learn quickly and adapt in a fast-paced environment.
+
+Preferred Skills
+Knowledge of Docker or cloud platforms (AWS, Azure, or GCP).
+Understanding of software development best practices.
+Familiarity with unit testing and CI/CD concepts.
+
+Why Join Us?
+Work on cutting-edge AI and software development projects.
+Gain hands-on experience with modern technologies and scalable systems.
+Collaborate with a talented and innovative team.
+Enjoy continuous learning and professional growth opportunities.
+
+If you're a motivated individual who is passionate about managing high-quality software and wants to work in a collaborative and innovative environment, we would love to hear from you.
+
+If you prefer to email your CV, please send it to careers@punctuations.ai

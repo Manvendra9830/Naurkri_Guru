@@ -1,0 +1,15 @@
+About the job
+Role Description
+This is a hybrid role for a Generative AI Engineer, located in the Greater Bengaluru Area with flexibility for remote work. In this position, you will work on designing and developing generative AI models, fine-tuning pre-trained models, and integrating AI solutions into production systems. Day-to-day tasks include collaborating with teams to identify use cases, optimizing model performance, and ensuring scalability and robustness of AI systems. Additionally, you may be involved in researching emerging trends and documenting technical processes.
+
+Qualifications
+Strong foundation in Machine Learning, Deep Learning, and Artificial Intelligence
+Experience with Generative AI models (e.g., GANs, VAEs, or large language models)
+Proficiency in Python, TensorFlow, PyTorch, or related programming and framework tools
+Knowledge of data pre-processing, dataset curation, and handling unstructured data
+Ability to integrate, deploy, and scale AI models within production systems
+Strong problem-solving skills and ability to innovate with AI technologies
+Excellent communication skills to collaborate with cross-functional teams
+Bachelor’s or Master’s degree in Computer Science, Data Science, or a related field
+Prior experience with natural language processing (NLP) or computer vision applications is a plus
+Knowledge of cloud platforms (e.g., AWS, Azure, Google Cloud) is beneficial

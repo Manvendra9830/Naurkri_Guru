@@ -1,0 +1,62 @@
+About the job
+Location: Remote / India
+Type: Founding Team | Equity-Based | Part-Time / Full-Time
+Compensation: Equity Only (No fixed salary initially)
+
+We are building AI-first products from the ground up and are looking for early builders who want ownership, impact, and the opportunity to create something meaningful from day one.
+Current products:
+Aptolix – AI solutions helping businesses automate workflows and improve operations
+Prepwll – Adaptive AI-powered learning platform designed to personalize student preparation and improve outcomes through AI-driven learning experiences.
+This is not a traditional job opportunity. We’re looking for founding team members excited about building in a fast-moving startup environment and comfortable joining an equity-first journey.
+
+What You'll Do
+Build and ship product features end-to-end
+Work on AI integrations and product workflows
+Collaborate on architecture, product ideas, and experimentation
+Move quickly from idea → prototype → implementation
+Solve real-world problems with speed and ownership
+Take initiative rather than waiting for assigned tasks
+
+Who Should Apply
+We care more about what you’ve built than years of experience.
+Open to anyone with hands-on experience — from students currently pursuing their degree to recent graduates and experienced full-stack developers. Part-time or full-time participation is welcome.
+Builders who have worked on:
+Side projects
+AI applications
+Hackathons
+Startups
+Open-source projects
+Personal experiments
+
+You may be a fit if you:
+Want to work toward a bigger vision, not just complete assigned tasks
+Think long term and see value in ownership and growth
+Want to create something meaningful and grow alongside it
+Take ownership instead of waiting for direction
+Enjoy building things from scratch
+Learn quickly and adapt fast
+Are comfortable with startup uncertainty and moving fast
+Looking for people who want to create, own, and build for the long term — not just execute tasks.
+
+Preferred Skills (Not Mandatory)
+React / Next.js
+Node.js
+Python
+AI / LLM APIs
+Databases / Supabase
+Cloud platforms
+Full-stack product development
+We value problem-solving and execution more than specific technologies.
+
+Important
+This is an equity-only founding team opportunity initially. No fixed salary at this stage.
+
+Please apply with:
+GitHub / Portfolio / LinkedIn
+Projects you’ve built
+The coolest thing you’ve created so far
+Why early-stage startups interest you
+
+If you enjoy building, experimenting, and want to be part of creating products from the ground up, we’d love to hear from you.
+
+Send your resume or LinkedIn profile to careers@aptolix.com 

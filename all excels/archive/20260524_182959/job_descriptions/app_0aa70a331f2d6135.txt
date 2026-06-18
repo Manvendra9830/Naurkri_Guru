@@ -1,0 +1,34 @@
+About the job
+Junior Machine Learning Engineer (Machine Learning AI)
+ 
+Join us to advance data science and machine learning.
+ 
+ClearML is a rapidly growing open source MLOps platform that helps data science, ML engineering, and DevOps teams easily develop, orchestrate, and automate ML workflows at scale. Our frictionless, unified, end-to-end MLOps suite enables users and customers to focus on developing their ML code and automation, ensuring their work is reproducible and scalable. ClearML is trusted by brands such as NVIDIA, NetApp, Samsung, Hyundai, Bosch, Microsoft, Intel, IBM, and Philips.
+ 
+Overview:
+We are an open source end-to-end MLOPs platform, built by developers for developers.
+ 
+We're looking for a junior Machine Learning Engineer (Machine Learning AI) to join our growing team. In this role, you will collaborate across our development and product teams and will have a chance to collaborate with our MLOPs experts working in the exciting areas of machine learning, deep learning, DevOps, and AI.
+ 
+The ideal candidate will be a recent graduate who wants to learn how to create and fine-tune models from large amounts of raw information and optimize them You will work with our team to learn to build ML/DL data pipelines to extract valuable business insights, analyze trends, and help us make better decisions.
+ 
+We expect you to be highly analytical with a knack for analysis, math, and statistics, and a passion for machine learning and research. Critical thinking and problem-solving skills are also required.
+ 
+Responsibilities:
+- Research and analyze valuable data sources and automate processes
+- Perform preprocessing of structured and unstructured data
+- Review large amounts of information to discover trends and patterns
+- Create predictive models and machine-learning algorithms
+- Modify and combine different models through ensemble modeling
+- Organize and present information using data visualization techniques
+- Develop and suggest solutions and strategies to business challenges
+- Work together with engineering and product development teams to build and test ML/DL solutions stretching the entire spectrum of ML operationalization from data processing, model training, hyperparameter tuning, deployment, and model management.
+ 
+Requirements:
+- Graduate role, no experience necessary, remote opportunity
+- Knowledge of SQL and Python; familiarity with Scala, Java, or C++ is a plus.
+- Familiar with Kubernetes and/or perhaps similar container system
+- Strong math and analytical skills, with business acumen
+- Strong communication and presentation skills
+- Good problem-solving abilities
+- BSc or BA degree in Computer Science, Engineering or other relevant area

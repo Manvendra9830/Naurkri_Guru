@@ -1,0 +1,34 @@
+About the job
+About The Company
+
+Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprises transform AI from proof of concept into proprietary intelligence with systems that perform reliably, deliver measurable impact, and drive lasting results on the P&L.
+
+About The Role
+
+We are seeking experienced Machine Learning Engineers (MLE Bench) to join our innovative team. In this role, you will be responsible for contributing to benchmark-driven evaluation projects that focus on real-world machine learning systems. Your primary tasks will involve working hands-on with production-grade ML codebases, developing and refining model training and evaluation pipelines, and deploying workflows to assess and enhance the performance of advanced AI systems. The ideal candidate is someone who can seamlessly bridge research and engineering, working deeply with models, data, and infrastructure within realistic machine learning environments. This position offers an exciting opportunity to be at the forefront of AI evaluation, ensuring that models meet rigorous standards and perform reliably in practical applications.
+
+Qualifications
+
+The ideal candidate will possess a minimum of three years of experience as a Machine Learning Engineer or Software Engineer with a focus on ML. Proficiency in Python is essential, especially for developing and managing data workflows and ML pipelines. Hands-on experience with model training, evaluation, and inference pipelines is required, along with a solid understanding of machine learning fundamentals such as supervised and unsupervised learning, evaluation metrics, and optimization techniques. Experience working with popular ML frameworks like PyTorch, TensorFlow, or JAX is highly desirable. Candidates should demonstrate the ability to understand, navigate, and modify complex, real-world ML codebases and write clean, reusable, and maintainable production-quality code. Strong problem-solving skills, debugging capabilities, and excellent communication skills in English are also necessary to succeed in this role.
+
+Responsibilities
+
+Work with real-world ML codebases to support benchmark-driven evaluation tasks, ensuring models are assessed accurately and efficiently.
+Build, run, and modify model training, evaluation, and inference pipelines to optimize performance and reliability.
+Prepare datasets, features, and metrics tailored for ML benchmarking and validation processes.
+Debug, refactor, and enhance production-like ML systems to improve correctness, robustness, and performance.
+Evaluate model behavior, identify failure modes, and analyze edge cases relevant to benchmark tasks to inform system improvements.
+Write clean, reproducible, and well-documented Python code for various ML workflows, ensuring clarity and maintainability.
+Participate in code reviews to uphold high standards of engineering quality and share best practices within the team.
+Collaborate with researchers and engineers to design challenging, real-world ML engineering tasks that facilitate comprehensive AI system evaluation.
+
+Benefits
+
+Joining Turing as a freelance Machine Learning Engineer offers the flexibility of working remotely from anywhere in the world. You will have the opportunity to work on cutting-edge AI projects alongside leading LLM companies, gaining exposure to the latest advancements in artificial intelligence. Turing provides a dynamic environment where your skills can directly impact high-profile AI systems, helping shape the future of frontier AI research and deployment. Additionally, you will enjoy the freedom to choose projects that align with your expertise and interests, along with a competitive compensation structure tailored for freelancers.
+
+Equal Opportunity
+
+Turing is committed to creating a diverse and inclusive work environment. We are proud to be an equal opportunity employer and do not discriminate based on race, religion, gender, sexual orientation, age, disability, or any other protected characteristic. We believe that a diverse team fosters innovation and creativity, and we welcome applicants from all backgrounds to apply and join our mission to advance artificial intelligence for the benefit of society.
+
+Desired Skills and Experience
+Machine Learning, Data Pipelines, Model Evaluation, Python, Deep Learning, ML Frameworks

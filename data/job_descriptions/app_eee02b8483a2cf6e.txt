@@ -1,0 +1,16 @@
+About the job
+Company Description
+ Greenlight Films specializes in transforming raw footage into captivating and professional video content. We provide seamless editing services tailored to brands, personal projects, and social media, ensuring visually stunning results. Our focus is on creating impactful content that resonates with audiences and achieves desired outcomes. By combining creativity with technical expertise, we help bring stories to life and drive success for our clients.
+
+ Role Description
+ We are seeking a skilled AI Voice Agent Developer to join our team at Greenlight Films. This is a full-time, on-site role based in Mumbai. The developer will design, build, and enhance AI-driven voice agents by leveraging advanced machine learning and natural language processing (NLP) techniques. Daily responsibilities include programming, testing, deploying AI voice modules, collaborating with creative teams to integrate voice agents into film content, and troubleshooting technical issues to optimize performance.
+
+ Qualifications
+  Experience in programming languages such as Python, Java, or C++ for AI and machine learning development
+Proficiency in Natural Language Processing (NLP) and speech recognition technologies
+Commitment to quality assurance through robust testing and debugging skills
+Strong problem-solving skills and the ability to work collaboratively in a team environment
+Familiarity with deploying AI/ML models in production, especially for voice-based technologies
+Knowledge of audio processing, acoustic modeling, or signal processing (preferred)
+Experience in multimedia or film applications is a plus
+Bachelor's or advanced degree in Computer Science, Artificial Intelligence, or a related field

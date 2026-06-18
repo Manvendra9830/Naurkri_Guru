@@ -1,0 +1,80 @@
+About the job
+Position: AI Automation Specialist
+Location: Rajkot (On Site)
+Job Type: Full-time
+ 
+About the Role
+We are looking for an AI Automation Specialist who can improve and automate business workflows using AI tools and automation platforms. The ideal candidate should have strong prompt engineering skills, technical understanding, and hands on experience with modern AI tools to streamline operations and increase productivity across departments.
+
+The candidate should be capable of understanding business processes, identifying repetitive tasks, and building AI powered solutions that save time, improve efficiency, and optimize workflows.
+ 
+Key Responsibilities
+Build and manage AI powered workflows and automations 
+Use AI tools like ChatGPT, OpenAI, Claude, Gemini, and others to create business solutions 
+Create advanced prompts for different business use cases 
+Automate repetitive tasks using tools like Zapier, Make, n8n, or similar platforms 
+Connect software, APIs, and AI systems to streamline operations 
+Improve internal workflows using AI and automation 
+Collaborate with teams to identify automation opportunities 
+Build AI systems for: 
+Content generation 
+Lead management 
+Customer support 
+CRM automation 
+Data processing 
+Reporting 
+Productivity optimization 
+Test, optimize, and maintain automation systems 
+Stay updated with the latest AI tools, trends, and technologies 
+ 
+Required Skills
+AI Tools & Prompt Engineering
+Hands on experience with AI tools such as:
+ChatGPT 
+OpenAI API 
+Claude 
+Gemini 
+Perplexity 
+Cursor 
+GitHub Copilot 
+
+Strong understanding of:
+Prompt Engineering 
+AI-assisted workflows 
+AI content generation 
+AI productivity systems 
+Generative AI tools 
+ 
+Automation & Workflow Tools
+Experience with:
+Zapier 
+Make.com 
+n8n 
+Power Automate 
+Airtable 
+Notion AI 
+ 
+Technical Skills
+Basic API understanding 
+Workflow logic and integrations 
+Understanding of AI automations 
+Basic troubleshooting skills 
+Ability to connect different platforms and tools 
+ 
+Preferred Skills (Bonus)
+OpenAI API integrations 
+Python basics 
+AI agents 
+LangChain 
+No-code / low-code development 
+CRM automation experience 
+Slack / Discord / WhatsApp automations 
+ 
+Why Join Us?
+Growth Opportunities – Career development & skill enhancement
+Friendly Work Environment
+Attractive Salary Package
+
+Share your Resume:
+Whatsapp No. : 9586686684
+Email ID : santushti.kishandadhaniya@gmail.com

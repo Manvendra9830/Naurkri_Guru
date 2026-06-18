@@ -1,0 +1,28 @@
+About the job
+We are seeking an experienced AI/ML Engineer with expertise in Machine Learning, Generative AI, and Retrieval-Augmented Generation (RAG) systems. The ideal candidate should have strong hands-on experience in Python, SQL, end-to-end ML pipelines, and handling real-world datasets. Experience with LLMs, prompt engineering, and AI orchestration frameworks such as LangChain or LlamaIndex is highly preferred.
+The role involves building intelligent AI solutions, optimizing model performance, integrating APIs, and contributing to scalable AI deployments.
+Key Responsibilities
+Design, build, and maintain end-to-end Machine Learning pipelines for real-world business applications.
+Develop and optimize RAG (Retrieval-Augmented Generation) systems for AI-powered applications.
+Work with structured and unstructured datasets for data processing, feature engineering, and model development.
+Develop AI/ML solutions using Python and SQL.
+Integrate and work with Large Language Models (LLMs) for enterprise use cases.
+Create effective prompts and workflows for AI applications using prompt engineering techniques.
+Build AI applications using frameworks such as LangChain and/or LlamaIndex.
+Implement API integrations and support basic deployment of AI models/applications.
+Work on Agentic AI systems using frameworks like LangGraph or AutoGen.
+Collaborate with engineering teams for model deployment, monitoring, and optimization.
+Fine-tune and improve model performance based on business requirements.
+Mandatory Skills
+Strong hands-on experience in Python and SQL
+Experience with end-to-end Machine Learning pipelines
+Experience handling real-world datasets
+Strong analytical and problem-solving skills
+Hands-on experience in RAG (Retrieval-Augmented Generation)
+Good-to-Have Skills
+Knowledge of LLMs and Prompt Engineering
+Experience with LangChain and/or LlamaIndex
+API integration and basic deployment knowledge
+Exposure to Agentic AI (LangGraph, AutoGen)
+Experience with MLOps concepts and cloud platforms
+Model tuning / optimization experience

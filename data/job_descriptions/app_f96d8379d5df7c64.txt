@@ -1,0 +1,30 @@
+About the job
+Role
+
+Building & Owning the AI Agent Infrastructure
+Designing and deploying multi-agent systems for investment research, M&A due diligence screening, and FP&A automation using Python and frameworks like LangChain or CrewAI
+Setting up and managing a private cloud environment (AWS or Azure) where all AI workloads run ensuring client data never leaves Tristone’s controlled environment
+Building and maintaining an internal knowledge base (vector database) that indexes all past project work and makes it searchable by AI agents and analysts
+Integrating AI agents with external financial data sources using controlled API connections with rate limiting and audit logging 
+Owning the prompt library: write, test, version-control, and continuously improve the prompts used by all agents
+Data Privacy & Security
+Architect a private LLM deployment self-hosted open-source models or private cloud instances so client data never passes through shared public APIs 
+Implementing data classification: tag incoming data by sensitivity and enforce routing rules so confidential data only reaches approved private models 
+Maintaining full audit logs of every AI agent action what went in, what model processed it, what came out, who accessed it
+Enforcing role-based access controls so analysts use AI tools within defined permissions
+Produce monthly privacy compliance reports for senior leadership 
+Coordinating with External Development Partners
+Serving as Tristone’s technical point of contact for any outsourced developers or firms building AI modules 
+Reviewing all code from external partners before deployment checking security, data handling, and quality 
+Writing technical specifications that translate analyst workflow requirements into developer briefs 
+Managing all code in a private GitHub repository with documentation Tristone always owns and controls the codebase
+Continuous Improvement & Fine-Tuning
+Monitoring AI agent outputs daily: track accuracy, hallucination rates, and analyst feedback then improve prompts and configurations
+Fine-tuning models on Tristone-specific financial language over time starting with prompt engineering, progressing to RAG, and eventually supervised fine-tuning
+Evaluating new AI tools monthly and recommend adoption where there is clear ROI
+Training & Supporting the Analyst Team
+Running onboarding sessions for analysts on how to use AI tools effectively practical, not theoretical
+Building a simple internal dashboard showing team AI usage and time saved per person
+Being the go-to person when an agent produces a wrong output diagnose it and fix it quickly
+Complying with IT policies and procedures
+Maintaining security of information at all times

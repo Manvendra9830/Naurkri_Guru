@@ -13,6 +13,7 @@ from modules.helpers import print_lg, APPLIED_EXPORT_SCHEMA, LEGACY_COLUMN_ALIAS
 from modules.storage import (
     upsert_application,
     application_id_for,
+    get_recruiter_enrichment_candidates,
     get_outreach_queue_applications,
     db_row_to_schema_dict,
     export_db_to_csv,
@@ -99,6 +100,27 @@ def run_cold_email_pipeline(driver=None, runtime_batch_id: str | None = None, dr
     )
     if not browser_enrichment_enabled:
         print_lg("[COLD-EMAIL-QUEUE] Browser enrichment unavailable because driver=None; stored/job-description enrichment only.")
+
+    csv_updated = False
+    profile_visit_counter = 0
+    enrichment_candidates = get_recruiter_enrichment_candidates(limit=max(MAX_COLD_EMAILS_PER_RUN * 3, 10))
+    print_lg(f"[COLD-EMAIL-ENRICHMENT] Candidate rows needing recruiter email: {len(enrichment_candidates)}")
+    for candidate in enrichment_candidates:
+        row = db_row_to_schema_dict(candidate)
+        email, source, confidence, profile_visit_counter = finder.find_recruiter_email(
+            driver,
+            row,
+            profile_visit_counter,
+        )
+        if not email:
+            continue
+        row["recruiter_email"] = email
+        row["recruiter_email_source"] = source or ""
+        row["recruiter_email_confidence"] = str(confidence or 0.0)
+        row["recruiter_email_found_at"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        upsert_application(row)
+        summary["recruiter_emails_found"] += 1
+        csv_updated = True
     
     # Load settings — .env override takes priority over settings.py
     max_emails = MAX_COLD_EMAILS_PER_RUN
@@ -112,7 +134,6 @@ def run_cold_email_pipeline(driver=None, runtime_batch_id: str | None = None, dr
         pass
         
     resume_text = load_resume_text()
-    csv_updated = False
 
     queue_load_limit = max_emails * 20 if COLD_EMAIL_TEST_MODE else max_emails
     apps = get_outreach_queue_applications(
@@ -126,6 +147,8 @@ def run_cold_email_pipeline(driver=None, runtime_batch_id: str | None = None, dr
     
     if not applications:
         print_lg("[COLD-EMAIL-QUEUE] No eligible pending outreach rows found.")
+        if csv_updated:
+            export_db_to_csv(file_name)
         return summary
         
     sent_this_run = 0

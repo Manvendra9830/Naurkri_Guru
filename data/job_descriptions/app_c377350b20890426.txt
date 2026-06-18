@@ -1,0 +1,38 @@
+About the job
+🚀 Software Engineer in Support (APAC) | Chennai, India or Singapore
+
+Not all support roles are created equal.
+
+If you're a software engineer who enjoys solving complex technical problems, working directly with customers, and using AI and automation to make processes smarter, this could be the role you've been looking for.
+
+At Bitmovin, we're hiring a Software Engineer in Support to partner with some of the world's leading streaming and media companies across APAC.
+
+This isn't a helpdesk role. You'll be debugging real-world integrations, working closely with developers, influencing product improvements, building tools and automations that improve how we support customers, and becoming a trusted technical advisor for strategic accounts.
+
+💡 What makes this role unique?
+✅ You'll work on software, not infrastructure
+✅ You'll investigate frontend, playback, API, SDK, and integration challenges
+✅ You'll use AI tooling and automation to improve support workflows, accelerate troubleshooting, and enhance customer outcomes
+✅ You'll own relationships with top-tier customers and help shape their success
+✅ You'll collaborate directly with Product, Engineering, Customer Success, and Solutions teams
+✅ You'll develop skills that naturally lead toward Solutions Engineering, Solutions Architecture, or Technical Consulting careers
+
+We're especially interested in engineers who have:
+• Strong JavaScript and modern web application experience
+• Experience building or debugging customer-facing software
+• Curiosity, creativity, and a passion for solving problems
+• Excellent communication skills and the ability to explain technical concepts clearly
+• An interest in understanding how customers use technology in the real world
+
+Bonus points for experience with video streaming, playback technologies, mobile development, CI/CD, Kubernetes, Python, Swift, or Kotlin.
+
+📍 Location: Chennai (preferred) or Singapore
+
+If you've ever thought:
+"I enjoy coding, but I also love working directly with customers."
+"I want to solve problems, not just build features."
+"I want to use AI and automation to make technical support smarter."
+
+Then we'd love to hear from you.
+
+#Hiring #SoftwareEngineer #FrontendDeveloper #JavaScript #CustomerEngineering #SolutionsEngineer #VideoStreaming #AI #ChennaiJobs #SingaporeJobs #Bitmovin

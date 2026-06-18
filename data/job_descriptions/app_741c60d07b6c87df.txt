@@ -1,0 +1,17 @@
+About the job
+Deep Learning Frameworks: Proficiency in TensorFlow, PyTorch, or other deep learning libraries.
+ Computer Vision Tools: Expertise in OpenCV, Dlib, and other image processing libraries.
+ Model Deployment: Experience deploying models to production using platforms such as AWS, Google Cloud, or NVIDIA Jetson (for edge devices).
+ Algorithms: Strong understanding of core computer vision techniques like image classification, object detection (YOLO, Faster R-CNN), image segmentation (U-Net), and feature extraction.
+ Programming Languages: Proficient in Python, C++, and other relevant programming languages for computer vision tasks.
+ Data Handling: Experience working with large datasets, data augmentation, and preprocessing techniques.
+ Optimization: Skills in model optimization techniques such as pruning, quantization, and hardware acceleration (e.g., using GPUs or TPUs).
+ Stay up-to-date with the latest advancements in computer vision, deep learning, and AI, and apply this knowledge to push the boundaries of current solutions.
+ Conduct research to advance the field of computer vision, including contributing to the development of new algorithms, frameworks, or methodologies.
+ Design and implement novel computer vision models and algorithms for tasks such as object detection, image segmentation, optical character recognition (OCR), and facial recognition.
+ Utilize large datasets to train, test, and improve models, optimizing for both performance and efficiency.
+ Develop end-to-end computer vision pipelines, from data acquisition and preprocessing to model training, testing, and deployment.
+ Optimize models for both accuracy and real-time performance, leveraging tools such as TensorFlow, PyTorch, and OpenCV.
+ Experience with state-of-the-art computer vision techniques like GANs, reinforcement learning for vision tasks, and self-supervised learning.
+ Familiarity with edge-computing frameworks (e.g., TensorRT, NVIDIA DeepStream) for deploying models on embedded systems.
+ Contributions to open-source projects or published research papers in computer vision or related fields.

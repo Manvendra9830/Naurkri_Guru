@@ -1,0 +1,48 @@
+About the job
+Job Description Summary
+
+The Software Engineer in Gas Power Steam Services ITR Engineering will play a key role in developing and deploying AI-driven applications tailored for Steam Turbine engineering. The focus of this role is to leverage advanced technologies to enhance engineering productivity, improve quality, ensure on-time delivery, optimize product cycles, and drive cost reduction.
+
+Job Description
+
+Essential Responsibilities:
+
+Be part of the team supporting the development of applications using Machine Learning and Generative AI technologies, including but not limited to Large Language Models (LLMs) and Vision Models.
+
+Support the development and management of site data acquisition system applications, ensuring reliability and efficiency.
+
+Work effectively on assigned projects in the field of Steam Turbine engineering application development, delivering solutions aligned with project goals and timelines.
+
+Collaborate closely with the design community to identify business needs, define problem statements, develop functional specifications, and support software development.
+
+Document technical data generated during assigned projects in accordance with organizational policies and procedures, ensuring accuracy and compliance.
+
+Qualifications/Requirements
+
+Bachelors/master’s in computer science (Specialization in AI/ML and Data Sciences).
+
+Skill Set Requirements
+
+Proficiency in programming languages such as Python and Java, with strong analytics skills and exposure to web services.
+
+Knowledge of site data acquisition and transport methodologies.
+
+Solid understanding of data structures, algorithms, and computer architectures, with the ability to write highly optimized code.
+
+Experience in data modeling and applied mathematics. Hands-on experience building models with deep learning frameworks to solve problems involving data approximations to partial differential equations (PDEs).
+
+Experience developing and deploying models using Flask, Django, AWS, Azure, or other cloud services.
+
+Strong knowledge of relevant statistical, mathematical, and computational concepts.
+
+Ability to collaborate effectively, work in a team, and maintain a respectful and inclusive working environment.
+
+Excellent written, verbal communication, presentation, and organizational skills.
+
+A curious mindset with the ability to think critically and creatively.
+
+Interest in learning the latest technologies and methods, with a research-oriented approach to finding new and unconventional ways to solve complex problems.
+
+Additional Information
+
+Relocation Assistance Provided: No

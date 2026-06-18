@@ -1,0 +1,33 @@
+About the job
+Company Description:
+Abacus.AI is an AGI control center from where you can create, deploy, and monitor AI agents. We offer an AI super assistant for enterprises and professionals.
+
+Role Description:
+We are building a future where AI assists and automates most work and business processes for enterprises and professionals.
+We are looking for a Research Engineer to help design, train, and optimize large language models and high‑performance inference systems.
+
+What you’ll do:
+Build and optimize LLM training and inference pipelines on cloud GPUs.
+Generate, curate, and maintain datasets for pretraining and finetuning.
+Implement and improve transformer architectures (attention, positional encodings, MoE).
+Optimize inference using FlashAttention, PagedAttention, KV caches, and serving frameworks like vLLM / sglang.
+Collaborate with research and product teams to design experiments, analyze results, and ship improvements.
+
+What we’re looking for:
+Strong Python skills and solid software engineering practices.
+Hands-on experience with LLM training and inference.
+Proficiency with PyTorch or JAX.
+Experience with Hugging Face libraries: transformers, trl, accelerate.
+Experience training on cloud-hosted GPUs and with distributed / mixed-precision training.
+Strong understanding of transformer internals: attention, positional encodings, MoE.
+Familiarity with writing prompts, tool definitions, and managing context for LLMs in real applications (langchain, pydantic, smolagents).
+
+Nice to have:
+RL for LLMs (RLHF, PPO, GRPO).
+CUDA / GPU kernel or systems-level performance work.
+Experience with training infrastructure: monitoring, checkpointing, networking / distributed systems.
+
+We believe in rewarding top-tier talent directly:
+Premium Compensation Package: up to 1 crore Base and up to 1 Cr Performance Bonus
+
+Looking forward to hearing from you!

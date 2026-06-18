@@ -1,0 +1,60 @@
+About the job
+Description
+
+Who is USP?
+
+The U.S. Pharmacopeial Convention (USP) USP is an independent scientific organization that collaborates with the world's top experts in health and science to develop quality standards for medicines, dietary supplements, and food ingredients. USP's fundamental belief that Equity = Excellence manifests in our core value of Passion for Quality through our more than 1,100 talented professionals across five global locations to deliver the mission to strengthen the supply of safe, quality medicines and supplements worldwide.
+
+Brief Job Overview
+
+The Digital Product Engineering team at USP is seeking a Data Scientist with expertise in artificial intelligence (AI), machine learning (ML), and Generative AI (GenAI) to drive innovation and data-driven decision-making. This role is critical to supporting projects that align with our mission to protect patient safety and improve the health of people around the world.
+
+We are looking for a professional who understands the power of data and enjoys uncovering insights through advanced modeling, experimentation, and the application of cutting-edge AI techniques. The ideal candidate will be passionate about solving complex problems using data, developing intelligent systems, and leveraging GenAI approaches such as Retrieval-Augmented Generation (RAG), prompt engineering, and large language models (LLMs) to deliver impactful solutions across the organization.
+
+How will YOU create impact here at USP?
+
+The position's purpose should provide a high-level overview of why the position exists and briefly identify the most critical priorities of the position. This is an opportunity to highlight any features or duties of the role related explicitly to the Diversity, Equity, Inclusion & Belonging work of the Department.
+
+Design, develop, and deploy AI/ML models to solve business and scientific problems, with a focus on Generative AI applications.
+Collaborate with data engineers to access, clean, and prepare large-scale datasets for modeling and experimentation.
+Conduct exploratory data analysis (EDA), hypothesis testing, and feature engineering to support model development.
+Evaluate model performance using appropriate metrics and iterate to improve accuracy, robustness, and fairness.
+Translate complex analytical findings into clear, actionable insights for stakeholders across product, engineering, and business teams.
+
+Who USP is Looking For?
+
+The Successful Candidate Will Have a Demonstrated Understanding Of Our Mission, Commitment To Excellence Through Inclusive And Equitable Behaviors And Practices, Ability To Quickly Build Credibility With Stakeholders, Along With The Following Competencies And Experience
+
+Education
+
+Bachelor’s degree in relevant field (e.g. Engineering, Analytics or Data Science, Computer Science, Statistics) or equivalent experience.
+
+Experience
+
+ 0-3 years of experience in data science , with a strong focus on Artificial Intelligence (AI) , including Machine Learning (ML) , Deep Learning , and Reinforcement Learning .
+Hands-on experience with Generative AI , including LLMs , RAG , prompt engineering , and vector databases (e.g., FAISS, Pinecone).
+Strong programming skills in Python, PySpark. Proficiency in ML libraries such as scikit-learn , TensorFlow , PyTorch , Hugging Face Transformers , etc.
+Strong SQL skills for data extraction, transformation, and analysis.
+Experience with data visualization tools (e.g., Power BI, Tableau, Plotly) to communicate insights effectively.
+Strong understanding of model evaluation, interpretability, and deployment in production environments.
+Familiarity with cloud platforms such as Azure , AWS , or GCP for AI/ML workloads.
+Work closely with different stakeholders: Business owners, users, product managers, program managers, architects, engineering managers & developers, etc. to translate business needs and product requirements to well-documented data science solutions.
+
+Additional Desired Preferences
+
+Experience with scientific chemistry nomenclature or prior work experience in life sciences, chemistry, or hard sciences or degree in sciences
+Experience with pharmaceutical datasets and nomenclature
+Experience with MLOps tools and practices (e.g., MLflow, Kubeflow, Azure ML)
+Strong communication skills required: Verbal, written, and interpersonal
+
+Supervisory Responsibilities
+
+No
+
+Benefits
+
+USP provides you with the benefits you need to protect yourself and your family today and tomorrow. From company-paid time off, comprehensive healthcare options to retirement savings, you can have peace of mind that your personal and financial wellbeing is protected.
+
+Job Category Information Technology
+
+Job Type Full-Time

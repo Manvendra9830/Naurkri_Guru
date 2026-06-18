@@ -1,5 +1,16 @@
 # Imports
 import os
+import sys
+import subprocess
+
+# Auto-activate virtual environment if not already activated
+venv_path = os.path.abspath(os.path.join(os.path.dirname(__file__), 'venv'))
+if sys.prefix != venv_path:
+    venv_python = os.path.join(venv_path, 'Scripts', 'python.exe')
+    if os.path.exists(venv_python):
+        print("Auto-activating virtual environment...")
+        sys.exit(subprocess.call([venv_python] + sys.argv))
+
 import csv
 import re
 import time
@@ -393,7 +404,15 @@ def apply_filters() -> None:
         wait.until(EC.presence_of_element_located((By.XPATH, '//button[normalize-space()="All filters"]'))).click()
         buffer(recommended_wait)
 
-        wait_span_click(driver, sort_by)
+        try:
+            if sort_by:
+                sort_btn = find_action_button(driver, sort_by, 3)
+                if sort_btn:
+                    sort_btn.click()
+                else:
+                    print_lg(f"[FILTER-SKIP] Sort by '{sort_by}' button not found — LinkedIn may have changed UI. Continuing without sort filter.")
+        except Exception as e:
+            print_lg(f"[FILTER-SKIP] Sort filter failed silently: {e}")
         if date_posted and not click_date_posted_filter(date_posted):
             print_lg(f"[FILTER-FALLBACK] {date_posted} filter unavailable, continuing without date filter.")
         buffer(recommended_wait)
@@ -1323,7 +1342,7 @@ def screenshot(driver: WebDriver, job_id: str, failedAt: str) -> str:
 def submitted_jobs(job_id: str, title: str, company: str, work_location: str, work_style: str, description: str, experience_required: int | Literal['Unknown', 'Error in extraction'], 
                    skills: list[str] | Literal['In Development'], hr_name: str | Literal['Unknown'], hr_link: str | Literal['Unknown'], resume: str, 
                    reposted: bool, date_listed: datetime | Literal['Unknown'], date_applied:  datetime | Literal['Pending'], job_link: str, application_link: str, 
-                   questions_list: set | None, connect_request: Literal['In Development'], confidence_score: int = 0) -> None:
+                   questions_list: set | None, connect_request: Literal['In Development'], confidence_score: int = 0, hr_email: str = "") -> None:
     '''
     Function to create or update the Applied jobs CSV file, once the application is submitted successfully
     '''
@@ -1345,7 +1364,7 @@ def submitted_jobs(job_id: str, title: str, company: str, work_location: str, wo
             'date_posted': date_listed, 'application_date': date_applied,
             'current_status': 'Applied', 'last_status_update': date_applied,
             'status_source': 'LinkedIn Automation', 'response_received': 'False',
-            'recruiter_name': hr_name, 'recruiter_email': '',
+            'recruiter_name': hr_name, 'recruiter_email': hr_email,
             'recruiter_profile_url': hr_link, 'job_url': job_link,
             'external_job_url': application_link, 'questions_found': str(questions_list),
             'connect_request': connect_request, 'portal_type': portal_type,
@@ -1389,6 +1408,7 @@ def apply_to_jobs(search_terms: list[str]) -> None:
     applied_jobs = get_applied_job_ids()
     rejected_jobs = set()
     blacklisted_companies = set()
+    session_applied_company_title = set()
     global current_city, failed_count, skip_count, easy_applied_count, external_jobs_count, tabs_count, pause_before_submit, pause_at_failed_question, useNewResume
     current_city = current_city.strip()
     max_applications_this_run = globals().get("MAX_APPLICATIONS_PER_RUN", 0) or 0
@@ -1456,6 +1476,13 @@ def apply_to_jobs(search_terms: list[str]) -> None:
                             print_lg(f'Already applied to "{title} | {company}" job (Detected via SQLite). Job ID: {job_id}!')
                             continue
 
+                        _ct_key = (company.lower().strip(), title.lower().strip()[:80])
+                        if _ct_key in session_applied_company_title:
+                            print_lg(f"[DEDUP] Same company+title already processed this session: '{title}' at '{company}'. Skipping.")
+                            skip_count += 1
+                            continue
+                        session_applied_company_title.add(_ct_key)
+
                         # Secondary check: local applied_jobs set (runtime cache)
                         if job_id in applied_jobs:
                             print_lg(f'Already applied to "{title} | {company}" job (Detected via cache). Job ID: {job_id}!')
@@ -1513,6 +1540,18 @@ def apply_to_jobs(search_terms: list[str]) -> None:
                             skip_count += 1
                             continue
 
+                        from modules.cold_email.finder import normalize_email_candidate
+                        jd_emails = re.findall(
+                            r'[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+',
+                            description
+                        )
+                        jd_email = ""
+                        for e in jd_emails:
+                            normalized = normalize_email_candidate(e)
+                            if normalized and "@" in normalized:
+                                jd_email = normalized
+                                break
+
                         if use_AI and description != "Unknown":
                             try:
                                 if ai_provider.lower() == "openai":
@@ -1560,9 +1599,12 @@ def apply_to_jobs(search_terms: list[str]) -> None:
                                     tabs_after = len(driver.window_handles)
                                     if tabs_after > tabs_before:
                                         driver.switch_to.window(driver.window_handles[-1])
-                                        if close_tabs and driver.current_window_handle != linkedIn_tab: driver.close()
+                                        application_link = driver.current_url  # Capture the external URL
+                                        print_lg(f'Got the external application link "{application_link}"')
+                                        if close_tabs and driver.current_window_handle != linkedIn_tab: 
+                                            driver.close()
                                         driver.switch_to.window(linkedIn_tab)
-                                        print_lg("External apply detected via new tab, skipping")
+                                        # Don't set is_easy_apply, let it fall through to external_apply
                                     else:
                                         try:
                                             find_easy_apply_modal(3)
@@ -1580,6 +1622,20 @@ def apply_to_jobs(search_terms: list[str]) -> None:
                                 errored = ""
                                 try:
                                     modal = find_easy_apply_modal(5)
+
+                                    # Handle the "Review job post" / "Continue applying" interstitial screen.
+                                    # This appears when LinkedIn detects a profile mismatch. We always continue applying.
+                                    _continue_btn = find_action_button(modal, "Continue applying", 1)
+                                    if _continue_btn:
+                                        print_lg("[APPLY-DEBUG] 'Continue applying' interstitial detected. Clicking through.")
+                                        try:
+                                            _continue_btn.click()
+                                        except Exception:
+                                            driver.execute_script("arguments[0].click();", _continue_btn)
+                                        buffer(click_gap)
+                                        time.sleep(1)
+                                        modal = find_easy_apply_modal(5)   # Re-acquire the modal
+
                                     if find_action_button(modal, "Next", 1):
                                         click_modal_action(modal, "Next", 3)
                                     resume = "Previous resume"
@@ -1600,7 +1656,13 @@ def apply_to_jobs(search_terms: list[str]) -> None:
                                         questions_list = answer_questions(modal, questions_list, work_location, job_description=description)
                                         if useNewResume and not uploaded: uploaded, resume = upload_resume(modal, default_resume_path)
                                         debug_modal_state(modal, f"step-{next_counter}")
-                                        next_button = find_action_button(modal, "Review", 1) or find_action_button(modal, "Next", 1)
+                                        # "Review" must match the final-step review button, NOT "Review job post"
+                                        # We check for "Review your application" first, then bare "Review" as fallback
+                                        next_button = (
+                                            find_action_button(modal, "Review your application", 1) or
+                                            find_action_button(modal, "Next", 1) or
+                                            find_action_button(modal, "Review", 0.5)  # bare "Review" last, short timeout
+                                        )
                                         if find_action_button(modal, "Submit application", 0.5):
                                             print_lg("[APPLY-DEBUG] Submit button visible; leaving step loop.")
                                             break
@@ -1621,8 +1683,12 @@ def apply_to_jobs(search_terms: list[str]) -> None:
                                         print("\n\n" + "\n".join(str(question) for question in questions_list) + "\n\n")
                                     if modal is None:
                                         raise NoSuchElementException("Easy Apply modal was not available")
-                                    if find_action_button(modal, "Review", 1):
-                                        click_modal_action(modal, "Review", 3)
+                                    if find_action_button(modal, "Review your application", 1):
+                                        click_modal_action(modal, "Review your application", 3)
+                                    elif find_action_button(modal, "Review", 0.5):
+                                        # Only click bare "Review" if "Review job post" is not present
+                                        if not find_action_button(modal, "Review job post", 0.3):
+                                            click_modal_action(modal, "Review", 3)
                                     cur_pause_before_submit = pause_before_submit
                                     if errored != "stuck" and cur_pause_before_submit:
                                         decision = safe_confirm('1. Please verify your information.\n2. If you edited something, please return to this final screen.\n3. DO NOT CLICK "Submit Application".\n\n\n\n\nYou can turn off "Pause before submit" setting in config.py\nTo TEMPORARILY disable pausing, click "Disable Pause"', "Confirm your information",["Disable Pause", "Discard Application", "Submit Application"])
@@ -1668,8 +1734,10 @@ def apply_to_jobs(search_terms: list[str]) -> None:
                                 print_lg("\n###############  Daily application limit for Easy Apply is reached!  ###############\n")
                                 return
                             if skip: continue
+                        if application_link != "Easy Applied":
+                            date_applied = datetime.now()
 
-                        submitted_jobs(job_id, title, company, work_location, work_style, description, experience_required, skills, hr_name, hr_link, resume, reposted, date_listed, date_applied, job_link, application_link, questions_list, connect_request, confidence_score)
+                        submitted_jobs(job_id, title, company, work_location, work_style, description, experience_required, skills, hr_name, hr_link, resume, reposted, date_listed, date_applied, job_link, application_link, questions_list, connect_request, confidence_score, jd_email)
                         if uploaded:   useNewResume = False
 
                         print_lg(f'[APPLICATION-SAVED] Successfully saved "{title} | {company}" job. Job ID: {job_id}, application_link={application_link}')
@@ -1745,6 +1813,23 @@ linkedIn_tab = False
 
 def is_validation_context() -> bool:
     return is_automation_context()
+
+
+def reusable_browser_for_phase(phase_name: str):
+    """Return a healthy driver for post-LinkedIn phases, relaunching if needed."""
+    global options, driver, actions, wait
+    if assert_browser_healthy(driver):
+        return driver
+    print_lg(f"[BROWSER-RECOVERY] phase={phase_name}; action=relaunch_start")
+    try:
+        options, driver, actions, wait = createChromeSession(True)
+        if assert_browser_healthy(driver):
+            print_lg(f"[BROWSER-RECOVERY] phase={phase_name}; action=relaunch_success")
+            return driver
+    except Exception as recovery_error:
+        print_lg(f"[BROWSER-RECOVERY] phase={phase_name}; action=relaunch_failed; error={type(recovery_error).__name__}: {recovery_error}")
+    return None
+
 
 def main() -> None:
     safe_alert(
@@ -1852,38 +1937,50 @@ def main() -> None:
         critical_error_log("In Applier Main", e)
         safe_alert(e,alert_title)
     finally:
-        summary = "Total runs: {}\nJobs Easy Applied: {}\nExternal job links collected: {}\nTotal applied or collected: {}\nFailed jobs: {}\nIrrelevant jobs skipped: {}\n".format(total_runs,easy_applied_count,external_jobs_count,easy_applied_count + external_jobs_count,failed_count,skip_count)
-        print_lg(summary)
-        print_lg("\n\nTotal runs:                     {}".format(total_runs))
-        print_lg("Jobs Easy Applied:              {}".format(easy_applied_count))
-        print_lg("External job links collected:   {}".format(external_jobs_count))
-        print_lg("                              ----------")
-        print_lg("Total applied or collected:     {}".format(easy_applied_count + external_jobs_count))
-        print_lg("\nFailed jobs:                    {}".format(failed_count))
-        print_lg("Irrelevant jobs skipped:        {}\n".format(skip_count))
-        if randomly_answered_questions: print_lg("\n\nQuestions randomly answered:\n  {}  \n\n".format(";\n".join(str(question) for question in randomly_answered_questions)))
-        quotes = choice([
-            "Success is not final, failure is not fatal. It is the courage to continue that counts. - Winston Churchill",
-            "The only way to do great work is to love what you do. - Steve Jobs",
-            "Opportunities don't happen, you create them. - Chris Grosser",
-            "The road to success and the road to failure are almost exactly the same. The difference is perseverance. - Colin R. Davis",
-            "Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford",
-            "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt",
-            "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson",
-            "Every job is a self-portrait of the person who does it. Autograph your work with excellence. - Jessica Guidobono",
-            ])
-        timeSaved = (easy_applied_count * 80) + (external_jobs_count * 20) + (skip_count * 10)
-        timeSavedMsg = ""
-        if timeSaved > 0:
-            timeSaved += 60
-            timeSavedMsg = f"In this run, you saved approx {round(timeSaved/60)} mins ({timeSaved} secs)."
-        msg = f"{quotes}\n\n{timeSavedMsg}\n\nSummary:\n{summary}\n\nNaukri_Guru — AI-Powered Job Automation\nDeveloper: Manvendra Singh\nhttps://www.linkedin.com/in/manvendra-singh-837874290"
-        safe_alert(msg, "Naukri_Guru — Session Complete")
-        print_lg(msg)
-        if tabs_count >= 10:
-            msg = "NOTE: IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM!\n\nOr it's highly likely that application will just open browser and not do anything next time!" 
-            safe_alert(msg, "Naukri_Guru — Info")
-            print_lg("\n"+msg)
+        # ── 1. Export LinkedIn data ──
+        try:
+            from modules.storage import export_db_to_csv
+            export_db_to_csv(file_name)
+            from modules.export_to_excel import convert_csvs_to_excel
+            convert_csvs_to_excel()
+        except Exception as e:
+            print_lg(f"Export failed: {e}")
+
+        # ── 2. Indeed Scraper ──
+        try:
+            from config.settings import INDEED_ENABLED
+            if INDEED_ENABLED:
+                print_lg("\n[INDEED-SCRAPER] Starting Indeed job collection...")
+                from modules.indeed.engine import run_indeed_scraper
+                healthy_driver = reusable_browser_for_phase("Indeed")
+                if healthy_driver:
+                    indeed_count = run_indeed_scraper(
+                        healthy_driver, search_terms, search_location
+                    )
+                    print_lg(f"[INDEED-SCRAPER] Collected {indeed_count} jobs.")
+                else:
+                    print_lg("[INDEED-SCRAPER] Browser dead. Skipping.")
+            else:
+                print_lg("Indeed scraper disabled.")
+        except Exception as e:
+            print_lg(f"[INDEED-SCRAPER] Failed safely: {type(e).__name__}: {e}")
+
+        # ── 3. Cold Email Pipeline ──
+        try:
+            from config.settings import COLD_EMAIL_ENABLED
+            if COLD_EMAIL_ENABLED:
+                print_lg("[COLD-EMAIL] Starting cold email pipeline...")
+                from modules.cold_email import run_cold_email_pipeline
+                healthy_driver = reusable_browser_for_phase("ColdEmail")
+                cold_result = run_cold_email_pipeline(
+                    healthy_driver, runtime_batch_id=RUNTIME_BATCH_ID
+                )
+                print_lg(f"Cold email result: {cold_result}")
+            else:
+                print_lg("Cold email pipeline disabled.")
+        except Exception as e:
+            print_lg(f"Cold email failed safely: {type(e).__name__}: {e}")
+
         if use_AI and aiClient:
             try:
                 if ai_provider.lower() == "openai":
@@ -1895,48 +1992,32 @@ def main() -> None:
                 print_lg(f"Closed {ai_provider} AI client.")
             except Exception as e:
                 print_lg("Failed to close AI client:", e)
-        try:
-            from modules.storage import export_db_to_csv
-            export_db_to_csv(file_name)
-            from modules.export_to_excel import convert_csvs_to_excel
-            convert_csvs_to_excel()
-        except Exception as e:
-            print_lg("Failed to export to excel", e)
 
-        # ── Cold Email Pipeline ──
-        try:
-            from config.settings import COLD_EMAIL_ENABLED
-            if COLD_EMAIL_ENABLED:
-                print_lg("[COLD-EMAIL-PRE-QUIT] Starting recruiter outreach before browser shutdown...")
-                from modules.cold_email import run_cold_email_pipeline
-                # Check browser health before calling the cold email pipeline
-                healthy_driver = driver if assert_browser_healthy(driver) else None
-                if healthy_driver is None:
-                    print_lg("[DRIVER-HEALTH-CHECK] Cold email enrichment skipped: Browser session is dead or window closed. Proceeding with outreach only.")
-                print_lg(f"[POST-APPLY-TRANSITION] Starting queue-based cold email pipeline. runtime_batch_id metadata={RUNTIME_BATCH_ID}.")
-                cold_email_result = run_cold_email_pipeline(healthy_driver, runtime_batch_id=RUNTIME_BATCH_ID)
-                print_lg(f"Cold email pipeline completed: {cold_email_result}")
-            else:
-                print_lg("Cold email pipeline skipped (COLD_EMAIL_ENABLED=False)")
-        except Exception as cold_email_error:
-            print_lg(f"Cold email pipeline failed safely: {type(cold_email_error).__name__}: {cold_email_error}")
-
+        # ── 5. Quit browser ──
         try:
             if driver:
-                print_lg("Closing the browser...")
                 driver.quit()
-        except WebDriverException as e:
-            print_lg("Browser already closed.", e)
-        except Exception as e: 
-            critical_error_log("When quitting...", e)
-            
+        except Exception as e:
+            print_lg(f"Browser close error: {e}")
+
+        # ── 6. Final export ──
         try:
             from modules.storage import export_db_to_csv
             export_db_to_csv(file_name)
             from modules.export_to_excel import convert_csvs_to_excel
             convert_csvs_to_excel()
         except Exception as e:
-            print_lg("Failed second export after cold emails", e)
+            print_lg(f"Final export failed: {e}")
+
+        # ── 7. Print summary ──
+        summary = (
+            f"LinkedIn Applied: {easy_applied_count}\n"
+            f"LinkedIn External: {external_jobs_count}\n"
+            f"LinkedIn Failed: {failed_count}\n"
+            f"LinkedIn Skipped: {skip_count}\n"
+        )
+        print_lg(summary)
+        safe_alert(summary, "Naukri_Guru — Session Complete")
 
 if __name__ == "__main__":
     main()

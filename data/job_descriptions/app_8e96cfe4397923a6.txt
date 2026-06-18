@@ -1,0 +1,13 @@
+About the job
+Company Description Code Better is a technology-focused company based in Indore, dedicated to building high-quality software solutions and fostering a culture of continuous learning. The organization emphasizes clean code, modern development practices, and the use of advanced tools and frameworks. Team members collaborate closely to deliver reliable, scalable products for clients across different industries. Code Better values innovation, mentorship, and professional growth, making it a strong environment for individuals interested in AI and machine learning careers.
+Role Description This is a full-time, on-site AI/ML role based in Indore. The AI/ML professional will design, develop, and deploy machine learning models and algorithms to solve real-world business problems. Day-to-day responsibilities include collecting and preprocessing data, selecting appropriate models, training and validating them, and optimizing performance for production environments. The role also involves collaborating with software engineers, product teams, and other stakeholders to integrate AI/ML components into existing systems and applications. The team member will document solutions, maintain reproducible workflows, and stay current with new AI/ML techniques, tools, and frameworks to continuously improve product capabilities.
+Qualifications
+ 
+Strong foundation in machine learning concepts, including supervised and unsupervised learning, model evaluation, and optimization.
+Proficiency in at least one programming language commonly used in AI/ML (such as Python), along with experience using relevant libraries or frameworks (e.g., TensorFlow, PyTorch, scikit-learn).
+Experience with data handling and preprocessing, including working with structured and unstructured datasets, feature engineering, and basic data visualization.
+Understanding of software development practices, including version control, modular code design, testing, and collaboration using tools such as Git.
+Ability to translate business requirements into technical solutions, communicate findings clearly, and work effectively with cross-functional teams.
+Bachelor’s degree in Computer Science, Data Science, Engineering, or a related field, or equivalent practical experience.
+Familiarity with cloud platforms or deployment environments (such as AWS, Azure, or GCP) for hosting AI/ML solutions is a plus.
+Interest in continuous learning, keeping up with AI/ML research trends, and contributing to internal knowledge sharing and code quality initiatives.

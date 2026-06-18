@@ -1,0 +1,14 @@
+About the job
+Hiring: AI-Native Fullstack Developer (Remote)
+
+What we’re looking for:
+Strong fullstack experience with React, FastAPI, Postgres, and Docker
+Comfortable owning the full development cycle: build, debug, optimize, test, and deploy
+Strong with automated testing using Playwright
+AI-centric mindset with hands-on use of tools like Claude Code and familiarity with emerging workflows such as Claude Computer Use
+Ability to work independently in a fast-moving remote team
+Availability to start immediately
+Bonus:
+Experience building AI-powered product features
+Cloud and scalable systems experience
+Strong product and UI sensibility

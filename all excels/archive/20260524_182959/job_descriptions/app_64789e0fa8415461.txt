@@ -1,0 +1,60 @@
+About the job
+ML Engineer
+About Company: L&T Finance 
+L&T Finance is a leading non-banking financial company (NBFC) in India, part of the larger Larsen & Toubro (L&T) Group. Established in 1994, L&T Finance has grown into a diversified financial services provider, offering a wide range of products including retail and corporate finance, housing finance, asset management, and wealth management services. With a strong focus on technology and innovation, L&T Finance is committed to leveraging cutting-edge solutions to enhance its
+financial products and services, improve customer experiences, and drive sustainable growth in the rapidly evolving Indian financial sector.
+About Team 
+We are a high-performance advanced ML team, operating out of Bangalore and Mumbai. The team is comprised of intelligent and enthusiastic data scientists and ML engineers with a proven track record. We are focused on bringing cutting edge AI technologies to sharpen and grow the lending businesses of L&T Finance.
+Role Overview 
+We are seeking experienced ML Engineer to join our team. The ideal candidate will have a strong background in Machine Learning, with proficiency in this areas. This role offers the flexibility to specialize in one area while contributing to projects across both domains.
+Experience 
+We welcome applications from candidates with a range of experience levels: -
+Typically, we look for 1 -3 years of experience in Machine Learning.
+Qualification -BS/BTech or MS/MTech.
+Location -Mumbai or Bangalore
+Key Responsibilities 
+1. Design and develop end-to-end machine learning models on GCP Vertex AI and other platforms.
+2. Fetch and process data from BigQuery and various sources for model development.
+3. Build and deploy models using Python and frameworks such as Scikit learn, XGBoost/CatBoost, TensorFlow, Keras, and Gemini. 4. Implement and work with a wide range of ML algorithms, including Regression, Classification, Forecasting, Unsupervised Learning, and Natural Language Processing.
+5. Develop and deploy computer vision solutions, including preprocessing of image and video data.
+6. Utilize and fine-tune state-of-the-art language models (LLMs) and foundation models for specific tasks and applications.
+7. Implement advanced AI technologies like Retrieval-Augmented Generation (RAG)
+and function calling to enhance LLM capabilities.
+8. Build and maintain ML models in production for both real-time and batch-based use cases.
+9. Conduct exploratory data analysis and feature mining across structured and unstructured data sources.
+10. Develop and implement evaluation metrics to measure ML and LLM model performance and effectiveness.
+11. Apply CI/CD & MLOps best practices for model deployment and automation of ML pipelines & monitoring.
+12. Stay up to date with the latest advancements in machine learning, GenAI, and related AI/ML technologies.
+Required Skills and Experience 
+• Strong proficiency in Python
+• Expertise in Data Science and Machine Learning
+• Experience with Natural Language Processing and Deep Learning
+• Familiarity with Docker and Flask
+• Proficiency in TensorFlow and Keras
+• Experience with GCP Vertex AI, Vertex Pipelines, MLOps, Cloud Functions, BigQuery, Cloud Run, AutoML, DocAI, Gemini, Cloud Build, Artifact Registry, and Vertex AI endpoints
+Desired Experience
+• Experience in the Banking Financial Service Industries (BFSI) and/or B2C applications
+• Knowledge of model and data explainability, bias mitigation, and best practices in highly regulated industries
+• Hands-on experience with hyperparameter tuning and related best prac tices/tools
+• Experience with reinforcement learning, with or without human feedback, for continuous model fine-tuning
+• Familiarity with LLM frameworks like Langchain and LlamaIndex
+• Experience with computer vision libraries such as OpenCV
+Additional Qualifications (Good to Have) 
+• GCP — Google Certified Professional Machine Learning Engineer certification
+• Advanced Certificate in Generative AI
+• Strong background in statistics and probability
+• Machine Learning / Data Science certifications or advanced coursework
+•Knowledge of the BFSI and NBFC ecosystem
+Key Technologies and Platforms 
+• Python, Scikit-learn, XGBoost/CatBoost, Pandas, NumPy • TensorFlow, Keras,PyTorch
+• Natural Language Processing (NLP) libraries
+• Computer Vision libraries (e.g., OpenCV)
+• GCP Vertex AI suite (including Gemini)
+• BigQuery, Cloud Functions, Cloud Run
+• Docker, Flask
+• Langchain, LlamaIndex (for LLM applications)
+
+The ideal candidate will have a strong foundation Machine Learning, with the ability
+to contribute across both domains. We welcome applicants who excel in this area
+and are eager to expand their skills in the other, fostering a collaborative
+environment that bridges traditional ML and cutting-edge GenAI technologies.

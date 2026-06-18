@@ -1,0 +1,100 @@
+About the job
+About the Team
+Navi’s GenAI team is transforming how AI powers financial services in India. We are
+embedding advanced AI that directly impacts millions of users across Lending,
+Payments, Insurance, and Investments. As a cross-functional team of engineers,
+researchers, and product leaders, we work at the intersection of cutting-edge AI and
+real business problems-shipping fast, learning constantly, and scaling what works.
+About the Role
+At Navi, our GenAI team leads the charge in transforming the fintech landscape with
+state-of-the-art AI systems that redefine lending, insurance, investments and more.
+We're not just innovators—we're trailblazers, constantly pushing the boundaries to
+develop solutions that accelerate business growth, enhance customer experiences, and
+streamline operations.
+Imagine working in an environment where your curiosity is your guide and every day
+presents an opportunity to make groundbreaking discoveries. Our expertise spans AI
+prompt engineering, data analytics, functioning of LLMs, natural language processing..
+Each challenge is a chance to innovate, each project a step towards redefining the
+industry.
+● When you join us, it’s not just a job—it’s your moment to be part of a pioneering
+journey within fintech. Become a vital member of Navi and help shape the
+future of financial technology.
+
+Why You Should Join Our GenAI Team:
+
+Engage in Cutting-Edge Innovation: Immerse yourself in pioneering Generative
+AI projects that are at the forefront of market innovation. Whether it be GenAI
+powered chatbots or GenAI based automation or any other exciting GenAI
+projects - our high-growth, dynamic environment offers limitless opportunities
+to experiment and innovate, keeping you at the cutting edge of the Generative
+AI landscape.
+● Join a Collaborative and Forward-Thinking Team: Collaborate with a diverse
+group of top-tier professionals who share your zeal for AI. Our culture of
+continuous learning and professional growth will ensure you’re always ahead of
+the curve, ready to tackle the next big challenge.
+● Create Real Impact: Your work at Navi won’t just be theoretical—it will have
+immediate, real-world implications. By working cross-functionally with various
+departments, you’ll design and develop AI solutions that address intricate
+problems and make a significant impact on our customer’s lives.
+● Be a Part of the Fintech Revolution: This is more than a job; it’s a chance to be a
+part of something transformative, pioneering breakthroughs that shape the
+future of fintech. Are you ready to make your mark? Apply today and join the
+Navi GenAI team!
+
+Key Responsibilities
+● Develop and implement Generative AI (GenAI) based solutions tailored to create
+business impact and enhance customer experience at Navi. This involves
+understanding specific business needs and creating innovative AI-driven
+strategies.
+● Collaborate extensively with cross-functional teams, including product
+managers and software engineers, to conceptualize, solutionize, and deploy AI
+
+solutions. Ensure seamless integration of AI solutions into existing workflows
+and platforms.
+● Design, test, and refine AI prompts by leveraging advanced prompt engineering
+techniques. This includes researching and identifying the most effective ways to
+frame problems and elicit accurate responses from AI systems.
+● Continuously define and monitor key quality metrics (such as accuracy,
+relevance, and completeness) and latency metrics (such as response time and
+processing speed) of AI deployments. Use insights gathered to make iterative
+improvements to models and prompts, ensuring they meet or exceed industry
+benchmarks.
+● Stay informed about the latest advancements in GenAI, machine learning, and
+related technologies, applying innovative techniques to enhance Navi's AI
+capabilities.
+
+Must Haves
+● Bachelor's or Master's degree in Engineering, Computer Science, or a closely
+related discipline from a recognized institution.
+● Superior verbal and written communication skills are essential, enabling the
+creation of detailed, contextually accurate AI and solutions.
+● Demonstrated ability in high-level critical thinking and problem-solving,
+particularly in evaluating AI-generated outputs and iterating prompts to
+enhance the performance and reliability of AI solutions.
+● Proficiency in programming, preferably in Python.
+● Exceptional analytical skills, with the ability to detect patterns, recognise biases,
+and ensure the generation of high-quality AI outputs.
+● Bonus: An in-depth understanding of the operational principles and
+mechanisms behind large language models (LLMs), including experience with
+optimizing and customizing such models for specific business use cases.
+
+About Navi
+We are on a mission to make finance simple, accessible and affordable for a billion
+Indians. Guided by a strong customer-first approach, we are building tech-first solutions
+that work at scale. Our offerings include a range of financial products and services
+across Loans, Insurance, Mutual Funds, Digital Gold and UPI.
+Founded by Sachin Bansal & Ankit Agarwal in 2018, we are one of India’s
+fastest-growing financial services organisations. But we’re just getting started!
+Our Culture
+At Navi, we’re a place where ambition meets opportunity and ideas turn into impact
+quickly. We empower people with high ownership from the start, encouraging them to
+solve meaningful problems and build with excellence. Teams here work in an
+environment that values speed, collaboration and craftsmanship, while celebrating
+learning, growth and shared wins along the way. Whether you’re shaping the future of
+fintech products or driving innovation behind the scenes, life at Navi means being part
+of a high-energy, talent-driven workplace where your contributions truly make a
+difference.
+We’re guided by our own operating system - The Navi OS - a set of principles that
+shape how we work and win together. You can explore them at navi.com/our-values
+to see what drives us every day.
+If this feels like you, Navi is the place to grow, thrive and make a real impact.

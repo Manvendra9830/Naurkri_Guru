@@ -1,0 +1,14 @@
+About the job
+Company Description Mirafra Technologies is a technology consulting company specializing in semiconductor design services, embedded software development, and digital transformation. Headquartered in Bangalore, with additional offices in Hyderabad, Chennai, Pune, the US, Singapore, and Sweden, the company employs more than 1,500 engineers. Mirafra engineers have delivered hundreds of successful projects and are known for solving complex technical challenges. 
+
+Role Description This is a full-time, on-site Python Developer role based in Bengaluru . The Python Developer will design, implement, and maintain backend services, APIs, and tools supporting Mirafra’s semiconductor, embedded, and digital transformation projects. Responsibilities include writing clean, efficient, and testable code; integrating with databases and third-party services; and debugging, optimizing, and refactoring existing systems. The role involves collaborating with cross-functional teams to translate requirements into technical solutions, participating in code reviews, and contributing to software architecture decisions. The Python Developer will also help document designs, follow secure coding and quality standards, and support deployment and production issue resolution as needed.
+
+Qualifications
+Strong programming skills in Python, with solid understanding of Object-Oriented Programming (OOP) and software development best practices.
+Experience in back-end web development, including building and maintaining APIs and server-side components.
+Practical experience working with relational and/or NoSQL databases, including schema design, queries, and performance considerations.
+Knowledge of software development life cycle (SDLC), version control (e.g., Git), testing frameworks, and debugging tools.
+Bachelor’s or Master’s degree in Computer Science, Electronics, Engineering, or a related technical field, or equivalent practical experience.
+Ability to collaborate effectively in cross-functional teams, communicate clearly, and work independently with minimal supervision.
+Familiarity with Linux environments, CI/CD pipelines, and cloud platforms is an advantage.
+Experience in semiconductor, embedded, or systems software domains is a plus.

@@ -1,0 +1,21 @@
+About the job
+Job Title: AI Engineer
+Work Schedule: Must be able to work US Eastern Time (ET) hours or have significant overlap with ET.
+Salary: up to INR 35 LPA (depending on skills and experience)
+
+Role Summary:
+
+We are looking for an AI Engineer with a strong infrastructure engineering background to design and integrate AI-powered automation, optimization, and decision-support solutions. You will work with Microsoft Copilot, Google Gemini, and cloud platforms (GCP) to build intelligent agents, automations, and custom workflows that solve real infrastructure challenges.
+
+Key Responsibilities & Required Experience:
+
+(a) AI Solution Development: Build and integrate AI-powered automation and optimization solutions using Microsoft Copilot and Google Gemini
+(b) Intelligent Agents & Automations: Develop intelligent agents, scripts, automations, and microservices that interface with AI models for data enrichment and decision support
+(c) Custom AI Tailoring: Build custom prompts, workflows, and extensions to tailor AI behaviour specifically for infrastructure use cases
+(d) Prompt Engineering & RAG: Apply knowledge of LLM prompt engineering and retrieval-augmented generation (RAG)
+(e) Cloud & Automation Tools: 
+Familiarity with Google Cloud Platform (GCP)
+Experience with automation tools such as Terraform, Ansible, PowerShell, Bash, and/or Python
+(f) Infrastructure Background: Strong background in infrastructure engineering
+(g) Analytical & Problem-Solving: Strong analytical and problem-solving mindset, with the ability to translate infrastructure challenges into AI-driven solutions
+(h) Work Environment: Comfortable working in fast-moving, innovation-focused environments

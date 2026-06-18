@@ -1,0 +1,18 @@
+About the job
+Responsibilities
+
+ Participate in the entire software development lifecycle, including planning, design, development, testing, and deployment.
+ Analyze daily failures and proactively partake in corrective action and engineering change strategies.
+ Design and develop user interfaces (UIs) using Angular and related technologies (TypeScript, HTML, CSS).
+ Design and implement back-end logic for data processing, business rules, and application workflows.
+ Write unit and integration tests for both front-end and back-end components.
+ Testing and debugging of new software releases prior to their deployment to the global fleet.
+ Contribute to code reviews and provide constructive feedback to team members.
+
+Required Skills And Experience
+
+ Proven ability to build dynamic and interactive web applications using modern web development platforms (Angular / React) and in-depth knowledge of JavaScript/Typescript, CSS, HTML (preferably with portfolio),
+ Experience in Object-oriented programming (Python / JavaScript / C++),
+ Experience with scripting languages (Python, Bash),
+ Experience with Linux and Command Line,
+ Knowledge of Database Management (SQL and Non-SQL)

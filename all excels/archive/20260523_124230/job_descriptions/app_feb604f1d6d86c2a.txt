@@ -1,0 +1,51 @@
+About the job
+Platform Engineer (Reinforcement Learning Systems)
+Overview
+We are looking for a Platform Engineer to build the infrastructure, tooling, and systems that power large-scale Reinforcement Learning (RL) workflows. This role focuses on enabling researchers to train, evaluate, and deploy RL models efficiently by providing a scalable and reliable experimentation platform.
+You will work at the intersection of distributed systems engineering and ML research, building platforms that abstract away infrastructure complexity and enable “self-serve” experimentation for research teams.
+About Deccan AI
+Deccan AI is a fast-growing, venture-backed AI infrastructure company focused on training, evaluating, and improving next-generation AI systems. Headquartered in the Bay Area, with a growing India hub in Hyderabad, the company was founded by alumni of IIT Bombay, IIM Ahmedabad, and former Google leaders.
+We work with some of the world’s leading AI frontier labs and research organizations, including Google DeepMind, Snowflake, and other cutting-edge AI teams. Backed by Prosus Ventures, Deccan AI recently raised $25M in Series A funding and is entering a significant growth phase.
+With a global network of over 1 million experts, advanced automation systems, and vertically integrated platforms, we deliver the high-quality data and evaluation infrastructure that state-of-the-art AI models depend on. As the AI infrastructure market rapidly expands, Deccan AI is building the systems powering the future of AI.
+What You’ll Do
+RL Training Infrastructure
+Design and maintain scalable RL training platforms that support large-scale experimentation
+Build infrastructure using modern cloud-native tools and container orchestration systems (e.g., Kubernetes)
+Data & Simulation Pipelines
+Develop scalable data pipelines for training environments, including simulation and real-world data collection systems
+Enable efficient data flow across training, evaluation, and inference stages
+Performance & System Optimization
+Identify and eliminate bottlenecks in RL training loops, including simulation latency, data loading, and compute inefficiencies
+Optimize distributed training performance for speed, stability, and cost efficiency
+Observability & Experimentation
+Build monitoring systems, dashboards, and observability tools for tracking training metrics, rewards, and experiment progress
+Enable researchers to analyze and debug RL experiments effectively
+Simulation-to-Real Support
+Support infrastructure and tooling for transferring policies from simulation environments to real-world systems (where applicable)
+Required Skills & Experience
+Technical Skills
+Strong programming experience in Python (mandatory)
+Experience with systems-level programming languages such as C++ or Go is a plus
+Solid understanding of distributed systems and scalable backend architecture
+ML / RL Knowledge
+Strong understanding of Reinforcement Learning fundamentals (MDPs, policies, reward functions, reward shaping)
+Familiarity with deep learning frameworks such as PyTorch
+Exposure to RL training frameworks or large-scale ML systems (e.g., Ray)
+Infrastructure Expertise
+Hands-on experience with Kubernetes, Docker, and cloud-native infrastructure
+Experience building and maintaining production-grade distributed systems
+Ability to develop automation tools, CLI utilities, and internal developer platforms
+Preferred Qualifications
+Experience building ML or RL platforms in production environments
+Familiarity with simulation environments or robotics-based RL systems
+Experience with large-scale data processing pipelines
+Strong debugging, profiling, and performance optimization skills
+Exposure to MLOps tools and infrastructure automation frameworks
+What We’re Looking For
+Strong systems thinking and engineering fundamentals
+Ability to work closely with ML researchers and translate requirements into scalable systems
+High ownership mindset and ability to operate in fast-paced environments
+Strong problem-solving skills with attention to performance and reliability
+Passion for building infrastructure that enables research at scale
+Why This Role Matters
+This role is critical to enabling next-generation RL research. You will be building the foundational platform that allows researchers to run experiments faster, scale training efficiently, and iterate seamlessly — directly accelerating advancements in reinforcement learning systems.

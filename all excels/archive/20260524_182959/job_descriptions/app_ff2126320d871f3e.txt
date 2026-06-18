@@ -1,0 +1,33 @@
+About the job
+Company Description
+Deepgrid Semiconductors Pvt Ltd is an innovative technology company focused on advancing semiconductor solutions with cutting-edge artificial intelligence capabilities. As a forward-thinking organization, Deepgrid leverages AI to create efficient, high-performance solutions that drive progress across industries. With a strong emphasis on research and collaboration, the company is committed to delivering transformative technologies that shape the future. Headquartered in Hyderabad, Deepgrid fosters a culture of innovation and excellence.
+
+Deepgrid Semi Pvt Ltd - AI Engineer
+Location: Hyderabad
+
+About the Role :
+
+Deepgrid Semi is building custom semiconductor solutions for Autonomous Driving. We're looking for engineers to own AI model training, deployment, and low-level optimization on our custom silicon, with the range to contribute across the full stack when needed.
+Core Responsibilities
+Train and deploy ADAS perception, prediction, and planning models on Deepgrid's custom hardware
+Write and optimize CUDA/custom kernels where you understand what happens at the hardware level and can squeeze performance out of it
+Implement and tune model optimization techniques: quantization, pruning, distillation, operator fusion
+Understand the math behind what you're optimizing like gradient flow, numerical stability, convergence behavior
+Support the broader AI stack as needed: automated research pipelines, AI-powered UI, and software integration for our end-to-end solution
+Who You Are
+Math & Theory
+Strong foundation in linear algebra, probability, optimization, and numerical methods
+Understands backpropagation, loss landscapes, and learning dynamics at a deep level
+Familiar with statistical learning theory and model generalization
+
+Systems & Engineering
+Proficient in Python and PyTorch; can implement models and training loops from scratch
+Experience with CUDA, Triton, or low-level kernel programming is a plus
+Comfortable with C++ for performance-critical components
+Knows how to profile, benchmark, and systematically improve model performance on hardware
+How You Work
+Resourceful by default — when faced with an unfamiliar domain or tool, you find a way. You don't wait to be taught; you figure it out
+Perseverant — you stay with hard problems. Blockers slow you down, they don't stop you
+Delivery driven — you care about outcomes, not activity. Work isn't done until it's shipped and working
+
+We're building at the frontier of AI and silicon — if this excites you, we'd like to hear from you.

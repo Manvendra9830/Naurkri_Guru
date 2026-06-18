@@ -1,0 +1,6 @@
+About the job
+We are looking for a
+Machine Learning Engineer with strong expertise in Edge ASR and NLP
+to work on real-world, production-grade healthcare speech systems. This role requires hands-on ownership of multilingual and offline speech pipelines, designed for noisy and low-resource environments.
+You will work closely with product, backend, and field engineering teams to build systems that directly impact clients.
+This is a full-time role based in Bengaluru. The role involves developing, testing, and deploying machine learning models, including neural network architectures, to enhance healthcare technology solutions. Responsibilities include designing algorithms, performing pattern recognition, and collaborating with cross-functional teams to optimize AI-driven healthcare.

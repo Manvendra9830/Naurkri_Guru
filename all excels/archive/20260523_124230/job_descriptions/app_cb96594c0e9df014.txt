@@ -1,0 +1,26 @@
+About the job
+About KnowDis:
+
+KnowDis AI is a research-driven startup building cutting-edge solutions in Natural Language Processing (NLP) and Generative AI. Our AI tools are designed to automate and enhance business processes, including content generation, information retrieval, and document understanding. We work with clients across industries such as e-commerce, fashion, banking, and pharma, helping them unlock value through enterprise-ready AI solutions.
+
+Role Overview:
+We are hiring GenAI/LLM practitioners who are hands-on, curious, and execution-focused. Strong practical experience with LLM tools, prompt engineering, and real-world GenAI applications is essential.
+
+Skills & Requirements :
+Pytorch, LLM Finetuning, Frameworks - Langchain, LangGraph and other Generative AI frameworks
+Bachelor's degree or equivalent in a quantative field from a Tier 1 Institute (Computer Science Engineering, Statistics, Mathematics, etc.)
+The ideal candidates are fast learners who understand both the capabilities and limitations of large language models, use them responsibly, and take full ownership of outcomes.
+
+Key Responsibilities:
+Design, test, and optimise LLM-driven solutions for real business use cases
+Create, refine, and manage high-quality prompts, workflows, and agent setups
+Rapidly prototype GenAI applications using existing tools, APIs, and platforms
+Evaluate LLM outputs for accuracy, bias, safety, and reliability
+Stay current with new LLM models, tools, and GenAI trends, and apply them pragmatically
+Collaborate with business and technical teams to translate ideas into working AI solutions
+Continuously improve the performance, efficiency, and cost-effectiveness of LLM usage
+
+Selection Process:
+Interested Candidates are mandatorily required to apply through this listing on Jigya. Only applications received through this posting will be evaluated further.
+Shortlisted candidates may be required to appear in an Online Assessment and Screening interview administered by Jigya
+Candidates selected after the Jigya screening rounds will be interviewed by KnowDis

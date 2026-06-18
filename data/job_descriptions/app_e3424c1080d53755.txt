@@ -1,0 +1,78 @@
+About the job
+
+Role description
+AI Engineer – AWS Generative AI & Conversational AI 
+
+Role Overview
+
+We are seeking an AI Engineer with hands-on experience in Generative AI and AWS AI services to design and build intelligent applications such as enterprise chatbots, knowledge assistants, and AI-powered automation solutions. The ideal candidate will have strong Python development skills and experience integrating Large Language Models (LLMs) with enterprise systems using AWS services.
+
+This role will work closely with product, data engineering, and platform teams to develop scalable AI-powered conversational solutions using AWS services such as Bedrock, API Gateway, and Lambda, exposing AI capabilities as secure microservices for enterprise consumers.
+
+
+Key Responsibilities
+
+Generative AI Development
+
+
+Design and build AI-powered chatbots and conversational assistants using LLMs.
+
+Develop solutions using AWS Bedrock models including Anthropic Claude Sonnet.
+
+Implement Retrieval Augmented Generation (RAG) architectures for enterprise knowledge retrieval.
+
+Integrate LLMs with enterprise data sources such as databases, APIs, document repositories, and knowledge bases.
+
+
+
+AWS AI Platform Development
+
+
+Develop AI applications using AWS Bedrock, SageMaker, Lambda, API Gateway, Step Functions, and S3.
+
+Build scalable Python-based microservices using FastAPI or similar frameworks.
+
+Expose AI capabilities as secure APIs through AWS API Gateway for internal and external consumers.
+
+Implement authentication, rate limiting, and secure API access patterns.
+
+
+Conversational AI Engineering
+
+
+Design conversational workflows and prompt engineering strategies.
+
+Manage session context and multi-turn interactions for chatbot applications.
+
+Implement guardrails to mitigate hallucinations and enforce enterprise policies.
+
+
+
+Data & Knowledge Integration
+
+
+Build ingestion pipelines for structured and unstructured data including PDFs, documents, and databases.
+
+Implement vector search and knowledge retrieval systems using OpenSearch, Pinecone, FAISS, or similar technologies.
+
+
+AI Operations & Monitoring
+
+
+Monitor model performance, latency, and usage costs.
+
+Implement logging, evaluation frameworks, and observability for LLM-based systems.
+
+Continuously improve prompt strategies and retrieval pipelines.
+
+
+Required Skills
+
+Core Technical Skills
+
+
+Strong programming experience in Python
+
+Experience building APIs using FastAPI, Flask, or similar frameworks
+
+Hands-on experience with microservices architecture

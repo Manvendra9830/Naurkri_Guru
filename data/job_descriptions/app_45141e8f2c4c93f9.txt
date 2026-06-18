@@ -1,0 +1,12 @@
+About the job
+Must Have Skills Python - Core concepts: OOP, typing, modules, pytest/unittest, fixtures, basic async AWS Bedrock - Model invocation (Claude/Titan, etc.), Knowledge bases or retrieval integration, basic understanding of guardrails & access controls Generative AI - Prompting (system, few-shot), RAG types and approaches, Basic evaluation awareness, LangChain / LangGraph , Simple agent flows and routing DevOps Basics - Git, PRs, CI pipelines, Docker basics, artifacts ________________________________________
+
+Key Responsibilities
+
+ Develop GenAI features and workflows using Python and AWS Bedrock
+ Implement RAG pipelines (chunking, embeddings, retrieval, grounding)
+ Build single/multi-step agent workflows using LangChain / LangGraph
+ Integrate LLMs with APIs, tools, and enterprise applications
+ Write tested, maintainable Python code with CI/CD pipelines
+ Monitor basic latency, token usage, and cost metrics
+ Collaborate with architects, seniors, and QA teams

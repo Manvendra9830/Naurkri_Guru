@@ -1,0 +1,35 @@
+About the job
+About The Company
+
+Firstsource Solutions Limited, an RP-Sanjiv Goenka Group company (NSE: FSL, BSE: 532809, Reuters: FISO.BO, Bloomberg: FSOL:IN), is a leading global provider of business process management services. We specialize in delivering transformational solutions across various industries including Healthcare, Banking and Financial Services, Communications, Media and Technology, and Retail. Our extensive presence spans across the United States, the United Kingdom, India, Mexico, Australia, South Africa, and the Philippines, enabling us to serve our clients with a truly global perspective. At Firstsource, we leverage domain-centered teams, cutting-edge technology, data analytics, and innovative strategies to address our clients’ most complex challenges. Our team of real-world practitioners collaborates to deliver future-ready outcomes that drive growth, efficiency, and customer satisfaction.
+
+About The Role
+
+We are seeking a highly skilled AI Systems Engineer specializing in Generative AI (GenAI) to join our dynamic team as an Individual Contributor. This role is ideal for a hands-on professional who excels at transforming complex business problems into scalable, production-ready GenAI solutions. The successful candidate will have a proven track record of designing, building, and operating GenAI systems—covering both text and image modalities—in live environments. This position offers an exciting opportunity to work at the forefront of AI innovation, contributing to impactful projects that shape the future of AI-driven business solutions. You will collaborate closely with cross-functional teams, including product managers, data scientists, and developers, to deploy robust AI systems that meet high standards of performance, reliability, and safety.
+
+Qualifications
+
+The ideal candidate will possess a strong foundation in Generative AI and backend systems, with experience in deploying AI models in production environments. Key qualifications include expertise in large language models (LLMs), visual language models (VLMs), embeddings, retrieval-augmented generation (RAG), and prompt orchestration. A solid understanding of AWS cloud infrastructure, including services such as Lambda, ECS/EKS, S3, DynamoDB, and AI-specific tools like Bedrock and SageMaker, is essential. Proficiency in programming languages such as Python, along with experience in TypeScript, Go, or Java, is required. Candidates should have hands-on experience with containerization (Docker), orchestration (Kubernetes), and CI/CD pipelines (GitHub Actions, AWS CodePipeline). Familiarity with data modeling, vector databases, observability tools, and security best practices in cloud environments is also necessary.
+
+Responsibilities
+
+Own problems end-to-end by translating business goals into technical plans, designing pragmatic solutions, and delivering production systems with measurable impact.
+Design and implement backend APIs and microservices (REST/gRPC) to support GenAI workloads, ensuring scalability and maintainability.
+Containerize and orchestrate services using Docker, Kubernetes, ECS, or EKS to ensure reliable deployment and operation.
+Leverage AWS cloud services such as Lambda, ECS/EKS, S3, DynamoDB, RDS, API Gateway, SQS/SNS, and CloudWatch to train, host, and integrate AI models.
+Develop features across modalities, including text (LLMs, RAG), and images (VLMs, CV), incorporating retrieval, embeddings, fine-tuning, and evaluation pipelines.
+Implement observability by instrumenting logging, metrics, and traces using tools like OpenTelemetry, CloudWatch, or Datadog; build dashboards, set SLOs/SLIs, and establish alerting mechanisms.
+Validate models through offline and online evaluations, A/B testing, and safety measures such as guardrails, red-teaming, and compliance gates.
+Automate deployment processes by establishing CI/CD pipelines, infrastructure as code (Terraform, CloudFormation), and automated testing strategies, including canary and blue-green rollouts.
+Collaborate seamlessly with product teams, domain experts, and downstream stakeholders; document architecture; support product launches; and iteratively improve solutions based on data-driven insights.
+
+Benefits
+
+At Firstsource, we value our employees and offer a comprehensive benefits package designed to support your professional and personal growth. Our benefits include competitive salary packages, health insurance, retirement plans, paid time off, and opportunities for continuous learning and development. We foster a collaborative work environment that encourages innovation, diversity, and inclusion. Our flexible work arrangements and employee wellness programs are aimed at maintaining a healthy work-life balance. Additionally, employees have access to cutting-edge tools and technologies, allowing them to stay at the forefront of AI and cloud computing advancements. We also provide career growth opportunities through internal mobility, training programs, and leadership development initiatives.
+
+Equal Opportunity
+
+Firstsource is committed to creating a diverse and inclusive workplace. We are an equal opportunity employer and do not discriminate based on race, ethnicity, gender, age, religion, disability, or any other protected characteristic. Our hiring process is fair, transparent, and merit-based. We encourage candidates from all backgrounds to apply and join our team as we work together to innovate and achieve excellence in the AI domain. We never ask for money at any stage of our hiring process and advise candidates to verify offers through our official channels or email addresses ending with @firstsource.com.
+
+Desired Skills and Experience
+Generative AI, Machine Learning, Cloud Computing, DevOps, API Development, Data Modeling

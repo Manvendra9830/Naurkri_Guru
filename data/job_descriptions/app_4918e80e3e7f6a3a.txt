@@ -1,0 +1,16 @@
+About the job
+Company Description
+ AIMECH USA, LLC is a pioneering technology company specializing in innovative solutions for advanced engineering challenges. We leverage state-of-the-art technologies to address complex industry needs, emphasizing research and development in cutting-edge domains. Our mission is to empower industries with technology-driven solutions that enhance productivity and efficiency. Our collaborative environment fosters innovation, integrity, and commitment to excellence.
+
+ Role Description
+ This is a full-time remote position for a Computer Vision Research Engineer. The role involves conducting advanced research in computer vision, robotics, and pattern recognition to develop innovative solutions. The candidate will design and implement cutting-edge machine learning models, analyze large datasets, and contribute to robotics applications. Collaboration with cross-functional teams to resolve technical challenges and enhance the deployment of real-world applications is essential.
+
+ Qualifications
+  Strong expertise in Computer Vision technology, including experience in building and optimizing visual processing systems
+Proficiency in Pattern Recognition and its applications in diverse environments
+Solid background in Robotics and an aptitude for applying vision systems to autonomous platforms
+Knowledge of Computer Science fundamentals, particularly algorithms, programming, and system architecture
+Experience in Data Science, including data preprocessing and model evaluation
+Advanced degree in a related field (e.g., Computer Science, Robotics, Engineering, or Data Science) is preferred
+Adaptability to work in a remote, collaborative, and dynamic environment
+Strong analytical problem-solving and communication skills

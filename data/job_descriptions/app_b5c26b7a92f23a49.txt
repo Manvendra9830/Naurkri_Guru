@@ -1,0 +1,135 @@
+About the job
+Company overview:
+
+TraceLink is the world’s largest Agentic Business Network, enabling life sciences and healthcare companies to build and manage a scalable digital workforce of governed, no-code AI agents that execute and coordinate mission-critical supply chain operations alongside human teams. Powered by the Integrate-Once™ OPUS platform, TraceLink links more than 300,000 network participants, enabling multi-enterprise processes at global scale.
+
+Founded in 2009 with the simple mission of protecting patients, today Tracelink has 5 global offices, over 800 employees and more than 1700 customers in over 60 countries around the world. Our expanding product suite continues to protect patients and now also enhances multi-enterprise collaboration through innovative new applications such as MINT.
+
+Tracelink is recognized as an industry leader by Gartner and IDC, and for having a great company culture by Comparably.
+
+Primary Architecture Domain
+
+Vanilla JavaScript (ES6+)
+
+ Web Components (Custom Elements, Shadow DOM, HTML Templates)
+ MVVM Architecture
+ Pub-Sub Event Systems
+ Reactive UI State Management * NodeJS
+
+Role Summary
+
+Seeking a focused and detail-oriented Software Engineer I to join our Core UI
+
+Platform team. In this role, you will move beyond standard monolithic frameworks to design, build, and maintain highly scalable, framework-agnostic No Code UI systems. You will leverage the native capabilities of modern browsers, specializing heavily in Vanilla JavaScript, W3C standard Web Components, and decoupling patterns
+
+such as Model-View-ViewModel (MVVM) and Publish-Subscribe (Pub-Sub).
+
+As an SE I, you will work within an agile squad dedicated to delivering modular, ultra-high-performance UI elements that form the foundational micro-frontends of our enterprise cloud applications. This position is ideal for an engineer who wants to master browser internals, write memory-efficient code, and build foundational
+
+architectural systems rather than just consuming third-party UI frameworks.
+
+Key Responsibilities
+
+ Component Engineering & Modular UI Development
+
+Design, implement, and maintain reusable, performant, and framework-agnostic UI components using modern native Web Component standards (Custom Elements v1, Shadow DOM v1, and HTML
+
+Templates).
+
+Ensure components adhere strictly to accessibility standards (WCAG 2.1 AA, ARIA roles) and semantic HTML practices.
+
+Optimize component performance, minimizing layout thrashing, excessive repaints, and memory leaks caused by improper lifecycle management or dangling DOM references.
+
+ Architecture & State Management Implementation
+
+Implement structured client-side architectures based on the Model-View-ViewModel (MVVM) pattern,
+
+facilitating clean data binding and strict separation of UI layout from business logic.
+
+Utilize Publish-Subscribe (Pub-Sub) patterns, custom event brokers, and message buses to drive decoupled, asynchronous, inter-component communication across disparate micro-frontends.
+
+Maintain localized component states and bind them reliably to global application states using
+
+asynchronous JavaScript workflows (Promises, Async/Await, Observables).
+
+ Testing, Documentation & Technical Quality
+
+Write robust unit and integration tests for custom components and modules using modern assertion libraries (e.g., Web Component Tester, Jest, Mocha, or Playwright).
+
+Document technical designs, architectural decisions, and component APIs using comprehensive JSdoc annotations and Storybook catalogs.
+
+Participate proactively in peer code reviews, adhering to organizational guidelines for code cleanliness, functional design patterns, and cross-browser interoperability.
+
+TECHNICAL COMPETENCIES & MATRIX
+
+Below is the expected competency landscape for an engineer joining at the SE I level:
+
+Domain Expected Capabilities (SE I Level) Key Technologies / Concepts
+
+Core JavaScript Profound understanding of prototypes,
+
+closures, event loops, scopes, execution
+
+contexts, hoisting, and deep vs. shallow
+
+cloning. Fluent in ES6+ syntax.
+
+ES2022+ Async/Await
+
+Closures Event Loop
+
+Web Components: Ability to author components from scratch.
+
+Proficient with Shadow DOM boundaries (open vs. closed), slot composition, and lifecycle callbacks.
+
+Custom Elements v1
+
+Shadow DOM HTML Templates
+
+LitElement / Lit
+
+Design Patterns: Clear separation of concerns using MVVM.
+
+Experience building functional 1-way or 2-way data bindings and implementing
+
+custom decoupled Pub-Sub message buses.
+
+MVVM Pub-Sub Pattern
+
+Observer Pattern
+
+Data Binding
+
+DOM & Events Handling DOM events safely using capture/bubble phases, event delegation, custom event dispatching, and memory cleanup.
+
+Event Delegation
+
+CustomEvents Pointer Events
+
+Requirements & Qualifications
+
+Minimum Qualifications
+
+Experience: 1+ years of professional front-end engineering experience writing production-grade enterprise client-side web applications.
+
+Core Expertise: Strong proficiency in vanilla JavaScript (ES6+), semantic CSS3/HTML5, and modern
+
+browser APIs.
+
+Component Standards: Hands-on experience developing native Web Components or working extensively with lightweight component base-classes like Lit, Stencil, or vanilla APIs.
+
+Architectural Concepts: Practical familiarity with the Pub-Sub pattern, decoupling UI state, and handling complex asynchronous event propagation across separate modules.
+
+Preferred Qualifications
+
+Experience working within monorepos or enterprise-scale Micro-Frontend systems.
+
+Familiarity with Custom Element structural optimizations, such as declarative shadow DOM and CSS
+
+Understanding of bundle optimization, tree-shaking, and asset delivery pipelines using modern tools such
+
+as Vite, Webpack, or Rollup.
+
+Strong grasp of cross-browser performance profiling, memory leak investigation via browser DevTools, and performance budgeting.
+
+Please see the Tracelink Privacy Policy for more information on how Tracelink processes your personal information during the recruitment process and, if applicable based on your location, how you can exercise your privacy rights. If you have questions about this privacy notice or need to contact us in connection with your personal data, including any requests to exercise your legal rights referred to at the end of this notice, please contact Candidate-Privacy@tracelink.com.

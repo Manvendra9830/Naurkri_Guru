@@ -1,0 +1,46 @@
+About the job
+About The Company
+
+Laser Labs is an AI and software venture studio that partners with small and medium-sized enterprises to integrate workflow automation into everyday operations. The company focuses on reducing manual, repetitive work so business owners can concentrate on strategic decisions and growth. By building tailored AI solutions, Laser Labs quietly powers back-office efficiency while clients stay in the spotlight with their customers. Team members work closely with real-world businesses, seeing direct impact from the tools and systems they create. This environment offers opportunities to experiment with cutting-edge AI while solving practical, high-value problems.
+
+About The Role
+
+As an AI/ML Engineer at Laser Labs, you will be instrumental in designing, developing, and deploying machine learning models that automate and enhance client workflows. Your primary responsibilities will involve working with data pipelines, performing feature engineering, training models, and continuously evaluating and refining algorithms to ensure optimal performance. You will collaborate with cross-functional teams to implement neural network architectures and utilize tools such as n8n to develop customized workflow automations. This role offers a unique opportunity to work remotely on innovative projects that directly impact business efficiency. It is a contract-based position suited for individuals passionate about applying AI to real-world problems, with a focus on delivering scalable and robust solutions.
+
+Qualifications
+
+A strong foundation in Computer Science and algorithms, with the ability to design efficient, scalable solutions.
+An entrepreneurial spirit is essential, with previous start-up experience highly preferred.
+Proficiency in using n8n or the ability to quickly learn the platform.
+Hands-on experience with neural networks and pattern recognition techniques applied to real-world scenarios.
+Ability to leverage various large language models (LLMs) to achieve project goals.
+Proficiency in at least one modern programming language commonly used in machine learning, such as Python, along with familiarity with ML frameworks like PyTorch, TensorFlow, or Jupyter.
+Experience building end-to-end ML pipelines, including data preprocessing, feature engineering, model training, validation, and deployment.
+Comfort working with both structured and unstructured data, with proficiency in SQL and version control tools such as Git.
+A bachelor’s degree or higher in Computer Science, Engineering, Mathematics, or a related quantitative field, or equivalent practical experience.
+Excellent communication skills to articulate complex technical ideas clearly to non-technical stakeholders.
+Compensation is negotiable and will be based on experience and expertise.
+
+Responsibilities
+
+Design and develop machine learning models tailored to automate and optimize client workflows.
+Build and maintain scalable data pipelines, ensuring data quality and integrity for model training and evaluation.
+Perform feature engineering and data preprocessing to enhance model performance.
+Train, validate, and deploy machine learning models in a production environment.
+Experiment with neural network architectures and other advanced AI techniques to improve automation solutions.
+Collaborate with product and engineering teams to integrate AI models into workflow automation tools like n8n.
+Continuously monitor model performance and implement improvements based on feedback and new data.
+Document technical processes and provide insights to non-technical stakeholders to facilitate understanding and decision-making.
+Stay updated with the latest advancements in AI and machine learning to bring innovative solutions to projects.
+Participate in code reviews, team meetings, and knowledge-sharing sessions to foster a collaborative environment.
+
+Benefits
+
+Laser Labs offers a dynamic work environment that encourages innovation and professional growth. As part of our team, you will have the opportunity to work on cutting-edge AI projects that have a tangible impact on small and medium-sized enterprises. We provide flexible remote working arrangements to promote work-life balance. Compensation is competitive and commensurate with experience. Employees gain exposure to a wide range of AI and automation tools, fostering continuous learning and development. Additionally, you will be part of a forward-thinking company that values creativity, initiative, and technical excellence. We support our team members with opportunities for skill enhancement, mentorship, and participation in industry conferences and workshops.
+
+Equal Opportunity
+
+Laser Labs is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based on race, ethnicity, gender, age, sexual orientation, disability, or any other protected characteristic. Our hiring decisions are based solely on qualifications, experience, and the potential to contribute to our mission of transforming workflows through AI innovation. We believe that diverse perspectives drive better solutions and foster a more creative and productive workplace.
+
+Desired Skills and Experience
+Machine Learning, Data Pipelines, Deep Learning, AI Development, Workflow Automation, Model Deployment

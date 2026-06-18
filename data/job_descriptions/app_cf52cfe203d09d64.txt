@@ -1,0 +1,29 @@
+About the job
+Job Summary
+We are looking for a motivated Python Developer with 1 year of hands-on experience in developing, testing, and maintaining backend applications. The candidate should have good knowledge of Python frameworks, APIs, databases, and problem-solving skills.(Only Immediate joiner)
+Key Responsibilities
+Develop, test, and maintain Python applications
+Build REST APIs and backend services
+Work with databases like MySQL/PostgreSQL/MongoDB
+Debug and optimize existing applications
+Collaborate with frontend developers and team members
+Write clean, reusable, and efficient code
+Participate in code reviews and deployment processes
+Maintain documentation for projects and APIs
+Required Skills
+Strong knowledge of Python programming
+Experience with frameworks like Django or Flask
+Understanding of REST APIs
+Knowledge of SQL and database design
+Familiarity with Git/GitHub
+Basic understanding of cloud platforms or deployment
+Good debugging and problem-solving skills
+Understanding of OOP concepts
+Preferred Skills
+Experience with Docker or CI/CD
+Knowledge of AWS/Azure/GCP
+Familiarity with Redis/Celery
+Basic frontend knowledge (HTML, CSS, JavaScript)
+Qualifications
+Bachelor’s degree in Computer Science, IT, or related field
+1 year of professional or internship experience in Python development

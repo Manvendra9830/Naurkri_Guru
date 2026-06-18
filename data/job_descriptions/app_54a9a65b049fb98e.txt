@@ -1,0 +1,46 @@
+About the job
+Job Title: Python Developer
+Location: Hubli, Karnataka
+Experience: 1+ Years
+Employment Type: Full-Time, On-site
+Joining: Immediate Joiners Preferred
+Work Mode: Work from Office (No Work from Home / Remote Option)
+
+About the Role
+MWB Tech is seeking a motivated and skilled Python Developer with at least 1 year of hands-on experience in software development. The ideal candidate should have strong Python programming skills, exposure to AI tools and automation technologies, and a passion for building efficient and scalable solutions.
+
+Key Responsibilities
+Develop, test, and maintain Python-based applications and solutions.
+Write clean, efficient, and reusable code following best practices.
+Integrate APIs and third-party services into applications.
+Work on automation, data processing, and backend development projects.
+Utilize AI-powered tools to improve development productivity and solution delivery.
+Collaborate with cross-functional teams to understand project requirements and deliver high-quality solutions.
+Troubleshoot, debug, and optimize application performance.
+Maintain technical documentation and project reports.
+
+Required Skills
+1+ years of hands-on experience in Python development.
+Strong understanding of Python frameworks and libraries.
+Experience with REST APIs and API integrations.
+Knowledge of databases such as MySQL, PostgreSQL, or MongoDB.
+Familiarity with Git and version control systems.
+Understanding of software development lifecycle and coding standards.
+Experience using AI tools such as ChatGPT, GitHub Copilot, Claude, Cursor AI, or similar tools for development and productivity enhancement.
+Good analytical and problem-solving skills.
+
+Preferred Skills
+Exposure to Flask, Django, or FastAPI.
+Basic understanding of Machine Learning or AI concepts.
+Experience with cloud platforms is an added advantage.
+Knowledge of automation tools and scripting.
+
+Candidate Profile
+Self-driven and eager to learn new technologies.
+Strong communication and teamwork skills.
+Ability to work in a fast-paced environment.
+Must be willing to work from the Hubli office on a full-time basis.
+
+Note: 
+1. Applications will only be accepted through the ATS link provided above. Profiles shared through other means will not be considered.
+2. Prolegion does not charge any fee from candidates at any stage. If anyone approaches you for money in exchange for this opportunity, treat it as fraud and report it to us immediately.

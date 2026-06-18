@@ -1,0 +1,55 @@
+About the job
+Skillsets and Quantities as below;
+
+Service
+
+Resource Quantity
+
+Skill Set
+
+AI & Automation
+
+2
+
+Chat bot development & training
+
+KMS development using LLMs
+
+Process flow automation
+
+Resources will provide L3/L4 support, develop and deploy new capabilities, and deliver transformation projects aligned to the Customer s Automation & AI roadmap.
+
+Resource quantities and skill requirements may evolve during the contract term, with vendors expected to provide scalable staffing through a rate-card-based engagement model.
+
+Appreciate if you can share profiles of existing resources that closely align with the skillsets outlined below:
+
+Relevant experience and technical competencies.
+Professional certifications and applicable project experience.
+Examples of automation initiatives, AI-led transformation programs, development/customization activities, and similar engagements delivered within their current assignment and previous organizations.
+
+Please refer to the attached profile template for the required format.
+
+Additionally, please provide relevant summaries, references, and case studies showcasing development, customization, automation, integration, and AI transformation initiatives delivered by I2, particularly across Unified Communications (UC), Contact Centre (CC), and related technology domains.
+
+Examples May Include
+
+AI-powered virtual assistants, chatbots, and voicebots for customer interaction and self-service.
+
+Contact Centre workflow automation, IVR development, call routing optimization, and Genesys platform customizations.
+
+Microsoft Teams and Microsoft 365 custom application development, Copilot integrations, Power Platform solutions, and workflow automation.
+
+API-based integrations between UC/CC platforms and enterprise applications such as CRM, ITSM, HR, and banking systems.
+
+AI-driven analytics, reporting, sentiment analysis, and operational insights.
+
+Process automation initiatives leveraging RPA, orchestration platforms, and low-code/no-code technologies.
+
+Custom dashboards, reporting portals, and user experience enhancements delivered for UC and CC environments.
+
+Knowledge management solutions utilizing AI/LLMs to improve agent productivity and customer experience.
+
+Resources would dedicated allocated to Customer with Customer specific laptops, no specific work location expectation currently.
+
+Desired Skills and Experience
+Devops, AUTOMATION, kUBERNETES, Genesys, GraphQL, Artificial Intelligence, Customer experience, Chatbots, User Experience, workflows, dashboards, IT Service Management, Microsoft Power Automate, Microsoft Sharepoint, Business Transformation, Banking Services, api design, Systems Integration, Process Automation, Microsoft Windows, Budgeting Skills, Call Centers, Digital Enablement, Hard Work and Dedication, Case Studies, Custom Software, Customer Relationship Management, Enterprise Software Applications, Human Resources, Knowledge Management, Large Language Models, Low-code, Microsoft Teams, Power Platform Integration, Robotic Automation Software, Sentiment Analysis, Technology Roadmaps, Unified Communications

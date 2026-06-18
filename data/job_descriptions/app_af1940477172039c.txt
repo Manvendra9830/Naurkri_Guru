@@ -1,0 +1,22 @@
+About the job
+Healthcare communication is broken. At PypeAI, we are building the "Operating Layer" for healthcare voice first agents that manage the entire patient journey, from clinical triage to automated follow-ups. We are building the infrastructure for autonomous healthcare coordination.
+As an AI Engineer, you won't be on the sidelines; you’ll be at the core of our engine. You will work directly on our Voice-to-Voice (V2V) pipeline, pushing the boundaries of what’s possible in real-time, empathetic, and clinically reliable AI.
+Fine-tuning Models: Optimize domain-specific LLMs and Audio Models for medical accuracy and human-like prosody.
+V2V Pipeline: Engineer the cutting edge of STT (Speech-to-Text) and TTS (Text-to-Speech) to minimize latency to sub-second levels.
+Inference at Scale: Deploy and optimize models to handle thousands of concurrent, high-stakes medical conversations.
+Edge-of-the-Map Engineering: Work on the entire pipeline—from data synthesis to production-grade inference.
+Qualification
+We are looking for someone who doesn't just "use" AI but understands how it breathes.
+Experience: 1-5 years in AI
+You have hands-on experience with PyTorch/TensorFlow
+have fine-tuned models or trained from scratch
+You understand audio processing (sample rates, latency, codecs) and how to make AI sound human.
+You’ve played with Inference Optimization (vLLM, TensorRT, or similar architectures).
+You have the hunger to solve problems that don't have right LLM answers. You are comfortable with the chaos of a 0-to-1 startup and want to see your code impact real patient lives immediately.
+Interns who have built or broken things - Most Welcome!
+
+What you can expect?
+High Ownership: You will own mission-critical modules of a platform that is already live in hospitals.
+Deep Tech: Work on specialized voice agents trained on rich medical datasets, not generic chatbots.
+
+Do want to build the future of healthcare? Or want to work on Voice AI that actually matters, we want to hear from you.

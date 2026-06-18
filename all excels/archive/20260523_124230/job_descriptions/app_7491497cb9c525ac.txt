@@ -1,0 +1,26 @@
+About the job
+We are looking for a passionate fresher to work on Computer Vision and Retrieval-Augmented Generation (RAG) solutions. The role will involve building AI-driven applications, working with image and video data, and supporting intelligent search and retrieval systems powered by LLMs, embeddings, and modern ML tooling. Entry-level computer vision roles commonly involve visual data processing, model support, integration work, and performance improvement, while RAG-focused roles increasingly emphasize embeddings, retrieval pipelines, and factual response grounding.upwork+2
+
+You will work with mentors and engineering teams to develop, test, and improve AI models and applications. Beginner-oriented RAG learning paths and hiring guidance also emphasize hands-on experimentation, data preparation, evaluation, and practical integration skills rather than deep research specialization at the fresher level.machinelearningmastery+2
+
+Key Responsibilities
+
+Assist in building computer vision models for image classification, object detection, OCR, and related tasks. 
+Support the development of RAG pipelines using LLMs for intelligent search, question answering, and retrieval. 
+Perform data collection, preprocessing, cleaning, annotation, and dataset organization. 
+Help train, test, and evaluate ML models for accuracy and performance. 
+Develop and integrate APIs and AI modules into applications. 
+Work with embeddings, vector databases, and retrieval workflows where required. 
+Document experiments, findings, and implementation details. 
+Collaborate with team members to improve AI model quality and application performance. These responsibilities align well with published expectations for computer vision and RAG-oriented roles, especially around model building, data preparation, retrieval quality, integration, and continuous evaluation.upgrad+3 
+
+Requirements
+
+Basic knowledge of Python programming.
+Familiarity with ML or deep learning frameworks such as TensorFlow or PyTorch. 
+Understanding of computer vision concepts such as image classification, object detection, or OCR. 
+Basic understanding of NLP and large language model concepts. 
+Exposure to embeddings, vector databases, or retrieval systems is preferred. 
+Good problem-solving ability and willingness to learn new technologies quickly. Common learning and hiring guidance for these areas highlights Python, ML frameworks, visual-data fundamentals, and early exposure to LLM, retrieval, and evaluation concepts as the most relevant foundation for junior candidates. 
+
+Skills: ml,building,computer vision,concepts,models,integration,learning,data

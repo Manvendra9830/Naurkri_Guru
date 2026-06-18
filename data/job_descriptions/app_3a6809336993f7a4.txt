@@ -1,0 +1,62 @@
+About the job
+Our vision for the future is based on the idea that transforming financial lives starts by giving our people the freedom to transform their own. We have a flexible work environment, and fluid career paths. We not only encourage but celebrate internal mobility. We also recognize the importance of purpose, well-being, and work-life balance. Within Empower and our communities, we work hard to create a welcoming and inclusive environment, and our associates dedicate thousands of hours to volunteering for causes that matter most to them.
+
+Chart your own path and grow your career while helping more customers achieve financial freedom. Empower Yourself.
+
+Summary
+
+The Data Scientist supports Empower’s Responsible AI (RAI) program by embedding directly with AI Factory teams and ensuring AI and GenAI applications are safe, measurable, transparent, and aligned with Empower’s Responsible AI principles. This role partners with assigned factory teams as a matrixed expert, executes Responsible AI evaluations, contributes to methodological development, and participates in research and prototyping of emerging RAI techniques.
+
+Key Responsibilities
+
+Embedded Responsible AI Support
+
+Serve as the Responsible AI data science partner for assigned AI CoreWorks Factory teams, supporting integration of evaluation workflows, guardrails, and measurement practices.
+Guide teams in applying Responsible AI platform capabilities, including real-time guardrails, hallucination scoring, explainability modules, and batch evaluation processes.
+Support definition and maintenance of AI application configurations as part of onboarding, control mapping, and ongoing lifecycle management.
+
+Responsible AI Evaluation and Method Implementation
+
+Execute evaluations related to hallucination, fairness, contextual grounding, transparency, robustness, and other model behavior risks.
+Develop benchmark datasets, evaluation scripts, and structured testing methods that enable consistent assessment across AI applications.
+Analyze model architectures, data characteristics, and inference workflows to inform evaluation design and interpretation of results.
+Partner with QA teams to align evaluation outputs with testing thresholds, validation workflows, and platform guardrails.
+
+Machine Learning and Model Analysis
+
+Apply machine learning, statistical, and experimental design techniques to assess model behavior and performance in applied contexts.
+Evaluate how training approaches, data sources, model configurations, and deployment patterns influence Responsible AI outcomes.
+Review and assess third-party or open-source models and tools from a safety, robustness, and evaluation perspective.
+
+Research and Prototyping
+
+Contribute to research, experimentation, and prototyping of emerging Responsible AI methods and evaluation techniques.
+Explore new approaches in areas such as hallucination detection, explainability, fairness assessment, and model risk measurement.
+Participate in proofs of concept and experimental analyses used to determine readiness of new metrics or methods for broader adoption.
+Partner with engineering teams to help transition successful prototypes into platform-ready capabilities.
+
+Collaboration, Documentation, and Governance Support
+
+Collaborate with AI/ML engineers to operationalize evaluation logic and integrate Responsible AI metrics into shared platforms.
+Assist with preparation of model cards, evaluation summaries, transparency documentation, and lineage records.
+Provide analytical input to governance reviews, audits, and cross-functional consultations as needed.
+Coordinate closely with global RAI data science partners to align methods, backlog priorities, and standards.
+
+Required Qualifications
+
+Bachelor’s or Master’s degree in computer science, data science, statistics, or a related quantitative discipline, or equivalent experience.
+Experience developing, validating, or evaluating machine learning models in production or pre-production environments.
+Strong proficiency in Python and experience working with data for ML analysis, experimentation, and evaluation.
+Familiarity with experimental design, statistical analysis, and model performance assessment.
+Exposure to GenAI or LLM systems, including model behavior analysis, safety testing, or explainability techniques.
+Ability to collaborate effectively with engineering, QA, and product teams in a matrixed environment.
+Strong written and verbal communication skills.
+
+Preferred Qualifications
+
+Hands-on experience implementing evaluation techniques such as grounding checks, judge-model scoring, or explainability methods (for example SHAP or LIME).
+Familiarity with cloud-based ML environments or enterprise-scale AI systems.
+Interest in research related to Responsible AI, fairness, factuality, transparency, or model risk.
+Experience contributing to shared evaluation frameworks or analytical tooling.
+
+We are an equal opportunity employer with a commitment to diversity. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to age, race, color, national origin, ancestry, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, religion, physical or mental disability, military or veteran status, genetic information, or any other status protected by applicable state or local law.

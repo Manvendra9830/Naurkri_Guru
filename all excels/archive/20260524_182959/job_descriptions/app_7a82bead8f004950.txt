@@ -1,0 +1,15 @@
+About the job
+Company Description
+Cornerstone OnDemand empowers organizations and their employees to succeed in a rapidly changing world through Cornerstone Galaxy, an AI-powered workforce agility platform. Serving over 7,000 organizations and 140 million users in 186 countries, Cornerstone enables organizations to bridge skills gaps, retain top talent, and provide diverse learning experiences. With a focus on building future-ready organizations, the platform supports businesses in creating high-performing teams. Follow Cornerstone on social media or visit www.cornerstoneondemand.com for more information.
+ Role Description
+This is a full-time role for a Software Development Engineer AI based in Hyderabad or remote. The role involves designing, developing, testing, and maintaining software solutions powered by AI. Key responsibilities include collaborating with cross-functional teams, implementing object-oriented programming techniques, managing back-end micro-services development, and contributing to the overall software development lifecycle. You will have the opportunity to work on cutting-edge technologies to drive innovation and impact organizational success.
+ Qualifications
+Strong foundation in Computer Science principles and concepts
+Strong proficiency in Data Structures and Algorithms
+Proficiency in Back-End Service and API Development
+Hands-on expertise in Software Development and Programming in Java or Python
+Knowledge of Object-Oriented Programming (OOP) techniques and best practices
+Ability to work effectively in a collaborative, team-oriented environment
+Excellent problem-solving skills with attention to detail
+Bachelor's or Master's degree in Computer Science, Software Engineering, or related field
+Experience working with AI technologies (RAG, Agent development) and machine learning is a plus

@@ -1,0 +1,52 @@
+About the job
+Job Description Summary
+
+Consulting Services is seeking a Software Engineering Specialist to advance our long-term power system planning software, with a focus on resource adequacy modeling. In this role, you will contribute towards development of advanced capabilities inform multi-decade investment decisions for generation, transmission, storage under evolving reliability, economic, and decarbonization requirements. You will collaborate closely with our power system experts and software engineers to translate complex planning methodologies into scalable, reliable, and transparent software.
+
+Job Description
+
+Key Responsibilities
+
+Implement, and maintain software modules for resource adequacy planning, including generation, storage, and transmission availability.
+
+Support multi-region and inter-regional planning with long-term temporal and spatial resolution.
+
+Implement and improve large-scale optimization models, develop approaches for scenario analysis, sensitivity analysis, and long-horizon uncertainty.
+
+Build maintainable, well-tested, and well-documented code for production-grade planning tools.
+
+Improve runtime performance and memory efficiency for large datasets and long planning horizons.
+
+Integrate results with downstream models.
+
+Ensure data traceability and reproducibility of planning results.
+
+Collaborate with domain experts to validate model behavior and assumptions.
+
+Clearly communicate technical concepts and modeling results to both technical and nontechnical stakeholders.
+
+Contribute to documentation and user-facing explanations of model logic and limitations.
+
+Required Qualifications
+
+Bachelor’s degree in computer science, engineering, applied mathematics, operations research, or a related field
+
+Strong programming skills in Python.
+
+Familiarity with software engineering best practices (version control, testing, code reviews).
+
+Must be willing to learn and develop software in Fortran.
+
+Preferred Qualifications
+
+Familiarity with production cost, capacity expansion, resource adequacy, or long-term planning frameworks.
+
+Knowledge of renewable energy, storage, transmission planning, or decarbonization policy.
+
+Experience developing optimization-based models or large-scale analytical software.
+
+Demonstrated ability to work with large datasets and complex model inputs.
+
+Additional Information
+
+Relocation Assistance Provided: Yes

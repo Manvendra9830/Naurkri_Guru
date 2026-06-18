@@ -1,0 +1,25 @@
+About the job
+Outlier is looking for people who not just know coding but live the code. We’re hiring for people to join us freelance full-time. If you’re the one who breathe code, then it’s a right opportunity.
+
+Here’s the job description for you:
+
+Location: Remote
+Employment Type : Part-time freelance
+Flexible (min. 20 hours required)
+Compensation: $16-$27 per hour
+
+Role & Responsibilities :
+
+Analyse AI-generated code, debug inconsistencies, and rank outputs based on correctness and efficiency.
+Develop structured hints and prompts to improve AI-assisted learning and problem-solving.
+Assess AI-generated responses for accuracy, relevance, and coherence
+Provide human feedback to enhance AI model training through reinforcement learning
+Assist in fine-tuning AI models using curated datasets to improve performance.
+
+What We’re Looking For :
+Must done Bachelors from Tier-1 college or have work experience in Tier-1 company
+Proficiency in at least one programming language: Python, Java, JavaScript/TypeScript,or C++.
+Proficient in all languages, JS, HTML, CSS and also working with modern framework
+0-1 year Experience working with React, Next JS & Typescript- Highly desirable
+Ability to analyse AI-generated text/code and provide constructive feedback for improvement
+Strong communication skills, especially in written English, with an eye for detail in grammar, punctuation, and logical flow.

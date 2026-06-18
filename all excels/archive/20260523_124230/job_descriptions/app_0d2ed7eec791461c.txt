@@ -1,0 +1,84 @@
+About the job
+Introduction: A Career at HARMAN Automotive
+
+We’re a global, multi-disciplinary team that’s putting the innovative power of technology to work and transforming tomorrow. At HARMAN Automotive, we give you the keys to fast-track your career.
+
+Engineer audio systems and integrated technology platforms that augment the driving experience
+Combine ingenuity, in-depth research, and a spirit of collaboration with design and engineering excellence
+Advance in-vehicle infotainment, safety, efficiency, and enjoyment
+
+About The Role
+
+We are seeking a highly enthusiastic Agentic AI Engineer with up to 1 year of experience, eager to work on next‑generation AI systems driven by autonomous agents and Large Language Models (LLMs). This role is ideal for fresh graduates or early‑career professionals passionate about AI, web technologies, and cloud‑native development, who want to build intelligent, scalable, and automated solutions.
+
+What You Will Do
+
+Design and develop Agentic AI workflows using LLMs, tools, planners, and memory components. 
+Build and integrate LLM‑powered applications using frameworks such as LangChain and LlamaIndex. 
+Develop RESTful APIs and backend services using Django, Flask, FastAPI, Robyn Framework, or Vert.x. 
+Implement Retrieval Augmented Generation (RAG) pipelines using vector databases and embeddings. 
+Work on Machine Learning model development, including feature engineering and data preprocessing. 
+Develop and maintain web applications and microservices with secure authentication (OAuth, JWT). 
+Use Celery tasks for asynchronous processing and background AI workloads. 
+Work with databases and search systems such as MySQL, Redis, ElasticSearch, and ScyllaDB. 
+Containerize applications using Docker and support deployments on Kubernetes. 
+Assist in model training, CI/CD pipelines, and cloud deployments on AWS. 
+Collaborate in an agile team across the Software Development Life Cycle (SDLC). 
+
+What You Need To Be Successful
+
+0 to 1 year of experience (or strong academic/project exposure) in AI, ML, or Software Development. 
+Programming knowledge in Python (mandatory); exposure to GoLang, Java, SQL, JavaScript is a plus. 
+Understanding of HTML, CSS, and modern web application architecture. 
+Familiarity with Machine Learning fundamentals and common ML algorithms. 
+Hands-on exposure to ML libraries: TensorFlow, PyTorch, Scikit‑learn, Pandas, NumPy. 
+Basic understanding of NLP, Transformers, and Large Language Models (OpenAI, LLaMA). 
+Knowledge of RESTful APIs, JSON, and SQLAlchemy. 
+Experience (academic or project-based) with Git, GitHub or Bitbucket. 
+Awareness of CI/CD pipelines, build processes, and software deployment concepts. 
+Strong analytical thinking and problem‑solving mindset. 
+
+Bonus Points If You Have
+
+Practical experience with Agentic AI concepts (tools, reasoning, planning, memory). 
+Hands-on projects using Hugging Face, LangChain, or LlamaIndex. 
+Exposure to RAG architectures and vector databases. 
+Experience with Docker, Kubernetes, Jenkins, Kibana. 
+Familiarity with AWS services for application or ML deployment. 
+Internship or academic project experience in AI/ML or Full‑Stack Development. 
+Open‑source contributions or personal GitHub projects. 
+
+What Makes You Eligible
+
+Bachelor’s degree (or final‑year student) in Computer Science, AI/ML, Data Science, or a related field. 
+Strong foundation in programming, data structures, and software engineering basics. 
+Passion for AI, autonomous systems, and emerging technologies. 
+Ability to learn quickly and work effectively in a fast‑paced, collaborative environment. 
+
+What We Offer
+
+ Competitive salary and benefits package
+ Opportunities for professional growth and development
+ Collaborative and dynamic work environment
+ Access to cutting-edge technologies and tools
+ Recognition and rewards for outstanding performance through BeBrilliant
+ Chance to work with a renowned German OEM
+ You are expected to work all 5 days in a week in office
+
+You Belong Here 
+
+HARMAN is committed to making every employee feel welcomed, valued, and empowered. No matter what role you play, we encourage you to share your ideas, voice your distinct perspective, and bring your whole self with you – all within a support-minded culture that celebrates what makes each of us unique. We also recognize that learning is a lifelong pursuit and want you to flourish. We proudly offer added opportunities for training, development, and continuing education, further empowering you to live the career you want.
+
+About HARMAN: Where Innovation Unleashes Next-Level Technology 
+
+Ever since the 1920s, we’ve been amplifying the sense of sound. Today, that legacy endures, with integrated technology platforms that make the world smarter, safer, and more connected.
+
+Across automotive, lifestyle, and digital transformation solutions, we create innovative technologies that turn ordinary moments into extraordinary experiences. Our renowned automotive and lifestyle solutions can be found everywhere, from the music we play in our cars and homes to venues that feature today’s most sought-after performers, while our digital transformation solutions serve humanity by addressing the world’s ever-evolving needs and demands. Marketing our award-winning portfolio under 16 iconic brands, such as JBL, Mark Levinson, and Revel, we set ourselves apart by exceeding the highest engineering and design standards for our customers, our partners and each other.
+
+If you’re ready to innovate and do work that makes a lasting impact, join our talent community today!
+
+Important Notice: Recruitment Scams
+
+Please be aware that HARMAN recruiters will always communicate with you from an '@harman.com', ‘@careers.harman.com’ or ‘harmanglobal.avature.net’ email address. We will never ask for payments, banking, credit card, personal financial information or access to your LinkedIn/email account during the screening, interview, or recruitment process. If you are asked for such information or receive communication from an email address not ending in one of the above email domains about a job with HARMAN, please cease communication immediately and report the incident to us through: harmancareers@harman.com.
+
+HARMAN is proud to be an Equal Opportunity employer. HARMAN strives to hire the best qualified candidates and is committed to building a workforce representative of the diverse marketplaces and communities of our global colleagues and customers. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. HARMAN attracts, hires, and develops employees based on merit, qualifications and job-related performance.(www.harman.com)

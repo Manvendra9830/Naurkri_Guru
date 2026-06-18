@@ -1,0 +1,19 @@
+About the job
+We're looking for ML Engineers!
+
+Responsibilities
+
+Design, develop, and deploy machine learning and deep learning systems for scalable applications.
+Implement appropriate ML algorithms based on business and technical requirements.
+Conduct machine learning experiments, model training, validation, and performance tuning. 
+Work extensively with Python and ML libraries such as Scikit-learn, TensorFlow, PyTorch, OpenCV, and NumPy.
+Build self-learning systems that continuously improve using data-driven approaches. 
+Apply statistical and data science principles to solve complex business problems.
+Collaborate with data engineers and software teams to integrate ML models into production systems.
+Stay updated with latest advancements in AI, ML, and deep learning technologies.
+Optimize models for accuracy, scalability, and performance in production environments.
+Analyze large datasets to extract meaningful insights and patterns.
+
+(*Note: This is a requirement for one of Scoutit's clients)
+
+Skills: ml,algorithms,machine learning

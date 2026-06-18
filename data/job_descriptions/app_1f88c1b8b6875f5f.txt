@@ -1,0 +1,51 @@
+About the job
+When you join Verizon
+
+You want more out of a career. A place to share your ideas freely — even if they’re daring or different. Where the true you can learn, grow, and thrive. At Verizon, we power and empower how people live, work and play by connecting them to what brings them joy. We do what we love — driving innovation, creativity, and impact in the world. Our V Team is a community of people who anticipate, lead, and believe that listening is where learning begins. In crisis and in celebration, we come together — lifting our communities and building trust in how we show up, everywhere & always. Want in? Join the #VTeamLife.
+
+What We’re Looking For...
+
+This is a AI centric Role.
+Understanding core algorithms, including Supervised Learning (Linear Regression, Decision Trees) and Unsupervised Learning (K-Means Clustering).
+Familiarity with neural networks and frameworks such as PyTorch (widely preferred for research) or TensorFlow/Keras (used heavily in production).
+Knowing how to craft effective prompts, use APIs, and fine-tune models is a valuable skill as Generative AI (LLMs like GPT-4, Gemini) becomes mainstream.
+Familiarity with tools like LangChain or AI-based CRM agents to automate workflows.
+Claude Code Usage.
+
+What We Are Looking For…
+
+You'll need to have:
+
+Bachelor's degree or one or more years of work experience. 
+Experience in Linux System Administration.
+Experience deploying, configuring, and supporting Openstack.
+Strong AI Fundamentals
+Experience with AI Use cases and be able to define the business problem solved using AI.
+Experience with Service Proxy for Kubernetes. 
+Automation experience with tools such as BASH, Ansible, and Python. 
+Experience deploying, configuring, and supporting various distributions of Openstack.
+Knowledge of NFS and Networking fundamentals. 
+Experience with Git, Gitlab, and or GitHub.
+
+Even better if you have one or more of the following:
+
+Effective written and verbal communication skills.
+Demonstrable experience with SDN related concepts and protocols. 
+Virtualization and Linux Certifications.
+Experience deploying, configuring, and supporting Openshift.
+Experience with NETApp Storage Solution. 
+Experience with Object Storage (Swiftstack).
+
+If Verizon and this role sound like a fit for you, we encourage you to apply even if you don’t meet every “even better” qualification listed above.
+
+Where you’ll be working
+
+In this hybrid role, you'll have a defined work location that includes work from home and assigned office days set by your manager.
+
+Scheduled Weekly Hours
+
+40
+
+Equal Employment Opportunity
+
+Verizon is an equal opportunity employer. We evaluate qualified applicants without regard to race, gender, disability or any other legally protected characteristics.

@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#f7f8fb"/>
+  <rect x="0" y="0" width="1280" height="94" fill="#14213d"/>
+  <text x="54" y="57" font-family="Segoe UI, Arial, sans-serif" font-size="35" font-weight="700" fill="#ffffff">Tools For Scaling And Optimization</text>
+  <text x="54" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#c7d2e5">Recommended next-phase tools and why they were not used in the current local prototype</text>
+
+  <defs>
+    <filter id="shadow2" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#20304a" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="66" y="136" font-size="22" font-weight="700" fill="#172033">Can be added for scale</text>
+
+    <g transform="translate(66,160)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#1c7c54"/>
+      <text x="46" y="57" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">LC</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">LangChain</text>
+      <text x="92" y="70" font-size="13" fill="#526077">AI chains, agents, tools</text>
+    </g>
+
+    <g transform="translate(351,160)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#0f766e"/>
+      <text x="46" y="57" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">LI</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">LlamaIndex</text>
+      <text x="92" y="70" font-size="13" fill="#526077">Resume/JD retrieval</text>
+    </g>
+
+    <g transform="translate(636,160)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#b45309"/>
+      <text x="46" y="57" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">CQ</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">Celery Queue</text>
+      <text x="92" y="70" font-size="13" fill="#526077">Background workers</text>
+    </g>
+
+    <g transform="translate(921,160)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#dc2626"/>
+      <text x="46" y="57" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">RD</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">Redis</text>
+      <text x="92" y="70" font-size="13" fill="#526077">Cache and queue broker</text>
+    </g>
+
+    <g transform="translate(66,300)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#336791"/>
+      <text x="46" y="57" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">PG</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">PostgreSQL</text>
+      <text x="92" y="70" font-size="13" fill="#526077">Concurrent production DB</text>
+    </g>
+
+    <g transform="translate(351,300)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#2496ed"/>
+      <text x="46" y="57" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">DK</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">Docker</text>
+      <text x="92" y="70" font-size="13" fill="#526077">Repeatable deployment</text>
+    </g>
+
+    <g transform="translate(636,300)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#009688"/>
+      <text x="46" y="57" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">FA</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">FastAPI</text>
+      <text x="92" y="70" font-size="13" fill="#526077">Service/API layer</text>
+    </g>
+
+    <g transform="translate(921,300)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#45ba63"/>
+      <text x="46" y="57" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">PW</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">Playwright</text>
+      <text x="92" y="70" font-size="13" fill="#526077">Stable browser tracing</text>
+    </g>
+
+    <g transform="translate(66,440)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#7c3aed"/>
+      <text x="46" y="57" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">VDB</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">Vector DB</text>
+      <text x="92" y="70" font-size="13" fill="#526077">Semantic job matching</text>
+    </g>
+
+    <g transform="translate(351,440)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#326ce5"/>
+      <text x="46" y="57" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">K8</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">Kubernetes</text>
+      <text x="92" y="70" font-size="13" fill="#526077">Orchestrate workers</text>
+    </g>
+
+    <g transform="translate(636,440)" filter="url(#shadow2)">
+      <rect width="255" height="108" rx="8" fill="#ffffff" stroke="#d8deea"/>
+      <rect x="18" y="22" width="56" height="56" rx="8" fill="#f97316"/>
+      <text x="46" y="57" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">OBS</text>
+      <text x="92" y="44" font-size="21" font-weight="700" fill="#172033">Monitoring</text>
+      <text x="92" y="70" font-size="13" fill="#526077">Sentry, Grafana, metrics</text>
+    </g>
+  </g>
+
+  <g transform="translate(921,440)" font-family="Segoe UI, Arial, sans-serif">
+    <rect width="255" height="188" rx="8" fill="#172033"/>
+    <text x="22" y="36" font-size="20" font-weight="700" fill="#ffffff">Why not used here?</text>
+    <text x="22" y="70" font-size="14" fill="#d7deeb">Single-user local prototype</text>
+    <text x="22" y="98" font-size="14" fill="#d7deeb">SQLite and files are enough</text>
+    <text x="22" y="126" font-size="14" fill="#d7deeb">Lower setup complexity</text>
+    <text x="22" y="154" font-size="14" fill="#d7deeb">Direct Selenium is simpler to debug</text>
+  </g>
+
+  <rect x="66" y="642" width="1110" height="38" rx="6" fill="#e9eef7"/>
+  <text x="621" y="666" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#526077">Recommended path: keep the current lightweight system for prototype evaluation, add these tools only when moving to multi-user or cloud deployment.</text>
+</svg>

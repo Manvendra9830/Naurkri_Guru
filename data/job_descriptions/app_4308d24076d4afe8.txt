@@ -1,0 +1,13 @@
+About the job
+Company Description
+ AVS INSOTECH PRIVATE LIMITED is a dynamic organization focused on delivering cutting-edge technological solutions to solve real-world challenges. Dedicated to innovation and excellence, the company fosters a growth-oriented environment where employees can thrive and contribute to meaningful projects. With a commitment to leveraging advanced technologies, AVS INSOTECH provides opportunities for professionals to develop and implement innovative solutions. The company is headquartered in Navi Mumbai and caters to a diverse range of industries and clients.
+ Role Description
+ This is a full-time, on-site role for an Artificial Intelligence Engineer at our Navi Mumbai office. The Artificial Intelligence Engineer will be responsible for designing, developing, and implementing AI-driven solutions. Key tasks include building and optimizing machine learning models, conducting research in artificial intelligence and machine learning techniques, and collaborating with cross-functional teams to integrate intelligent systems into software applications. Additionally, the role involves researching and developing algorithms for pattern recognition, and integrating natural language processing solutions into products.
+ Qualifications
+  Expertise in Pattern Recognition and Neural Networks
+Strong foundation in Computer Science and Software Development
+Proficiency in Natural Language Processing (NLP)
+Problem-solving skills and ability to collaborate with cross-functional teams
+Experience with AI frameworks such as TensorFlow, PyTorch, or similar
+Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, or related field
+Prior experience in AI/ML projects and tools is a plus

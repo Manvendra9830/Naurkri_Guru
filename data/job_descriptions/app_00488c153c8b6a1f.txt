@@ -1,0 +1,46 @@
+About the job
+Job description:
+**This opportunity is strictly for freshers or candidates with up to 1 year of experience only. Candidates with more than 1 year of experience will not be considered for this role.**
+Job Overview
+We are looking for a passionate and self-driven Fresher Python Developer who has a strong interest in AI, Agentic AI systems, LLM applications, and large-scale data processing. The ideal candidate should have good hands-on understanding of Python development along with exposure to frameworks and tools like LangChain, LangGraph, Vertex AI, and PySpark.
+This role is ideal for someone who enjoys solving real-world problems using AI and modern data technologies.
+Responsibilities
+Develop and maintain Python-based backend services and AI workflows
+Work on AI agents, RAG pipelines, and LLM-powered applications
+Build integrations using LangChain, LangGraph, and Vertex AI
+Process and transform large datasets using PySpark
+Work with APIs, vector databases, and cloud-based AI services
+Participate in system design discussions and technical brainstorming
+Debug, optimize, and improve application performance
+Collaborate with product, backend, and AI engineering teams
+Required Skills
+Good knowledge of Python programming
+Understanding of APIs, JSON, and REST services
+Basic understanding of AI/LLM concepts and AI agents
+Familiarity with LangChain, LangGraph, or similar AI orchestration frameworks
+Basic understanding of Google Vertex AI or cloud AI platforms
+Knowledge of data structures and problem-solving
+Understanding of databases like PostgreSQL/MySQL
+Good analytical and logical thinking skills
+Preferred Skills
+Knowledge of PySpark for large-scale data processing
+Understanding of RAG (Retrieval-Augmented Generation)
+Familiarity with vector databases like Pinecone or Weaviate
+Exposure to FastAPI or Flask
+Basic cloud knowledge (AWS/GCP)
+Knowledge of Git and version control
+Eligibility
+B.Tech / MCA / BCA / M.Tech or related technical degree
+Freshers or candidates with up to 1 year of experience can apply
+Good to Have
+Personal AI projects or GitHub contributions
+Experience working with LLM APIs
+Participation in hackathons or AI competitions
+Strong curiosity to learn emerging AI technologies
+What You’ll Learn
+Real-world AI product development
+Agentic AI architectures
+Enterprise-scale AI systems
+Cloud-native AI deployment
+Big data processing workflows
+Modern backend engineering practices

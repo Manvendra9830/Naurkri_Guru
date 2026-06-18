@@ -1,0 +1,47 @@
+About the job
+Summary
+
+At Apple, great ideas quickly have a way of becoming great products, services, and customer experiences. Bring passion and dedication to your job and there's no telling what you could accomplish here.
+
+Do you want to be part of a team that builds cutting edge software service, a team that is continually innovating and is proud of making a difference? If so, bring your passion and talent and come join us to be part of something big and amazing.
+
+Apple's IS&T team is looking for highly motivated and talented engineers to build the next generation of software services that powers several mission critical applications.
+
+Description
+
+Build QE test plans, strategies and cases for any given app/feature
+
+Collaborate with Dev, BPR and other project teams to execute test plans and deliver high quality products
+
+Automation, performance and code quality testing using tools like Playwright, Selenium WebDriver, Cucumber- JVM, REST API, Appium, Postman, SOAPUI, JMeter, Jenkins, Sonarqube.
+
+Experience of using GenAI models for coding and other tasks.
+
+Perform functional, system, integration and exploratory testing.
+
+Self-motivated, self-driven, able to grasp issues quickly and make educated, critical judgment in the situations of ambiguity and work through the constraints.
+
+Provide project managers with timely and accurate testing status and progress during all testing phases, summarising results at project conclusion.
+
+Able to multi-task in a dynamic, fast-paced environment in Agile method to deliver high-quality work.
+
+Demonstrate excellent verbal and written communication skills.
+
+Minimum Qualifications
+
+1 to 2 years of combined work experience in Software Development Engineer in Test/Quality Engineering
+Experience working with Java, JavaScript, TypeScript programming languages
+Exposure to automation, performance, software quality testing tools and CI/CD integrations
+Experience in developing test strategies, scenarios and cases for UI(Web and Mobile apps), API/Web Services, DB workflows etc
+Exposure to GenAI solutions and AI models
+Excellent written and verbal communication skills
+Bachelor’s degree or foreign equivalent in Computer Science, Computer Engineering, Information Technology or related field
+
+Preferred Qualifications
+
+Experience in functional, system, integration and exploratory testing
+Expertise in QE processes, tools and metrics
+Good knowledge of automation framework architecture, design and development
+Experience working in Agile development environment
+Proven track record to deliver high-quality work on tight schedules
+Ability to work in a fast-paced environment with frequent context switching

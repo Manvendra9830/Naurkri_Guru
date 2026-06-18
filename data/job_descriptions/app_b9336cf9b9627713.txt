@@ -1,0 +1,37 @@
+About the job
+Position
+
+AI/ML Engineer
+
+Industry Type
+
+IT Services
+
+Experience
+
+1+ Years
+
+Salary
+
+As per industry standard
+
+Job Location
+
+Ahmedabad
+
+Job Description
+
+Technource is hiring a skilled AI/ML Engineer to build and deploy advanced machine learning and deep learning solutions across real-world systems. The ideal candidate will have hands-on experience with the full model lifecycle, be capable of working on face and object recognition, and integrate models into high-performance, real-time applications.
+
+Describe Skill and Experience
+
+Design, develop, and deploy ML/DL models for classification, regression, clustering, recommendation, and real-time applications.
+Manage end-to-end model lifecycle: data preparation, preprocessing, augmentation, training, validation, deployment, and monitoring.
+Build and optimize RAG-based architectures by integrating LLMs (e.g., GPT, LLaMA) with vector databases and external data sources.
+Develop and deploy accurate face recognition systems (e.g., FaceNet, ArcFace) and object detection with liveness detection.
+Prepare custom datasets, apply data augmentation, and validate models for robustness and accuracy.
+Deploy models using REST APIs, Docker, Kubernetes, and MLOps tools for scalable, production-grade solutions.
+Ensure real-time performance of AI models in production systems, including edge deployment when required.
+Strong skills in Python, OpenCV, NumPy, and either PyTorch or TensorFlow.
+Excellent debugging, optimization, and problem-solving skills on real-world datasets.
+Familiarity with model optimization techniques and performance scaling is a plus.

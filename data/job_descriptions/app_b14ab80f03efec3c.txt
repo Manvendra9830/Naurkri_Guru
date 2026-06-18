@@ -1,0 +1,17 @@
+About the job
+We are on the hunt for AI/ML Engineer who harbors a deep-seated passion for artificial intelligence. Do you love solving problems with a unique blend of creative flair and meticulous attention to detail? You'll be a critical contributor in the creation of cutting-edge AI models, hone their performance to perfection, and masterfully translate complex theoretical constructs into robust, production-caliber innovations.
+
+Key Responsibilities
+
+ Help craft, refine, troubleshoot, and launch sophisticated predictive models, deep learning algorithms, and machine learning frameworks.
+ Unravel the intricate web of ML algorithms, their structures, features, and any pesky bugs, identifying root causes and design intelligent solutions.
+ Delve into the depths of data to distill root issues, craft detailed reports, and detect recurring problem patterns through sharp analysis.
+ Design and develop a large language model (LLM) use case, ensuring it is equipped with adequate guardrails and leverages advanced LLM Operation techniques to guarantee a high-quality output upon productionization.
+ Train and retrain systems as needed, incorporating adaptability and foresight into the continuous improvement process.
+ Conduct thorough literature reviews, staying at the forefront of the latest developments in the specified research areas.
+ Analyze and interpret research findings and use the learnings to design and build AI models and algorithms.
+ Engage proactively in regular team meetings to share progress, address challenges, and brainstorm potential improvements.
+
+
+Desired Skills and Experience
+Default, AI/ ML

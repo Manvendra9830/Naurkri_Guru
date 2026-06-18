@@ -1,0 +1,37 @@
+About the job
+Job Description:
+We are looking for a skilled back-end developer with 0-6 years of experience to contribute to the development of robust, efficient, and scalable server-side solutions. The ideal candidate will play a pivotal role in shaping our back-end architecture, collaborating with our front-end developers, and ensuring the performance and reliability of our applications.
+
+Key Responsibilities:
+Design, develop, and maintain server-side logic for high-performance web applications.
+Collaborate with front-end developers to integrate user-facing elements with server-side logic.
+Optimize applications for maximum speed and scalability.
+Implement data security and protection measures.
+Troubleshoot and debug issues that arise during development and testing.
+Build reusable code and libraries for future use.
+Stay up to date with the latest industry trends, best practices, and emerging technologies.
+Work closely with cross-functional teams to understand and address business needs.
+
+Qualifications:
+Bachelor’s degree in computer science, Software Engineering, or a related field (or equivalent work experience).
+0-6 years of experience in back-end web development
+Proficiency in one or more server-side programming languages (e.g., Python, Java, Node.js, .NET)
+Experience with databases and data modelling (SQL and/or NoSQL databases)
+Familiarity with RESTful API design and development
+Strong understanding of server-side architecture and microservices.
+Knowledge of version control systems (e.g., Git)
+Strong problem-solving skills and attention to detail
+Strong communication and collaboration skills.
+Ability to work independently and as part of a team.
+
+Nice-to-Have Skills:
+Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)
+Knowledge of containerization and orchestration technologies (e.g., Docker, Kubernetes)
+Security best practices in web application development
+Performance optimization and scalability techniques
+Familiarity with message queuing systems (e.g., RabbitMQ, Kafka)
+Experience with DevOps practices and CI/CD pipelines
+
+
+
+BEYOUND is an equal opportunity employer and welcomes candidates of all backgrounds to apply. We look forward to hearing from you!

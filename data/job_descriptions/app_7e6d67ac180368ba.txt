@@ -1,0 +1,5 @@
+About the job
+Data Scientists design and implement data analysis processes to derive actionable insights. Duties include building statistical models, analyzing large datasets, and presenting findings to stakeholders. You will collaborate with other data professionals to solve complex problems and improve business outcomes. Proficiency in data science tools and techniques is essential.
+
+Desired Skills and Experience
+Attention To Consistency , Contract Management Processes , Internal Communications , Interpersonal Relationship Building , Leadership Capabilities , Legal Documentation , Machine Learning (Predictive & Prescriptive modelling), NLP, SQL, Python, MS Excel, and Visualization, Azure , Microsoft Office , Working under Pressure

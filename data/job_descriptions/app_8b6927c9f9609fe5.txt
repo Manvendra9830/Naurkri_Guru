@@ -1,0 +1,31 @@
+About the job
+About The Company
+
+PearlThoughts is a leading IT services and consulting firm dedicated to delivering innovative and reliable technology solutions across various industries, including education, healthcare, and service sectors. Our mission is to empower organizations by leveraging cutting-edge technology and fostering a collaborative environment that promotes continuous learning and professional growth. With a focus on quality, scalability, and client satisfaction, PearlThoughts has established a reputation for excellence in software development and IT consulting services. We believe in nurturing talent and providing opportunities for aspiring professionals to gain practical experience and develop their skills in a dynamic and supportive setting.
+
+About The Role
+
+We are seeking passionate and motivated Backend Developer Interns to join our remote team. This internship offers an excellent platform for individuals who are eager to kickstart their careers in web development, particularly in backend technologies. As a Backend Developer Intern, you will work closely with our experienced developers and cross-functional teams to contribute to real-world projects, enhance your technical skills, and gain valuable industry insights. This role is ideal for freshers or early-stage developers with up to six months of experience who are enthusiastic about building scalable backend systems and eager to learn new technologies in a collaborative environment.
+
+Qualifications
+
+The ideal candidate should possess a basic understanding of backend programming languages such as Node.js, Python, Java, or Ruby on Rails. Familiarity with RESTful API development, database management systems (SQL or NoSQL), and version control tools like Git or GitHub is essential. Candidates should demonstrate strong problem-solving abilities, a willingness to learn, and effective communication skills. A background in computer science, information technology, or related fields, along with recent graduation or final-year student status, is preferred. Prior hands-on coding experience or participation in projects will be considered an advantage, but a keen interest in backend development is the primary requirement.
+
+Responsibilities
+
+Assist in developing, testing, and maintaining server-side applications to ensure optimal performance and security.
+Work with APIs, databases, and backend logic to support web and mobile application functionalities.
+Collaborate with front-end developers, designers, and DevOps teams to deliver seamless and integrated solutions.
+Participate in code reviews, team discussions, and knowledge-sharing sessions to foster continuous learning.
+Troubleshoot, debug, and optimize backend components to improve system efficiency and reliability.
+
+Benefits
+
+Joining PearlThoughts as an intern provides valuable hands-on experience with live projects, allowing interns to apply theoretical knowledge in practical scenarios. Mentorship from experienced professionals offers insights into industry best practices and technical expertise. Successful interns may be considered for paid internships or full-time positions based on performance, providing a pathway for career advancement. The internship is fully remote, offering flexibility to balance work and personal commitments. Additionally, interns will receive an internship certificate upon successful completion, enhancing their professional portfolio and resume. This opportunity is designed to foster growth, learning, and professional development in a supportive environment.
+
+Equal Opportunity
+
+PearlThoughts is an equal opportunity employer. We value diversity and are committed to creating an inclusive environment for all team members. We do not discriminate based on race, gender, age, religion, sexual orientation, disability, or any other protected characteristic. Our goal is to provide a fair and equitable workplace where everyone has the opportunity to thrive, contribute, and succeed.
+
+Desired Skills and Experience
+Backend Development, API Development, Database Management, Version Control, Software Testing, Troubleshooting
